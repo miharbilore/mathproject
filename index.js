@@ -115,8 +115,13 @@ async function generateTest(unit, subtopic, testIndex, existingHashes = new Set(
       return false;
     }
     const invalidPath = getInvalidFilePath(filePath);
-    fs.renameSync(filePath, invalidPath);
-    console.warn(`⚠️ Invalid JSON found. Moved aside: ${path.basename(invalidPath)}`);
+    try {
+      fs.renameSync(filePath, invalidPath);
+      console.warn(`⚠️ Invalid JSON found. Moved aside: ${path.basename(invalidPath)}`);
+    } catch (error) {
+      console.error(`❌ Failed to move invalid JSON for ${fileName}: ${error.message}`);
+      return false;
+    }
   }
 
   let attempts = Math.max(3, keyPool.size() * 2);
