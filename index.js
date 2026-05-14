@@ -14,6 +14,10 @@ const {
   loadApiKeys,
   ApiKeyPool,
   validateTestPayload,
+  validateQuestionUniqueness,
+  writeJsonAtomic,
+  validateExistingTestFile,
+  collectExistingQuestionHashes,
   collectGaps
 } = require("./lib/shared");
 
@@ -38,7 +42,7 @@ function getGroqClient(apiKey) {
 }
 
 // --- GENERATION LOGIC ---
-async function generateTest(unit, subtopic, testIndex) {
+async function generateTest(unit, subtopic, testIndex, existingHashes = new Set()) {
   const meta = getTestMeta(testIndex);
   const spiceLabel = `${meta.type} (${meta.spice})`;
   
@@ -104,8 +108,14 @@ async function generateTest(unit, subtopic, testIndex) {
   const fileName = path.basename(filePath);
 
   if (fs.existsSync(filePath)) {
-    console.log(`⏩ Skipping existing: ${fileName}`);
-    return false;
+    const existingValidation = validateExistingTestFile(filePath);
+    if (existingValidation.ok) {
+      console.log(`⏩ Skipping existing: ${fileName}`);
+      return false;
+    }
+    const invalidPath = `${filePath}.invalid-${Date.now()}`;
+    fs.renameSync(filePath, invalidPath);
+    console.warn(`⚠️ Invalid JSON found. Moved aside: ${path.basename(invalidPath)}`);
   }
 
   let attempts = Math.max(3, keyPool.size() * 2);
@@ -133,8 +143,13 @@ async function generateTest(unit, subtopic, testIndex) {
       if (!validation.ok) {
         throw new Error(`Validation failed: ${validation.errors.join("; ")}`);
       }
+      const uniqueness = validateQuestionUniqueness(parsed, existingHashes);
+      if (!uniqueness.ok) {
+        throw new Error(`Uniqueness failed: ${uniqueness.errors.join("; ")}`);
+      }
 
-      fs.writeFileSync(filePath, JSON.stringify(parsed, null, 2));
+      writeJsonAtomic(filePath, parsed);
+      uniqueness.newHashes.forEach(hash => existingHashes.add(hash));
       console.log(`✅ Success! 10s delay...`);
       await delay(10000);
       return true;
@@ -174,8 +189,9 @@ async function run() {
       console.log(`\n📂 Processing UNIT: ${unit.name}`);
       for (const subtopic of unit.subtopics) {
         console.log(`\n🔹 Subtopic: ${subtopic.name}`);
+        const existingHashes = collectExistingQuestionHashes(unit.name, subtopic.name);
         for (let i = 1; i <= 12; i++) {
-          const generated = await generateTest(unit, subtopic, i);
+          const generated = await generateTest(unit, subtopic, i, existingHashes);
           if (generated) progress = true;
         }
       }

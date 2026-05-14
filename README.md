@@ -43,6 +43,8 @@ Not: `*_KEYS` alanları virgül ile çoklu anahtar eklemek içindir. İsterseniz
   `node generate-pdf.js`
 - **Eksik test raporu:**  
   `node check_gaps.js`
+- **JSON/PDF doğrulama raporu:**  
+  `node verify_outputs.js`
 - **Gemini model listesi:**  
   `node check-models.js`
 
@@ -61,6 +63,7 @@ Unit_*/<Subtopic>/pdf_files/*.pdf
 - Üretilen JSON’lar şema ve içerik kurallarına göre doğrulanır; hatalı JSON üretimi otomatik tekrar denenir.
 - API anahtarları için otomatik rotasyon yapılır; kota dolarsa anahtar soğumaya alınır ve diğer anahtarlar denenir.
 - Üretim döngüsü, tüm konular tamamlanana kadar tekrar eder; ilerleme sağlanamazsa kalan eksikler raporlanır.
+- Geçerli JSON’lar atomik yazılır; bozuk JSON’lar `.invalid-*` olarak kenara alınır.
 
 ## Aynı İşi Yapan / Benzer Dosyalar
 - `index.js` ve `fill_math_gaps.js`: Aynı müfredat okuma, seviye eşleme ve test üretim akışını iki farklı LLM sağlayıcısıyla yapıyor. Ortak modüle taşınabilir.
