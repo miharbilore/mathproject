@@ -1,0 +1,129 @@
+{
+  "unit": "\u1F4D6 Unit 8: Quadratics",
+   "topic": "Solving by Quadratic Formula (Discriminant)",
+   "test_type": "Foundation (Jalapeno)",
+   "questions": [
+     {
+       "id": 1,
+       "type": "MQ",
+       "question": "The equation $x^2 + 5x + 6 = 0$ has solutions of type",
+       "options": {
+         "A": "Two distinct real roots",
+         "B": "One repeated real root",
+         "C": "Two complex roots",
+         "D": "No real roots",
+         "E": "Cannot be determined"
+       },
+       "answer": "A"
+     },
+     {
+       "id": 2,
+       "type": "MQ",
+       "question": "For the equation $x^2 - 3x - 2 = 0$, the discriminant is",
+       "options": {
+         "A": "$1$",
+         "B": "$13$",
+         "C": "$17$",
+         "D": "$-9$",
+         "E": "$25$"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 3,
+       "type": "MQ",
+       "question": "The quadratic equation $x^2 - 4x + 4 = 0$ represents a",
+       "options": {
+         "A": "Parabola with two x-intercepts",
+         "B": "Parabola with one x-intercept",
+         "C": "Parabola with no x-intercepts",
+         "D": "Line",
+         "E": "Circle"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 4,
+       "type": "MQ",
+       "question": "A basketball player scores $x$ points in a game, where $x$ satisfies the equation $x^2 - 12x + 36 = 0$. How many points did the player score?",
+       "options": {
+         "A": "0 points",
+         "B": "6 points",
+         "C": "12 points",
+         "D": "18 points",
+         "E": "36 points"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 5,
+       "type": "MQ",
+       "question": "The equation $2x^2 + 5x - 3 = 0$ has solutions given by the quadratic formula as",
+       "options": {
+         "A": "$x = \\frac{-5 \\pm \\sqrt{73}}{4}$",
+         "B": "$x = \\frac{-5 \\pm \\sqrt{49}}{4}$",
+         "C": "$x = \\frac{-5 \\pm \\sqrt{25}}{4}$",
+         "D": "$x = \\frac{-5 \\pm \\sqrt{37}}{4}$",
+         "E": "$x = \\frac{-5 \\pm \\sqrt{61}}{4}$"
+       },
+       "answer": "A"
+     },
+     {
+       "id": 6,
+       "type": "MQ",
+       "question": "For the quadratic equation $x^2 + 2x + 5 = 0$, the discriminant is",
+       "options": {
+         "A": "$-16$",
+         "B": "$-4$",
+         "C": "$4$",
+         "D": "$16$",
+         "E": "$20$"
+       },
+       "answer": "A"
+     },
+     {
+       "id": 7,
+       "type": "MQ",
+       "question": "A cyclist travels $x$ miles in a day, where $x$ satisfies the equation $x^2 - 7x + 12 = 0$. How many miles did the cyclist travel?",
+       "options": {
+         "A": "3 miles",
+         "B": "4 miles",
+         "C": "5 miles",
+         "D": "7 miles",
+         "E": "12 miles"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 8,
+       "type": "MQ",
+       "question": "The quadratic equation $x^2 - 9x + 20 = 0$ can be solved using the quadratic formula to get",
+       "options": {
+         "A": "$x = \\frac{9 \\pm \\sqrt{19}}{2}$",
+         "B": "$x = \\frac{9 \\pm \\sqrt{49}}{2}$",
+         "C": "$x = \\frac{9 \\pm \\sqrt{39}}{2}$",
+         "D": "$x = \\frac{9 \\pm \\sqrt{29}}{2}$",
+         "E": "$x = \\frac{9 \\pm \\sqrt{41}}{2}$"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 9,
+       "type": "FRQ",
+       "question": "Solve the quadratic equation $x^2 + 4x + 4 = 0$ using the quadratic formula and determine the number and type of solutions.",
+       "required_space_lines": 5
+     },
+     {
+       "id": 10,
+       "type": "FRQ",
+       "question": "A golfer hits a ball that travels $x$ yards, where $x$ satisfies the equation $x^2 - 10x + 16 = 0$. Solve for $x$ and interpret the solutions in the context of the problem.",
+       "required_space_lines": 5
+     }
+   ],
+   "teacher_rules": [
+     "Read each question carefully before answering.",
+     "Use the quadratic formula to solve equations when necessary.",
+     "Check your work to ensure accuracy."
+   ],
+   "footer": "Chef's Tips"
+ }

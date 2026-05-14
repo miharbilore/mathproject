@@ -1,0 +1,129 @@
+{
+  "unit": "Unit 3: Functions",
+   "topic": "Operations with Functions",
+   "test_type": "Challenge (Habanero)",
+   "questions": [
+       { 
+           "id": 1, 
+           "type": "MQ", 
+           "question": "If $f(x) = x^2$ and $g(x) = 2x$, what is $(f+g)(x)$?", 
+           "options": { 
+               "A": "$x^2 + 2x$", 
+               "B": "$x^2 - 2x$", 
+               "C": "$2x^2$", 
+               "D": "$x^2 + x$", 
+               "E": "$2x^2 + x$"
+           }, 
+           "answer": "A" 
+       },
+       { 
+           "id": 2, 
+           "type": "MQ", 
+           "question": "What is the domain of $f(x) = \\frac{1}{x}$ and $g(x) = \\frac{1}{x-1}$ when combined as $(f \\cdot g)(x)$?", 
+           "options": { 
+               "A": "$x \\neq 0$", 
+               "B": "$x \\neq 1$", 
+               "C": "$x \\neq 0, x \\neq 1$", 
+               "D": "$x > 0$", 
+               "E": "$x < 0$"
+           }, 
+           "answer": "C" 
+       },
+       { 
+           "id": 3, 
+           "type": "MQ", 
+           "question": "If $f(x) = x + 1$ and $g(x) = x - 1$, what is $(f - g)(x)$?", 
+           "options": { 
+               "A": "$2$", 
+               "B": "$2x$", 
+               "C": "$x + 2$", 
+               "D": "$x - 2$", 
+               "E": "$2x + 1$"
+           }, 
+           "answer": "A" 
+       },
+       { 
+           "id": 4, 
+           "type": "MQ", 
+           "question": "Given $f(x) = x^2$ and $g(x) = x + 1$, simplify $(f \\cdot g)(x)$ to...", 
+           "options": { 
+               "A": "$x^3 + x^2$", 
+               "B": "$x^3 + x$", 
+               "C": "$x^2 + x$", 
+               "D": "$x^2 + 1$", 
+               "E": "$x^3 - x^2$"
+           }, 
+           "answer": "A" 
+       },
+       { 
+           "id": 5, 
+           "type": "MQ", 
+           "question": "What is the result of $(f + g)(x)$ if $f(x) = 2x$ and $g(x) = -x$", 
+           "options": { 
+               "A": "$x$", 
+               "B": "$2x$", 
+               "C": "$-x$", 
+               "D": "$3x$", 
+               "E": "$x^2$"
+           }, 
+           "answer": "C" 
+       },
+       { 
+           "id": 6, 
+           "type": "MQ", 
+           "question": "If $f(x) = \\frac{1}{x}$ and $g(x) = x$, what is $(f \\cdot g)(x)$?", 
+           "options": { 
+               "A": "$1$", 
+               "B": "$x$", 
+               "C": "$\\frac{1}{x}$", 
+               "D": "$x^2$", 
+               "E": "$\\frac{x}{x}$"
+           }, 
+           "answer": "A" 
+       },
+       { 
+           "id": 7, 
+           "type": "MQ", 
+           "question": "Determine the domain of $(f - g)(x)$ where $f(x) = x$ and $g(x) = \\frac{1}{x}$.", 
+           "options": { 
+               "A": "$x \\neq 0$", 
+               "B": "$x > 0$", 
+               "C": "$x < 0$", 
+               "D": "$x = 0$", 
+               "E": "$x \\neq 1$"
+           }, 
+           "answer": "A" 
+       },
+       { 
+           "id": 8, 
+           "type": "MQ", 
+           "question": "Given $f(x) = x^2 - 1$ and $g(x) = x + 1$, simplify $(f + g)(x)$ to...", 
+           "options": { 
+               "A": "$x^2 + x$", 
+               "B": "$x^2 + x + 1$", 
+               "C": "$x^2 - x - 1$", 
+               "D": "$x + 1$", 
+               "E": "$x^2 + 2x + 1$"
+           }, 
+           "answer": "B" 
+       },
+       { 
+           "id": 9, 
+           "type": "FRQ", 
+           "question": "Given two functions $f(x) = x^2$ and $g(x) = 2x - 1$, determine the expression and domain for $(f \\cdot g)(x)$. Show your work.", 
+           "required_space_lines": 5 
+       },
+       { 
+           "id": 10, 
+           "type": "FRQ", 
+           "question": "A game developer is creating a scoring system where $f(x) = x + 10$ represents points from completing a level and $g(x) = 2x$ represents points from collecting coins. Determine the combined score function $(f + g)(x)$ and its domain if $x$ cannot be negative.", 
+           "required_space_lines": 5 
+       }
+   ],
+   "teacher_rules": [
+       "Provide clear instructions for each question.",
+       "Ensure students understand the context of each problem.",
+       "Allow the use of calculators only for specific questions where it's explicitly stated."
+   ],
+   "footer": "Chef's Tips"
+}

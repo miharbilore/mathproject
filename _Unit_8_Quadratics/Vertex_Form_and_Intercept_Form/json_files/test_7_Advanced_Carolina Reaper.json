@@ -1,0 +1,129 @@
+{
+  "unit": "\u1F4D6 Unit 8: Quadratics",
+   "topic": "Vertex Form and Intercept Form",
+   "test_type": "Advanced (Carolina Reaper)",
+   "questions": [
+     {
+       "id": 1,
+       "type": "MQ",
+       "question": "The quadratic function $f(x) = x^2 + 4x + 4$ can be written in vertex form as",
+       "options": {
+         "A": "$f(x) = (x + 2)^2$",
+         "B": "$f(x) = (x - 2)^2$",
+         "C": "$f(x) = x^2 + 4x + 4$",
+         "D": "$f(x) = (x + 1)^2$",
+         "E": "$f(x) = (x - 1)^2$"
+       },
+       "answer": "A"
+     },
+     {
+       "id": 2,
+       "type": "MQ",
+       "question": "A water tank can hold $120$ gallons of water. Due to a leak, the tank is losing water at a rate of $2$ gallons per minute. The amount of water $W$ in the tank after $t$ minutes can be modeled by the quadratic function $W(t) = -2t^2 + 20t + 100$. Write this function in intercept form.",
+       "options": {
+         "A": "$W(t) = -(t - 10)(t - 5)$",
+         "B": "$W(t) = -(t - 10)(t + 5)$",
+         "C": "$W(t) = (t - 10)(t - 5)$",
+         "D": "$W(t) = (t + 10)(t + 5)$",
+         "E": "$W(t) = -(t + 10)(t - 5)$"
+       },
+       "answer": "A"
+     },
+     {
+       "id": 3,
+       "type": "MQ",
+       "question": "The vertex form of a quadratic function is $f(x) = (x - 3)^2 + 2$. What is the $y$-intercept of this function?",
+       "options": {
+         "A": "$y = -7$",
+         "B": "$y = -5$",
+         "C": "$y = 2$",
+         "D": "$y = 5$",
+         "E": "$y = 11$"
+       },
+       "answer": "E"
+     },
+     {
+       "id": 4,
+       "type": "MQ",
+       "question": "A quadratic function has an axis of symmetry at $x = 2$ and passes through the point $(4, 0)$. Write this function in vertex form.",
+       "options": {
+         "A": "$f(x) = (x - 2)^2$",
+         "B": "$f(x) = -(x - 2)^2$",
+         "C": "$f(x) = (x - 2)^2 + 4$",
+         "D": "$f(x) = -(x - 2)^2 + 4$",
+         "E": "$f(x) = (x + 2)^2$"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 5,
+       "type": "MQ",
+       "question": "A store is having a sale on a certain item. The original price is $$20$, but it is being discounted by $$2$ each day. The price $P$ after $t$ days can be modeled by the quadratic function $P(t) = -2t^2 + 20t + 20$. What is the vertex of this function?",
+       "options": {
+         "A": "$(0, 20)$",
+         "B": "$(5, 10)$",
+         "C": "$(10, 0)$",
+         "D": "$(5, 0)$",
+         "E": "$(0, 0)$"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 6,
+       "type": "MQ",
+       "question": "A quadratic function has $x$-intercepts at $x = -3$ and $x = 5$. Write this function in intercept form.",
+       "options": {
+         "A": "$f(x) = (x + 3)(x + 5)$",
+         "B": "$f(x) = (x + 3)(x - 5)$",
+         "C": "$f(x) = -(x + 3)(x + 5)$",
+         "D": "$f(x) = (x - 3)(x - 5)$",
+         "E": "$f(x) = -(x - 3)(x - 5)$"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 7,
+       "type": "MQ",
+       "question": "A ball is thrown from the top of a building. The height $h$ of the ball after $t$ seconds is given by the quadratic function $h(t) = -4t^2 + 20t + 10$. What is the maximum height of the ball?",
+       "options": {
+         "A": "$20$ feet",
+         "B": "$25$ feet",
+         "C": "$30$ feet",
+         "D": "$35$ feet",
+         "E": "$40$ feet"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 8,
+       "type": "MQ",
+       "question": "The quadratic function $f(x) = x^2 - 6x + 8$ can be written in vertex form as",
+       "options": {
+         "A": "$f(x) = (x - 3)^2 - 1$",
+         "B": "$f(x) = (x - 3)^2 + 1$",
+         "C": "$f(x) = (x + 3)^2 - 1$",
+         "D": "$f(x) = (x - 2)^2 - 4$",
+         "E": "$f(x) = (x + 2)^2 - 4$"
+       },
+       "answer": "A"
+     },
+     {
+       "id": 9,
+       "type": "FRQ",
+       "question": "A company produces a product with a cost function $C(x) = 2x^2 + 10x + 50$, where $x$ is the number of units produced. Write this function in vertex form and find the minimum cost.",
+       "required_space_lines": 5
+     },
+     {
+       "id": 10,
+       "type": "FRQ",
+       "question": "A water park has a wave pool with a depth function $d(x) = -x^2 + 10x + 5$, where $x$ is the distance from the edge of the pool. Write this function in intercept form and find the maximum depth of the pool.",
+       "required_space_lines": 5
+     }
+   ],
+   "teacher_rules": [
+     "Read each question carefully before answering.",
+     "Use the provided space for calculations and notes.",
+     "Show all work for free response questions."
+   ],
+   "footer": "Chef's Tips"
+}

@@ -1,0 +1,129 @@
+{
+  "unit": "\u1F4D6 Unit 7: Factoring",
+   "topic": "Expanding Special Patterns & Perfect Square Trinomial",
+   "test_type": "Foundation (Jalapeno)",
+   "questions": [
+     { 
+       "id": 1, 
+       "type": "MQ", 
+       "question": "What is the expansion of $(a+b)^2$?", 
+       "options": { 
+         "A": "$a^2 + 2ab + b^2$", 
+         "B": "$a^2 - 2ab + b^2$", 
+         "C": "$a^2 + ab + b^2$", 
+         "D": "$a^2 - ab + b^2$", 
+         "E": "$a^2 + b^2$"
+        }, 
+       "answer": "A" 
+     },
+     { 
+       "id": 2, 
+       "type": "MQ", 
+       "question": "What is the factored form of $x^2 + 12x + 36$?", 
+       "options": { 
+         "A": "$(x+6)^2$", 
+         "B": "$(x-6)^2$", 
+         "C": "$(x+6)(x-6)$", 
+         "D": "$(x+3)(x+12)$", 
+         "E": "$(x-3)(x-12)$"
+        }, 
+       "answer": "A" 
+     },
+     { 
+       "id": 3, 
+       "type": "MQ", 
+       "question": "A basketball player scored $x$ points in the first half and $x+12$ points in the second half. What is the expansion of $(x+x+12)$?", 
+       "options": { 
+         "A": "$2x+12$", 
+         "B": "$2x-12$", 
+         "C": "$x+12$", 
+         "D": "$x-12$", 
+         "E": "$x^2+12$"
+        }, 
+       "answer": "A" 
+     },
+     { 
+       "id": 4, 
+       "type": "MQ", 
+       "question": "What is the value of $a$ in the perfect square trinomial $a^2 + 20a + 100$?", 
+       "options": { 
+         "A": "10", 
+         "B": "20", 
+         "C": "5", 
+         "D": "4", 
+         "E": "1"
+        }, 
+       "answer": "A" 
+     },
+     { 
+       "id": 5, 
+       "type": "MQ", 
+       "question": "A soccer player kicks the ball $x$ meters in the first half and $(x+5)$ meters in the second half. What is the expansion of $(x+x+5)$?", 
+       "options": { 
+         "A": "$2x+5$", 
+         "B": "$2x-5$", 
+         "C": "$x+5$", 
+         "D": "$x-5$", 
+         "E": "$x^2+5$"
+        }, 
+       "answer": "A" 
+     },
+     { 
+       "id": 6, 
+       "type": "MQ", 
+       "question": "What is the factored form of $x^2 - 16x + 64$?", 
+       "options": { 
+         "A": "$(x-8)^2$", 
+         "B": "$(x+8)^2$", 
+         "C": "$(x-8)(x+8)$", 
+         "D": "$(x-4)(x-16)$", 
+         "E": "$(x+4)(x+16)$"
+        }, 
+       "answer": "A" 
+     },
+     { 
+       "id": 7, 
+       "type": "MQ", 
+       "question": "A cyclist rides $x$ kilometers in the first hour and $(x-4)$ kilometers in the second hour. What is the expansion of $(x+x-4)$?", 
+       "options": { 
+         "A": "$2x-4$", 
+         "B": "$2x+4$", 
+         "C": "$x-4$", 
+         "D": "$x+4$", 
+         "E": "$x^2-4$"
+        }, 
+       "answer": "A" 
+     },
+     { 
+       "id": 8, 
+       "type": "MQ", 
+       "question": "What is the expansion of $(x-5)^2$?", 
+       "options": { 
+         "A": "$x^2 - 10x + 25$", 
+         "B": "$x^2 + 10x + 25$", 
+         "C": "$x^2 - 10x - 25$", 
+         "D": "$x^2 + 10x - 25$", 
+         "E": "$x^2 + 25$"
+        }, 
+       "answer": "A" 
+     },
+     { 
+       "id": 9, 
+       "type": "FRQ", 
+       "question": "A tennis player hits $x$ aces in the first set and $(x+8)$ aces in the second set. What is the expansion of $(x+x+8)$? Show your work and provide the final answer.", 
+       "required_space_lines": 5
+     },
+     { 
+       "id": 10, 
+       "type": "FRQ", 
+       "question": "Factor the perfect square trinomial $x^2 + 18x + 81$. Show your work and provide the final answer.", 
+       "required_space_lines": 5
+     }
+   ],
+   "teacher_rules": [
+     "Tip 1: Emphasize the importance of factoring perfect square trinomials in real-world applications.",
+     "Tip 2: Provide additional practice problems for students who need extra support.",
+     "Tip 3: Consider using graphing calculators to visualize the factoring process."
+   ],
+   "footer": "Chef's Tips"
+}

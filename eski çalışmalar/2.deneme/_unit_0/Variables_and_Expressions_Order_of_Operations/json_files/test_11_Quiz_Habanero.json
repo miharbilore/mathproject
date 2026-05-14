@@ -1,0 +1,129 @@
+{
+  "unit": "Unit 0: Foundations of Algebra",
+   "topic": "Variables and Expressions / Order of Operations",
+   "test_type": "Quiz (Habanero)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "Evaluate the expression $3 \\cdot 2 + 11 - 4$.",
+           "options": {
+               "A": "14",
+               "B": "15",
+               "C": "16",
+               "D": "17",
+               "E": "18"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "What is the value of $x$ in the expression $x + 5 = 11$?",
+           "options": {
+               "A": "5",
+               "B": "6",
+               "C": "7",
+               "D": "8",
+               "E": "9"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "The temperature in a city is given by $T = 2h - 5$, where $h$ is the number of hours since midnight. Find $T$ when $h = 4$.",
+           "options": {
+               "A": "3",
+               "B": "-1",
+               "C": "3",
+               "D": "5",
+               "E": "-3"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "The rainfall in a region is given by $R = 0.5x + 2$, where $x$ is the number of days. Find $R$ when $x = 6$.",
+           "options": {
+               "A": "4",
+               "B": "5",
+               "C": "6",
+               "D": "7",
+               "E": "8"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "Simplify the expression $2(x + 3) + x - 1$.",
+           "options": {
+               "A": "$2x + 5$",
+               "B": "$3x + 6$",
+               "C": "$3x + 5$",
+               "D": "$2x + 6$",
+               "E": "$x + 5$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "The cost of removing pollutants from a lake is given by $C = 200 + 50x$, where $x$ is the number of days. Find $C$ when $x = 3$.",
+           "options": {
+               "A": "350",
+               "B": "400",
+               "C": "500",
+               "D": "550",
+               "E": "600"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "The population of a species is given by $P = 100 + 20t - 5t^2$, where $t$ is the number of years. Find $P$ when $t = 2$.",
+           "options": {
+               "A": "100",
+               "B": "120",
+               "C": "140",
+               "D": "160",
+               "E": "180"
+           },
+           "answer": "D"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "Evaluate the expression $(2 + 3) \\cdot (4 - 1)$.",
+           "options": {
+               "A": "10",
+               "B": "12",
+               "C": "14",
+               "D": "16",
+               "E": "18"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "A water tank can hold $1000$ liters of water. The water level in the tank is given by $L = 2t + 50$, where $t$ is the number of hours since the tank was filled. Find the time $t$ when the tank is half full.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "The temperature in a city is given by $T = 5x - 2$, where $x$ is the number of hours since midnight. Find the expression for the temperature $T$ when it is $3$ hours ahead.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Always check the units of the answer.",
+       "Read the question carefully before answering.",
+       "Use the correct order of operations."
+   ],
+   "footer": "Chef's Tips"
+}

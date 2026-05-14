@@ -1,0 +1,23 @@
+{
+  "unit": "\u1F4D6 Unit 6: Systems of Linear Equations and Inequalities",
+   "topic": "Linear Inequalities with Two Variables",
+   "test_type": "Foundation (Jalapeno)",
+   "questions": [
+     { "id": 1, "type": "MQ", "question": "What is the graph of $y > 2x - 3$?", "options": {"A": "Solid line", "B": "Dashed line", "C": "No boundary line", "D": "Circle", "E": "Parabola"}, "answer": "B" },
+     { "id": 2, "type": "MQ", "question": "The inequality $x + 2y leq 5$ has a", "options": {"A": "Solid boundary line", "B": "Dashed boundary line", "C": "No boundary line", "D": "Vertical boundary line", "E": "Horizontal boundary line"}, "answer": "A" },
+     { "id": 3, "type": "MQ", "question": "A football player scores $x$ points in a game and $y$ points in the next game. If $x + y > 10$, what is the solution region?", "options": {"A": "Upper half-plane", "B": "Lower half-plane", "C": "Left half-plane", "D": "Right half-plane", "E": "None of these"}, "answer": "A" },
+     { "id": 4, "type": "MQ", "question": "The inequality $y < -x + 1$ represents a", "options": {"A": "Line through the origin", "B": "Line with a $y$-intercept of $1$", "C": "Line with a slope of $1$", "D": "Line with a slope of $-1$", "E": "Vertical line"}, "answer": "B" },
+     { "id": 5, "type": "MQ", "question": "Which of the following inequalities represents the region below the line $y = x - 2$?", "options": {"A": "$y leq x - 2$", "B": "$y geq x - 2$", "C": "$y < x - 2$", "D": "$y > x - 2$", "E": "$y = x - 2$"}, "answer": "C" },
+     { "id": 6, "type": "MQ", "question": "A basketball player has a free throw percentage of $x%$ and a field goal percentage of $y%$. If $x + y > 80$, what type of line is the boundary?", "options": {"A": "Dashed line", "B": "Solid line", "C": "Vertical line", "D": "Horizontal line", "E": "No boundary line"}, "answer": "B" },
+     { "id": 7, "type": "MQ", "question": "Which inequality represents the region to the right of the line $x = -3$?", "options": {"A": "$x > -3$", "B": "$x geq -3$", "C": "$x < -3$", "D": "$x leq -3$", "E": "$x = -3$"}, "answer": "A" },
+     { "id": 8, "type": "MQ", "question": "A cyclist travels $x$ miles in the first hour and $y$ miles in the second hour. If $x + y geq 20$, what type of boundary line is represented?", "options": {"A": "Dashed line", "B": "Solid line", "C": "No boundary line", "D": "Vertical line", "E": "Horizontal line"}, "answer": "B" },
+     { "id": 9, "type": "FRQ", "question": "Graph the inequality $y > \frac{1}{2}x - 1$ and identify the solution region. Provide at least 3 test points to verify your solution.", "required_space_lines": 5 },
+     { "id": 10, "type": "FRQ", "question": "A gymnast's score $y$ is determined by the equation $y leq 3x + 2$, where $x$ is the level of difficulty. Graph this inequality and find the solution region. What is the lowest possible score a gymnast can achieve if the level of difficulty is $x = 2$?", "required_space_lines": 5 }
+   ],
+   "teacher_rules": [
+     "Tip 1: Emphasize the importance of dashed and solid boundary lines.",
+     "Tip 2: Use real-world examples to illustrate the concept of linear inequalities.",
+     "Tip 3: Encourage students to use graph paper when solving problems."
+   ],
+   "footer": "Chef's Tips"
+}

@@ -1,0 +1,129 @@
+{
+  "unit": "Unit 3: Functions",
+   "topic": "Composite Functions",
+   "test_type": "Quiz (Habanero)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "Given $f(x) = x^2$ and $g(x) = 2x + 1$, evaluate $(f circ g)(x)$ at $x = 2$.",
+           "options": {
+               "A": "$9$",
+               "B": "$25$",
+               "C": "$15$",
+               "D": "$12$",
+               "E": "$20$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "If $h(x) = x^3$ and $j(x) = sqrt[3]{x}$, determine the domain of $(h circ j)(x)$.",
+           "options": {
+               "A": "$(-infty, infty)$",
+               "B": "$(-infty, 0)$",
+               "C": "$[0, infty)$",
+               "D": "$[1, infty)$",
+               "E": "$(-1, 1)$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "In an ecosystem, the population $P$ of a species is affected by the temperature $T$. Suppose $P(T) = 2T + 5$ and $T(x) = 3x - 2$, where $x$ is the distance from a heat source. Evaluate $(P circ T)(x)$ at $x = 3$.",
+           "options": {
+               "A": "$16$",
+               "B": "$19$",
+               "C": "$23$",
+               "D": "$29$",
+               "E": "$25$"
+           },
+           "answer": "D"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "Given $f(x) = x - 2$ and $g(x) = \frac{1}{x}$, determine the domain of $(f circ g)(x)$.",
+           "options": {
+               "A": "$(-infty, 0) cup (0, infty)$",
+               "B": "$(-infty, 0)$",
+               "C": "$(-infty, -1)$",
+               "D": "$(-1, 1)$",
+               "E": "$[1, infty)$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "Suppose $f(x) = x^2 - 1$ and $g(x) = 3x + 2$. Evaluate $(g circ f)(x)$ at $x = -1$.",
+           "options": {
+               "A": "$0$",
+               "B": "$2$",
+               "C": "$4$",
+               "D": "$6$",
+       "E": "$8$"
+       },
+           "answer": "C"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "The rainfall $R$ in an area is modeled by $R(x) = x^2 + x$, where $x$ is the wind velocity. If $x = 2v - 1$, where $v$ is the temperature, evaluate $(R circ x)(v)$ at $v = 2$.",
+           "options": {
+               "A": "$15$",
+       "B": "$20$",
+       "C": "$25$",
+       "D": "$12$",
+       "E": "$30$"
+       },
+           "answer": "B"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "If $h(x) = 2x + 1$ and $j(x) = x^2 - 4$, determine $(h circ j)(x)$.",
+           "options": {
+       "A": "$2x^2 - 7$",
+       "B": "$2x^2 + 1$",
+       "C": "$2x^2 - 3$",
+       "D": "$x^2 - 6$",
+       "E": "$x^2 + 6$"
+       },
+           "answer": "A"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "Given $f(x) = sqrt{x}$ and $g(x) = x^2 - 2$, determine the domain of $(f circ g)(x)$.",
+           "options": {
+       "A": "$(-infty, -1)$",
+       "B": "$(-1, 1)$",
+       "C": "$[2, infty)$",
+       "D": "$[1, infty)$",
+       "E": "$[-1, infty)$"
+       },
+           "answer": "C"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "The temperature $T$ in a region is given by $T(x) = x^2 - 4$, where $x$ is the distance from a heat source. Suppose $x = 2s + 1$, where $s$ is the time in hours. Evaluate $(T circ x)(s)$ at $s = 2$. Show all steps and explain your reasoning.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "In an ecosystem, the population $P$ of a species is affected by the rainfall $R$. Suppose $P(R) = 2R + 1$ and $R(x) = x^2$, where $x$ is the temperature. Determine $(P circ R)(x)$ and explain its significance in the context of the ecosystem. Provide examples.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Read each question carefully",
+       "Check for domain restrictions",
+       "Label all diagrams and graphs"
+   ],
+   "footer_title": "Chef's Tips"
+}

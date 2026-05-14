@@ -1,0 +1,150 @@
+{
+  "test_id": 8,
+   "test_type": "Classwork",
+   "topic": "Variables and Expressions / Order of Operations",
+   "questions": [
+     {
+       "id": 1,
+       "type": "MQ",
+       "question": "What is the variable in the expression $2x + 3$?",
+       "options": { 
+         "A": "2", 
+         "B": "3", 
+         "C": "x", 
+         "D": "2x", 
+         "E": "3x" 
+       },
+       "answer": "C",
+       "spicy_level": "",
+       "required_space_lines": 0
+     },
+     {
+       "id": 2,
+       "type": "MQ",
+       "question": "Identify the coefficient in the term $4y$",
+       "options": { 
+         "A": "y", 
+         "B": "4", 
+         "C": "4y", 
+         "D": "1", 
+         "E": "0" 
+       },
+       "answer": "B",
+       "spicy_level": "",
+       "required_space_lines": 0
+     },
+     {
+       "id": 3,
+       "type": "MQ",
+       "question": "What operation is represented by the symbol $+$ in $2 + 5$?",
+       "options": { 
+         "A": "Subtraction", 
+         "B": "Addition", 
+         "C": "Multiplication", 
+         "D": "Division", 
+         "E": "Exponentiation" 
+       },
+       "answer": "B",
+       "spicy_level": "",
+       "required_space_lines": 0
+     },
+     {
+       "id": 4,
+       "type": "MQ",
+       "question": "In the expression $3 cdot 2$, what is the operation being performed?",
+       "options": { 
+         "A": "Addition", 
+         "B": "Subtraction", 
+         "C": "Multiplication", 
+         "D": "Division", 
+         "E": "Exponentiation" 
+       },
+       "answer": "C",
+       "spicy_level": "",
+       "required_space_lines": 0
+     },
+     {
+       "id": 5,
+       "type": "MQ",
+       "question": "What is the constant term in $2x - 4$?",
+       "options": { 
+         "A": "2x", 
+         "B": "2", 
+         "C": "-4", 
+         "D": "x", 
+         "E": "0" 
+       },
+       "answer": "C",
+       "spicy_level": "",
+       "required_space_lines": 0
+     },
+     {
+       "id": 6,
+       "type": "MQ",
+       "question": "Identify the operator in the expression $7 - 2$",
+       "options": { 
+         "A": "+", 
+         "B": "-", 
+         "C": "$cdot$", 
+         "D": "$/$", 
+         "E": "$^$" 
+       },
+       "answer": "B",
+       "spicy_level": "",
+       "required_space_lines": 0
+     },
+     {
+       "id": 7,
+       "type": "MQ",
+       "question": "What is the term $5x$ an example of?",
+       "options": { 
+         "A": "Constant", 
+         "B": "Variable", 
+         "C": "Coefficient", 
+         "D": "Monomial", 
+         "E": "Polynomial" 
+       },
+       "answer": "D",
+       "spicy_level": "",
+       "required_space_lines": 0
+     },
+     {
+       "id": 8,
+       "type": "MQ",
+       "question": "In the expression $9 + 1$, what operation is being performed?",
+       "options": { 
+         "A": "Subtraction", 
+         "B": "Addition", 
+         "C": "Multiplication", 
+         "D": "Division", 
+         "E": "Exponentiation" 
+       },
+       "answer": "B",
+       "spicy_level": "",
+       "required_space_lines": 0
+     },
+     {
+       "id": 9,
+       "type": "FRQ",
+       "question": "Explain, using examples, the difference between a variable and a constant in an algebraic expression. Provide a simple expression that includes both.",
+       "options": {},
+       "answer": "Model Solution: A variable is a letter that represents a value that can change, such as $x$. A constant is a value that does not change, such as $5$. Example: $2x + 5$, where $x$ is a variable and $5$ is a constant.",
+       "spicy_level": "",
+       "required_space_lines": 5
+     },
+     {
+       "id": 10,
+       "type": "FRQ",
+       "question": "Draw a simple diagram to illustrate the concept of the order of operations. Use the expression $3 + 2 cdot 4$ as an example and explain how it should be evaluated step by step.",
+       "options": {},
+       "answer": "Model Solution: Evaluate expressions inside parentheses first, then exponents, then multiplication and division from left to right, and finally addition and subtraction from left to right. For $3 + 2 cdot 4$, first multiply $2 cdot 4 = 8$, then add $3 + 8 = 11$.",
+       "spicy_level": "",
+       "required_space_lines": 5
+     }
+   ],
+   "teacher_rules": [
+     "Ensure students understand the basic definitions of variables, constants, and coefficients before proceeding to more complex topics.",
+     "Use visual aids and simple examples to explain the order of operations to help students grasp the concept effectively.",
+     "Provide ample practice opportunities for students to identify and apply the order of operations in various expressions."
+   ]
+ }

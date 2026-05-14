@@ -1,0 +1,150 @@
+{
+  "test_id": 8,
+   "test_type": "Classwork",
+   "topic": "Variables and Expressions / Order of Operations",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "What is the variable in the expression $2x + 3$?",
+           "options": {
+               "A": "$2x$",
+               "B": "$3$",
+               "C": "$x$",
+               "D": "$2$",
+               "E": "$+$"
+           },
+           "answer": "C",
+           "spicy_level": "\u2705",
+           "required_space_lines": 0
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "Identify the constant term in the expression $4x - 2$.",
+           "options": {
+               "A": "$4x$",
+               "B": "$-$",
+               "C": "$-2$",
+               "D": "$4$",
+               "E": "$x$"
+           },
+           "answer": "C",
+           "spicy_level": "\u2705",
+           "required_space_lines": 0
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "What is the coefficient of $x$ in $5x$?",
+           "options": {
+               "A": "$x$",
+               "B": "$5$",
+               "C": "$5x$",
+               "D": "$1$",
+               "E": "$-$"
+           },
+           "answer": "B",
+           "spicy_level": "\u2705",
+           "required_space_lines": 0
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "Which symbol is the operator in the expression $7 \times 2$?",
+           "options": {
+               "A": "$7$",
+               "B": "$2$",
+               "C": "$\times$",
+               "D": "$=$",
+               "E": "$+$"
+           },
+           "answer": "C",
+           "spicy_level": "\u2705",
+           "required_space_lines": 0
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "Identify the expression that has a variable: $2 + 3$ or $2x + 3$.",
+           "options": {
+               "A": "$2 + 3$",
+               "B": "$2x + 3$",
+               "C": "Both",
+               "D": "Neither",
+               "E": "None"
+           },
+           "answer": "B",
+           "spicy_level": "\u2705",
+           "required_space_lines": 0
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "Which of the following is an example of a simple expression? $2x + 5$ or $2x + 5y$",
+           "options": {
+               "A": "$2x + 5$",
+               "B": "$2x + 5y$",
+               "C": "Both",
+               "D": "Neither",
+               "E": "None"
+           },
+           "answer": "A",
+           "spicy_level": "\u2705",
+           "required_space_lines": 0
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "What operation is represented by the $+$ symbol in $3 + 4$?",
+           "options": {
+               "A": "Subtraction",
+               "B": "Addition",
+               "C": "Multiplication",
+               "D": "Division",
+               "E": "Exponentiation"
+           },
+           "answer": "B",
+           "spicy_level": "\u2705",
+           "required_space_lines": 0
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "Which of the following expressions contains more than one operation? $2x$ or $2x + 3$",
+           "options": {
+               "A": "$2x$",
+               "B": "$2x + 3$",
+               "C": "Both",
+               "D": "Neither",
+               "E": "None"
+           },
+           "answer": "B",
+           "spicy_level": "\u2705",
+           "required_space_lines": 0
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "Draw a simple expression with one variable and one constant. Label the variable and the constant.",
+           "options": {},
+           "answer": "Model Solution: $2x + 1$, where $x$ is the variable and $1$ is the constant",
+           "spicy_level": "\u2705",
+           "required_space_lines": 3
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "Explain in your own words what the term 'variable' means in the context of algebra. Provide an example.",
+           "options": {},
+           "answer": "Model Solution: A variable is a letter that represents a value that can change. Example: In $2x + 3$, $x$ is the variable.",
+           "spicy_level": "\u2705",
+           "required_space_lines": 3
+       }
+   ],
+   "teacher_rules": [
+       "Ensure students understand the concept of variables and constants in expressions.",
+       "Emphasize the importance of the order of operations when evaluating expressions.",
+       "Use simple and clear language when explaining concepts to avoid confusion."
+   ]
+}

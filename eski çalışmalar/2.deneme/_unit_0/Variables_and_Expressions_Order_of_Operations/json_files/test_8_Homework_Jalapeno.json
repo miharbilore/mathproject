@@ -1,0 +1,129 @@
+{
+  "unit": "Unit 0: Foundations of Algebra",
+   "topic": "Variables and Expressions / Order of Operations",
+   "test_type": "Homework (Jalapeno)",
+   "questions": [
+      {
+         "id": 1,
+         "type": "MQ",
+         "question": "Evaluate the expression: $2 \\cdot 3 + 12 - 8$",
+         "options": {
+            "A": "10",
+            "B": "12",
+            "C": "14",
+            "D": "16",
+            "E": "18"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 2,
+         "type": "MQ",
+         "question": "Translate the phrase into an algebraic expression: '5 more than the product of 3 and x'",
+         "options": {
+            "A": "$3x + 5$",
+            "B": "$3x - 5$",
+            "C": "$5x + 3$",
+            "D": "$5x - 3$",
+            "E": "$3 + 5x$"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 3,
+         "type": "MQ",
+         "question": "Simplify the expression: $2x + 5x - 3x$",
+         "options": {
+            "A": "$4x$",
+            "B": "$6x$",
+            "C": "$8x$",
+            "D": "$10x$",
+            "E": "$12x$"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 4,
+         "type": "MQ",
+         "question": "Substitute x = 4 into the expression: $x^2 + 2x - 3$",
+         "options": {
+            "A": "13",
+            "B": "15",
+            "C": "17",
+            "D": "19",
+            "E": "21"
+         },
+         "answer": "C"
+      },
+      {
+         "id": 5,
+         "type": "MQ",
+         "question": "Evaluate the expression: $12 - 3 + 2 \\cdot 4$",
+         "options": {
+            "A": "13",
+            "B": "15",
+            "C": "17",
+            "D": "19",
+            "E": "21"
+         },
+         "answer": "C"
+      },
+      {
+         "id": 6,
+         "type": "MQ",
+         "question": "The ancient Egyptians used the expression $5x - 2$ to calculate the area of a rectangular field. If x = 6, what is the area?",
+         "options": {
+            "A": "28",
+            "B": "30",
+            "C": "32",
+            "D": "34",
+            "E": "36"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 7,
+         "type": "MQ",
+         "question": "The Babylonians used the expression $2x + 5$ to calculate the perimeter of a triangular field. If x = 3, what is the perimeter?",
+         "options": {
+            "A": "11",
+            "B": "13",
+            "C": "15",
+            "D": "17",
+            "E": "19"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 8,
+         "type": "MQ",
+         "question": "The ancient Greeks used the expression $x^2 + 2x - 6$ to calculate the volume of a cube. If x = 2, what is the volume?",
+         "options": {
+            "A": "0",
+            "B": "2",
+            "C": "4",
+            "D": "6",
+            "E": "8"
+         },
+         "answer": "C"
+      },
+      {
+         "id": 9,
+         "type": "FRQ",
+         "question": "Evaluate the expression: $3 \\cdot (2x + 1) - 2(x - 3)$, given x = 2",
+         "required_space_lines": 5
+      },
+      {
+         "id": 10,
+         "type": "FRQ",
+         "question": "Simplify the expression: $(x + 2)(x - 3)$, and then substitute x = 4",
+         "required_space_lines": 5
+      }
+   ],
+   "teacher_rules": [
+      "Remind students to use the correct order of operations",
+      "Encourage students to read the questions carefully",
+      "Allow students to use a calculator to check their answers"
+   ],
+   "footer": "Chef's Tips"
+}

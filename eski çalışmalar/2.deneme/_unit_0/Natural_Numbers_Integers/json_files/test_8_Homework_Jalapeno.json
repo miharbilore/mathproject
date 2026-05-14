@@ -1,0 +1,129 @@
+{
+  "unit": "Unit 0: Foundations of Algebra",
+   "topic": "Natural Numbers & Integers",
+   "test_type": "Homework (Jalapeno)",
+   "questions": [
+      {
+         "id": 1,
+         "type": "MQ",
+         "question": "The ancient Egyptians used $\\mathbb{N}$ to represent which set of numbers?",
+         "options": {
+            "A": "Whole numbers",
+            "B": "Integers",
+            "C": "Natural numbers",
+            "D": "Rational numbers",
+            "E": "Irrational numbers"
+         },
+         "answer": "C"
+      },
+      {
+         "id": 2,
+         "type": "MQ",
+         "question": "The number $5$ is classified as which type of number?",
+         "options": {
+            "A": "Even and whole",
+            "B": "Odd and natural",
+            "C": "Even and integer",
+            "D": "Odd and integer",
+            "E": "Even and rational"
+         },
+         "answer": "B"
+      },
+      {
+         "id": 3,
+         "type": "MQ",
+         "question": "The ancient Babylonians used a sexagesimal system that included which of the following numbers?",
+         "options": {
+            "A": "Only whole numbers",
+            "B": "Only integers",
+            "C": "Only natural numbers",
+            "D": "Whole numbers and fractions",
+            "E": "Integers and fractions"
+         },
+         "answer": "D"
+      },
+      {
+         "id": 4,
+         "type": "MQ",
+         "question": "The pattern $2, 5, 8, 11, 14, ...$ is an example of which type of sequence?",
+         "options": {
+            "A": "Arithmetic sequence",
+            "B": "Geometric sequence",
+            "C": "Fibonacci sequence",
+            "D": "Harmonic sequence",
+            "E": "Alternating sequence"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 5,
+         "type": "MQ",
+         "question": "The result of $(-3) + 5$ is which of the following?",
+         "options": {
+            "A": "$-8$",
+            "B": "$-2$",
+            "C": "$2$",
+            "D": "$8$",
+            "E": "$12$"
+         },
+         "answer": "C"
+      },
+      {
+         "id": 6,
+         "type": "MQ",
+         "question": "The ancient Greeks used $\\mathbb{Z}$ to represent which set of numbers?",
+         "options": {
+            "A": "Whole numbers",
+            "B": "Integers",
+            "C": "Natural numbers",
+            "D": "Rational numbers",
+            "E": "Irrational numbers"
+         },
+         "answer": "B"
+      },
+      {
+         "id": 7,
+         "type": "MQ",
+         "question": "The number $-2$ is classified as which type of number?",
+         "options": {
+            "A": "Even and whole",
+            "B": "Odd and natural",
+            "C": "Even and integer",
+            "D": "Odd and integer",
+            "E": "Even and rational"
+         },
+         "answer": "C"
+      },
+      {
+         "id": 8,
+         "type": "MQ",
+         "question": "The result of $(-2) \\cdot (-5)$ is which of the following?",
+         "options": {
+            "A": "$-10$",
+            "B": "$-4$",
+            "C": "$10$",
+            "D": "$4$",
+            "E": "$20$"
+         },
+         "answer": "C"
+      },
+      {
+         "id": 9,
+         "type": "FRQ",
+         "question": "The ancient Mayans used a vigesimal system to represent numbers. If a Mayan numeral represents the number $x$, and $x$ is a natural number, show that $x$ can be represented as $x = a_0 + a_1 \\cdot 20 + a_2 \\cdot 20^2 + ...$ where $a_i$ are digits in the Mayan system.",
+         "required_space_lines": 5
+      },
+      {
+         "id": 10,
+         "type": "FRQ",
+         "question": "A historian discovers an ancient scroll with a pattern of numbers $1, 4, 7, 10, 13, 16, ...$. If the pattern continues, what is the next number in the sequence? Show your work and explain your reasoning.",
+         "required_space_lines": 5
+      }
+   ],
+   "teacher_rules": [
+      "Tip 1: Allow students to use calculators for checkwork only.",
+      "Tip 2: Emphasize the importance of showing work for free-response questions.",
+      "Tip 3: Encourage students to use historical context to help solve problems."
+   ],
+   "footer": "Chef's Tips"
+}

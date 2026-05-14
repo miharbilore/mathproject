@@ -1,0 +1,129 @@
+{
+  "unit": "\u1F4D6 Unit 1: Ratio, Rate, Percentage",
+   "topic": "Percent",
+   "test_type": "Foundation (Jalapeno)",
+   "questions": [
+     {
+       "id": 1,
+       "type": "MQ",
+       "question": "A soccer player scored $15$ goals in a season. If this is $25%$ of the total goals scored by the team, how many goals did the team score?",
+       "options": {
+         "A": "40",
+         "B": "50",
+         "C": "60",
+         "D": "30",
+         "E": "20"
+       },
+       "answer": "C"
+     },
+     {
+       "id": 2,
+       "type": "MQ",
+       "question": "A basketball team won $80%$ of their games. If they played $25$ games, how many did they win?",
+       "options": {
+         "A": "15",
+         "B": "20",
+         "C": "18",
+         "D": "22",
+         "E": "25"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 3,
+       "type": "MQ",
+       "question": "A new running shoe is on sale for $20%$ off. If the original price was $$80$, how much will you pay?",
+       "options": {
+         "A": "$60",
+         "B": "$64",
+         "C": "$70",
+         "D": "$75",
+         "E": "$65"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 4,
+       "type": "MQ",
+       "question": "A gymnast's score increased from $8.5$ to $9.5$. What is the percentage increase?",
+       "options": {
+         "A": "5%$",
+         "B": "10%$",
+         "C": "11.76%$",
+         "D": "15%$",
+         "E": "20%$"
+       },
+       "answer": "C"
+     },
+     {
+       "id": 5,
+       "type": "MQ",
+       "question": "A baseball player's batting average is $0.350$. What percentage of times does the player get a hit?",
+       "options": {
+         "A": "30%$",
+         "B": "35%$",
+         "C": "40%$",
+         "D": "45%$",
+         "E": "50%$"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 6,
+       "type": "MQ",
+       "question": "A marathon runner finished a race in $3$ hours and $45$ minutes. If the winner finished in $3$ hours and $20$ minutes, what percentage of the winner's time did the runner finish in?",
+       "options": {
+         "A": "100%$",
+         "B": "105%$",
+         "C": "110%$",
+         "D": "115%$",
+         "E": "120%$"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 7,
+       "type": "MQ",
+       "question": "A cyclist traveled $120$ miles in $4$ hours. What percentage of the distance did the cyclist travel per hour?",
+       "options": {
+         "A": "20%$",
+         "B": "25%$",
+         "C": "30%$",
+         "D": "40%$",
+         "E": "50%$"
+       },
+       "answer": "C"
+     },
+     {
+       "id": 8,
+       "type": "MQ",
+       "question": "A swimmer's time in the $100$-meter dash decreased from $55$ seconds to $50$ seconds. What is the percentage decrease?",
+       "options": {
+         "A": "5%$",
+         "B": "8%$",
+         "C": "9.09%$",
+         "D": "10%$",
+         "E": "15%$"
+       },
+       "answer": "C"
+     },
+     {
+       "id": 9,
+       "type": "FRQ",
+       "question": "In a tennis tournament, a player won $75%$ of their matches. If they played $16$ matches, how many matches did they win? Show your work and calculate the number of matches won.",
+       "required_space_lines": 5
+     },
+     {
+       "id": 10,
+       "type": "FRQ",
+       "question": "A volleyball team scored $180$ points in a game. If $30%$ of the points came from serves, how many points came from serves? Calculate the number of points and show your work.",
+       "required_space_lines": 5
+     }
+   ],
+   "teacher_rules": [
+     "Read each question carefully",
+     "Use a calculator when necessary",
+     "Check your work"
+   ],
+   "footer": "Chef's Tips"
+ }

@@ -1,0 +1,129 @@
+{
+  "unit": "\u1F4D6 Unit 4: Absolute Value",
+   "topic": "Absolute Value Function and its Graph",
+   "test_type": "Quiz (Habanero)",
+   "questions": [
+      {
+         "id": 1,
+         "type": "MQ",
+         "question": "The graph of $y = |x - 2|$ has a vertex at",
+         "options": {
+            "A": "(0, 2)",
+            "B": "(2, 0)",
+            "C": "(2, 2)",
+            "D": "(0, 0)",
+            "E": "(1, 1)"
+         },
+         "answer": "B"
+      },
+      {
+         "id": 2,
+         "type": "MQ",
+         "question": "What is the axis of symmetry for the graph of $y = |x + 1|$?",
+         "options": {
+            "A": "$x = 0$",
+            "B": "$x = 1$",
+            "C": "$x = -1$",
+            "D": "$x = 2$",
+            "E": "$x = -2$"
+         },
+         "answer": "C"
+      },
+      {
+         "id": 3,
+         "type": "MQ",
+         "question": "The direction of opening for the graph of $y = |x|$ is",
+         "options": {
+            "A": "Up",
+            "B": "Down",
+            "C": "Left",
+            "D": "Right",
+            "E": "None"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 4,
+         "type": "MQ",
+         "question": "The graph of $y = 2|x - 3|$ has a vertex at",
+         "options": {
+            "A": "(3, 0)",
+            "B": "(3, 2)",
+            "C": "(2, 3)",
+            "D": "(0, 3)",
+            "E": "(1, 1)"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 5,
+         "type": "MQ",
+         "question": "If the temperature in a region is given by $y = |x - 10| + 20$, where $x$ is the number of hours since sunrise, what is the temperature at sunrise?",
+         "options": {
+            "A": "20",
+            "B": "30",
+            "C": "10",
+            "D": "0",
+            "E": "40"
+         },
+         "answer": "B"
+      },
+      {
+         "id": 6,
+         "type": "MQ",
+         "question": "A rain gauge measures the amount of rainfall in a region. If the amount of rainfall is given by $y = |x| + 2$, where $x$ is the number of days since the start of the month, what is the amount of rainfall on the 5th day of the month?",
+         "options": {
+            "A": "5",
+            "B": "7",
+            "C": "3",
+            "D": "2",
+            "E": "9"
+         },
+         "answer": "B"
+      },
+      {
+         "id": 7,
+         "type": "MQ",
+         "question": "The ecosystem of a forest is affected by the temperature, which is given by $y = |x - 5| + 10$, where $x$ is the number of months since January. What is the temperature in June?",
+         "options": {
+            "A": "10",
+            "B": "15",
+            "C": "20",
+            "D": "5",
+            "E": "25"
+         },
+         "answer": "B"
+      },
+      {
+         "id": 8,
+         "type": "MQ",
+         "question": "The graph of $y = |x| - 2$ has a minimum value of",
+         "options": {
+            "A": "-2",
+            "B": "0",
+            "C": "2",
+            "D": "-1",
+            "E": "1"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 9,
+         "type": "FRQ",
+         "question": "Graph the function $y = |x + 2| - 3$ and identify the vertex, axis of symmetry, and direction of opening. Provide a brief explanation of each.",
+         "required_space_lines": 5
+      },
+      {
+         "id": 10,
+         "type": "FRQ",
+         "question": "The water level in a lake is affected by the amount of rainfall, which is given by $y = |x - 4| + 1$, where $x$ is the number of weeks since the start of the year. If the lake is currently at a water level of 5, what is the amount of rainfall that has occurred so far this year? Provide a step-by-step solution and explain your reasoning.",
+         "required_space_lines": 5
+      }
+   ],
+   "teacher_rules": [
+      "Tip 1: Emphasize the importance of understanding the properties of absolute value functions.",
+      "Tip 2: Encourage students to use graphing tools to visualize the functions.",
+      "Tip 3: Provide additional support for students who struggle with transformations and graphing."
+   ],
+   "footer": "Chef's Tips"
+}

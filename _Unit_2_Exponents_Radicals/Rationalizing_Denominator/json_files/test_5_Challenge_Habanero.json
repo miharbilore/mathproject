@@ -1,0 +1,129 @@
+{
+  "unit": "\u1F4D6 Unit 2: Exponents & Radicals",
+   "topic": "Rationalizing Denominator",
+   "test_type": "Challenge (Habanero)",
+   "questions": [
+       { 
+           "id": 1, 
+           "type": "MQ", 
+           "question": "A park ranger is tracking the population of deer in a forest. The population $P$ after $t$ years is given by $P = \frac{100}{sqrt{t+1}}$. Rationalize the denominator for $t = 3$. ", 
+           "options": { 
+               "A": "$\frac{100sqrt{4}}{4}$", 
+               "B": "$\frac{100sqrt{3}}{3}$", 
+               "C": "$\frac{100sqrt{4}}{2}$", 
+               "D": "$\frac{100}{2sqrt{4}}$", 
+               "E": "$\frac{100sqrt{3}}{4}$" 
+           }, 
+           "answer": "C" 
+       },
+       { 
+           "id": 2, 
+           "type": "MQ", 
+           "question": "A hiker is calculating her fuel consumption $F$ after driving $d$ miles. The consumption is given by $F = \frac{25}{sqrt{d+5}}$. Rationalize the denominator for $d = 11$. ", 
+           "options": { 
+               "A": "$\frac{25sqrt{16}}{16}$", 
+               "B": "$\frac{25sqrt{16}}{4}$", 
+               "C": "$\frac{25}{4sqrt{16}}$", 
+               "D": "$\frac{25sqrt{11}}{4}$", 
+               "E": "$\frac{25}{sqrt{16}}$" 
+           }, 
+           "answer": "B" 
+       },
+       { 
+           "id": 3, 
+           "type": "MQ", 
+           "question": "The altitude $A$ of a plane after $h$ hours is given by $A = \frac{3000}{sqrt{2h+1}}$. Rationalize the denominator for $h = 7$. ", 
+           "options": { 
+               "A": "$\frac{3000sqrt{15}}{15}$", 
+               "B": "$\frac{3000}{sqrt{15}}$", 
+               "C": "$\frac{3000sqrt{15}}{3}$", 
+               "D": "$\frac{3000sqrt{15}}{5}$", 
+               "E": "$\frac{3000}{15}$" 
+           }, 
+           "answer": "A" 
+       },
+       { 
+           "id": 4, 
+           "type": "MQ", 
+           "question": "A wildlife expert is studying the growth of a bear population $P$ after $t$ years, given by $P = \frac{50}{sqrt{3t+2}}$. Rationalize the denominator for $t = 4$. ", 
+           "options": { 
+               "A": "$\frac{50sqrt{14}}{14}$", 
+               "B": "$\frac{50}{2sqrt{14}}$", 
+               "C": "$\frac{50}{sqrt{14}}$", 
+               "D": "$\frac{50}{14}$", 
+               "E": "$\frac{50sqrt{14}}{2}$" 
+           }, 
+           "answer": "A" 
+       },
+       { 
+           "id": 5, 
+           "type": "MQ", 
+           "question": "A natural gas pipeline's flow rate $F$ after $d$ days is given by $F = \frac{1000}{sqrt{d+10}}$. Rationalize the denominator for $d = 15$. ", 
+           "options": { 
+               "A": "$\frac{1000}{5sqrt{25}}$", 
+               "B": "$\frac{1000}{sqrt{25}}$", 
+               "C": "$\frac{1000sqrt{25}}{25}$", 
+               "D": "$\frac{1000}{25}$", 
+               "E": "$\frac{1000sqrt{25}}{5}$" 
+           }, 
+           "answer": "C" 
+       },
+       { 
+           "id": 6, 
+           "type": "MQ", 
+           "question": "The concentration $C$ of a solution after $t$ minutes is given by $C = \frac{20}{sqrt{t+2}}$. Rationalize the denominator for $t = 6$. ", 
+           "options": { 
+               "A": "$\frac{20sqrt{8}}{8}$", 
+               "B": "$\frac{20sqrt{8}}{4}$", 
+               "C": "$\frac{20}{2sqrt{8}}$", 
+               "D": "$\frac{20}{sqrt{8}}$", 
+               "E": "$\frac{20}{8}$" 
+           }, 
+           "answer": "A" 
+       },
+       { 
+           "id": 7, 
+           "type": "MQ", 
+           "question": "A tour guide is calculating the elevation $E$ of a mountain after $d$ miles, given by $E = \frac{1000}{sqrt{d+8}}$. Rationalize the denominator for $d = 7$. ", 
+           "options": { 
+               "A": "$\frac{1000}{3sqrt{15}}$", 
+               "B": "$\frac{1000sqrt{15}}{15}$", 
+               "C": "$\frac{1000sqrt{15}}{3}$", 
+               "D": "$\frac{1000}{15}$", 
+               "E": "$\frac{1000}{sqrt{15}}$" 
+           }, 
+           "answer": "B" 
+       },
+       { 
+           "id": 8, 
+           "type": "MQ", 
+           "question": "The volume $V$ of a tank after $h$ hours is given by $V = \frac{500}{sqrt{h+4}}$. Rationalize the denominator for $h = 12$. ", 
+           "options": { 
+               "A": "$\frac{500}{4sqrt{16}}$", 
+               "B": "$\frac{500}{sqrt{16}}$", 
+               "C": "$\frac{500sqrt{16}}{16}$", 
+               "D": "$\frac{500}{16}$", 
+               "E": "$\frac{500sqrt{16}}{4}$" 
+           }, 
+           "answer": "C" 
+       },
+       { 
+           "id": 9, 
+           "type": "FRQ", 
+           "question": "A forest's tree density $D$ after $t$ years is given by $D = \frac{200}{sqrt{2t+5}}$. Rationalize the denominator and simplify for $t = 9$. Show all steps.", 
+           "required_space_lines": 5 
+       },
+       { 
+           "id": 10, 
+           "type": "FRQ", 
+           "question": "The water level $W$ in a lake after $d$ days is given by $W = \frac{50}{sqrt{d+1}}$. Rationalize the denominator and simplify for $d = 8$. Explain your reasoning.", 
+           "required_space_lines": 5 
+       }
+   ],
+   "teacher_rules": [
+       "Encourage students to use mathematical notation and provide clear explanations.",
+       "Remind students to check their units and ensure they are consistent throughout their calculations.",
+       "Suggest that students use real-world examples to help illustrate the concepts of rationalizing denominators."
+   ],
+   "footer_title": "Chef's Tips"
+}

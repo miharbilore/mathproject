@@ -1,0 +1,129 @@
+{
+  "unit": "Unit 0: Foundations of Algebra",
+   "topic": "Isolating Variables",
+   "test_type": "Foundation (Jalapeno)",
+   "questions": [
+      {
+         "id": 1,
+         "type": "MQ",
+         "question": "Solve for $x$ in $2x + 5 = 11$",
+         "options": {
+            "A": "$x = 2$",
+            "B": "$x = 3$",
+            "C": "$x = 4$",
+            "D": "$x = 5$",
+            "E": "$x = 6$"
+         },
+         "answer": "B"
+      },
+      {
+         "id": 2,
+         "type": "MQ",
+         "question": "Rearrange the formula $P = 2l + 2w$ to isolate $l$",
+         "options": {
+            "A": "$l = \\frac{P - 2w}{2}$",
+            "B": "$l = \\frac{P + 2w}{2}$",
+            "C": "$l = P - 2w$",
+            "D": "$l = P + 2w$",
+            "E": "$l = \\frac{P}{2w}$"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 3,
+         "type": "MQ",
+         "question": "Solve for $y$ in $y - 3 = 7$",
+         "options": {
+            "A": "$y = 4$",
+            "B": "$y = 5$",
+            "C": "$y = 10$",
+            "D": "$y = 11$",
+            "E": "$y = 12$"
+         },
+         "answer": "D"
+      },
+      {
+         "id": 4,
+         "type": "MQ",
+         "question": "Isolate $x$ in $\\frac{x}{4} = 9$",
+         "options": {
+            "A": "$x = 36$",
+            "B": "$x = 40$",
+            "C": "$x = 45$",
+            "D": "$x = 35$",
+            "E": "$x = 32$"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 5,
+         "type": "MQ",
+         "question": "Rearrange $C = 2\\pi r$ to solve for $r$",
+         "options": {
+            "A": "$r = \\frac{C}{2\\pi}$",
+            "B": "$r = \\frac{C}{\\pi}$",
+            "C": "$r = 2\\pi C$",
+            "D": "$r = \\pi C$",
+            "E": "$r = C^2$"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 6,
+         "type": "MQ",
+         "question": "Solve for $z$ in $z + 2 = 11$",
+         "options": {
+            "A": "$z = 9$",
+            "B": "$z = 10$",
+            "C": "$z = 12$",
+            "D": "$z = 13$",
+            "E": "$z = 15$"
+         },
+         "answer": "B"
+      },
+      {
+         "id": 7,
+         "type": "MQ",
+         "question": "Isolate $t$ in $\\frac{t}{3} = 12$",
+         "options": {
+            "A": "$t = 30$",
+            "B": "$t = 36$",
+            "C": "$t = 40$",
+            "D": "$t = 45$",
+            "E": "$t = 35$"
+         },
+         "answer": "B"
+      },
+      {
+         "id": 8,
+         "type": "MQ",
+         "question": "Rearrange the formula $A = \\frac{1}{2}bh$ to isolate $h$",
+         "options": {
+            "A": "$h = \\frac{2A}{b}$",
+            "B": "$h = \\frac{A}{2b}$",
+            "C": "$h = 2Ab$",
+            "D": "$h = A - 2b$",
+            "E": "$h = \\frac{A}{b}$"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 9,
+         "type": "FRQ",
+         "question": "Solve the equation $4x + 2 = 3x + 5$ for $x$. Show all work.",
+         "required_space_lines": 5
+      },
+      {
+         "id": 10,
+         "type": "FRQ",
+         "question": "The cost $C$ of producing $x$ units of a product is given by $C = 2000 + 5x$. Rearrange the equation to isolate $x$. Explain the context of your solution.",
+         "required_space_lines": 5
+      }
+   ],
+   "teacher_rules": [
+      "Emphasize the importance of isolating variables in algebraic equations.",
+      "Ensure students understand how to rearrange formulas to solve for specific variables.",
+      "Note that proper notation and showing work are crucial for full credit."
+   ],
+   "footer": "Chef's Tips"
+}

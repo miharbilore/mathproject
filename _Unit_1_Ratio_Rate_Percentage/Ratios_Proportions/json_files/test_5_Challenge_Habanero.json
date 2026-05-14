@@ -1,0 +1,129 @@
+{
+  "unit": "\u1f4d6 Unit 1: Ratio, Rate, Percentage",
+   "topic": "Ratios & Proportions",
+   "test_type": "Challenge (Habanero)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "A hiker is traveling at a ratio of $3:5$ miles to hours. If the hiker travels for $2$ hours, how many miles will they have traveled?",
+           "options": {
+               "A": "1.2 miles",
+               "B": "3.6 miles",
+               "C": "2.4 miles",
+               "D": "1.8 miles",
+               "E": "2.2 miles"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "A ratio of $x:y$ represents the number of birds to the number of trees in a forest. If $x:y = 4:7$, and there are $28$ trees, how many birds are in the forest?",
+           "options": {
+               "A": "12 birds",
+               "B": "16 birds",
+               "C": "10 birds",
+               "D": "8 birds",
+               "E": "14 birds"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "A car's fuel consumption is $25:1$ (miles to gallons). If the car travels $250$ miles, how much fuel will it have consumed?",
+           "options": {
+               "A": "8 gallons",
+               "B": "10 gallons",
+               "C": "12 gallons",
+               "D": "6 gallons",
+               "E": "5 gallons"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "A ratio of $a:b$ represents the number of employees to the number of computers in an office. If $a:b = 3:5$ and there are $15$ employees, how many computers are in the office?",
+           "options": {
+       "A": "25 computers",
+       "B": "20 computers",
+       "C": "15 computers",
+       "D": "10 computers",
+       "E": "8 computers"
+   },
+   "answer": "A"
+},
+{
+   "id": 5,
+   "type": "MQ",
+   "question": "A group of friends want to share some food in the ratio $2:3:5$. If they have $50$ pieces of food, how many pieces will the person with ratio $5$ get?",
+   "options": {
+       "A": "20 pieces",
+       "B": "25 pieces",
+       "C": "15 pieces",
+       "D": "18 pieces",
+       "E": "12 pieces"
+   },
+   "answer": "B"
+},
+{
+   "id": 6,
+   "type": "MQ",
+   "question": "A park has a ratio of $2:3$ (park rangers to visitors). If there are $36$ visitors, how many park rangers are there?",
+   "options": {
+       "A": "18 rangers",
+       "B": "24 rangers",
+       "C": "12 rangers",
+       "D": "16 rangers",
+       "E": "8 rangers"
+   },
+   "answer": "C"
+},
+{
+   "id": 7,
+   "type": "MQ",
+   "question": "A bicycle's gear ratio is $4:7$. If the front gear has $28$ teeth, how many teeth does the back gear have?",
+   "options": {
+       "A": "40 teeth",
+       "B": "49 teeth",
+       "C": "32 teeth",
+       "D": "35 teeth",
+       "E": "24 teeth"
+   },
+   "answer": "B"
+},
+{
+   "id": 8,
+   "type": "MQ",
+   "question": "A farmer has a ratio of $3:2$ (cows to pigs). If there are $12$ pigs, how many cows does the farmer have?",
+   "options": {
+       "A": "12 cows",
+       "B": "16 cows",
+       "C": "18 cows",
+       "D": "8 cows",
+       "E": "9 cows"
+   },
+   "answer": "E"
+},
+{
+   "id": 9,
+   "type": "FRQ",
+   "question": "A group of hikers are traveling through the wilderness. Their map has a scale of $1:25000$. If two villages are $5$ cm apart on the map, how far apart are they in reality? Show your work and express your answer in kilometers.",
+   "required_space_lines": 5
+},
+{
+   "id": 10,
+   "type": "FRQ",
+   "question": "A zoo has a ratio of $2:5$ (lions to tigers). If there are $30$ tigers, and the zoo wants to maintain the ratio, how many lions should they have? If they currently have $10$ lions, how many more lions should they get to maintain the ratio? Show your work and express your answers.",
+   "required_space_lines": 5
+}
+   ],
+   "teacher_rules": [
+       "Remind students to simplify ratios when possible",
+       "Encourage students to use cross-multiplication when solving proportions",
+       "Have students check their units when solving problems involving real-world applications"
+   ],
+   "footer": "Chef's Tips"
+}

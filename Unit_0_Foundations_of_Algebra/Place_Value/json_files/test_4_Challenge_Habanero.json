@@ -1,0 +1,129 @@
+{
+  "unit": "Unit 0: Foundations of Algebra",
+   "topic": "Place Value",
+   "test_type": "Challenge (Habanero)",
+   "questions": [
+       { 
+           "id": 1, 
+           "type": "MQ", 
+           "question": "A construction worker measures $45.678$ meters for a building. What is the value of the digit in the hundredths place?",
+           "options": {
+               "A": "4",
+               "B": "5",
+               "C": "6",
+               "D": "7",
+               "E": "8"
+           },
+           "answer": "D"
+       },
+       { 
+           "id": 2, 
+           "type": "MQ", 
+           "question": "Round $247.93$ to the nearest ten.",
+           "options": {
+               "A": "$200$",
+               "B": "$250$",
+               "C": "$240$",
+               "D": "$230$",
+               "E": "$260$"
+           },
+           "answer": "B"
+       },
+       { 
+           "id": 3, 
+           "type": "MQ", 
+           "question": "Write $456$ in expanded form.",
+           "options": {
+               "A": "$400 + 50 + 6$",
+               "B": "$400 + 60 + 6$",
+               "C": "$400 + 50 + 1$",
+               "D": "$400 + 60 + 1$",
+               "E": "$400 + 50 + 5$"
+           },
+           "answer": "A"
+       },
+       { 
+           "id": 4, 
+           "type": "MQ", 
+           "question": "A recipe calls for $3.14159$ cups of flour. What is the digit in the ten-thousandths place?",
+           "options": {
+               "A": "3",
+               "B": "1",
+               "C": "4",
+               "D": "1",
+       "E": "5"
+       },
+       "answer": "D"
+       },
+       { 
+           "id": 5, 
+           "type": "MQ", 
+           "question": "The length of a room is $12.3456$ meters. What is the value of the digit in the thousandths place?",
+           "options": {
+               "A": "1",
+               "B": "2",
+               "C": "3",
+               "D": "4",
+       "E": "5"
+       },
+       "answer": "D"
+       },
+       { 
+           "id": 6, 
+           "type": "MQ", 
+           "question": "Write $945$ in standard form.",
+           "options": {
+       "A": "$900 + 40 + 5$",
+       "B": "$900 + 50 + 5$",
+       "C": "$900 + 40 + 6$",
+       "D": "$900 + 50 + 4$",
+       "E": "$900 + 40 + 4$"
+       },
+       "answer": "B"
+       },
+       { 
+           "id": 7, 
+           "type": "MQ", 
+           "question": "Round $0.9876$ to the nearest hundredth.",
+           "options": {
+       "A": "$0.99$",
+       "B": "$0.98$",
+       "C": "$0.97$",
+       "D": "$0.96$",
+       "E": "$1.00$"
+       },
+       "answer": "A"
+       },
+       { 
+           "id": 8, 
+           "type": "MQ", 
+           "question": "The height of a skyscraper is $521.23$ meters. What is the value of the digit in the ones place?",
+           "options": {
+       "A": "1",
+       "B": "2",
+       "C": "3",
+       "D": "5",
+       "E": "2"
+       },
+       "answer": "E"
+       },
+       { 
+           "id": 9, 
+           "type": "FRQ", 
+           "question": "A baker needs to package $456.789$ kilograms of flour into bags of $0.5$ kilograms each. How many bags will be needed?",
+           "required_space_lines": 5
+       },
+       { 
+           "id": 10, 
+           "type": "FRQ", 
+           "question": "A construction company is building a road that is $10.25$ kilometers long. If the company has already completed $7.89$ kilometers, what percentage of the road has been completed?",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Emphasize the importance of place value in real-world applications",
+       "Use visual aids to help students understand the concept of rounding numbers",
+       "Provide opportunities for students to practice writing numbers in expanded and standard form"
+   ],
+   "footer": "Chef's Tips"
+}

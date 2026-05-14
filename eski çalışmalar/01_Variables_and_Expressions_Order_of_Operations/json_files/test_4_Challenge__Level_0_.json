@@ -1,0 +1,150 @@
+{
+  "test_id": 4,
+   "test_type": "Challenge (Level 0)",
+   "topic": "Variables and Expressions / Order of Operations",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "What is the variable in the expression $2x + 3$?",
+           "options": {
+               "A": "2",
+               "B": "3",
+               "C": "x",
+               "D": "2x",
+               "E": "2x + 3"
+           },
+           "answer": "C",
+           "spicy_level": "",
+           "required_space_lines": 0
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "Identify the coefficient in the term $4y$?",
+           "options": {
+               "A": "y",
+               "B": "4",
+               "C": "4y",
+               "D": "1",
+               "E": "None"
+           },
+           "answer": "B",
+           "spicy_level": "",
+           "required_space_lines": 0
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "What is the constant term in the expression $x - 2$?",
+           "options": {
+               "A": "x",
+               "B": "-2",
+               "C": "2",
+               "D": "1",
+               "E": "0"
+           },
+           "answer": "B",
+           "spicy_level": "",
+           "required_space_lines": 0
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "Identify the operator in $7 \times 2$?",
+           "options": {
+               "A": "7",
+               "B": "2",
+               "C": "$\times$",
+               "D": "14",
+               "E": "None"
+           },
+           "answer": "C",
+           "spicy_level": "",
+           "required_space_lines": 0
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "What is the expression $3 + 2$ an example of?",
+           "options": {
+               "A": "A variable",
+               "B": "A constant",
+               "C": "An operation",
+               "D": "A simple expression",
+               "E": "An equation"
+           },
+           "answer": "D",
+           "spicy_level": "",
+           "required_space_lines": 0
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "Identify the operation being performed in $9 - 1$?",
+           "options": {
+               "A": "Addition",
+               "B": "Subtraction",
+               "C": "Multiplication",
+               "D": "Division",
+               "E": "Exponentiation"
+           },
+           "answer": "B",
+           "spicy_level": "",
+           "required_space_lines": 0
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "What does the term $2x^2$ represent?",
+           "options": {
+               "A": "A constant",
+       "B": "A variable",
+       "C": "An algebraic expression",
+       "D": "A geometric term",
+       "E": "An exponential term"
+   },
+   "answer": "C",
+   "spicy_level": "",
+   "required_space_lines": 0
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "In the expression $5(2x)$, what operation is being performed between $5$ and $2x$?",
+           "options": {
+               "A": "Addition",
+               "B": "Subtraction",
+               "C": "Multiplication",
+               "D": "Division",
+               "E": "Exponentiation"
+           },
+           "answer": "C",
+           "spicy_level": "",
+           "required_space_lines": 0
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "Draw a simple diagram to illustrate the concept of a variable and explain its role in an algebraic expression.",
+           "options": {},
+           "answer": "Model diagram and explanation",
+           "spicy_level": "",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "Explain the difference between a constant and a variable in the context of algebraic expressions. Provide at least two examples.",
+           "options": {},
+           "answer": "Model explanation with examples",
+           "spicy_level": "",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Emphasize the distinction between variables and constants in algebraic expressions.",
+       "Ensure students understand the role of coefficients in terms with variables.",
+       "Use simple examples to illustrate the order of operations and how it applies to basic expressions."
+   ]
+}

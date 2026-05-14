@@ -1,0 +1,129 @@
+{
+  "unit": "Unit 0: Foundations of Algebra",
+   "topic": "Natural Numbers & Integers",
+   "test_type": "Advanced (Carolina Reaper)",
+   "questions": [
+      {
+         "id": 1,
+         "type": "MQ",
+         "question": "What is the classification of the number $0$?",
+         "options": {
+            "A": "Natural Number",
+            "B": "Whole Number",
+            "C": "Integer",
+            "D": "All of the above",
+            "E": "None of the above"
+         },
+         "answer": "D"
+      },
+      {
+         "id": 2,
+         "type": "MQ",
+         "question": "Which of the following numbers is an example of an odd integer?",
+         "options": {
+            "A": "$-2$",
+            "B": "$0$",
+            "C": "$-1$",
+            "D": "$2$",
+            "E": "$1$"
+         },
+         "answer": "C"
+      },
+      {
+         "id": 3,
+         "type": "MQ",
+         "question": "Identify the next number in the pattern: $2, 5, 8, 11, 14$",
+         "options": {
+            "A": "$15$",
+            "B": "$17$",
+            "C": "$18$",
+            "D": "$20$",
+            "E": "$21$"
+         },
+         "answer": "B"
+      },
+      {
+         "id": 4,
+         "type": "MQ",
+         "question": "A book costs $ $15$. If you have a $10$% discount coupon, how much will you pay for the book?",
+         "options": {
+            "A": "$13.50$",
+            "B": "$14.50$",
+            "C": "$15.50$",
+            "D": "$16.50$",
+            "E": "$17.50$"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 5,
+         "type": "MQ",
+         "question": "Solve the equation: $x + 2 = 7$",
+         "options": {
+            "A": "$x = 5$",
+            "B": "$x = 6$",
+            "C": "$x = 7$",
+            "D": "$x = 8$",
+            "E": "$x = 9$"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 6,
+         "type": "MQ",
+         "question": "A bakery sells $480$ loaves of bread per day. If they pack $12$ loaves in a box, how many boxes do they sell per day?",
+         "options": {
+            "A": "$40$ boxes",
+            "B": "$48$ boxes",
+            "C": "$60$ boxes",
+            "D": "$80$ boxes",
+            "E": "$90$ boxes"
+         },
+         "answer": "B"
+      },
+      {
+         "id": 7,
+         "type": "MQ",
+         "question": "Solve the inequality: $3x - 2 > 7$",
+         "options": {
+            "A": "$x > 3$",
+            "B": "$x > 2$",
+            "C": "$x > 1$",
+            "D": "$x < 3$",
+            "E": "$x < 2$"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 8,
+         "type": "MQ",
+         "question": "Which of the following is equivalent to $-3 cdot -4$?",
+         "options": {
+            "A": "$-12$",
+            "B": "$-7$",
+            "C": "$7$",
+            "D": "$12$",
+            "E": "$14$"
+         },
+         "answer": "D"
+      },
+      {
+         "id": 9,
+         "type": "FRQ",
+         "question": "A water tank can hold $2400$ gallons of water. If $1200$ gallons of water are already in the tank, what percentage of the tank is filled? Show your work and explain your reasoning.",
+         "required_space_lines": 5
+      },
+      {
+         "id": 10,
+         "type": "FRQ",
+         "question": "A group of friends want to go on a road trip that is $270$ miles long. If they drive at an average speed of $45$ miles per hour, how many hours will it take them to complete the trip? Additionally, if they leave at $8$am, what time will they arrive at their destination? Show your work and explain your reasoning.",
+         "required_space_lines": 5
+      }
+   ],
+   "teacher_rules": [
+      "Tip 1: Encourage students to read the questions carefully and use the correct units.",
+      "Tip 2: Remind students to show their work and explain their reasoning for the free response questions.",
+      "Tip 3: Consider providing additional support for students who struggle with the concepts of integers and percentages."
+   ],
+   "footer_title": "Chef's Tips"
+}

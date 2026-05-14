@@ -1,0 +1,128 @@
+{
+  "unit": "Unit 0: Foundations of Algebra",
+   "topic": "GCF & LCM",
+   "test_type": "Foundation (Jalapeno)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "Find the GCF of $12$ and $18$ using factors.",
+           "options": {
+               "A": "$1$",
+               "B": "$2$",
+               "C": "$3$",
+               "D": "$6$",
+               "E": "$12$"
+           },
+           "answer": "D"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "Find the LCM of $9$ and $15$ using multiples.",
+           "options": {
+               "A": "$45$",
+               "B": "$90$",
+               "C": "$135$",
+               "D": "$180$",
+               "E": "$225$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "A cyclist rides $12$ miles in $2$ hours and $18$ miles in $3$ hours. Find the GCF of the distances.",
+           "options": {
+               "A": "$1$",
+               "B": "$2$",
+               "C": "$3$",
+               "D": "$6$",
+               "E": "$12$"
+           },
+           "answer": "D"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "Find the LCM of $8$ and $12$ using prime factorization.",
+           "options": {
+               "A": "$24$",
+               "B": "$32$",
+               "C": "$40$",
+               "D": "$48$",
+               "E": "$64$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "A basketball player scores $15$ points in $3$ games and $21$ points in $5$ games. Find the LCM of the points.",
+           "options": {
+               "A": "$15$",
+               "B": "$21$",
+               "C": "$45$",
+               "D": "$60$",
+               "E": "$105$"
+           },
+           "answer": "E"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "Find the GCF of $24$ and $30$ using prime factorization.",
+           "options": {
+               "A": "$1$",
+               "B": "$2$",
+               "C": "$3$",
+               "D": "$6$",
+               "E": "$12$"
+           },
+           "answer": "D"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "A gymnast performs $8$ routines in $2$ hours and $12$ routines in $3$ hours. Find the GCF of the routines.",
+           "options": {
+       "A": "$1$",
+       "B": "$2$",
+       "C": "$4$",
+       "D": "$8$",
+       "E": "$12$"
+   },
+           "answer": "C"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "Find the LCM of $10$ and $15$ using multiples.",
+           "options": {
+               "A": "$30$",
+               "B": "$45$",
+               "C": "$60$",
+               "D": "$75$",
+               "E": "$90$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "A baseball team plays $18$ games in $3$ weeks and $24$ games in $4$ weeks. Find the GCF and LCM of the games and explain the difference between them in the context of the team's schedule.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "A marathon runner runs $12$ miles on Monday, $15$ miles on Wednesday, and $18$ miles on Friday. Find the LCM of the distances and determine the total distance run in a week if this pattern continues.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Chef's Tips",
+       "Encourage students to use different methods to find GCF and LCM",
+       "Remind students to read the questions carefully and identify the context"
+   ]
+}

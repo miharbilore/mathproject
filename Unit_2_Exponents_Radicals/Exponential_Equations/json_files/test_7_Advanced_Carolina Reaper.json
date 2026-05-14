@@ -1,0 +1,129 @@
+{
+  "unit": "\u1F4D6 Unit 2: Exponents & Radicals",
+   "topic": "Exponential Equations",
+   "test_type": "Advanced (Carolina Reaper)",
+   "questions": [
+     {
+       "id": 1,
+       "type": "MQ",
+       "question": "Solve for $x$ in $2^x = 32$",
+       "options": {
+         "A": "$x = 3$",
+         "B": "$x = 4$",
+         "C": "$x = 5$",
+         "D": "$x = 6$",
+         "E": "$x = 7$"
+       },
+       "answer": "C"
+     },
+     {
+       "id": 2,
+       "type": "MQ",
+       "question": "If $3^x = 81$, what is $x$?",
+       "options": {
+         "A": "$x = 2$",
+         "B": "$x = 3$",
+         "C": "$x = 4$",
+         "D": "$x = 5$",
+         "E": "$x = 6$"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 3,
+       "type": "MQ",
+       "question": "Solve $4^x = 256$ for $x$",
+       "options": {
+         "A": "$x = 2$",
+         "B": "$x = 3$",
+         "C": "$x = 4$",
+         "D": "$x = 5$",
+         "E": "$x = 6$"
+       },
+       "answer": "C"
+     },
+     {
+       "id": 4,
+       "type": "MQ",
+       "question": "A bookshelf has $5$ shelves, and each shelf can hold $2^x$ books. If the bookshelf is currently holding $160$ books, what is $x$?",
+       "options": {
+         "A": "$x = 3$",
+         "B": "$x = 4$",
+         "C": "$x = 5$",
+         "D": "$x = 6$",
+         "E": "$x = 7$"
+       },
+       "answer": "C"
+     },
+     {
+       "id": 5,
+       "type": "MQ",
+       "question": "A bakery sells $3^x$ loaves of bread per day. If they sold $243$ loaves yesterday, what is $x$?",
+       "options": {
+         "A": "$x = 4$",
+         "B": "$x = 5$",
+         "C": "$x = 6$",
+         "D": "$x = 7$",
+         "E": "$x = 8$"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 6,
+       "type": "MQ",
+       "question": "Solve for $x$ in $2^x + 2^x = 96$",
+       "options": {
+         "A": "$x = 4$",
+         "B": "$x = 5$",
+         "C": "$x = 6$",
+         "D": "$x = 7$",
+         "E": "$x = 8$"
+       },
+       "answer": "C"
+     },
+     {
+       "id": 7,
+       "type": "MQ",
+       "question": "If $x^2 = 2^{10}$, what is $x$?",
+       "options": {
+         "A": "$x = 2^3$",
+         "B": "$x = 2^4$",
+         "C": "$x = 2^5$",
+         "D": "$x = 2^6$",
+         "E": "$x = 2^7$"
+       },
+       "answer": "D"
+     },
+     {
+       "id": 8,
+       "type": "MQ",
+       "question": "Solve $4^x - 2^x = 60$ for $x$",
+       "options": {
+         "A": "$x = 3$",
+         "B": "$x = 4$",
+         "C": "$x = 5$",
+         "D": "$x = 6$",
+         "E": "$x = 7$"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 9,
+       "type": "FRQ",
+       "question": "A person invests $$2,000$ in a savings account with an annual interest rate of $5\\%$. If the interest is compounded annually, how much will the person have in the account after $x$ years? Write an equation to represent the situation and solve for $x$ when the total amount is $$3,000$. Required work and calculations should be shown.",
+       "required_space_lines": 5
+     },
+     {
+       "id": 10,
+       "type": "FRQ",
+       "question": "A population of bacteria grows according to the equation $P = 2^x$, where $P$ is the population size and $x$ is the number of hours. If the initial population size is $100$, how many hours will it take for the population to reach $1,600$? Show all work and calculations. Use the equation to solve for $x$.",
+       "required_space_lines": 5
+     }
+   ],
+   "teacher_rules": [
+     "Tip 1: Emphasize the importance of showing work and calculations for free-response questions.",
+     "Tip 2: Make sure students understand the context of each problem and how it relates to exponential equations.",
+     "Tip 3: Encourage students to check their work and calculations carefully to avoid mistakes."
+   ],
+   "footer": "Chef's Tips"
+}

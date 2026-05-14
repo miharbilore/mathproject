@@ -1,0 +1,128 @@
+{
+  "unit": "\u1F4D6 Unit 8: Quadratics",
+   "topic": "Solving by Factoring and Other Methods",
+   "test_type": "Foundation (Jalapeno)",
+   "questions": [
+       { 
+           "id": 1, 
+           "type": "MQ", 
+           "question": "Solve the quadratic equation $x^2 + 5x + 6 = 0$ by factoring.", 
+           "options": { 
+               "A": "$x = -2, -3$", 
+               "B": "$x = -1, -6$", 
+               "C": "$x = 2, 3$", 
+               "D": "$x = 1, 6$", 
+               "E": "$x = -2, 3$" 
+           }, 
+           "answer": "A" 
+       },
+       { 
+           "id": 2, 
+           "type": "MQ", 
+           "question": "Verify if $x = 2$ is a solution to the equation $x^2 - 4x - 5 = 0$.", 
+           "options": { 
+               "A": "Yes", 
+               "B": "No", 
+               "C": "Maybe", 
+               "D": "Not enough information", 
+               "E": "Only for certain values of $x$" 
+           }, 
+           "answer": "B" 
+       },
+       { 
+           "id": 3, 
+           "type": "MQ", 
+           "question": "A basketball player scored $x$ points in the first half and $2x + 5$ points in the second half. If the total points scored is given by the equation $x^2 + 2x - 30 = 0$, find the value of $x$.", 
+           "options": { 
+               "A": "$x = -6, 5$", 
+               "B": "$x = -5, 6$", 
+               "C": "$x = 2, 3$", 
+               "D": "$x = -2, 15$", 
+               "E": "$x = 5, -6$" 
+           }, 
+           "answer": "B" 
+       },
+       { 
+           "id": 4, 
+           "type": "MQ", 
+           "question": "A football field is $x$ meters long. A player runs from one end to the other, and the distance is given by $x^2 - 7x - 18 = 0$. Find the length of the field.", 
+           "options": { 
+               "A": "$x = -1, 18$", 
+               "B": "$x = 9, -2$", 
+               "C": "$x = 2, 9$", 
+               "D": "$x = -2, 9$", 
+               "E": "$x = 1, 18$" 
+           }, 
+           "answer": "B" 
+       },
+       { 
+           "id": 5, 
+           "type": "MQ", 
+           "question": "The equation $x^2 + 4x + 4 = 0$ represents the number of wins and losses of a tennis player. Solve for $x$.", 
+           "options": { 
+               "A": "$x = -2$", 
+               "B": "$x = 2$", 
+               "C": "$x = 4$", 
+               "D": "$x = -4$", 
+               "E": "$x = 0$" 
+           }, 
+           "answer": "A" 
+       },
+       { 
+           "id": 6, 
+           "type": "MQ", 
+           "question": "A cyclist travels $x$ miles in the first hour and $2x - 3$ miles in the second hour. The total distance traveled is given by $x^2 - x - 6 = 0$. Find the value of $x$.", 
+           "options": { 
+               "A": "$x = -2, 3$", 
+               "B": "$x = 3, -2$", 
+               "C": "$x = 2, 3$", 
+               "D": "$x = -3, 2$", 
+               "E": "$x = 1, 6$" 
+           }, 
+           "answer": "A" 
+       },
+       { 
+           "id": 7, 
+           "type": "MQ", 
+           "question": "The equation $x^2 + 2x - 15 = 0$ represents the scores of a soccer team. Solve for $x$.", 
+           "options": { 
+               "A": "$x = -5, 3$", 
+               "B": "$x = 5, -3$", 
+               "C": "$x = 3, 5$", 
+               "D": "$x = -3, 5$", 
+               "E": "$x = 2, 7$" 
+           }, 
+           "answer": "A" 
+       },
+       { 
+           "id": 8, 
+           "type": "MQ", 
+           "question": "A swimmer swims $x$ laps in the first 30 minutes and $x + 2$ laps in the next 30 minutes. The total number of laps swum is given by $x^2 + x - 12 = 0$. Find the value of $x$.", 
+           "options": { 
+               "A": "$x = -4, 3$", 
+               "B": "$x = 3, -4$", 
+               "C": "$x = 2, 6$", 
+               "D": "$x = -3, 4$", 
+               "E": "$x = 4, -3$" 
+           }, 
+           "answer": "A" 
+       },
+       { 
+           "id": 9, 
+           "type": "FRQ", 
+           "question": "Solve the quadratic equation $x^2 - 3x - 10 = 0$ by factoring, and verify your solutions.", 
+           "required_space_lines": 5 
+       },
+       { 
+           "id": 10, 
+           "type": "FRQ", 
+           "question": "A volleyball team won $x$ games and lost $x + 5$ games. The equation $x^2 + 5x - 50 = 0$ represents the total number of games played. Solve for $x$ and verify your solutions.", 
+           "required_space_lines": 5 
+       }
+   ],
+   "teacher_rules": [
+       "Chef's Tips",
+       "Encourage students to factor the quadratic equations carefully.",
+       "Remind students to verify their solutions by plugging them back into the original equation."
+   ]
+}

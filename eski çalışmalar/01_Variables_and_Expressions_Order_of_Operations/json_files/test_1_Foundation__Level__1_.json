@@ -1,0 +1,150 @@
+{
+  "test_id": 1,
+   "test_type": "Foundation (Level -1)",
+   "topic": "Variables and Expressions / Order of Operations",
+   "questions": [
+     {
+       "id": 1,
+       "type": "MQ",
+       "question": "What is the variable in the expression $2x$?",
+       "options": {
+         "A": "2",
+         "B": "x",
+         "C": "2x",
+         "D": "+",
+         "E": "$-$"
+       },
+       "answer": "B",
+       "spicy_level": "\u263C",
+       "required_space_lines": 0
+     },
+     {
+       "id": 2,
+       "type": "MQ",
+       "question": "Identify the coefficient in the term $4y$",
+       "options": {
+         "A": "y",
+         "B": "4",
+         "C": "4y",
+         "D": "y + 4",
+         "E": "$-$4"
+       },
+       "answer": "B",
+       "spicy_level": "\u263C",
+       "required_space_lines": 0
+     },
+     {
+       "id": 3,
+       "type": "MQ",
+       "question": "What is the constant term in the expression $3x + 2$?",
+       "options": {
+         "A": "3x",
+         "B": "2",
+         "C": "3x + 2",
+         "D": "+",
+         "E": "x"
+       },
+       "answer": "B",
+       "spicy_level": "\u263C",
+       "required_space_lines": 0
+     },
+     {
+       "id": 4,
+       "type": "MQ",
+       "question": "Identify the operator in $5 - 3$",
+       "options": {
+         "A": "5",
+         "B": "3",
+         "C": "$-$",
+         "D": "+",
+         "E": "x"
+       },
+       "answer": "C",
+       "spicy_level": "\u263C",
+       "required_space_lines": 0
+     },
+     {
+       "id": 5,
+       "type": "MQ",
+       "question": "What is the term $2x$ an example of?",
+       "options": {
+         "A": "Constant",
+         "B": "Variable",
+         "C": "Coefficient",
+         "D": "Expression",
+         "E": "Algebraic Term"
+       },
+       "answer": "E",
+       "spicy_level": "\u263C",
+       "required_space_lines": 0
+     },
+     {
+       "id": 6,
+       "type": "MQ",
+       "question": "Is $x$ in the expression $2x$ a variable or a constant?",
+       "options": {
+         "A": "Constant",
+         "B": "Variable",
+         "C": "Coefficient",
+         "D": "Expression",
+         "E": "Algebraic Term"
+       },
+       "answer": "B",
+       "spicy_level": "\u263C",
+       "required_space_lines": 0
+     },
+     {
+       "id": 7,
+       "type": "MQ",
+       "question": "In the expression $3 + 2$, what operation is being performed?",
+       "options": {
+         "A": "Subtraction",
+         "B": "Addition",
+         "C": "Multiplication",
+         "D": "Division",
+         "E": "Exponentiation"
+       },
+       "answer": "B",
+       "spicy_level": "\u263C",
+       "required_space_lines": 0
+     },
+     {
+       "id": 8,
+       "type": "MQ",
+       "question": "What is the purpose of the order of operations?",
+       "options": {
+         "A": "To simplify expressions",
+         "B": "To evaluate expressions with variables",
+         "C": "To follow a specific sequence when evaluating expressions with multiple operations",
+         "D": "To add and subtract variables",
+         "E": "To multiply and divide constants"
+       },
+       "answer": "C",
+       "spicy_level": "\u263C",
+       "required_space_lines": 0
+     },
+     {
+       "id": 9,
+       "type": "FRQ",
+       "question": "Draw a simple diagram to illustrate the concept of a variable. Label the variable and provide a brief explanation of its purpose.",
+       "options": {},
+       "answer": "Model Solution: A labeled diagram with a variable and its purpose explained",
+       "spicy_level": "\u263C",
+       "required_space_lines": 5
+     },
+     {
+       "id": 10,
+       "type": "FRQ",
+       "question": "Write a short paragraph explaining the difference between a constant and a variable in an algebraic expression. Provide an example of each.",
+       "options": {},
+       "answer": "Model Solution: A paragraph explaining the difference between a constant and a variable, including examples",
+       "spicy_level": "\u263C",
+       "required_space_lines": 5
+     }
+   ],
+   "teacher_rules": [
+     "Focus on basic conceptual definitions and single-step identification",
+     "Use simple language and examples to facilitate understanding",
+     "Encourage students to draw diagrams and provide explanations to illustrate their understanding of variables and expressions"
+   ]
+}

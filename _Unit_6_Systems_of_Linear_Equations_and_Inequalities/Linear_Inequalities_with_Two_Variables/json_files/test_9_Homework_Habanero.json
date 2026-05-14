@@ -1,0 +1,129 @@
+{
+  "unit": "\u1f4d6 Unit 6: Systems of Linear Equations and Inequalities",
+   "topic": "Linear Inequalities with Two Variables",
+   "test_type": "Homework (Habanero)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "A patient needs $2x + 3y \\geq 12$ units of medicine. If $x = 2$, what is the minimum value of $y$?",
+           "options": {
+               "A": "0",
+               "B": "1",
+               "C": "2",
+               "D": "3",
+               "E": "4"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "Graph the inequality $y < 2x - 5$. What type of line should be used for the boundary?",
+           "options": {
+               "A": "Solid",
+               "B": "Dashed",
+               "C": "Dotted",
+               "D": "Double-solid",
+               "E": "None"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "A cell grows at a rate of $y = 3x - 2$. If the cell count is greater than $10$, what inequality represents this situation?",
+           "options": {
+               "A": "$y > 10$",
+               "B": "$y < 10$",
+               "C": "$y \\geq 10$",
+               "D": "$y \\leq 10$",
+               "E": "$y = 10$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "Solve the inequality $x + 2y \\leq 8$. What is the $y$-intercept?",
+           "options": {
+               "A": "0",
+               "B": "2",
+               "C": "4",
+               "D": "6",
+               "E": "8"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "The inequality $y > \\frac{1}{2}x - 3$ represents a region in the coordinate plane. What is the equation of the boundary line?",
+           "options": {
+               "A": "$y = \\frac{1}{2}x - 3$",
+               "B": "$y = -\\frac{1}{2}x + 3$",
+               "C": "$y = \\frac{1}{2}x + 3$",
+               "D": "$y = -\\frac{1}{2}x - 3$",
+               "E": "$y = 2x - 3$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "What type of line should be used to graph the inequality $2x + 5y \\geq 10$?",
+           "options": {
+               "A": "Solid",
+               "B": "Dashed",
+               "C": "Dotted",
+               "D": "Double-solid",
+               "E": "None"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "The region defined by $y < 2x + 1$ includes the point $(0,0)$. What is the relationship between $x$ and $y$ at this point?",
+           "options": {
+       "A": "$y < x$",
+       "B": "$y > x$",
+       "C": "$y = x$",
+       "D": "$y < 2x$",
+       "E": "$y > 2x$"
+   },
+           "answer": "D"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "Graph the inequality $x - 2y > 4$. What is the $x$-intercept of the boundary line?",
+           "options": {
+               "A": "2",
+               "B": "4",
+               "C": "6",
+               "D": "8",
+               "E": "10"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "Solve the inequality $3x + 2y \\leq 12$. Graph the solution region and identify the vertices of the region. Write your answer in the space provided below.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "A doctor needs to mix two medicines, $x$ and $y$, in a ratio of $2:3$. If the total amount of medicine is greater than $20$ units, write an inequality to represent this situation. Solve the inequality and graph the solution region.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Tip 1: Emphasize the importance of using the correct type of line when graphing inequalities.",
+       "Tip 2: Encourage students to check their work by plugging in values from the solution region.",
+       "Tip 3: Remind students to label the axes and include a title when graphing inequalities."
+   ],
+   "footer_title": "Chef's Tips"
+}

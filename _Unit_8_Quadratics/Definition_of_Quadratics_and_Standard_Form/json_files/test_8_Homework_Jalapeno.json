@@ -1,0 +1,129 @@
+{
+  "unit": "\u1f4d6 Unit 8: Quadratics",
+   "topic": "Definition of Quadratics and Standard Form",
+   "test_type": "Homework (Jalapeno)",
+   "questions": [
+     {
+       "id": 1,
+       "type": "MQ",
+       "question": "What is the standard form of a quadratic function?",
+       "options": {
+         "A": "$ax^2 + bx + c$",
+         "B": "$ax + bx^2 + c$",
+         "C": "$ax^2 - bx + c$",
+         "D": "$ax^3 + bx^2 + c$",
+         "E": "$ax^4 + bx^2 + c$"
+       },
+       "answer": "A"
+     },
+     {
+       "id": 2,
+       "type": "MQ",
+       "question": "The ancient Babylonians used quadratic equations to calculate the area of a triangle. Which of the following is a quadratic equation?",
+       "options": {
+         "A": "$x + 2 = 5$",
+         "B": "$x^2 + 2 = 5$",
+         "C": "$x - 2 = 5$",
+         "D": "$2x + 2 = 5$",
+         "E": "$x^3 + 2 = 5$"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 3,
+       "type": "MQ",
+       "question": "The quadratic function $f(x) = $ax^2 + bx + c$ has a leading coefficient of 2. What is the value of $a$?",
+       "options": {
+         "A": "1",
+         "B": "2",
+         "C": "3",
+         "D": "4",
+         "E": "5"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 4,
+       "type": "MQ",
+       "question": "The ancient Greeks used quadratic equations to model the trajectory of projectiles. Which of the following is a key feature of a quadratic function?",
+       "options": {
+         "A": "A linear vertex",
+         "B": "A single x-intercept",
+         "C": "A parabolic shape",
+         "D": "A constant rate of change",
+         "E": "A single y-intercept"
+       },
+       "answer": "C"
+     },
+     {
+       "id": 5,
+       "type": "MQ",
+       "question": "The quadratic function $f(x) = $x^2 - 4x + 4$ can be rewritten in the form $f(x) = $(x - $h$)^2 + $k$. What is the value of $h$?",
+       "options": {
+         "A": "0",
+         "B": "2",
+         "C": "4",
+         "D": "6",
+         "E": "8"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 6,
+       "type": "MQ",
+       "question": "The ancient Chinese used quadratic equations to calculate the area of a rectangle. Which of the following is an example of a quadratic equation?",
+       "options": {
+         "A": "$x + 2 = 5$",
+         "B": "$x^2 - 2 = 5$",
+         "C": "$x - 2 = 5$",
+         "D": "$2x + 2 = 5$",
+         "E": "$x^3 - 2 = 5$"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 7,
+       "type": "MQ",
+       "question": "The quadratic function $f(x) = $x^2 + 2x + 1$ has a vertex at $(h, k)$. What is the value of $k$?",
+       "options": {
+         "A": "0",
+         "B": "1",
+         "C": "2",
+         "D": "3",
+         "E": "4"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 8,
+       "type": "MQ",
+       "question": "The ancient Egyptians used quadratic equations to calculate the volume of a pyramid. Which of the following is a quadratic equation?",
+       "options": {
+         "A": "$x + 2 = 5$",
+         "B": "$x^2 + 2 = 5$",
+         "C": "$x - 2 = 5$",
+         "D": "$2x + 2 = 5$",
+         "E": "$x^3 + 2 = 5$"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 9,
+       "type": "FRQ",
+       "question": "Describe the key features of the quadratic function $f(x) = $x^2 + 2x - 3$. Be sure to include the vertex, x-intercepts, and y-intercept.",
+       "required_space_lines": 5
+     },
+     {
+       "id": 10,
+       "type": "FRQ",
+       "question": "Write a quadratic equation in standard form that has a vertex at $(1, -2)$ and an x-intercept at $(2, 0)$. Show your work and explain your reasoning.",
+       "required_space_lines": 5
+     }
+   ],
+   "teacher_rules": [
+     "Provide examples of real-world applications of quadratic equations",
+     "Encourage students to use graphing calculators to visualize quadratic functions",
+     "Emphasize the importance of factoring and solving quadratic equations"
+   ],
+   "footer": "Chef's Tips"
+ }

@@ -1,0 +1,129 @@
+{
+  "unit": "Unit 0: Foundations of Algebra",
+   "topic": "Rational Numbers & Decimals",
+   "test_type": "Homework (Carolina Reaper)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "A music producer wants to adjust the tempo of a song by $25\\%$. If the original tempo is $120$ beats per minute, what is the new tempo in beats per minute?",
+           "options": {
+               "A": "140",
+               "B": "150",
+               "C": "160",
+               "D": "130",
+               "E": "110"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "A painter is creating a mural on a canvas that is $15 \\frac{3}{4}$ feet long. What is the length of the canvas in decimal form?",
+           "options": {
+               "A": "15.5",
+               "B": "15.75",
+               "C": "16.25",
+               "D": "15.25",
+               "E": "16.5"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "A rhythm pattern consists of $6$ eighth-note beats. If the time signature is $\\frac{3}{4}$, how many quarter-note beats are in the pattern?",
+           "options": {
+               "A": "4",
+               "B": "6",
+               "C": "8",
+               "D": "9",
+               "E": "12"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "What is the value of $x$ in the equation $2.5x = 10 \\frac{1}{4}$?",
+           "options": {
+               "A": "3",
+               "B": "4",
+               "C": "4.1",
+               "D": "4.05",
+               "E": "3.5"
+           },
+           "answer": "D"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "Which of the following rational numbers is equivalent to $0.6 \\overline{3}$?",
+           "options": {
+               "A": "$\\frac{2}{3}$",
+               "B": "$\\frac{3}{5}$",
+               "C": "$\\frac{5}{8}$",
+               "D": "$\\frac{7}{11}$",
+               "E": "$\\frac{8}{13}$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "A musician is playing a guitar solo that consists of a series of $8$-note phrases. If the first phrase starts on beat $2 \\frac{1}{4}$, which beat will the final note of the phrase fall on?",
+           "options": {
+               "A": "10",
+               "B": "10.25",
+               "C": "9.75",
+               "D": "10.5",
+               "E": "9.5"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "A painter is creating a series of $6$ identical paintings, each with a border that is $1 \\frac{3}{8}$ inches wide. What is the total width of the borders in decimal form?",
+           "options": {
+               "A": "8",
+               "B": "8.25",
+       "C": "9.5",
+       "D": "8.5",
+       "E": "10"
+   },
+   "answer": "B"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "A music producer wants to create a song that is $3 \\frac{1}{2}$ minutes long. If the song is divided into $6$ equal sections, how long is each section in decimal form?",
+           "options": {
+               "A": "0.55",
+               "B": "0.58",
+               "C": "0.5",
+               "D": "0.6",
+               "E": "0.65"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "A painting is $12 \\frac{3}{4}$ feet long and $8 \\frac{1}{2}$ feet wide. If the frame around the painting is $1 \\frac{1}{4}$ inches wide, what is the total area of the painting and frame in square feet? Show your work and be sure to convert all measurements to decimal form before calculating the area.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "A musician is playing a $16$-bar guitar solo in $\\frac{4}{4}$ time. If the first $8$ bars are in the key of $A$ and the last $8$ bars are in the key of $E$, what is the total time spent in each key in decimal form? Assume the tempo is $120$ beats per minute and show your work.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Tip 1: Encourage students to use a number line to help with conversions between fractions, decimals, and percents.",
+       "Tip 2: Remind students to simplify fractions and decimals when possible to make calculations easier.",
+       "Tip 3: Emphasize the importance of precision when working with rational numbers, especially when converting between different forms."
+   ],
+   "footer_title": "Chef's Tips"
+}

@@ -1,0 +1,129 @@
+{
+  "unit": "\u1F4D6 Unit 8: Quadratics",
+   "topic": "Definition of Quadratics and Standard Form",
+   "test_type": "Quiz (Habanero)",
+   "questions": [
+      {
+         "id": 1,
+         "type": "MQ",
+         "question": "What is the standard form of a quadratic function?",
+         "options": {
+            "A": "$ax^2 + bx + c$",
+            "B": "$ax + bx^2 + c$",
+            "C": "$ax^3 + bx^2 + c$",
+            "D": "$ax^2 - bx + c$",
+            "E": "$ax - bx^2 + c$"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 2,
+         "type": "MQ",
+         "question": "Which of the following is a quadratic function in standard form?",
+         "options": {
+            "A": "$x^2 + 3x - 2$",
+            "B": "$x^3 - 2x^2 + x - 1$",
+            "C": "$x^2 - 4x + 4$",
+            "D": "$x^4 + 2x^2 - 3$",
+            "E": "$x - 2$"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 3,
+         "type": "MQ",
+         "question": "The quadratic function $f(x) = 2x^2 + 5x - 3$ represents the!",
+         "options": {
+            "A": "temperature changes in a city",
+            "B": "rainfall in a region",
+            "C": "height of a projectile",
+            "D": "growth of a population",
+            "E": "depth of a canyon"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 4,
+         "type": "MQ",
+         "question": "What is the value of $a$ in the quadratic function $f(x) = ax^2 + 2x - 1$, if the function represents the!",
+         "options": {
+            "A": "$0.5$",
+            "B": "$1.2$",
+            "C": "$2.5$",
+            "D": "$3.1$",
+            "E": "$4.2$"
+         },
+         "answer": "B"
+      },
+      {
+         "id": 5,
+         "type": "MQ",
+         "question": "Which of the following is NOT a key feature of a quadratic function?",
+         "options": {
+            "A": "vertex",
+            "B": "axis of symmetry",
+            "C": "y-intercept",
+            "D": "x-intercept",
+            "E": "period"
+         },
+         "answer": "E"
+      },
+      {
+         "id": 6,
+         "type": "MQ",
+         "question": "The quadratic function $f(x) = x^2 + 2x + 1$ has a!",
+         "options": {
+            "A": "minimum value of $0$",
+            "B": "maximum value of $0$",
+            "C": "minimum value of $1$",
+            "D": "maximum value of $1$",
+            "E": "minimum value of $-1$"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 7,
+         "type": "MQ",
+         "question": "What is the equation of the axis of symmetry of the quadratic function $f(x) = x^2 + 4x + 4$?",
+         "options": {
+            "A": "$x = -2$",
+            "B": "$x = -1$",
+            "C": "$x = 0$",
+            "D": "$x = 1$",
+            "E": "$x = 2$"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 8,
+         "type": "MQ",
+         "question": "The quadratic function $f(x) = 3x^2 - 2x - 1$ represents the!",
+         "options": {
+            "A": "growth of a population",
+            "B": "height of a projectile",
+            "C": "depth of a canyon",
+            "D": "temperature changes in a city",
+            "E": "rainfall in a region"
+         },
+         "answer": "D"
+      },
+      {
+         "id": 9,
+         "type": "FRQ",
+         "question": "Describe the key features of the quadratic function $f(x) = 2x^2 + 5x - 3$, and explain how it can be used to model the temperature changes in a city.",
+         "required_space_lines": 5
+      },
+      {
+         "id": 10,
+         "type": "FRQ",
+         "question": "Find the equation of the axis of symmetry of the quadratic function $f(x) = x^2 + 4x + 4$, and explain its significance in the context of the problem.",
+         "required_space_lines": 5
+      }
+   ],
+   "teacher_rules": [
+      "Tip 1: Make sure students understand the definition of a quadratic function in standard form.",
+      "Tip 2: Emphasize the importance of identifying key features of quadratic functions.",
+      "Tip 3: Encourage students to use real-world examples, such as weather and environment, to illustrate the applications of quadratic functions."
+   ],
+   "footer": "Chef's Tips"
+}

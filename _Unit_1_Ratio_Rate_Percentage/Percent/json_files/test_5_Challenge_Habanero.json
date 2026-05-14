@@ -1,0 +1,129 @@
+{
+  "unit": "\u1F4D6 Unit 1: Ratio, Rate, Percentage",
+   "topic": "Percent",
+   "test_type": "Challenge (Habanero)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "A park ranger observed that a hiking trail had $15%$ more hikers this year than last year. If there were $240$ hikers last year, how many hikers are on the trail this year?",
+           "options": {
+               "A": "264",
+               "B": "270",
+               "C": "276",
+               "D": "282",
+               "E": "288"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "A fuel-efficient car can travel $25$ miles per gallon. If the price of fuel increases by $12%$, how much will it cost to travel $500$ miles if the original price was $$3.50$ per gallon?",
+           "options": {
+               "A": "$$43.75$",
+               "B": "$$49.00$",
+               "C": "$$52.50$",
+               "D": "$$56.25$",
+               "E": "$$60.00$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "A conservation effort resulted in a $30%$ increase in the population of a rare animal species. If there were originally $80$ animals, how many animals are there now?",
+           "options": {
+               "A": "96",
+               "B": "100",
+               "C": "104",
+               "D": "108",
+       "E": "112"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "A group of friends plan to hike a trail that is $16$ miles long. If they have already hiked $25%$ of the trail, how many miles do they still have to hike?",
+           "options": {
+               "A": "8",
+               "B": "10",
+       "C": "12",
+       "D": "14",
+       "E": "16"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "A wildlife sanctuary has $250$ acres of land. If $18%$ of the land is dedicated to a bird sanctuary, how many acres are dedicated to the birds?",
+           "options": {
+       "A": "40",
+       "B": "45",
+       "C": "50",
+       "D": "55",
+       "E": "60"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "A camper's backpack weighs $25$ pounds. If the weight of the backpack increases by $15%$ due to added gear, how much will the backpack weigh now?",
+           "options": {
+       "A": "28.25",
+       "B": "28.50",
+       "C": "28.75",
+       "D": "29.00",
+       "E": "29.25"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "A park's visitor center sells trail maps for $$5$ each. If the price of the maps increases by $20%$, how much will a visitor pay for $3$ maps?",
+           "options": {
+       "A": "$$15.00$",
+       "B": "$$16.50$",
+       "C": "$$18.00$",
+       "D": "$$19.50$",
+       "E": "$$21.00$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "A group of friends want to reduce their water consumption by $10%$. If they currently use $150$ gallons per day, how many gallons will they use after the reduction?",
+           "options": {
+       "A": "130",
+       "B": "135",
+       "C": "140",
+       "D": "145",
+       "E": "150"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "In a forest, the population of deer increased from $120$ to $150$ over a $2$-year period. What is the average annual percent increase in the deer population? Show your work and calculate the answer as a percent.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "A hiker is planning a trip that is $30$ miles long. If she has already hiked $20%$ of the distance, what percent of the trip still remains? Additionally, if she hikes at a rate of $3$ miles per hour, how many hours will it take her to complete the remaining distance? Show your work and calculate both answers.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Tip 1: Ensure students understand the concept of percentages and how to apply them to real-world problems.",
+       "Tip 2: Encourage students to show their work and explain their reasoning for each problem.",
+       "Tip 3: Remind students to check their units and ensure they are answering the question being asked."
+   ],
+   "footer_title": "Chef's Tips"
+}

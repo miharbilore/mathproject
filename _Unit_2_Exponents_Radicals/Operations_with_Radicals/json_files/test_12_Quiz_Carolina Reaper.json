@@ -1,0 +1,129 @@
+{
+  "unit": "\u1f4d6 Unit 2: Exponents & Radicals",
+   "topic": "Operations with Radicals",
+   "test_type": "Quiz (Carolina Reaper)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "Simplify $\\sqrt{16x^2}$ when shipping $x$ crates of goods.",
+           "options": {
+               "A": "$4x$",
+               "B": "$4\\sqrt{x}$",
+               "C": "$\\sqrt{4x}$",
+               "D": "$2\\sqrt{2x}$",
+               "E": "$2x$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "Find the value of $\\sqrt{18} + \\sqrt{8}$ in a traffic flow model.",
+           "options": {
+               "A": "$\\sqrt{26}$",
+               "B": "$3\\sqrt{2} + 2\\sqrt{2}$",
+               "C": "$5\\sqrt{2}$",
+               "D": "$7$",
+               "E": "$3 + 2\\sqrt{2}$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "Simplify $\\sqrt{50} \\cdot \\sqrt{2}$ for a logistics delivery system.",
+           "options": {
+               "A": "$10$",
+               "B": "$5\\sqrt{2}$",
+               "C": "$10\\sqrt{2}$",
+               "D": "$\\sqrt{100}$",
+               "E": "$\\sqrt{25}$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "Given $\\sqrt{12} = \\sqrt{4 \\cdot 3}$, what is $\\sqrt{12} \\cdot \\sqrt{27}$ in transportation costs?",
+           "options": {
+               "A": "$6\\sqrt{3} \\cdot 3\\sqrt{3}$",
+               "B": "$18$",
+               "C": "$6 \\cdot 3\\sqrt{3}$",
+               "D": "$2 \\cdot 3\\sqrt{3}$",
+               "E": "$18\\sqrt{3}$"
+           },
+           "answer": "E"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "A delivery truck travels $x$ miles in $\\sqrt{x}$ hours. How many miles does it travel in $\\sqrt{16}$ hours?",
+           "options": {
+               "A": "$4$ miles",
+               "B": "$16$ miles",
+       "C": "$\\sqrt{16}$ miles",
+       "D": "$\\sqrt{4}$ miles",
+       "E": "$x$ miles"
+       },
+       "answer": "B"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "What is $\\frac{\\sqrt{20}}{\\sqrt{5}}$ in a shipping container's volume calculation?",
+           "options": {
+               "A": "$\\sqrt{4}$",
+               "B": "$2$",
+               "C": "$\\sqrt{20}$",
+               "D": "$\\sqrt{5}$",
+       "E": "$4$"
+       },
+       "answer": "B"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "Simplify $\\frac{\\sqrt{96}}{\\sqrt{6}}$ for a logistics routing system.",
+           "options": {
+               "A": "$\\sqrt{16}$",
+       "B": "$4$",
+       "C": "$\\sqrt{4}$",
+       "D": "$\\sqrt{24}$",
+       "E": "$2\\sqrt{4}$"
+       },
+       "answer": "B"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "Find the value of $\\sqrt{24} + \\sqrt{9}$ in a traffic management system.",
+           "options": {
+               "A": "$\\sqrt{33}$",
+       "B": "$2\\sqrt{6} + 3$",
+       "C": "$5 + 2\\sqrt{6}$",
+       "D": "$\\sqrt{24} + 3$",
+       "E": "$7$"
+       },
+       "answer": "B"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "A truck travels from City A to City B in $\\sqrt{x}$ hours, and from City B to City C in $\\sqrt{2x}$ hours. What is the total time traveled in terms of $x$?",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "A shipping company has two types of containers: one with a volume of $\\sqrt{128}$ cubic meters and another with a volume of $\\sqrt{32}$ cubic meters. What is the total volume of 5 containers of the first type and 3 containers of the second type?",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Tip 1: Emphasize the importance of simplifying radicals before performing operations.",
+       "Tip 2: Encourage students to check their calculations for each question.",
+       "Tip 3: Remind students to use the correct mathematical notation and to show their work for free response questions."
+   ],
+   "footer": "Chef's Tips"
+}

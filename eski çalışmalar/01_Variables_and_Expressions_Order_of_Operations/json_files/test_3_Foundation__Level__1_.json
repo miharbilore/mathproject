@@ -1,0 +1,150 @@
+{
+  "test_id": 3,
+   "test_type": "Foundation (Level -1)",
+   "topic": "Variables and Expressions / Order of Operations",
+   "questions": [
+     {
+       "id": 1,
+       "type": "MQ",
+       "question": "What is the variable in the expression $2x$?",
+       "options": { 
+         "A": "2", 
+         "B": "x", 
+         "C": "2x", 
+         "D": "+", 
+         "E": "-" 
+       },
+       "answer": "B",
+       "spicy_level": "",
+       "required_space_lines": 0
+     },
+     {
+       "id": 2,
+       "type": "MQ",
+       "question": "Identify the coefficient in the term $4y$",
+       "options": { 
+         "A": "y", 
+         "B": "4", 
+         "C": "4y", 
+         "D": "0", 
+         "E": "1" 
+       },
+       "answer": "B",
+       "spicy_level": "",
+       "required_space_lines": 0
+     },
+     {
+       "id": 3,
+       "type": "MQ",
+       "question": "What is the operator in the expression $3 + 2$?",
+       "options": { 
+         "A": "3", 
+         "B": "2", 
+         "C": "+", 
+         "D": "-", 
+         "E": "$\times$" 
+       },
+       "answer": "C",
+       "spicy_level": "",
+       "required_space_lines": 0
+     },
+     {
+       "id": 4,
+       "type": "MQ",
+       "question": "In the expression $x - 1$, what is being subtracted?",
+       "options": { 
+         "A": "x", 
+         "B": "1", 
+         "C": "$-$", 
+         "D": "$+$", 
+         "E": "$\times$" 
+       },
+       "answer": "B",
+       "spicy_level": "",
+       "required_space_lines": 0
+     },
+     {
+       "id": 5,
+       "type": "MQ",
+       "question": "What does the term $3x$ represent?",
+       "options": { 
+         "A": "3 times a number", 
+         "B": "x times a number", 
+         "C": "3 times the variable x", 
+         "D": "x minus 3", 
+         "E": "3 divided by x" 
+       },
+       "answer": "C",
+       "spicy_level": "",
+       "required_space_lines": 0
+     },
+     {
+       "id": 6,
+       "type": "MQ",
+       "question": "Identify the constant term in the expression $2x + 5$",
+       "options": { 
+         "A": "2x", 
+         "B": "5", 
+         "C": "2", 
+         "D": "x", 
+         "E": "0" 
+       },
+       "answer": "B",
+       "spicy_level": "",
+       "required_space_lines": 0
+     },
+     {
+       "id": 7,
+       "type": "MQ",
+       "question": "What operation is represented by the symbol $+$?",
+       "options": { 
+         "A": "Subtraction", 
+         "B": "Multiplication", 
+         "C": "Division", 
+         "D": "Addition", 
+         "E": "Exponentiation" 
+       },
+       "answer": "D",
+       "spicy_level": "",
+       "required_space_lines": 0
+     },
+     {
+       "id": 8,
+       "type": "MQ",
+       "question": "In the expression $7 - x$, what is the variable?",
+       "options": { 
+         "A": "7", 
+         "B": "x", 
+         "C": "$-$", 
+         "D": "$+$", 
+         "E": "0" 
+       },
+       "answer": "B",
+       "spicy_level": "",
+       "required_space_lines": 0
+     },
+     {
+       "id": 9,
+       "type": "FRQ",
+       "question": "Draw a diagram to represent the expression $2x + 3$. Label all parts.",
+       "options": {},
+       "answer": "Model Solution: A diagram with a variable x, coefficient 2, constant term 3, and the expression $2x + 3$",
+       "spicy_level": "",
+       "required_space_lines": 5
+     },
+     {
+       "id": 10,
+       "type": "FRQ",
+       "question": "Explain what the term $4y$ represents. Use a simple example.",
+       "options": {},
+       "answer": "Model Solution: $4y$ represents 4 times the variable y. For example, if y = 2, then $4y = 4 \times 2 = 8$",
+       "spicy_level": "",
+       "required_space_lines": 5
+     }
+   ],
+   "teacher_rules": [
+     "Emphasize the concept of a variable as a letter or symbol that represents a value.",
+     "Highlight the importance of understanding the order of operations (PEMDAS) when working with expressions.",
+     "Use simple, real-world examples to illustrate the concepts of variables, coefficients, and constants."
+   ]
+}

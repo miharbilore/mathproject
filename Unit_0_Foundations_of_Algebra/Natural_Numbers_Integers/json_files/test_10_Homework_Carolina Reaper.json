@@ -1,0 +1,129 @@
+{
+  "unit": "Unit 0: Foundations of Algebra",
+   "topic": "Natural Numbers & Integers",
+   "test_type": "Homework (Carolina Reaper)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "A rhythm pattern repeats every $12$ beats. If it starts on beat $0$, on which beats will it repeat in the first $36$ beats?",
+           "options": {
+               "A": "$12, 24, 36$",
+               "B": "$0, 12, 24$",
+               "C": "$12, 24, 30$",
+               "D": "$0, 6, 12$",
+               "E": "$24, 36, 48$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "Classify the number $-15$ as a:",
+           "options": {
+               "A": "natural number",
+               "B": "whole number",
+               "C": "integer",
+               "D": "rational number",
+               "E": "irrational number"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "A painter uses a $5$-note rhythm to create a pattern on a $25$-note canvas. How many times will the pattern repeat?",
+           "options": {
+               "A": "$5$ times",
+               "B": "$6$ times",
+               "C": "$4$ times",
+               "D": "$3$ times",
+               "E": "$1$ time"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "Determine if $-7$ is an even or odd integer:",
+           "options": {
+               "A": "even",
+               "B": "odd",
+               "C": "both",
+               "D": "neither",
+               "E": "cannot be determined"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "A musician plays a melody with a frequency of $200$ Hz. If the frequency doubles every $2$ seconds, what is the frequency after $6$ seconds?",
+           "options": {
+               "A": "$400$ Hz",
+               "B": "$800$ Hz",
+               "C": "$1600$ Hz",
+               "D": "$6400$ Hz",
+               "E": "$3200$ Hz"
+           },
+           "answer": "D"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "What is the value of $x$ in the equation $2x + 5 = 11$?",
+           "options": {
+               "A": "$2$",
+               "B": "$3$",
+               "C": "$4$",
+               "D": "$5$",
+               "E": "$6$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "A composer writes a piece with a $12$-beat rhythm. If the rhythm starts on beat $4$, which beats will the rhythm repeat on in the first $36$ beats?",
+           "options": {
+       "A": "$16, 28, 40$",
+       "B": "$4, 16, 28$",
+       "C": "$12, 24, 36$",
+       "D": "$16, 28, 32$",
+       "E": "$4, 12, 20$"
+   },
+           "answer": "B"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "What is the next number in the pattern $2, 5, 8, 11, 14$?",
+           "options": {
+               "A": "$15$",
+               "B": "$17$",
+               "C": "$18$",
+               "D": "$20$",
+               "E": "$21$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "A music producer creates a $30$-second audio clip with a tempo of $120$ beats per minute. If the producer wants to add a $5$-second drum solo every $10$ beats, how many drum solos can fit in the audio clip? Show your work and explain your reasoning.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "An artist creates a painting with a $20 \\times 15$ grid. If the artist wants to divide the painting into smaller squares with areas of $5$ square units, how many squares can fit in the painting? What is the perimeter of each square? Show your work and explain your reasoning.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Encourage students to use music and art to visualize mathematical concepts",
+       "Emphasize the importance of pattern recognition in mathematics and music",
+       "Remind students to show their work and explain their reasoning for each problem"
+   ],
+   "footer": "Chef's Tips"
+}

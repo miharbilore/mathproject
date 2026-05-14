@@ -1,0 +1,129 @@
+{
+  "unit": "\u1F4D6 Unit 9: Data Statistical Analysis",
+   "topic": "Measures of Central Tendency",
+   "test_type": "Challenge (Habanero)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "A gamer's scores in a video game are $12, 15, 18, 20, 15$. What is the mode?",
+           "options": {
+               "A": "12",
+               "B": "15",
+               "C": "18",
+               "D": "20",
+               "E": "None"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "A coding challenge has the following completion times (in minutes): $25, 30, 28, 32, 30$. What is the median time?",
+           "options": {
+               "A": "28",
+               "B": "29",
+               "C": "30",
+               "D": "31",
+               "E": "32"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "The data usage (in GB) for a gaming app is $2.5, 3.2, 2.8, 3.5, 2.5$. What is the mean usage?",
+           "options": {
+               "A": "2.7",
+               "B": "2.9",
+               "C": "3.1",
+               "D": "3.3",
+               "E": "3.5"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "A tech company's employee salaries (in thousands) are $50, 60, 70, 80, 50$. Which measure of central tendency is most appropriate for this data set?",
+           "options": {
+               "A": "Mode",
+               "B": "Median",
+               "C": "Mean",
+               "D": "Range",
+               "E": "Standard Deviation"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "The high scores for a game are $1000, 1200, 1100, 1300, 1000$. If the game is updated, which measure of central tendency would be most affected?",
+           "options": {
+               "A": "Mode",
+               "B": "Median",
+               "C": "Mean",
+       "D": "Range",
+       "E": "Standard Deviation"
+   },
+   "answer": "C"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "A set of gaming laptops has the following prices (in dollars): $1000, 1200, 1100, 1300, 1000$. Which laptop price is the mode?",
+           "options": {
+               "A": "1000",
+               "B": "1100",
+               "C": "1200",
+               "D": "1300",
+               "E": "1400"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "The download times for a game patch (in seconds) are $15, 20, 18, 22, 20$. What is the median download time?",
+           "options": {
+       "A": "18",
+       "B": "19",
+       "C": "20",
+       "D": "21",
+       "E": "22"
+   },
+   "answer": "C"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "A set of data about CPU usage (in percent) is $25, 30, 28, 32, 30$. Which measure of central tendency would best describe the data set?",
+           "options": {
+       "A": "Mode",
+       "B": "Median",
+       "C": "Mean",
+       "D": "Range",
+       "E": "Standard Deviation"
+   },
+   "answer": "B"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "A gaming tournament has the following scores: $200, 250, 300, 200, 350$. Calculate the mean, median, and mode. Compare these measures of central tendency and explain which one is most appropriate for this data set.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "The response times (in milliseconds) for a gaming server are $50, 60, 55, 65, 50$. Calculate the mean, median, and mode for this data set. Interpret the results in the context of gaming performance.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Ensure students understand the context of tech and gaming when solving problems.",
+       "Emphasize the importance of choosing the correct measure of central tendency for a given data set.",
+       "Remind students to show all calculations and explain their reasoning for free-response questions."
+   ],
+   "footer_title": "Chef's Tips"
+}

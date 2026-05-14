@@ -1,0 +1,150 @@
+{
+  "test_id": 6,
+   "test_type": "Challenge (Level 0)",
+   "topic": "Variables and Expressions / Order of Operations",
+   "questions": [
+      {
+         "id": 1,
+         "type": "MQ",
+         "question": "What is the variable in the expression $2x + 3$?",
+         "options": { 
+            "A": "2", 
+            "B": "3", 
+            "C": "x", 
+            "D": "2x", 
+            "E": "None of the above" 
+         },
+         "answer": "C",
+         "spicy_level": "",
+         "required_space_lines": 0
+      },
+      {
+         "id": 2,
+         "type": "MQ",
+         "question": "Identify the constant term in the expression $4y - 2$.",
+         "options": { 
+            "A": "4y", 
+            "B": "2", 
+            "C": "4", 
+            "D": "-2", 
+            "E": "-4" 
+         },
+         "answer": "D",
+         "spicy_level": "",
+         "required_space_lines": 0
+      },
+      {
+         "id": 3,
+         "type": "MQ",
+         "question": "What is the coefficient of $x$ in the expression $5x - 1$?",
+         "options": { 
+            "A": "1", 
+            "B": "-1", 
+            "C": "5", 
+            "D": "-5", 
+            "E": "None of the above" 
+         },
+         "answer": "C",
+         "spicy_level": "",
+         "required_space_lines": 0
+      },
+      {
+         "id": 4,
+         "type": "MQ",
+         "question": "What operation is denoted by the symbol $+$ in the expression $2 + 3$?",
+         "options": { 
+            "A": "Subtraction", 
+            "B": "Addition", 
+            "C": "Multiplication", 
+            "D": "Division", 
+            "E": "None of the above" 
+         },
+         "answer": "B",
+         "spicy_level": "",
+         "required_space_lines": 0
+      },
+      {
+         "id": 5,
+         "type": "MQ",
+         "question": "Identify the operator in the expression $7 - 2$.",
+         "options": { 
+            "A": "7", 
+            "B": "2", 
+            "C": "-", 
+            "D": "+", 
+            "E": "*" 
+         },
+         "answer": "C",
+         "spicy_level": "",
+         "required_space_lines": 0
+      },
+      {
+         "id": 6,
+         "type": "MQ",
+         "question": "What is the term $3x$ an example of in the expression $3x + 2$?",
+         "options": { 
+            "A": "Constant term", 
+            "B": "Variable term", 
+            "C": "Coefficient", 
+            "D": "Operator", 
+            "E": "None of the above" 
+         },
+         "answer": "B",
+         "spicy_level": "",
+         "required_space_lines": 0
+      },
+      {
+         "id": 7,
+         "type": "MQ",
+         "question": "In the expression $9 - 4$, what is being subtracted?",
+         "options": { 
+            "A": "9", 
+            "B": "4", 
+            "C": "-", 
+            "D": "+", 
+            "E": "*" 
+         },
+         "answer": "B",
+         "spicy_level": "",
+         "required_space_lines": 0
+      },
+      {
+         "id": 8,
+         "type": "MQ",
+         "question": "What is the purpose of the order of operations in an expression like $(2 + 3) \\cdot 4$?",
+         "options": { 
+            "A": "To simplify the expression", 
+            "B": "To evaluate the expression", 
+            "C": "To identify the variables", 
+            "D": "To determine the coefficients", 
+            "E": "None of the above" 
+         },
+         "answer": "B",
+         "spicy_level": "",
+         "required_space_lines": 0
+      },
+      {
+         "id": 9,
+         "type": "FRQ",
+         "question": "Draw a diagram to represent the expression $x + 2$. Label the variable and the constant.",
+         "options": {},
+         "answer": "Model solution: A number line with x marked as a variable and +2 marked as a constant",
+         "spicy_level": "",
+         "required_space_lines": 5
+      },
+      {
+         "id": 10,
+         "type": "FRQ",
+         "question": "Explain the concept of the order of operations in your own words. Provide an example of how it is used in a simple expression like $3 + 2 \\cdot 4$.",
+         "options": {},
+         "answer": "Model solution: A written explanation of the order of operations (PEMDAS/BODMAS) and how it is applied in the given example",
+         "spicy_level": "",
+         "required_space_lines": 10
+      }
+   ],
+   "teacher_rules": [
+      "Focus on basic conceptual definitions and single-step identification for Level 0.",
+      "Ensure strict adherence to the order of operations when evaluating expressions.",
+      "Use visual aids and diagrams to help students understand the concepts of variables, constants, and operators."
+   ]
+}

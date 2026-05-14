@@ -1,0 +1,129 @@
+{
+  "unit": "\u1F4D6 Unit 8: Quadratics",
+   "topic": "Vertex Form and Intercept Form",
+   "test_type": "Homework (Habanero)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "A quadratic function models the growth of a cell culture. The function is given in vertex form as $f(x) = a(x - h)^2 + k$. If the vertex is at $(2, 3)$, what is the value of $h$ and $k$?",
+           "options": {
+               "A": "$h = 1, k = 2$",
+               "B": "$h = 2, k = 3$",
+               "C": "$h = 3, k = 2$",
+               "D": "$h = 2, k = 1$",
+               "E": "$h = 1, k = 3$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "The quadratic function $f(x) = x^2 - 4x - 5$ can be written in intercept form as $f(x) = a(x - p)(x - q)$. What are the values of $p$ and $q$?",
+           "options": {
+               "A": "$p = -1, q = 5$",
+               "B": "$p = 1, q = -5$",
+               "C": "$p = 5, q = -1$",
+               "D": "$p = -5, q = 1$",
+               "E": "$p = 2, q = -3$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "A hospital is testing the effectiveness of a new medicine. The quadratic function $f(x) = 2(x - 1)^2 + 3$ models the dosage required. What is the minimum dosage required?",
+           "options": {
+               "A": "$2$ units",
+               "B": "$3$ units",
+               "C": "$1$ unit",
+               "D": "$4$ units",
+               "E": "$5$ units"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "The function $f(x) = x^2 - 2x - 6$ can be written in vertex form as $f(x) = a(x - h)^2 + k$. What is the value of $a$?",
+           "options": {
+               "A": "$1$",
+               "B": "$2$",
+               "C": "$-1$",
+               "D": "$-2$",
+               "E": "$3$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "A quadratic function $f(x) = ax^2 + bx + c$ models the statistics of patient recovery. If $a = 1$ and $b = -3$, what is the value of $c$ if the function is written in intercept form as $f(x) = (x - 1)(x - 2)$?",
+           "options": {
+               "A": "$-2$",
+               "B": "$2$",
+               "C": "$-1$",
+               "D": "$1$",
+               "E": "$3$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "The quadratic function $f(x) = 2x^2 - 4x - 3$ can be written in vertex form as $f(x) = a(x - h)^2 + k$. What is the value of $h$?",
+           "options": {
+               "A": "$1$",
+               "B": "$2$",
+               "C": "$-1$",
+               "D": "$-2$",
+               "E": "$3$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "A healthcare provider is analyzing patient data using the quadratic function $f(x) = x^2 + 2x - 6$. What are the $x$-intercepts of the function?",
+           "options": {
+               "A": "$(-3, 0)$ and $(2, 0)$",
+               "B": "$(-2, 0)$ and $(3, 0)$",
+       "C": "$(-1, 0)$ and $(6, 0)$",
+       "D": "$(-6, 0)$ and $(1, 0)$",
+       "E": "$(-2, 0)$ and $(-3, 0)$"
+   },
+   "answer": "A"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "The function $f(x) = 3(x - 2)^2 + 1$ models the growth of a cell culture. What is the value of the function at $x = 3$?",
+           "options": {
+               "A": "$3$",
+               "B": "$4$",
+               "C": "$5$",
+               "D": "$7$",
+               "E": "$10$"
+           },
+           "answer": "D"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "Write the quadratic function $f(x) = x^2 + 5x + 6$ in vertex form and intercept form. Show all work.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "A quadratic function models the dosage required for a new medicine. The function is given in intercept form as $f(x) = (x - 2)(x - 3)$. Write the function in vertex form and find the minimum dosage required. Show all work.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Allow the use of a calculator for complex calculations.",
+       "Emphasize the importance of showing work for free response questions.",
+       "Provide feedback on the interpretation of parameters in each form."
+   ],
+   "footer": "Chef's Tips"
+}

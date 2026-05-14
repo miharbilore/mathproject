@@ -1,0 +1,129 @@
+{
+  "unit": "Unit 0: Foundations of Algebra",
+   "topic": "Rational Numbers & Decimals",
+   "test_type": "Challenge (Habanero)",
+   "questions": [
+      {
+         "id": 1,
+         "type": "MQ",
+         "question": "A hiker travels $\\frac{3}{4}$ of a mile in $\\frac{1}{2}$ hour. What is her speed in miles per hour?",
+         "options": {
+            "A": "$1.5$",
+            "B": "$2$",
+            "C": "$2.5$",
+            "D": "$3$",
+            "E": "$3.5$"
+         },
+         "answer": "B"
+      },
+      {
+         "id": 2,
+         "type": "MQ",
+         "question": "A park ranger measures the population of deer in a forest. If the population increases by $25\\%$ from $120$ deer to $x$ deer, what is $x$?",
+         "options": {
+            "A": "$120$",
+            "B": "$130$",
+            "C": "$150$",
+            "D": "$160$",
+            "E": "$180$"
+         },
+         "answer": "C"
+      },
+      {
+         "id": 3,
+         "type": "MQ",
+         "question": "A car's fuel tank can hold $\\frac{5}{8}$ of a gallon. If it currently has $\\frac{3}{8}$ of a gallon, what fraction of the tank is empty?",
+         "options": {
+            "A": "$\\frac{1}{8}$",
+            "B": "$\\frac{1}{4}$",
+            "C": "$\\frac{1}{2}$",
+            "D": "$\\frac{3}{4}$",
+            "E": "$\\frac{5}{8}$"
+         },
+         "answer": "B"
+      },
+      {
+         "id": 4,
+         "type": "MQ",
+         "question": "A river is $\\frac{2}{3}$ mile wide. If a bridge spans $\\frac{1}{4}$ of the river, what is the length of the bridge in miles?",
+         "options": {
+            "A": "$\\frac{1}{6}$",
+            "B": "$\\frac{1}{4}$",
+            "C": "$\\frac{1}{3}$",
+            "D": "$\\frac{1}{2}$",
+            "E": "$\\frac{2}{3}$"
+         },
+         "answer": "B"
+      },
+      {
+         "id": 5,
+         "type": "MQ",
+         "question": "A bicycle travels $\\frac{5}{6}$ of a mile on $\\frac{1}{3}$ gallon of gas. How many miles will it travel on $1$ gallon of gas?",
+         "options": {
+            "A": "$1.5$",
+            "B": "$2.5$",
+            "C": "$3.5$",
+            "D": "$4.5$",
+            "E": "$5.5$"
+         },
+         "answer": "B"
+      },
+      {
+         "id": 6,
+         "type": "MQ",
+         "question": "A map is drawn to scale with $1$ inch representing $\\frac{1}{4}$ mile. If a distance on the map is $2.5$ inches, what is the actual distance in miles?",
+         "options": {
+            "A": "$0.5$",
+            "B": "$0.625$",
+            "C": "$0.75$",
+            "D": "$1$",
+            "E": "$1.25$"
+         },
+         "answer": "B"
+      },
+      {
+         "id": 7,
+         "type": "MQ",
+         "question": "A water tank can hold $\\frac{3}{4}$ of a gallon. If $\\frac{1}{8}$ of a gallon is already filled, what fraction of the tank is still empty?",
+         "options": {
+            "A": "$\\frac{1}{8}$",
+            "B": "$\\frac{1}{4}$",
+            "C": "$\\frac{1}{2}$",
+            "D": "$\\frac{3}{4}$",
+            "E": "$\\frac{5}{8}$"
+         },
+         "answer": "C"
+      },
+      {
+         "id": 8,
+         "type": "MQ",
+         "question": "A group of friends want to share a trail mix that is $\\frac{3}{5}$ nuts and $\\frac{2}{5}$ dried fruit. If they have $20$ ounces of trail mix, how many ounces of nuts do they have?",
+         "options": {
+            "A": "$8$",
+            "B": "$10$",
+            "C": "$12$",
+            "D": "$14$",
+            "E": "$16$"
+         },
+         "answer": "C"
+      },
+      {
+         "id": 9,
+         "type": "FRQ",
+         "question": "A hiker is planning a trip that is $12$ miles long. She wants to complete the trip in $4$ hours. If she has already completed $\\frac{3}{4}$ of the trip, what is her current speed in miles per hour? Show your work and explain your reasoning.",
+         "required_space_lines": 5
+      },
+      {
+         "id": 10,
+         "type": "FRQ",
+         "question": "A park ranger is monitoring the population of a certain species of animal. The population is currently $120$ and is increasing at a rate of $15\\%$ per year. If the park ranger wants to maintain a population of no more than $180$, how many years can the population increase at this rate? Show your work and explain your reasoning.",
+         "required_space_lines": 5
+      }
+   ],
+   "teacher_rules": [
+      "Read each question carefully and make sure to answer the question asked.",
+      "Use a number line to help with fraction and decimal comparisons.",
+      "Work carefully and check your calculations."
+   ],
+   "footer": "Chef's Tips"
+}

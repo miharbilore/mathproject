@@ -1,0 +1,129 @@
+{
+  "unit": "\uD83D\uDCD8 Unit 8: Quadratics",
+   "topic": "Solving by Quadratic Formula (Discriminant)",
+   "test_type": "Homework (Jalapeno)",
+   "questions": [
+      {
+         "id": 1,
+         "type": "MQ",
+         "question": "The ancient Egyptian Rhind Papyrus contains a problem that can be modeled by $x^2 + 5x + 6 = 0$. What is the discriminant of this quadratic equation?",
+         "options": {
+            "A": "$1$",
+            "B": "$13$",
+            "C": "$5$",
+            "D": "$-1$",
+            "E": "$25$"
+         },
+         "answer": "B"
+      },
+      {
+         "id": 2,
+         "type": "MQ",
+         "question": "In the quadratic equation $x^2 - 4x + 4 = 0$, what is the number and type of solutions?",
+         "options": {
+            "A": "Two distinct real solutions",
+            "B": "One repeated real solution",
+            "C": "No real solutions",
+            "D": "Two complex solutions",
+            "E": "One real and one complex solution"
+         },
+         "answer": "B"
+      },
+      {
+         "id": 3,
+         "type": "MQ",
+         "question": "The Great Pyramid of Giza's height can be modeled by $h(t) = -t^2 + 10t + 20$, where $h$ is the height and $t$ is time. What is the discriminant of this quadratic function?",
+         "options": {
+            "A": "$60$",
+            "B": "$100$",
+            "C": "$80$",
+            "D": "$-20$",
+            "E": "$20$"
+         },
+         "answer": "C"
+      },
+      {
+         "id": 4,
+         "type": "MQ",
+         "question": "Solve for $x$ in the equation $x^2 + 2x - 6 = 0$ using the quadratic formula. What are the solutions?",
+         "options": {
+            "A": "$x = -1 pm sqrt{7}$",
+            "B": "$x = 1 pm sqrt{7}$",
+            "C": "$x = -3 pm sqrt{2}$",
+            "D": "$x = 2 pm sqrt{3}$",
+            "E": "$x = -1 pm sqrt{3}$"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 5,
+         "type": "MQ",
+         "question": "The ancient Greeks used the quadratic formula to solve problems related to the construction of the Parthenon. If a quadratic equation has a discriminant of $-3$, what can be concluded about its solutions?",
+         "options": {
+            "A": "Two distinct real solutions",
+            "B": "One repeated real solution",
+            "C": "No real solutions",
+            "D": "Two complex solutions",
+            "E": "One real and one complex solution"
+         },
+         "answer": "D"
+      },
+      {
+         "id": 6,
+         "type": "MQ",
+         "question": "The quadratic equation $x^2 - 2x - 3 = 0$ has two solutions. What is the product of these solutions?",
+         "options": {
+            "A": "$-3$",
+            "B": "$2$",
+            "C": "$-2$",
+            "D": "$3$",
+            "E": "$1$"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 7,
+         "type": "MQ",
+         "question": "An ancient Babylonian tablet contains a problem that can be modeled by $x^2 + 2x + 1 = 0$. What is the solution to this equation?",
+         "options": {
+            "A": "$x = -1$",
+            "B": "$x = 1$",
+            "C": "$x = -1 pm sqrt{2}$",
+            "D": "$x = 2 pm sqrt{3}$",
+            "E": "$x = -2 pm sqrt{2}$"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 8,
+         "type": "MQ",
+         "question": "The quadratic equation $x^2 + 4x + 4 = 0$ has one solution. What is the value of this solution?",
+         "options": {
+            "A": "$x = -2$",
+            "B": "$x = 2$",
+            "C": "$x = -1$",
+            "D": "$x = 1$",
+            "E": "$x = 0$"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 9,
+         "type": "FRQ",
+         "question": "The ancient Egyptians built a pyramid with a height that can be modeled by $h(t) = -t^2 + 12t + 20$, where $h$ is the height and $t$ is time. Use the quadratic formula to find the time when the height is $0$. Show your work and explain your answer.",
+         "required_space_lines": 5
+      },
+      {
+         "id": 10,
+         "type": "FRQ",
+         "question": "A ancient Greek astronomer used the quadratic formula to calculate the time it takes for a planet to orbit the sun. If the quadratic equation is $x^2 - 6x + 8 = 0$, use the quadratic formula to find the solutions and explain what they represent in the context of the problem.",
+         "required_space_lines": 5
+      }
+   ],
+   "teacher_rules": [
+      "Tip 1: Make sure students show their work and explain their answers.",
+      "Tip 2: Encourage students to check their solutions by plugging them back into the original equation.",
+      "Tip 3: Remind students to use the quadratic formula correctly and to simplify their answers."
+   ],
+   "footer": "Chef's Tips"
+}

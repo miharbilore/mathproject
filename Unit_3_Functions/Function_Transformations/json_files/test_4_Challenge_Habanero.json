@@ -1,0 +1,129 @@
+{
+  "unit": "Unit 3: Functions",
+   "topic": "Function Transformations",
+   "test_type": "Challenge (Habanero)",
+   "questions": [
+      {
+         "id": 1,
+         "type": "MQ",
+         "question": "A recipe for making cookies is given by $y = 2x + 5$. If the recipe is scaled up to make twice as many cookies, the new equation is",
+         "options": {
+            "A": "$y = 2x + 10$",
+            "B": "$y = 4x + 5$",
+            "C": "$y = 2x + 10$",
+            "D": "$y = x + 10$",
+            "E": "$y = 4x + 10$"
+         },
+         "answer": "B"
+      },
+      {
+         "id": 2,
+         "type": "MQ",
+         "question": "The function $y = x^2$ is transformed into $y = (x - 3)^2$. What is the horizontal shift?",
+         "options": {
+            "A": "3 units left",
+            "B": "3 units right",
+            "C": "2 units left",
+            "D": "2 units right",
+            "E": "1 unit left"
+         },
+         "answer": "B"
+      },
+      {
+         "id": 3,
+         "type": "MQ",
+         "question": "A builder uses the function $y = 2x$ to design a roof. If the design is reflected over the x-axis, the new equation is",
+         "options": {
+            "A": "$y = -2x$",
+            "B": "$y = 2x$",
+            "C": "$y = -x$",
+            "D": "$y = x$",
+            "E": "$y = 2x + 1$"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 4,
+         "type": "MQ",
+         "question": "A chef uses the function $y = x^2$ to model the shape of a cake. If the cake is compressed horizontally by a factor of 2, the new equation is",
+         "options": {
+            "A": "$y = (2x)^2$",
+            "B": "$y = (x/2)^2$",
+            "C": "$y = x^2$",
+            "D": "$y = 2x^2$",
+            "E": "$y = x^2/2$"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 5,
+         "type": "MQ",
+         "question": "The function $y = x^2 + 1$ is transformed into $y = x^2 - 1$. What is the vertical shift?",
+         "options": {
+            "A": "2 units down",
+            "B": "2 units up",
+            "C": "1 unit down",
+            "D": "1 unit up",
+            "E": "3 units down"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 6,
+         "type": "MQ",
+         "question": "A contractor uses the function $y = 3x$ to model the height of a building. If the building is reflected over the y-axis, the new equation is",
+         "options": {
+            "A": "$y = -3x$",
+            "B": "$y = 3x$",
+            "C": "$y = -x$",
+            "D": "$y = x$",
+            "E": "$y = 3x + 1$"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 7,
+         "type": "MQ",
+         "question": "The function $y = x^2$ is transformed into $y = (x + 2)^2 - 3$. What are the horizontal and vertical shifts?",
+         "options": {
+            "A": "2 units left, 3 units down",
+            "B": "2 units right, 3 units down",
+            "C": "2 units left, 3 units up",
+            "D": "2 units right, 3 units up",
+            "E": "1 unit left, 2 units down"
+         },
+         "answer": "B"
+      },
+      {
+         "id": 8,
+         "type": "MQ",
+         "question": "A recipe for making bread is given by $y = x + 2$. If the recipe is scaled up to make 1.5 times as much bread, the new equation is",
+         "options": {
+            "A": "$y = 1.5x + 2$",
+            "B": "$y = x + 3$",
+            "C": "$y = 1.5x + 3$",
+            "D": "$y = x + 1.5$",
+            "E": "$y = 1.5x + 1$"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 9,
+         "type": "FRQ",
+         "question": "Describe the transformations applied to the function $y = x^2$ to obtain the function $y = (x - 2)^2 + 1$. Provide a clear explanation of the horizontal and vertical shifts, and any other transformations applied.",
+         "required_space_lines": 5
+      },
+      {
+         "id": 10,
+         "type": "FRQ",
+         "question": "Graph the functions $y = x^2$ and $y = (x + 1)^2 - 2$ on the same coordinate plane. Compare the graphs and describe any similarities or differences in terms of transformations applied.",
+         "required_space_lines": 5
+      }
+   ],
+   "teacher_rules": [
+      "Check for proper labeling of axes and graph titles",
+      "Look for clear explanations of transformations applied",
+      "Verify accuracy of graphed functions"
+   ],
+   "footer": "Chef's Tips"
+}

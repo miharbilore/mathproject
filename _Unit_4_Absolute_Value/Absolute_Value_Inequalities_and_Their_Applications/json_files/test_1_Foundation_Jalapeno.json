@@ -1,0 +1,129 @@
+{
+  "unit": "\u270d Unit 4: Absolute Value",
+   "topic": "Absolute Value Inequalities and Their Applications",
+   "test_type": "Foundation (Jalapeno)",
+   "questions": [
+      {
+         "id": 1,
+         "type": "MQ",
+         "question": "Solve the inequality $|x - 5| < 3$.",
+         "options": {
+            "A": "$2 < x < 8$",
+            "B": "$2 leq x leq 8$",
+            "C": "$0 < x < 10$",
+            "D": "$-1 < x < 9$",
+            "E": "$1 < x < 7$"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 2,
+         "type": "MQ",
+         "question": "Graph the solution set of $|x + 2| geq 4$ on a number line.",
+         "options": {
+            "A": "$x leq -6$ or $x geq 2$",
+            "B": "$x < -6$ or $x > 2$",
+            "C": "$x leq -2$ or $x geq 6$",
+            "D": "$x < -2$ or $x > 6$",
+            "E": "$x geq -6$ and $x leq 2$"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 3,
+         "type": "MQ",
+         "question": "Express the solution set of $|3x - 2| > 5$ in interval notation.",
+         "options": {
+            "A": "$(-infty, -1) cup (1, infty)$",
+            "B": "$(-infty, -1] cup [1, infty)$",
+            "C": "$(-infty, -\frac{7}{3}) cup (\frac{7}{3}, infty)$",
+            "D": "$(-infty, \frac{7}{3}) cup (\frac{7}{3}, infty)$",
+            "E": "$(-infty, \frac{7}{3}] cup [\frac{7}{3}, infty)$"
+         },
+         "answer": "C"
+      },
+      {
+         "id": 4,
+         "type": "MQ",
+         "question": "A stock's price changed by $|2x - 5|$ dollars. If the price change was between $$2$ and $$8$, find the possible values of $x$.",
+         "options": {
+            "A": "$\frac{3}{2} < x < \frac{9}{2}$",
+            "B": "$\frac{3}{2} leq x leq \frac{9}{2}$",
+            "C": "$\frac{7}{2} < x < \frac{11}{2}$",
+            "D": "$\frac{7}{2} leq x leq \frac{11}{2}$",
+            "E": "$\frac{1}{2} < x < \frac{7}{2}$"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 5,
+         "type": "MQ",
+         "question": "A savings account earns interest of $|0.05x - 100|$ dollars per year. Find the values of $x$ for which the interest earned is between $$20$ and $$50$.",
+         "options": {
+            "A": "$1600 < x < 2800$",
+            "B": "$1600 leq x leq 2800$",
+            "C": "$1600 < x < 3000$",
+            "D": "$1800 < x < 2600$",
+            "E": "$2000 < x < 2400$"
+         },
+         "answer": "B"
+      },
+      {
+         "id": 6,
+         "type": "MQ",
+         "question": "The tax on a stock investment is $|0.1x - 50|$ dollars. Find the values of $x$ for which the tax paid is less than $$20$.",
+         "options": {
+            "A": "$100 < x < 700$",
+            "B": "$100 leq x leq 700$",
+            "C": "$300 < x < 500$",
+            "D": "$200 < x < 600$",
+            "E": "$0 < x < 400$"
+         },
+         "answer": "C"
+      },
+      {
+         "id": 7,
+         "type": "MQ",
+         "question": "The distance between two cities is $|x - 200|$ miles. Find the values of $x$ for which the distance is greater than 50 miles.",
+         "options": {
+            "A": "$x < 150$ or $x > 250$",
+            "B": "$x leq 150$ or $x geq 250$",
+            "C": "$x < 250$ or $x > 150$",
+            "D": "$x leq 250$ or $x geq 150$",
+            "E": "$150 < x < 250$"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 8,
+         "type": "MQ",
+         "question": "A company's profit is $|0.2x - 150|$ dollars. Find the values of $x$ for which the profit is greater than $$50$.",
+         "options": {
+            "A": "$500 < x < 1000$",
+            "B": "$500 leq x leq 1000$",
+            "C": "$400 < x < 1200$",
+            "D": "$1000 < x < 400$",
+            "E": "$700 < x < 800$"
+         },
+         "answer": "C"
+      },
+      {
+         "id": 9,
+         "type": "FRQ",
+         "question": "Model the situation where a stock's price increased by $|1.5x - 20|$ dollars and decreased by $|0.8x - 15|$ dollars. Find the values of $x$ for which the net change in the stock's price is between $$10$ and $$30$. Provide your solution in interval notation.",
+         "required_space_lines": 5
+      },
+      {
+         "id": 10,
+         "type": "FRQ",
+         "question": "A bank account earns $|0.03x - 10|$ dollars interest per month, but is charged $|0.02x - 5|$ dollars in fees. Find the values of $x$ for which the net interest earned is greater than $$15$. Graph your solution set on a number line and express it in interval notation.",
+         "required_space_lines": 5
+      }
+   ],
+   "teacher_rules": [
+      "Ensure students understand the concept of absolute value inequalities.",
+      "Remind students to consider both cases when solving absolute value inequalities.",
+      "Emphasize the importance of expressing solutions in interval notation and graphing on a number line."
+   ],
+   "footer_title": "Chef's Tips"
+}

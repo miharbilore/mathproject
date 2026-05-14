@@ -1,0 +1,150 @@
+{
+  "test_id": 2,
+   "test_type": "Foundation (Level -1)",
+   "topic": "Variables and Expressions / Order of Operations",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "What is the variable in the expression $2x$?",
+           "options": {
+               "A": "$2$",
+               "B": "$x$",
+               "C": "$2x$",
+               "D": "None of the above",
+               "E": "Both A and B"
+           },
+           "answer": "B",
+           "spicy_level": "",
+           "required_space_lines": 0
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "Identify the coefficient in the term $4y$.",
+           "options": {
+               "A": "$y$",
+               "B": "$4$",
+               "C": "$4y$",
+               "D": "None of the above",
+               "E": "Both A and B"
+           },
+           "answer": "B",
+           "spicy_level": "",
+           "required_space_lines": 0
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "What is the operator in the expression $3 + 2$?",
+           "options": {
+               "A": "$3$",
+               "B": "$2$",
+               "C": "$+$",
+               "D": "None of the above",
+               "E": "Both A and B"
+           },
+           "answer": "C",
+           "spicy_level": "",
+           "required_space_lines": 0
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "In the expression $x - 1$, what is being subtracted?",
+           "options": {
+               "A": "$x$",
+               "B": "$1$",
+               "C": "$-$",
+               "D": "None of the above",
+               "E": "Both A and B"
+           },
+           "answer": "B",
+           "spicy_level": "",
+           "required_space_lines": 0
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "What is the constant term in the expression $2x + 3$?",
+           "options": {
+               "A": "$2x$",
+               "B": "$3$",
+               "C": "$2x + 3$",
+               "D": "None of the above",
+               "E": "Both A and B"
+           },
+           "answer": "B",
+           "spicy_level": "",
+           "required_space_lines": 0
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "Identify the variable in $5z$.",
+           "options": {
+               "A": "$5$",
+               "B": "$z$",
+               "C": "$5z$",
+               "D": "None of the above",
+               "E": "Both A and B"
+           },
+           "answer": "B",
+           "spicy_level": "",
+           "required_space_lines": 0
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "What operation is represented by the symbol $*$?",
+           "options": {
+               "A": "Addition",
+               "B": "Subtraction",
+               "C": "Multiplication",
+               "D": "Division",
+               "E": "None of the above"
+           },
+           "answer": "C",
+           "spicy_level": "",
+           "required_space_lines": 0
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "In the expression $7 - x$, what is being subtracted from $7$?",
+           "options": {
+               "A": "$7$",
+               "B": "$x$",
+               "C": "$-$",
+               "D": "None of the above",
+               "E": "Both A and B"
+           },
+           "answer": "B",
+           "spicy_level": "",
+           "required_space_lines": 0
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "Draw a simple diagram to represent the expression $2x + 1$. Explain your drawing in one or two sentences.",
+           "options": {},
+           "answer": "Model Solution: A number line or a simple graph with $x$ on one axis and $2x + 1$ on the other, showing how the value of $2x + 1$ changes as $x$ changes.",
+           "spicy_level": "",
+           "required_space_lines": 4
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "Explain in your own words what a variable is in an algebraic expression. Provide an example.",
+           "options": {},
+           "answer": "Model Solution: A variable is a letter or symbol that represents a value that can change. For example, in the expression $3x$, $x$ is a variable because its value can be different each time the expression is used.",
+           "spicy_level": "",
+           "required_space_lines": 4
+       }
+   ],
+   "teacher_rules": [
+       "Focus on basic conceptual definitions and single-step identification to ensure a strong foundation in variables and expressions.",
+       "Use visual aids like number lines, graphs, or simple diagrams to help explain abstract concepts like variables and constants.",
+       "Encourage students to use their own words to describe algebraic concepts, promoting a deeper understanding of the material."
+   ]
+}

@@ -1,0 +1,129 @@
+{
+  "unit": "Unit 0: Foundations of Algebra",
+   "topic": "Rational Numbers & Decimals",
+   "test_type": "Challenge (Habanero)",
+   "questions": [
+       { 
+           "id": 1, 
+           "type": "MQ", 
+           "question": "A gamer's high score is $45\\%$ of the total points. If the total points are $1200$, what is the gamer's high score in points?",
+           "options": {
+               "A": "$540$",
+               "B": "$600$",
+               "C": "$540$",
+               "D": "$480$",
+               "E": "$720$"
+           },
+           "answer": "A"
+       },
+       { 
+           "id": 2, 
+           "type": "MQ", 
+           "question": "A new game has $3.5$ GB of free space. If it requires an update of $1.8$ GB, what fraction of the free space will be left after the update?",
+           "options": {
+               "A": "$\frac{3}{5}$",
+               "B": "$\frac{1}{2}$",
+               "C": "$\frac{4}{7}$",
+               "D": "$\frac{7}{10}$",
+               "E": "$\frac{9}{10}$"
+           },
+           "answer": "C"
+       },
+       { 
+           "id": 3, 
+           "type": "MQ", 
+           "question": "To beat a level, a player must collect at least $75\\%$ of the coins. If there are $480$ coins in total, how many coins must the player collect?",
+           "options": {
+               "A": "$300$",
+               "B": "$320$",
+               "C": "$360$",
+               "D": "$380$",
+               "E": "$400$"
+           },
+           "answer": "C"
+       },
+       { 
+           "id": 4, 
+           "type": "MQ", 
+           "question": "What is the decimal equivalent of $\\frac{7}{8}$?",
+           "options": {
+               "A": "$0.78$",
+               "B": "$0.80$",
+               "C": "$0.85$",
+               "D": "$0.875$",
+               "E": "$0.90$"
+           },
+           "answer": "D"
+       },
+       { 
+           "id": 5, 
+           "type": "MQ", 
+           "question": "A game developer earns $2.5\\%$ of the game's total revenue. If the game earns $$1,200,000$, how much does the developer earn?",
+           "options": {
+               "A": "$$24,000$",
+       "B": "$$30,000$",
+       "C": "$$36,000$",
+       "D": "$$45,000$",
+       "E": "$$60,000$"
+   },
+   "answer": "B"
+},
+{
+   "id": 6, 
+   "type": "MQ", 
+   "question": "A player's score is $25\\%$ more than their opponent's. If the opponent's score is $120$ points, what is the player's score?",
+   "options": {
+       "A": "$140$",
+       "B": "$150$",
+       "C": "$160$",
+       "D": "$180$",
+       "E": "$200$"
+   },
+   "answer": "B"
+},
+{
+   "id": 7, 
+   "type": "MQ", 
+   "question": "A game requires $0.5$ GB of RAM to run. What fraction of $2$ GB is this?",
+   "options": {
+       "A": "$\frac{1}{2}$",
+       "B": "$\frac{1}{3}$",
+       "C": "$\frac{1}{4}$",
+       "D": "$\frac{1}{5}$",
+       "E": "$\frac{1}{6}$"
+   },
+   "answer": "B"
+},
+{
+   "id": 8, 
+   "type": "MQ", 
+   "question": "A gamer has $18.5$ hours of gaming time left. How many hours will they have left after playing for $2.5$ hours?",
+   "options": {
+       "A": "$16$",
+       "B": "$16.5$",
+       "C": "$18$",
+       "D": "$20$",
+       "E": "$21$"
+   },
+   "answer": "B"
+},
+{
+   "id": 9, 
+   "type": "FRQ", 
+   "question": "A new update increases the game size by $15\\%$. If the current size is $2.8$ GB, how much larger will the update be than the current size in GB? Show your work and express your answer as a decimal.",
+   "required_space_lines": 5
+},
+{
+   "id": 10, 
+   "type": "FRQ", 
+   "question": "If a gamer earns $250$ points per hour and they have $3.75$ hours to play, how many points will they earn in total? Express the answer as a product of a whole number and a decimal.",
+   "required_space_lines": 5
+}
+   ],
+   "teacher_rules": [
+       "Tip 1: Ensure students use exact decimal equivalents and fractions for calculations.",
+       "Tip 2: Remind students to consider significant figures in their calculations.",
+       "Tip 3: Encourage students to use visual aids like number lines for free response questions."
+   ],
+   "footer": "Chef's Tips"
+}

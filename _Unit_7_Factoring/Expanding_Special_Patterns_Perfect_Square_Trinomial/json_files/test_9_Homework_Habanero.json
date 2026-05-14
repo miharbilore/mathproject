@@ -1,0 +1,129 @@
+{
+  "unit": "\ud83d\udcda Unit 7: Factoring",
+   "topic": "Expanding Special Patterns & Perfect Square Trinomial",
+   "test_type": "Homework (Habanero)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "What is the expansion of $(a + b)^2$?",
+           "options": {
+               "A": "$a^2 + 2ab + b^2$",
+               "B": "$a^2 - 2ab + b^2$",
+               "C": "$a^2 + ab + b^2$",
+               "D": "$a^2 - ab + b^2$",
+               "E": "$a^2 + b^2$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "A doctor prescribes a dosage of medicine that is $2x + 5$ mg, where $x$ is the number of days. If the patient takes the medicine for $3$ days, what is the total dosage in mg?",
+           "options": {
+               "A": "$20$ mg",
+               "B": "$21$ mg",
+               "C": "$23$ mg",
+               "D": "$25$ mg",
+               "E": "$30$ mg"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "What is the factored form of $x^2 + 10x + 25$?",
+           "options": {
+               "A": "$(x + 5)^2$",
+               "B": "$(x - 5)^2$",
+               "C": "$(x + 10)^2$",
+               "D": "$(x - 10)^2$",
+               "E": "$x(x + 25)$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "The growth rate of a cell culture is modeled by the equation $P = 2t^2 + 12t + 10$, where $P$ is the population size and $t$ is time in hours. What is the population size after $2$ hours?",
+           "options": {
+               "A": "$42$",
+               "B": "$50$",
+               "C": "$52$",
+               "D": "$54$",
+               "E": "$60$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "What is the expanded form of $(a - b)^2$?",
+           "options": {
+               "A": "$a^2 + 2ab + b^2$",
+               "B": "$a^2 - 2ab + b^2$",
+               "C": "$a^2 + ab + b^2$",
+               "D": "$a^2 - ab + b^2$",
+               "E": "$a^2 + b^2$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "A medical researcher collects data on the number of patients who respond to a new treatment. The results are modeled by the equation $y = x^2 - 4x + 4$, where $y$ is the number of patients and $x$ is the dosage level. What is the value of $y$ when $x = 2$?",
+           "options": {
+               "A": "$0$",
+               "B": "$2$",
+               "C": "$4$",
+               "D": "$6$",
+               "E": "$8$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "The concentration of a solution is given by the equation $C = 2x^2 + 8x + 6$, where $C$ is the concentration and $x$ is the amount of solute. What is the concentration when $x = 1$?",
+           "options": {
+               "A": "$12$",
+               "B": "$14$",
+               "C": "$16$",
+               "D": "$18$",
+               "E": "$20$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "What is the factored form of $x^2 - 6x + 9$?",
+           "options": {
+               "A": "$(x + 3)^2$",
+               "B": "$(x - 3)^2$",
+               "C": "$(x + 6)^2$",
+               "D": "$(x - 6)^2$",
+               "E": "$x(x - 9)$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "A biologist is studying the growth rate of a cell culture. The growth rate is modeled by the equation $P = x^2 + 8x + 10$, where $P$ is the population size and $x$ is time in hours. Find the population size after $3$ hours and explain your reasoning. Show all work.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "A doctor prescribes a dosage of medicine that is $x^2 - 4x + 4$ mg, where $x$ is the number of days. Factor the expression and find the total dosage in mg if the patient takes the medicine for $4$ days. Show all work.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Tip 1: Check for common factors before factoring.",
+       "Tip 2: Use the FOIL method for expanding binomials.",
+       "Tip 3: Verify your answers by plugging in values for variables."
+   ],
+   "footer": "Chef's Tips"
+}

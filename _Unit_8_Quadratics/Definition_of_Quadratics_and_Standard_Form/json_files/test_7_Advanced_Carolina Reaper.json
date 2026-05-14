@@ -1,0 +1,129 @@
+{
+  "unit": "\u1F4D6 Unit 8: Quadratics",
+   "topic": "Definition of Quadratics and Standard Form",
+   "test_type": "Advanced (Carolina Reaper)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "What is the standard form of a quadratic function?",
+           "options": {
+               "A": "$ax^2 + bx + c$",
+               "B": "$ax + bx^2 + c$",
+               "C": "$ax^2 - bx + c$",
+               "D": "$ax + b$",
+               "E": "$ax^2 + c$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "Identify the quadratic function: $f(x) = 2x^2 - 5x + 1$",
+           "options": {
+               "A": "Linear function",
+               "B": "Quadratic function in standard form",
+               "C": "Cubic function",
+               "D": "Exponential function",
+               "E": "Rational function"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "A shopper spends $10 more on clothes each day. If she spent $20 on the first day, what is the quadratic equation for her total spending?",
+           "options": {
+               "A": "$y = x^2 + 10x + 20$",
+               "B": "$y = 10x^2 + 20$",
+               "C": "$y = x^2 + 20$",
+               "D": "$y = 10x + 20$",
+               "E": "$y = x^2 + 10x$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "A photographer charges $50 for the first hour and $25 for each additional hour. What is the quadratic equation for the total cost?",
+           "options": {
+               "A": "$y = 25x^2 + 50$",
+               "B": "$y = 25x + 50$",
+               "C": "$y = x^2 + 25x + 50$",
+               "D": "$y = 25x^2 - 50$",
+               "E": "$y = x^2 + 50$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "What is the key feature of the quadratic function $f(x) = -2x^2 + 3x - 1$?",
+           "options": {
+               "A": "Opens upwards",
+               "B": "Opens downwards",
+               "C": "Has a maximum value",
+               "D": "Has a minimum value",
+               "E": "Is a linear function"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "A quadratic function has a vertex at (2, 3). What is the equation of the axis of symmetry?",
+           "options": {
+               "A": "$x = 1$",
+               "B": "$x = 2$",
+               "C": "$x = 3$",
+               "D": "$x = 4$",
+               "E": "$x = 5$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "A quadratic equation is in the form $ax^2 + bx + c$. What is the value of $a$ in the equation $2x^2 - 3x + 1 = 0$?",
+           "options": {
+               "A": "$1$",
+               "B": "$2$",
+               "C": "$3$",
+               "D": "$-2$",
+               "E": "$-3$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "Identify the quadratic function $f(x) = x^2 - 4x + 4$",
+           "options": {
+               "A": "A parabola that opens upwards",
+               "B": "A parabola that opens downwards",
+               "C": "A horizontal line",
+               "D": "A vertical line",
+               "E": "A circle"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "A water tank can hold 1000 gallons of water. Due to a leak, the tank is losing water at a rate of $2x^2 + 5x - 3$ gallons per hour, where $x$ is the number of hours. Write an equation for the total amount of water in the tank after $x$ hours.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "A quadratic function has its vertex at $(-2, 1)$ and passes through the point $(1, 5)$. Find the equation of the quadratic function in standard form.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Provide clear instructions for each question",
+       "Ensure students have the necessary materials",
+       "Encourage students to ask questions if they are unsure"
+   ],
+   "footer": "Chef's Tips"
+}

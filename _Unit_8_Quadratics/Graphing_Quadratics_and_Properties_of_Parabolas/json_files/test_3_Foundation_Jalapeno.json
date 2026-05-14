@@ -1,0 +1,129 @@
+{
+  "unit": "\u1F4D6 Unit 8: Quadratics",
+   "topic": "Graphing Quadratics and Properties of Parabolas",
+   "test_type": "Foundation (Jalapeno)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "The graph of $y = x^2 + 4x + 4$ has a vertex at:",
+           "options": {
+               "A": "(0, 4)",
+               "B": "(2, 0)",
+               "C": "(-2, 0)",
+               "D": "(0, 0)",
+               "E": "(1, 2)"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "A basketball player's jump height is modeled by $y = -2x^2 + 12x + 1$. What is the axis of symmetry?",
+           "options": {
+               "A": "$x = 2$",
+               "B": "$x = 3$",
+               "C": "$x = 4$",
+               "D": "$x = 5$",
+               "E": "$x = 6$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "For the parabola $y = x^2 - 6x + 8$, what are the $x$-intercepts?",
+           "options": {
+               "A": "(2, 0), (4, 0)",
+               "B": "(0, 0), (6, 0)",
+               "C": "(1, 0), (8, 0)",
+               "D": "(2, 0), (6, 0)",
+               "E": "(4, 0), (8, 0)"
+           },
+           "answer": "D"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "A soccer player kicks a ball with an initial velocity of 25 m/s. The height of the ball is modeled by $y = -5x^2 + 25x$. What is the maximum height?",
+           "options": {
+               "A": "50 m",
+               "B": "62.5 m",
+               "C": "75 m",
+               "D": "80 m",
+               "E": "100 m"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "The graph of $y = 2x^2 - 4x - 1$ opens:",
+           "options": {
+               "A": "Up",
+               "B": "Down",
+               "C": "Left",
+               "D": "Right",
+               "E": "None of the above"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "A cyclist travels a distance of $y = 2x^2 + 5x + 1$ meters in $x$ seconds. What is the direction of the parabola?",
+           "options": {
+               "A": "Up",
+       "B": "Down",
+       "C": "Left",
+       "D": "Right",
+       "E": "None of the above"
+   },
+   "answer": "A"
+},
+{
+   "id": 7,
+   "type": "MQ",
+   "question": "For the parabola $y = x^2 - 2x - 6$, what is the $y$-intercept?",
+   "options": {
+       "A": "(0, 6)",
+       "B": "(0, -6)",
+       "C": "(0, 2)",
+       "D": "(0, -2)",
+       "E": "(0, 1)"
+   },
+   "answer": "B"
+},
+{
+   "id": 8,
+   "type": "MQ",
+   "question": "The axis of symmetry for $y = -x^2 + 2x + 3$ is:",
+   "options": {
+       "A": "$x = -1$",
+       "B": "$x = 0$",
+       "C": "$x = 1$",
+       "D": "$x = 2$",
+       "E": "$x = 3$"
+   },
+   "answer": "C"
+},
+{
+   "id": 9,
+   "type": "FRQ",
+   "question": "Graph the parabola $y = x^2 + 2x - 3$ and find the vertex, axis of symmetry, and $x$-intercepts.",
+   "required_space_lines": 5
+},
+{
+   "id": 10,
+   "type": "FRQ",
+   "question": "A skateboarder's jump height is modeled by $y = -x^2 + 8x + 2$. Find the maximum height and the time it occurs.",
+   "required_space_lines": 5
+}
+],
+   "teacher_rules": [
+       "Provide additional support for students struggling with graphing parabolas.",
+       "Encourage students to use a variety of methods to solve problems, such as factoring and the quadratic formula.",
+       "Remind students to label their graphs clearly and include all necessary information, such as axis labels and titles."
+   ],
+   "footer": "Chef's Tips"
+}

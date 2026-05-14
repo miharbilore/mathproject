@@ -1,0 +1,129 @@
+{
+  "unit": "\u1F4D6 Unit 2: Exponents & Radicals",
+   "topic": "Operations with Radicals",
+   "test_type": "Quiz (Habanero)",
+   "questions": [
+     {
+       "id": 1,
+       "type": "MQ",
+       "question": "Simplify $\\sqrt{48} + \\sqrt{18}$",
+       "options": {
+         "A": "$4\\sqrt{3} + 3\\sqrt{2}$",
+         "B": "$6\\sqrt{2} + 4\\sqrt{3}$",
+         "C": "$4\\sqrt{3} + 3\\sqrt{3}$",
+         "D": "$2\\sqrt{6} + 3\\sqrt{2}$",
+         "E": "$6\\sqrt{3} + 2\\sqrt{2}$"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 2,
+       "type": "MQ",
+       "question": "The temperature in a greenhouse is $\\sqrt{80}$ degrees higher than outside. Simplify this expression",
+       "options": {
+         "A": "$4\\sqrt{5}$",
+         "B": "$2\\sqrt{10}$",
+         "C": "$8\\sqrt{2}$",
+         "D": "$9\\sqrt{3}$",
+         "E": "$6\\sqrt{5}$"
+       },
+       "answer": "A"
+     },
+     {
+       "id": 3,
+       "type": "MQ",
+       "question": "$\\sqrt{50} \\cdot \\sqrt{2} = $",
+       "options": {
+         "A": "$10$",
+         "B": "$5\\sqrt{2}$",
+         "C": "$10\\sqrt{2}$",
+         "D": "$2\\sqrt{25}$",
+         "E": "$25$"
+       },
+       "answer": "C"
+     },
+     {
+       "id": 4,
+       "type": "MQ",
+       "question": "A rainstorm causes the water level in a river to rise by $\\sqrt{32}$ meters. Simplify this expression",
+       "options": {
+         "A": "$4\\sqrt{2}$",
+         "B": "$2\\sqrt{8}$",
+         "C": "$8\\sqrt{2}$",
+         "D": "$6\\sqrt{3}$",
+         "E": "$3\\sqrt{5}$"
+       },
+       "answer": "A"
+     },
+     {
+       "id": 5,
+       "type": "MQ",
+       "question": "$\\frac{\\sqrt{90}}{\\sqrt{10}} = $",
+       "options": {
+         "A": "$3$",
+         "B": "$\\sqrt{3}$",
+         "C": "$\\sqrt{9}$",
+         "D": "$3\\sqrt{2}$",
+         "E": "$\\sqrt{10}$"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 6,
+       "type": "MQ",
+       "question": "$\\sqrt{75} - \\sqrt{48} = $",
+       "options": {
+         "A": "$5\\sqrt{3} - 4\\sqrt{3}$",
+         "B": "$3\\sqrt{5} - 2\\sqrt{6}$",
+         "C": "$4\\sqrt{2} - 3\\sqrt{2}$",
+         "D": "$5\\sqrt{2} - 2\\sqrt{5}$",
+         "E": "$2\\sqrt{6} - 3\\sqrt{3}$"
+       },
+       "answer": "A"
+     },
+     {
+       "id": 7,
+       "type": "MQ",
+       "question": "$\\sqrt{20} \\cdot \\sqrt{5} = $",
+       "options": {
+         "A": "$10\\sqrt{2}$",
+         "B": "$2\\sqrt{10}$",
+         "C": "$10$",
+         "D": "$20\\sqrt{2}$",
+         "E": "$25$"
+       },
+       "answer": "C"
+     },
+     {
+       "id": 8,
+       "type": "MQ",
+       "question": "The area of a ecosystem is $\\sqrt{98}$ square kilometers. Simplify this expression",
+       "options": {
+         "A": "$7\\sqrt{2}$",
+         "B": "$14\\sqrt{2}$",
+         "C": "$7\\sqrt{5}$",
+         "D": "$2\\sqrt{49}$",
+         "E": "$7\\sqrt{14}$"
+       },
+       "answer": "A"
+     },
+     {
+       "id": 9,
+       "type": "FRQ",
+       "question": "Simplify $\\sqrt{108} + \\sqrt{32} - \\sqrt{50}$ and show all steps",
+       "required_space_lines": 5
+     },
+     {
+       "id": 10,
+       "type": "FRQ",
+       "question": "A weather forecast predicts a temperature change of $\\sqrt{128}$ degrees. Simplify this expression and explain your reasoning",
+       "required_space_lines": 5
+     }
+   ],
+   "teacher_rules": [
+     "Read each question carefully",
+     "Use the correct operations for radicals",
+     "Check your work for accuracy"
+   ],
+   "footer_title": "Chef's Tips"
+ }

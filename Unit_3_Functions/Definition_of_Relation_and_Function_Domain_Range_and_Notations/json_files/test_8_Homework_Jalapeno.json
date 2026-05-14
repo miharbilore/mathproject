@@ -1,0 +1,129 @@
+{
+  "unit": "Unit 3: Functions",
+   "topic": "Definition of Relation and Function, Domain, Range, and Notations",
+   "test_type": "Homework (Jalapeno)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "The ancient Egyptians used a relation to model the flooding of the Nile River. If the relation is given as $\\{(1, 2), (2, 3), (3, 4), (4, 5)\\}$, is this relation a function?",
+           "options": {
+               "A": "Yes",
+               "B": "No",
+               "C": "Maybe",
+               "D": "Insufficient information",
+               "E": "Only for certain values"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "The ancient Babylonians used a function to calculate the area of a triangle. If the function is given as $f(x) = $x \\cdot 3$, what is the value of $f(4)$?",
+           "options": {
+               "A": "10",
+               "B": "12",
+               "C": "14",
+               "D": "16",
+               "E": "18"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "The ancient Greeks used a relation to model the motion of the planets. If the relation is given as a graph, which of the following statements is true about the domain and range?",
+           "options": {
+               "A": "Domain is $[-5, 5]$ and range is $[-2, 2]$",
+               "B": "Domain is $[-2, 2]$ and range is $[-5, 5]$",
+               "C": "Domain is $[-10, 10]$ and range is $[-1, 1]$",
+               "D": "Domain is $[-1, 1]$ and range is $[-10, 10]$",
+               "E": "Domain is $[-10, 10]$ and range is $[-10, 10]$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "The ancient Chinese used a function to calculate the volume of a cylinder. If the function is given as $f(x) = $\\pi \\cdot x^2 \\cdot 3$, what is the value of $f(2)$?",
+           "options": {
+               "A": "10$\\pi$",
+               "B": "12$\\pi$",
+               "C": "15$\\pi$",
+               "D": "20$\\pi$",
+               "E": "25$\\pi$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "The ancient Romans used a relation to model the growth of their empire. If the relation is given as $\\{(1, 1), (2, 2), (3, 3), (4, 5)\\}$, is this relation a function?",
+           "options": {
+               "A": "Yes",
+               "B": "No",
+               "C": "Maybe",
+               "D": "Insufficient information",
+               "E": "Only for certain values"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "The ancient Egyptians used a function to calculate the area of a rectangle. If the function is given as $f(x) = $x \\cdot 4$, what is the value of $f(3)$?",
+           "options": {
+               "A": "10",
+               "B": "12",
+               "C": "14",
+       "D": "16",
+       "E": "18"
+   },
+   "answer": "B"
+},
+{
+   "id": 7,
+   "type": "MQ",
+   "question": "The ancient Babylonians used a relation to model the motion of the sun. If the relation is given as a table, which of the following statements is true about the domain and range?",
+   "options": {
+       "A": "Domain is $[-5, 5]$ and range is $[-2, 2]$",
+       "B": "Domain is $[-2, 2]$ and range is $[-5, 5]$",
+       "C": "Domain is $[-10, 10]$ and range is $[-1, 1]$",
+       "D": "Domain is $[-1, 1]$ and range is $[-10, 10]$",
+       "E": "Domain is $[-10, 10]$ and range is $[-10, 10]$"
+   },
+   "answer": "A"
+},
+{
+   "id": 8,
+   "type": "MQ",
+   "question": "The ancient Greeks used a function to calculate the volume of a sphere. If the function is given as $f(x) = $\\frac{4}{3} \\cdot \\pi \\cdot x^3$, what is the value of $f(1)$?",
+   "options": {
+       "A": "$\\frac{2}{3} \\cdot \\pi$",
+       "B": "$\\frac{4}{3} \\cdot \\pi$",
+       "C": "$\\frac{5}{3} \\cdot \\pi$",
+       "D": "$\\frac{6}{3} \\cdot \\pi$",
+       "E": "$\\frac{8}{3} \\cdot \\pi$"
+   },
+   "answer": "B"
+},
+{
+   "id": 9,
+   "type": "FRQ",
+   "question": "The ancient Chinese used a function to model the population growth of their cities. If the function is given as $f(x) = 2x + 5$, find the domain and range of this function and evaluate $f(2)$.",
+   "required_space_lines": 5
+},
+{
+   "id": 10,
+   "type": "FRQ",
+   "question": "The ancient Romans used a relation to model the trade routes of their empire. If the relation is given as $\\{(1, 2), (2, 3), (3, 4), (4, 5)\\}$, determine if this relation is a function and find its domain and range.",
+   "required_space_lines": 5
+}
+   ],
+   "teacher_rules": [
+       "Check for the vertical line test",
+       "Ensure proper function notation",
+       "Verify the domain and range of each function"
+   ],
+   "footer": "Chef's Tips"
+}

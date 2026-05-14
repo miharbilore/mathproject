@@ -1,0 +1,129 @@
+{
+  "unit": "\u1F4D6 Unit 5: Linear Equations",
+   "topic": "Scatter Plot and The Best Fit Line",
+   "test_type": "Advanced (Carolina Reaper)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "What type of correlation is shown by the scatter plot where as $x$ increases, $y$ also increases?",
+           "options": {
+               "A": "Positive",
+               "B": "Negative",
+               "C": "None",
+               "D": "Inverse",
+               "E": "Direct"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "A bakery sells $x$ loaves of bread per day, and the profit is $y$ dollars. If the scatter plot shows a strong positive correlation, what can be said about the relationship between $x$ and $y$?",
+           "options": {
+               "A": "As $x$ increases, $y$ decreases",
+               "B": "As $x$ increases, $y$ increases",
+               "C": "As $x$ decreases, $y$ increases",
+               "D": "There is no relationship",
+               "E": "The relationship is inverse"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "The line of best fit for a set of data has the equation $y = 2x + 1$. What is the $y$-intercept?",
+           "options": {
+               "A": "-1",
+               "B": "0",
+               "C": "1",
+               "D": "2",
+               "E": "3"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "A student's grades are plotted on a scatter plot, with hours studied on the $x$-axis and grade percentage on the $y$-axis. If the line of best fit has a slope of $5$, what can be said about the relationship?",
+           "options": {
+               "A": "For every hour studied, the grade decreases by 5%",
+               "B": "For every hour studied, the grade increases by 5%",
+               "C": "For every hour studied, the grade remains the same",
+               "D": "There is no relationship",
+               "E": "The relationship is inverse"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "A scatter plot shows the relationship between the number of minutes spent exercising and the number of calories burned. If the line of best fit has the equation $y = 0.5x - 2$, what is the predicted number of calories burned if a person exercises for $30$ minutes?",
+           "options": {
+               "A": "10",
+               "B": "12",
+               "C": "13",
+               "D": "14",
+               "E": "16"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "The correlation coefficient for a set of data is $0.8$. What can be said about the relationship between the variables?",
+           "options": {
+               "A": "Strong positive correlation",
+               "B": "Weak positive correlation",
+               "C": "Strong negative correlation",
+               "D": "Weak negative correlation",
+               "E": "No correlation"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "A scatter plot shows the relationship between the amount of money spent on advertising and the number of products sold. If the line of best fit has a slope of $10$, what can be said about the relationship?",
+           "options": {
+               "A": "For every dollar spent on advertising, $10$ more products are sold",
+               "B": "For every dollar spent on advertising, $10$ fewer products are sold",
+               "C": "For every dollar spent on advertising, the number of products sold remains the same",
+               "D": "There is no relationship",
+       "E": "The relationship is inverse"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "The equation of the line of best fit for a set of data is $y = -3x + 2$. What is the predicted value of $y$ when $x = 4$?",
+           "options": {
+               "A": "-6",
+               "B": "-4",
+               "C": "2",
+               "D": "6",
+               "E": "10"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "A company's daily profit is plotted against the number of items sold. The scatter plot shows a strong positive correlation. If the line of best fit has the equation $y = 2x + 5$, and the company sells $15$ items, what is the predicted daily profit? Show your work and explain your answer.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "A student's grades are plotted against the number of hours studied. The scatter plot shows a correlation coefficient of $0.9$. If the line of best fit has the equation $y = 3x - 2$, and the student studies for $6$ hours, what is the predicted grade? Explain how you would use this information to advise the student on how to improve their grade.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Tip 1: Emphasize the importance of accurate calculations and clear explanations.",
+       "Tip 2: Encourage students to use real-world examples to illustrate their understanding of the concepts.",
+       "Tip 3: Remind students to check their work and ensure that their answers are reasonable and well-supported."
+   ],
+   "footer": "Chef's Tips"
+}

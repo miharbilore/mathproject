@@ -1,0 +1,129 @@
+{
+  "unit": "Unit 0: Foundations of Algebra",
+   "topic": "Natural Numbers & Integers",
+   "test_type": "Quiz (Habanero)",
+   "questions": [
+      {
+         "id": 1,
+         "type": "MQ",
+         "question": "The temperature in a desert ecosystem rose by $5$ degrees from $-2$ to what value?",
+         "options": {
+            "A": "$1$",
+            "B": "$3$",
+            "C": "$5$",
+            "D": "$7$",
+            "E": "$9$"
+         },
+         "answer": "B"
+      },
+      {
+         "id": 2,
+         "type": "MQ",
+         "question": "What is the next number in the pattern: $2, 5, 8, 11, 14$?",
+         "options": {
+            "A": "$15$",
+            "B": "$17$",
+            "C": "$18$",
+            "D": "$20$",
+            "E": "$22$"
+         },
+         "answer": "B"
+      },
+      {
+         "id": 3,
+         "type": "MQ",
+         "question": "A rain gauge in a forest ecosystem measured $-3$ inches of rainfall due to evaporation. If $2$ inches of rain fell, what is the new reading?",
+         "options": {
+            "A": "$-5$",
+            "B": "$-1$",
+            "C": "$1$",
+            "D": "$3$",
+            "E": "$5$"
+         },
+         "answer": "B"
+      },
+      {
+         "id": 4,
+         "type": "MQ",
+         "question": "Classify the number $-10$ as a natural number, whole number, or integer.",
+         "options": {
+            "A": "Natural number",
+            "B": "Whole number",
+            "C": "Integer",
+            "D": "Natural and whole number",
+            "E": "Whole and integer"
+         },
+         "answer": "C"
+      },
+      {
+         "id": 5,
+         "type": "MQ",
+         "question": "The atmospheric pressure in a mountain ecosystem is $800$ millibars. If it decreases by $15$ millibars every hour, what is the pressure after $4$ hours?",
+         "options": {
+            "A": "$755$",
+            "B": "$765$",
+            "C": "$785$",
+            "D": "$795$",
+            "E": "$805$"
+         },
+         "answer": "B"
+      },
+      {
+         "id": 6,
+         "type": "MQ",
+         "question": "Determine if $-6$ is an even or odd number.",
+         "options": {
+            "A": "Even",
+            "B": "Odd",
+            "C": "Neither",
+            "D": "Both",
+            "E": " Cannot be determined"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 7,
+         "type": "MQ",
+         "question": "A water tank in a rural ecosystem can hold $1000$ gallons of water. If $-200$ gallons are already used, and $50$ gallons are added, how many gallons are left?",
+         "options": {
+            "A": "$850$",
+            "B": "$900$",
+            "C": "$950$",
+            "D": "$1000$",
+            "E": "$1050$"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 8,
+         "type": "MQ",
+         "question": "The number of species in a particular ecosystem is $25$. If $5$ more species are discovered, what is the new total?",
+         "options": {
+            "A": "$20$",
+            "B": "$25$",
+            "C": "$30$",
+            "D": "$35$",
+            "E": "$40$"
+         },
+         "answer": "C"
+      },
+      {
+         "id": 9,
+         "type": "FRQ",
+         "question": "A researcher is studying the effect of temperature changes on plant growth. The temperature changed from $-4$ to $2$ degrees over a period of $3$ days. What is the average change in temperature per day? Show your work and explain your answer.",
+         "required_space_lines": 5
+      },
+      {
+         "id": 10,
+         "type": "FRQ",
+         "question": "A park ranger is monitoring the water level in a lake ecosystem. If the water level rises by $2$ feet every day for $5$ days, and then decreases by $1$ foot on the sixth day, what is the net change in the water level? Use integers to represent the change in the water level and explain your answer.",
+         "required_space_lines": 5
+      }
+   ],
+   "teacher_rules": [
+      "Tip 1: Ensure students use the correct units for their answers.",
+      "Tip 2: Remind students to show their work and explain their reasoning for free response questions.",
+      "Tip 3: Encourage students to use real-world examples to help them understand the concepts."
+   ],
+   "footer": "Chef's Tips"
+}

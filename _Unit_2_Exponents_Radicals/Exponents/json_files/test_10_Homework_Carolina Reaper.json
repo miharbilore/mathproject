@@ -1,0 +1,129 @@
+{
+  "unit":" Unit 2: Exponents & Radicals",
+   "topic":"Exponents",
+   "test_type":"Homework (Carolina Reaper)",
+   "questions":[
+      {
+         "id":1,
+         "type":"MQ",
+         "question":"A rhythm pattern has $3^4$ possible variations. How many variations are there?",
+         "options":{
+            "A":"$80$",
+            "B":"$81$",
+            "C":"$82$",
+            "D":"$83$",
+            "E":"$84$"
+         },
+         "answer":"B"
+      },
+      {
+         "id":2,
+         "type":"MQ",
+         "question":"A canvas has an area of $2^6$ square feet. What is its area in square feet?",
+         "options":{
+            "A":"$60$",
+            "B":"$62$",
+            "C":"$64$",
+            "D":"$66$",
+            "E":"$68$"
+         },
+         "answer":"C"
+      },
+      {
+         "id":3,
+         "type":"MQ",
+         "question":"The frequency of a sound wave is $2^3 \\cdot 5^2$ Hz. What is its frequency?",
+         "options":{
+            "A":"$100$ Hz",
+            "B":"$120$ Hz",
+            "C":"$140$ Hz",
+            "D":"$160$ Hz",
+            "E":"$200$ Hz"
+         },
+         "answer":"B"
+      },
+      {
+         "id":4,
+         "type":"MQ",
+         "question":"A musical composition has $5^3$ possible rhythm patterns. How many patterns are there?",
+         "options":{
+            "A":"$100$",
+            "B":"$120$",
+            "C":"$125$",
+            "D":"$130$",
+            "E":"$140$"
+         },
+         "answer":"C"
+      },
+      {
+         "id":5,
+         "type":"MQ",
+         "question":"The volume of a speaker is $3^2 \\cdot 2^4$ cubic feet. What is its volume?",
+         "options":{
+            "A":"$144$ cubic feet",
+            "B":"$150$ cubic feet",
+            "C":"$156$ cubic feet",
+            "D":"$160$ cubic feet",
+            "E":"$170$ cubic feet"
+         },
+         "answer":"A"
+      },
+      {
+         "id":6,
+         "type":"MQ",
+         "question":"A painter has $2^5 \\cdot 3$ different brush sizes. How many brush sizes are there?",
+         "options":{
+            "A":"$90$",
+            "B":"$96$",
+            "C":"$100$",
+            "D":"$110$",
+            "E":"$120$"
+         },
+         "answer":"B"
+      },
+      {
+         "id":7,
+         "type":"MQ",
+         "question":"The length of a canvas is $2^2 \\cdot 3^2$ feet. What is its length?",
+         "options":{
+            "A":"$30$ feet",
+            "B":"$32$ feet",
+            "C":"$36$ feet",
+            "D":"$40$ feet",
+            "E":"$45$ feet"
+         },
+         "answer":"C"
+      },
+      {
+         "id":8,
+         "type":"MQ",
+         "question":"The area of a mural is $5^2 \\cdot 2^3$ square feet. What is its area?",
+         "options":{
+            "A":"$400$ square feet",
+            "B":"$450$ square feet",
+            "C":"$500$ square feet",
+            "D":"$550$ square feet",
+            "E":"$600$ square feet"
+         },
+         "answer":"A"
+      },
+      {
+         "id":9,
+         "type":"FRQ",
+         "question":"Simplify the expression: $\\frac{2^5 \\cdot 3^2}{2^3 \\cdot 3}$",
+         "required_space_lines":5
+      },
+      {
+         "id":10,
+         "type":"FRQ",
+         "question":"A sound wave has a frequency of $2^4 \\cdot 5$ Hz. Simplify the expression and find the frequency.",
+         "required_space_lines":5
+      }
+   ],
+   "teacher_rules":[
+      "Check calculations carefully",
+      "Use exponent rules to simplify expressions",
+      "Ensure students provide clear and concise answers"
+   ],
+   "footer_title":"Chef's Tips"
+}

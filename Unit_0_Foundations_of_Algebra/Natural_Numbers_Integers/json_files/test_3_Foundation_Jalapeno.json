@@ -1,0 +1,129 @@
+{
+  "unit": "Unit 0: Foundations of Algebra",
+   "topic": "Natural Numbers & Integers",
+   "test_type": "Foundation (Jalapeno)",
+   "questions": [
+      { 
+         "id": 1, 
+         "type": "MQ", 
+         "question": "Classify the number $5$ as:",
+         "options": {
+            "A": "Natural and whole",
+            "B": "Integer and whole",
+            "C": "Natural, whole, and integer",
+            "D": "Only whole",
+            "E": "Only integer"
+         },
+         "answer": "C"
+      },
+      { 
+         "id": 2, 
+         "type": "MQ", 
+         "question": "Which of the following is an example of an even number?",
+         "options": {
+            "A": "$23$",
+            "B": "$14$",
+            "C": "$7$",
+            "D": "$31$",
+            "E": "$19$"
+         },
+         "answer": "B"
+      },
+      { 
+         "id": 3, 
+         "type": "MQ", 
+         "question": "A basketball player scored $-3$ points in a game due to penalties. If she initially had $10$ points, what is her final score?",
+         "options": {
+            "A": "$13$",
+            "B": "$7$",
+            "C": "$10$",
+            "D": "$4$",
+            "E": "$7$"
+         },
+         "answer": "B"
+      },
+      { 
+         "id": 4, 
+         "type": "MQ", 
+         "question": "Identify the next number in the pattern: $2, 5, 8, 11, 14$",
+         "options": {
+            "A": "$15$",
+            "B": "$17$",
+            "C": "$18$",
+            "D": "$20$",
+            "E": "$21$"
+         },
+         "answer": "B"
+      },
+      { 
+         "id": 5, 
+         "type": "MQ", 
+         "question": "What is the result of $(-2) + (-5)$?",
+         "options": {
+            "A": "$-7$",
+            "B": "$-3$",
+            "C": "$3$",
+            "D": "$7$",
+            "E": "$1$"
+         },
+         "answer": "A"
+      },
+      { 
+         "id": 6, 
+         "type": "MQ", 
+         "question": "A cyclist is $12$ meters behind the leader. If she moves $4$ meters forward, how far behind the leader is she now?",
+         "options": {
+            "A": "$16$ meters",
+            "B": "$12$ meters",
+            "C": "$8$ meters",
+            "D": "$4$ meters",
+            "E": "$0$ meters"
+         },
+         "answer": "C"
+      },
+      { 
+         "id": 7, 
+         "type": "MQ", 
+         "question": "Classify the number $-11$ as:",
+         "options": {
+            "A": "Natural and whole",
+            "B": "Integer and whole",
+            "C": "Natural, whole, and integer",
+            "D": "Only integer",
+            "E": "Only whole"
+         },
+         "answer": "D"
+      },
+      { 
+         "id": 8, 
+         "type": "MQ", 
+         "question": "What is the result of $3 \\cdot (-4)$?",
+         "options": {
+            "A": "$12$",
+            "B": "$-12$",
+            "C": "$0$",
+            "D": "$4$",
+            "E": "$-3$"
+         },
+         "answer": "B"
+      },
+      { 
+         "id": 9, 
+         "type": "FRQ", 
+         "question": "A marathon runner ran $15$ miles in the morning and $-2$ miles in the evening due to backtracking. Calculate the total distance run and show your work.",
+         "required_space_lines": 5
+      },
+      { 
+         "id": 10, 
+         "type": "FRQ", 
+         "question": "Create a numerical pattern using integers that increases by $2$ each time, starting from $-5$. List the first $5$ numbers in the pattern and explain your reasoning.",
+         "required_space_lines": 5
+      }
+   ],
+   "teacher_rules": [
+      "Provide clear instructions for each question type.",
+      "Ensure students have the necessary space for calculations.",
+      "Remind students to check their work before submitting."
+   ],
+   "footer": "Chef's Tips"
+}

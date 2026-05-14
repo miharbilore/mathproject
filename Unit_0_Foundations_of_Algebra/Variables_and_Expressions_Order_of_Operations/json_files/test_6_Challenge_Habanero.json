@@ -1,0 +1,129 @@
+{
+  "unit": "Unit 0: Foundations of Algebra",
+   "topic": "Variables and Expressions / Order of Operations",
+   "test_type": "Challenge (Habanero)",
+   "questions": [
+      {
+         "id": 1,
+         "type": "MQ",
+         "question": "Evaluate the expression $3 \\cdot 2 + 11 - 8$.",
+         "options": {
+            "A": "6",
+            "B": "10",
+            "C": "12",
+            "D": "14",
+            "E": "16"
+         },
+         "answer": "C"
+      },
+      {
+         "id": 2,
+         "type": "MQ",
+         "question": "Translate the phrase '5 more than twice a number' into an algebraic expression.",
+         "options": {
+            "A": "$2x + 1$",
+            "B": "$2x + 5$",
+            "C": "$2x - 5$",
+            "D": "$x + 5$",
+            "E": "$x - 5$"
+         },
+         "answer": "B"
+      },
+      {
+         "id": 3,
+         "type": "MQ",
+         "question": "Simplify the algebraic expression $2x + 3x - x$.",
+         "options": {
+            "A": "$3x$",
+            "B": "$4x$",
+            "C": "$5x$",
+            "D": "$6x$",
+            "E": "$x$"
+         },
+         "answer": "B"
+      },
+      {
+         "id": 4,
+         "type": "MQ",
+         "question": "Evaluate the expression $x^2 + 4x + 4$ when $x = 2$.",
+         "options": {
+            "A": "12",
+            "B": "16",
+            "C": "20",
+            "D": "24",
+            "E": "28"
+         },
+         "answer": "B"
+      },
+      {
+         "id": 5,
+         "type": "MQ",
+         "question": "A gamer has $120$ minutes of gameplay left. If they use $15$ minutes per level, how many levels can they complete? The expression to model this situation is $\\frac{120}{15} - x$, where $x$ is the number of levels completed. If $x = 2$, how many minutes are left?",
+         "options": {
+            "A": "90",
+            "B": "80",
+            "C": "70",
+            "D": "60",
+            "E": "50"
+         },
+         "answer": "B"
+      },
+      {
+         "id": 6,
+         "type": "MQ",
+         "question": "A coding app requires $3 \\cdot 10^3$ lines of code. If a programmer codes $2 \\cdot 10^2$ lines per day, how many days will it take to complete the code?",
+         "options": {
+            "A": "10",
+            "B": "15",
+            "C": "20",
+            "D": "25",
+            "E": "30"
+         },
+         "answer": "B"
+      },
+      {
+         "id": 7,
+         "type": "MQ",
+         "question": "The cost of data usage is $0.05 per megabyte. If a user uses $2.5 \\cdot 10^3$ megabytes, what is the total cost?",
+         "options": {
+            "A": "$125$",
+            "B": "$130$",
+            "C": "$135$",
+            "D": "$140$",
+            "E": "$150$"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 8,
+         "type": "MQ",
+         "question": "A scoreboard shows $5x + 2$ points for the home team and $3x - 1$ points for the visiting team. If $x = 4$, how many more points does the home team have?",
+         "options": {
+            "A": "15",
+            "B": "20",
+            "C": "25",
+            "D": "30",
+            "E": "35"
+         },
+         "answer": "B"
+      },
+      {
+         "id": 9,
+         "type": "FRQ",
+         "question": "A game developer uses the expression $2x^2 + 5x - 3$ to model the number of players in a game, where $x$ is the number of hours since the game started. Evaluate the expression when $x = 2$ and explain the result in the context of the game.",
+         "required_space_lines": 5
+      },
+      {
+         "id": 10,
+         "type": "FRQ",
+         "question": "A tech company uses the expression $3(2x + 1)$ to model the amount of data used by their servers, where $x$ is the number of users. Simplify the expression and evaluate it when $x = 5$. Show all work and explain the result in the context of the company.",
+         "required_space_lines": 5
+      }
+   ],
+   "teacher_rules": [
+      "Tip 1: Ensure students understand the order of operations (PEMDAS) to evaluate numerical expressions.",
+      "Tip 2: Encourage students to use real-world examples, such as tech and gaming, to make algebra more engaging and relevant.",
+      "Tip 3: Provide opportunities for students to practice simplifying algebraic expressions and evaluating them with given values."
+   ],
+   "footer": "Chef's Tips"
+}

@@ -1,0 +1,129 @@
+{
+  "unit": "\ud83d\udcda Unit 1: Ratio, Rate, Percentage",
+   "topic": "Mixture Problems",
+   "test_type": "Challenge (Habanero)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "A construction company mixes $2$ parts of cement with $3$ parts of sand to make concrete. If they need $50$ bags of concrete, how many bags of cement will they need?",
+           "options": {
+               "A": "20",
+               "B": "25",
+               "C": "30",
+               "D": "35",
+               "E": "40"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "A chef mixes $1$ part of sugar with $2$ parts of flour to make a cake. If she has $12$ cups of sugar, how many cups of flour will she need?",
+           "options": {
+               "A": "12",
+               "B": "16",
+               "C": "20",
+               "D": "24",
+               "E": "28"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "A builder mixes $3$ parts of water with $1$ part of paint to make a paint mixture. If he needs $14$ gallons of paint mixture, how many gallons of water will he need?",
+           "options": {
+               "A": "10",
+               "B": "12",
+               "C": "10.5",
+               "D": "12.5",
+               "E": "11.2"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "A recipe calls for a mixture of $1$ part of oil with $4$ parts of vinegar. If $5$ cups of oil are needed, how many cups of vinegar are required?",
+           "options": {
+               "A": "10",
+               "B": "15",
+               "C": "20",
+               "D": "25",
+               "E": "30"
+           },
+           "answer": "D"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "A construction site needs a mixture of $2$ parts of gravel with $1$ part of cement. If $30$ tons of gravel are available, how many tons of cement will they need?",
+           "options": {
+               "A": "10",
+               "B": "15",
+               "C": "12",
+               "D": "18",
+               "E": "20"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "A chef makes a spice blend using $3$ parts of salt and $2$ parts of pepper. If $24$ cups of salt are needed, how many cups of pepper will be required?",
+           "options": {
+               "A": "12",
+               "B": "16",
+               "C": "14",
+               "D": "20",
+       "E": "18"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "A builder needs to mix $1$ part of glue with $5$ parts of water. If $6$ gallons of glue are needed, how many gallons of water will they require?",
+           "options": {
+               "A": "20",
+               "B": "25",
+               "C": "30",
+               "D": "35",
+               "E": "40"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "A chef mixes $4$ parts of water with $1$ part of food coloring. If $8$ cups of water are needed, how many cups of food coloring will they need?",
+           "options": {
+               "A": "1",
+               "B": "2",
+               "C": "4",
+               "D": "6",
+       "E": "8"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "A construction company needs to make a mixture of $2$ parts of sand and $1$ part of cement. If they have $18$ bags of cement, how many bags of sand do they need to make the mixture? Show your work and check your units.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "A chef needs to make $50$ pounds of a spice blend using $3$ parts of paprika and $2$ parts of garlic powder. If they have $20$ pounds of paprika, how many pounds of garlic powder do they need? Show your work and check your units.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Read each question carefully",
+       "Check your units",
+       "Use the space provided to show your work"
+   ],
+   "footer_title": "Chef's Tips"
+}

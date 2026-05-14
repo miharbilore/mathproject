@@ -1,0 +1,129 @@
+{
+  "unit": "Unit 0: Foundations of Algebra",
+   "topic": "Natural Numbers & Integers",
+   "test_type": "Challenge (Habanero)",
+   "questions": [
+       { 
+           "id": 1, 
+           "type": "MQ", 
+           "question": "A recipe for making bread requires $3 \\cdot 2$ cups of flour. How many cups of flour are needed in total?", 
+           "options": { 
+               "A": "4", 
+               "B": "5", 
+               "C": "6", 
+               "D": "7", 
+               "E": "8" 
+           }, 
+           "answer": "C" 
+       },
+       { 
+           "id": 2, 
+           "type": "MQ", 
+           "question": "A building has $15$ floors. If the architect wants to add $2$ more floors, what will be the new total number of floors?", 
+           "options": { 
+               "A": "13", 
+               "B": "15", 
+               "C": "17", 
+               "D": "19", 
+               "E": "21" 
+           }, 
+           "answer": "C" 
+       },
+       { 
+           "id": 3, 
+           "type": "MQ", 
+           "question": "Which of the following numbers is an even integer: $-4$, $-3$, $-2$, $-1$, $0$?", 
+           "options": { 
+               "A": "$-4$", 
+               "B": "$-3$", 
+               "C": "$-2$", 
+               "D": "$-1$", 
+               "E": "$0$" 
+           }, 
+           "answer": "A" 
+       },
+       { 
+           "id": 4, 
+           "type": "MQ", 
+           "question": "A chef needs to package $18$ cookies into boxes that hold $3$ cookies each. How many boxes can the chef fill?", 
+           "options": { 
+               "A": "4", 
+               "B": "5", 
+               "C": "6", 
+               "D": "7", 
+               "E": "8" 
+           }, 
+           "answer": "C" 
+       },
+       { 
+           "id": 5, 
+           "type": "MQ", 
+           "question": "What is the value of $x$ in the equation $x + 2 = 7$?", 
+           "options": { 
+               "A": "3", 
+               "B": "5", 
+               "C": "7", 
+               "D": "9", 
+               "E": "11" 
+           }, 
+           "answer": "B" 
+       },
+       { 
+           "id": 6, 
+           "type": "MQ", 
+           "question": "A contractor needs to lay $240$ meters of pipe. If the pipe is sold in $8$-meter lengths, how many pieces of pipe will the contractor need to buy?", 
+           "options": { 
+               "A": "28", 
+               "B": "30", 
+               "C": "32", 
+               "D": "35", 
+               "E": "40" 
+           }, 
+           "answer": "C" 
+       },
+       { 
+           "id": 7, 
+           "type": "MQ", 
+           "question": "Which of the following is a natural number: $-1$, $0$, $1$, $-2$, $-3$?", 
+           "options": { 
+               "A": "$-1$", 
+               "B": "$0$", 
+               "C": "$1$", 
+               "D": "$-2$", 
+               "E": "$-3$" 
+           }, 
+           "answer": "C" 
+       },
+       { 
+           "id": 8, 
+           "type": "MQ", 
+           "question": "A recipe calls for $2 \\cdot 3$ teaspoons of sugar. If the recipe is repeated $2$ times, how many teaspoons of sugar are needed in total?", 
+           "options": { 
+               "A": "8", 
+               "B": "10", 
+               "C": "12", 
+               "D": "14", 
+               "E": "16" 
+           }, 
+           "answer": "C" 
+       },
+       { 
+           "id": 9, 
+           "type": "FRQ", 
+           "question": "A construction project requires $15$ workers for $8$ hours a day. If the project is extended by $2$ days, and each worker is paid $\\$20$ per hour, what is the total cost of labor for the extended project?", 
+           "required_space_lines": 5 
+       },
+       { 
+           "id": 10, 
+           "type": "FRQ", 
+           "question": "A chef is making a special sauce that requires a ratio of $3:5$ for two ingredients. If the chef has $15$ units of the first ingredient, how many units of the second ingredient are needed to maintain the ratio?", 
+           "required_space_lines": 5 
+       }
+   ],
+   "teacher_rules": [
+       "Read each question carefully before answering.",
+       "Use the space provided for free response questions.",
+       "Check your work before submitting."
+   ],
+   "footer": "Chef's Tips"
+}

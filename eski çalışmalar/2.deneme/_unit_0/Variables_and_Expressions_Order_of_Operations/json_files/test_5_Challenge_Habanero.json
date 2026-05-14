@@ -1,0 +1,129 @@
+{
+  "unit": "Unit 0: Foundations of Algebra",
+   "topic": "Variables and Expressions / Order of Operations",
+   "test_type": "Challenge (Habanero)",
+   "questions": [
+     { 
+       "id": 1, 
+       "type": "MQ", 
+       "question": "Evaluate the expression: $3 \\cdot 2 + 11 - 5$",
+       "options": {
+         "A": "15",
+         "B": "16",
+         "C": "17",
+         "D": "19",
+         "E": "21"
+       },
+       "answer": "B"
+     },
+     { 
+       "id": 2, 
+       "type": "MQ", 
+       "question": "A hiker's backpack weighs $8$ pounds. If the hiker adds $2 \\cdot 3$ energy bars, each weighing $1$ pound, what is the new weight of the backpack?",
+       "options": {
+         "A": "10",
+         "B": "11",
+         "C": "12",
+         "D": "13",
+         "E": "14"
+       },
+       "answer": "C"
+     },
+     { 
+       "id": 3, 
+       "type": "MQ", 
+       "question": "Translate the phrase '5 more than $x$' into an algebraic expression",
+       "options": {
+         "A": "$x - 5$",
+         "B": "$x + 5$",
+         "C": "$5x$",
+         "D": "$5 - x$",
+         "E": "$x^2 + 5$"
+       },
+       "answer": "B"
+     },
+     { 
+       "id": 4, 
+       "type": "MQ", 
+       "question": "Simplify the expression: $2x + 3x - x$",
+       "options": {
+         "A": "$3x$",
+         "B": "$4x$",
+         "C": "$5x$",
+         "D": "$6x$",
+         "E": "$x^2$"
+       },
+       "answer": "B"
+     },
+     { 
+       "id": 5, 
+       "type": "MQ", 
+       "question": "A car's fuel consumption is given by $2 \\cdot x + 15$, where $x$ is the number of miles driven. If the car has driven $7$ miles, how much fuel has it consumed?",
+       "options": {
+         "A": "20",
+         "B": "21",
+         "C": "29",
+         "D": "31",
+         "E": "33"
+       },
+       "answer": "C"
+     },
+     { 
+       "id": 6, 
+       "type": "MQ", 
+       "question": "Evaluate the expression: $(3 + 2)^2 - 1$",
+       "options": {
+         "A": "15",
+         "B": "16",
+         "C": "24",
+         "D": "25",
+         "E": "30"
+       },
+       "answer": "C"
+     },
+     { 
+       "id": 7, 
+       "type": "MQ", 
+       "question": "The population of a species of rabbit is given by $5 \\cdot x + 20$, where $x$ is the number of months since the initial population was recorded. If $x = 4$, what is the current population of rabbits?",
+       "options": {
+         "A": "40",
+         "B": "45",
+         "C": "50",
+         "D": "55",
+         "E": "60"
+       },
+       "answer": "C"
+     },
+     { 
+       "id": 8, 
+       "type": "MQ", 
+       "question": "Simplify the expression: $9 - 3 + 2 \\cdot 4$",
+       "options": {
+         "A": "10",
+         "B": "12",
+         "C": "14",
+         "D": "16",
+         "E": "18"
+       },
+       "answer": "C"
+     },
+     { 
+       "id": 9, 
+       "type": "FRQ", 
+       "question": "A park ranger observes the population of a species of deer and records the data as follows: the population is $25$ deer initially and increases at a rate of $3 \\cdot x$ deer per month, where $x$ is the number of months since the initial observation. Write an expression for the population of deer after $x$ months and evaluate it for $x = 6$. Provide your work and final answer.",
+       "required_space_lines": 5
+     },
+     { 
+       "id": 10, 
+       "type": "FRQ", 
+       "question": "A hiker is on a trail that has an elevation gain of $200$ feet per mile. If the hiker has already hiked $2 \\cdot x$ miles and wants to reach the summit, which is $1200$ feet above the starting point, what is the value of $x$? Write an equation representing the situation and solve for $x$. Provide your work and final answer.",
+       "required_space_lines": 5
+     }
+   ],
+   "teacher_rules": [
+     "Emphasize the importance of following the order of operations when evaluating expressions",
+     "Encourage students to use real-world scenarios to make algebra more relatable and interesting",
+     "Remind students to simplify expressions by combining like terms"
+   ],
+   "footer": "Chef's Tips"
+}

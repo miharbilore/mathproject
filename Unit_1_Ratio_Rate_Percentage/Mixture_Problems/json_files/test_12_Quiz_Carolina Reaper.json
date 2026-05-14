@@ -1,0 +1,129 @@
+{
+  "unit": "\u1f4d6 Unit 1: Ratio, Rate, Percentage",
+   "topic": "Mixture Problems",
+   "test_type": "Quiz (Carolina Reaper)",
+   "questions": [
+     {
+       "id": 1,
+       "type": "MQ",
+       "question": "A truck is loaded with $2/3$ cement and $1/3$ sand. If $300$ kg of sand is added, what fraction of the mixture is now sand?",
+       "options": {
+         "A": "$1/3$",
+         "B": "$1/2$",
+         "C": "$2/5$",
+         "D": "$3/7$",
+         "E": "$1/4$"
+       },
+       "answer": "D"
+     },
+     {
+       "id": 2,
+       "type": "MQ",
+       "question": "A shipping company has $480$ boxes of fragile items and $720$ boxes of non-fragile items. What is the ratio of fragile to non-fragile items?",
+       "options": {
+         "A": "$2:3$",
+         "B": "$1:2$",
+         "C": "$3:4$",
+         "D": "$1:1$",
+         "E": "$4:5$"
+       },
+       "answer": "A"
+     },
+     {
+       "id": 3,
+       "type": "MQ",
+       "question": "A train has $30$ cars, each with $20%$ of its capacity filled with fuel. If $5$ more cars are added, each with $30%$ capacity filled, what percentage of the total capacity is now filled?",
+       "options": {
+         "A": "$22%$",
+         "B": "$24%$",
+         "C": "$26%$",
+         "D": "$28%$",
+         "E": "$25%$"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 4,
+       "type": "MQ",
+       "question": "A cargo ship travels $360$ km in $6$ hours with a $20%$ cargo load. How far will it travel in $4$ hours with a $30%$ cargo load, assuming the speed remains constant?",
+       "options": {
+         "A": "$200$ km",
+         "B": "$220$ km",
+         "C": "$240$ km",
+         "D": "$260$ km",
+         "E": "$280$ km"
+       },
+       "answer": "C"
+     },
+     {
+       "id": 5,
+       "type": "MQ",
+       "question": "A traffic flow model estimates that $30%$ of the cars on the road are traveling at $60$ km/h. If $20%$ are traveling at $80$ km/h, what percentage of the cars are traveling at speeds other than $60$ km/h or $80$ km/h?",
+       "options": {
+         "A": "$40%$",
+         "B": "$50%$",
+         "C": "$60%$",
+         "D": "$50%$",
+         "E": "$10%$"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 6,
+       "type": "MQ",
+       "question": "A company has two types of delivery trucks, $A$ and $B$. Truck $A$ travels at $50$ km/h and truck $B$ travels at $75$ km/h. If $60%$ of the deliveries are made by truck $A$ and $40%$ by truck $B$, what is the average speed of all deliveries?",
+       "options": {
+         "A": "$57.5$ km/h",
+         "B": "$60$ km/h",
+         "C": "$62.5$ km/h",
+         "D": "$65$ km/h",
+         "E": "$67.5$ km/h"
+       },
+       "answer": "C"
+     },
+     {
+       "id": 7,
+       "type": "MQ",
+       "question": "A logistics company has a $25%$ margin on its shipping services. If it reduces its prices by $15%$, what is the new margin as a percentage of the original price?",
+       "options": {
+         "A": "$17.5%$",
+         "B": "$20%$",
+         "C": "$22.5%$",
+         "D": "$12.5%$",
+         "E": "$10%$"
+       },
+       "answer": "C"
+     },
+     {
+       "id": 8,
+       "type": "MQ",
+       "question": "A transportation company has two routes, $X$ and $Y$, with travel times of $2$ hours and $3$ hours respectively. If $40%$ of the passengers use route $X$ and $60%$ use route $Y$, what is the average travel time for all passengers?",
+       "options": {
+         "A": "$2.4$ hours",
+         "B": "$2.6$ hours",
+         "C": "$2.8$ hours",
+         "D": "$3.0$ hours",
+         "E": "$3.2$ hours"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 9,
+       "type": "FRQ",
+       "question": "A shipping company has two types of containers, small and large. The small containers have a $20%$ chance of being damaged during shipping, while the large containers have a $10%$ chance. If $40%$ of the containers are small and $60%$ are large, what is the overall probability that a container will be damaged during shipping? Show your work and calculate the answer.",
+       "required_space_lines": 5
+     },
+     {
+       "id": 10,
+       "type": "FRQ",
+       "question": "A train has $20$ cars, each with a $25%$ chance of being filled with cargo. If $5$ more cars are added, each with a $30%$ chance of being filled, what is the probability that exactly $12$ cars are filled with cargo? Use the binomial probability formula to calculate the answer. Show your work and provide the final probability.",
+       "required_space_lines": 5
+     }
+   ],
+   "teacher_rules": [
+     "Read the questions carefully before answering",
+     "Use the space provided to show your work",
+     "Check your units and calculations"
+   ],
+   "footer_title": "Chef's Tips"
+ }

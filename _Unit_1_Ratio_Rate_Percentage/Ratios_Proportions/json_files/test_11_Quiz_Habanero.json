@@ -1,0 +1,129 @@
+{
+  "unit": "\u1F4D6 Unit 1: Ratio, Rate, Percentage",
+   "topic": "Ratios & Proportions",
+   "test_type": "Quiz (Habanero)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "If the ratio of sunny days to rainy days in a week is $3:2$, what is the fraction of sunny days?",
+           "options": {
+               "A": "$\frac{3}{5}$",
+               "B": "$\frac{2}{5}$",
+               "C": "$\frac{1}{2}$",
+               "D": "$\frac{3}{7}$",
+               "E": "$\frac{2}{3}$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "A city's average temperature rises by $2^circ C$ for every $5^circ C$ drop in a nearby city. If the nearby city's temperature drops by $15^circ C$, what is the rise in the first city's temperature?",
+           "options": {
+               "A": "$4^circ C$",
+               "B": "$6^circ C$",
+               "C": "$8^circ C$",
+               "D": "$10^circ C$",
+               "E": "$12^circ C$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "A weather station records $12$ hours of sunlight and $8$ hours of darkness. What is the ratio of daylight to darkness?",
+           "options": {
+               "A": "$1:1$",
+               "B": "$2:1$",
+               "C": "$3:2$",
+               "D": "$4:3$",
+               "E": "$5:4$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "If $x$ kilograms of rainwater collects on a rooftop for every $4$ hours of rainfall, and it rains for $12$ hours, how many kilograms of rainwater collect if $x = 5$?",
+           "options": {
+               "A": "$5$ kg",
+               "B": "$10$ kg",
+               "C": "$15$ kg",
+               "D": "$20$ kg",
+       "E": "$25$ kg"
+       },
+           "answer": "C"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "A park has a ratio of $5$ trees to $2$ benches. If there are $20$ benches, how many trees are in the park?",
+           "options": {
+               "A": "$20$ trees",
+       "B": "$25$ trees",
+       "C": "$40$ trees",
+       "D": "$50$ trees",
+       "E": "$60$ trees"
+       },
+           "answer": "C"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "A group of people are planning a camping trip. The ratio of hikers to campers is $3:5$. If $15$ people are going camping, how many hikers will there be?",
+           "options": {
+               "A": "$5$ hikers",
+       "B": "$6$ hikers",
+       "C": "$7$ hikers",
+       "D": "$8$ hikers",
+       "E": "$9$ hikers"
+       },
+           "answer": "C"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "In a $24$-hour period, $12$ hours have an humidity level above $60%$. What fraction of the day has high humidity?",
+           "options": {
+               "A": "$\frac{1}{3}$",
+       "B": "$\frac{1}{2}$",
+       "C": "$\frac{2}{3}$",
+       "D": "$\frac{3}{4}$",
+       "E": "$\frac{1}{1}$"
+       },
+           "answer": "B"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "A factory produces $2000$ units of a product per day. The ratio of units produced in the morning to units produced in the afternoon is $3:2$. How many units are produced in the morning?",
+           "options": {
+               "A": "$600$ units",
+       "B": "$800$ units",
+       "C": "$1000$ units",
+       "D": "$1200$ units",
+       "E": "$1500$ units"
+       },
+           "answer": "C"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "The rainfall in a region is $8$ times the evaporation rate from the lakes. If $1500$ liters of water evaporate per day, how much rainfall is collected in a $30$-day period?",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "A river's water level rises $2$ meters for every $1000$ cubic meters of water that flow into it. If the water level rises $10$ meters, what volume of water has flowed into the river?",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Read each problem carefully and choose the correct answer.",
+       "Show your work and explain your reasoning for free-response questions.",
+       "Use the space provided to work out your answers."
+   ],
+   "footer": "Chef's Tips"
+}

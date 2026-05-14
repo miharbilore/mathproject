@@ -1,0 +1,129 @@
+{
+  "unit": "Unit 3: Functions",
+   "topic": "Function Transformations",
+   "test_type": "Quiz (Habanero)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "The temperature in a greenhouse is modeled by the function $f(x) = x^2 + 2x + 1$. If the temperature increases by $3$ degrees, the new function is",
+           "options": {
+               "A": "$f(x) = x^2 + 2x + 4$",
+               "B": "$f(x) = x^2 + 2x + 1 + 3$",
+               "C": "$f(x) = x^2 + 2x - 2$",
+               "D": "$f(x) = x^2 + 2x$",
+               "E": "$f(x) = x^2 + 5x + 4$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "The function $g(x) = 2x^2$ represents the growth rate of a particular ecosystem. If the ecosystem's growth rate is reflected over the y-axis, the new function is",
+           "options": {
+               "A": "$g(x) = -2x^2$",
+               "B": "$g(x) = 2x^2$",
+               "C": "$g(x) = 2(-x)^2$",
+               "D": "$g(x) = -2(-x)^2$",
+               "E": "$g(x) = 2x$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "The rainfall in a region is modeled by the function $h(x) = x^2 - 4x + 3$. If the rainfall pattern is shifted $2$ units to the right, the new function is",
+           "options": {
+               "A": "$h(x) = (x-2)^2 - 4(x-2) + 3$",
+               "B": "$h(x) = x^2 - 4x + 3$",
+               "C": "$h(x) = (x+2)^2 - 4(x+2) + 3$",
+               "D": "$h(x) = x^2 - 4x - 1$",
+               "E": "$h(x) = x^2 - 2x + 1$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "The function $f(x) = x^2$ is compressed horizontally by a factor of $2$. The new function is",
+           "options": {
+               "A": "$f(x) = (2x)^2$",
+               "B": "$f(x) = (x/2)^2$",
+               "C": "$f(x) = x^2$",
+               "D": "$f(x) = 2x^2$",
+               "E": "$f(x) = x^2/2$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "The temperature in a city is modeled by the function $g(x) = 2x + 1$. If the temperature is reflected over the x-axis, the new function is",
+           "options": {
+               "A": "$g(x) = 2x + 1$",
+               "B": "$g(x) = -2x - 1$",
+               "C": "$g(x) = 2x - 1$",
+               "D": "$g(x) = -2x + 1$",
+               "E": "$g(x) = x + 2$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "The function $h(x) = x^2 - 2x + 1$ is stretched vertically by a factor of $3$. The new function is",
+           "options": {
+               "A": "$h(x) = 3x^2 - 6x + 3$",
+               "B": "$h(x) = x^2 - 2x + 1$",
+               "C": "$h(x) = x^2/3 - 2x/3 + 1/3$",
+               "D": "$h(x) = 3(x^2 - 2x + 1)$",
+               "E": "$h(x) = x^2 - 6x + 3$"
+           },
+           "answer": "D"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "The function $f(x) = x^2$ is shifted $1$ unit down. The new function is",
+           "options": {
+               "A": "$f(x) = x^2 - 1$",
+               "B": "$f(x) = x^2 + 1$",
+               "C": "$f(x) = (x-1)^2$",
+               "D": "$f(x) = x^2$",
+               "E": "$f(x) = x^2 + 2$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "The function $g(x) = 2x^2 - 3x + 1$ is compared to its parent function $f(x) = x^2$. The transformation from $f(x)$ to $g(x)$ is",
+           "options": {
+               "A": "vertical stretch and horizontal shift",
+               "B": "vertical compression and horizontal shift",
+               "C": "horizontal stretch and vertical shift",
+               "D": "horizontal compression and vertical shift",
+               "E": "reflection over x-axis and y-axis"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "The rainfall in a region is modeled by the function $h(x) = x^2 - 2x + 1$. Describe and apply a vertical shift of $2$ units up and a horizontal shift of $1$ unit to the right to the function. Show all work and graphs.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "The function $f(x) = x^2$ represents the growth rate of a particular ecosystem. Apply a reflection over the y-axis and a vertical compression by a factor of $2$ to the function. Compare the transformed graph to the parent function and describe any similarities or differences. Show all work and graphs.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Emphasize the importance of understanding function transformations and their effects on graphs.",
+       "Encourage students to use graphing software or sketch graphs by hand to visualize transformations.",
+       "Remind students to show all work and explain their reasoning for each problem."
+   ],
+   "footer": "Chef's Tips"
+}

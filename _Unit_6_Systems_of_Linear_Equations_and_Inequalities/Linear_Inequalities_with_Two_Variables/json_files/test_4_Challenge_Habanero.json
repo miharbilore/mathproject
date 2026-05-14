@@ -1,0 +1,129 @@
+{
+  "unit": "\ud83d\udcda Unit 6: Systems of Linear Equations and Inequalities",
+   "topic": "Linear Inequalities with Two Variables",
+   "test_type": "Challenge (Habanero)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "Which inequality represents the region below the line $y = 2x - 3$?",
+           "options": {
+               "A": "$y < 2x - 3$",
+               "B": "$y > 2x - 3$",
+               "C": "$y \\leq 2x - 3$",
+               "D": "$y \\geq 2x - 3$",
+               "E": "$x < 2y + 3$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "A building's roof is designed with a slope of $-\\frac{1}{3}$. If $x$ represents the horizontal distance and $y$ represents the height, which inequality represents the area below the roof?",
+           "options": {
+               "A": "$y < -\\frac{1}{3}x + 10$",
+               "B": "$y > -\\frac{1}{3}x + 10$",
+               "C": "$y \\leq -\\frac{1}{3}x + 10$",
+               "D": "$y \\geq -\\frac{1}{3}x + 10$",
+               "E": "$x > -3y + 10$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "A recipe calls for $x$ cups of flour and $y$ cups of sugar, where $x + 2y \\geq 6$. Which of the following is a possible combination of flour and sugar?",
+           "options": {
+               "A": "2 cups flour, 2 cups sugar",
+               "B": "3 cups flour, 1.5 cups sugar",
+               "C": "1 cup flour, 3 cups sugar",
+               "D": "4 cups flour, 1 cup sugar",
+               "E": "2 cups flour, 1 cup sugar"
+           },
+           "answer": "D"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "For the inequality $y < \\frac{3}{4}x - 2$, which of the following lines is the boundary?",
+           "options": {
+       "A": "$y = \\frac{3}{4}x - 2$, solid",
+       "B": "$y = \\frac{3}{4}x - 2$, dashed",
+       "C": "$y = -\\frac{4}{3}x + 2$, solid",
+       "D": "$y = -\\frac{4}{3}x + 2$, dashed",
+       "E": "$x = \\frac{4}{3}y + 2$, solid"
+   },
+           "answer": "B"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "The region below the line $x - 2y = 5$ can be represented by the inequality $x - 2y",
+           "options": {
+               "A": "$> 5$",
+               "B": "$< 5$",
+               "C": "$\\geq 5$",
+               "D": "$\\leq 5$",
+               "E": "$= 5$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "A bakery sells a total of $x$ loaves of bread and $y$ pastries, with the constraint $x + y \\leq 250$. Which of the following is NOT a possible combination of loaves and pastries?",
+           "options": {
+               "A": "100 loaves, 150 pastries",
+               "B": "200 loaves, 50 pastries",
+               "C": "150 loaves, 100 pastries",
+               "D": "250 loaves, 0 pastries",
+       "E": "260 loaves, 0 pastries"
+   },
+           "answer": "E"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "A construction worker must build a wall with a height of $y$ feet and a width of $x$ feet, where $2x + y \\geq 12$. Which of the following is a possible combination of height and width?",
+           "options": {
+               "A": "4 feet wide, 4 feet tall",
+               "B": "3 feet wide, 6 feet tall",
+       "C": "2 feet wide, 8 feet tall",
+       "D": "6 feet wide, 0 feet tall",
+       "E": "0 feet wide, 12 feet tall"
+   },
+           "answer": "B"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "For the inequality $y > -x + 1$, which of the following is the boundary line?",
+           "options": {
+       "A": "$y = -x + 1$, solid",
+       "B": "$y = -x + 1$, dashed",
+       "C": "$y = x + 1$, solid",
+       "D": "$y = x + 1$, dashed",
+       "E": "$x = -y + 1$, solid"
+   },
+           "answer": "B"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "Graph the inequality $y < \\frac{1}{2}x + 2$ on the coordinate plane. Identify the boundary line and shade the solution region.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "A contractor is building a house with a rectangular foundation, where the length $x$ and width $y$ satisfy the inequality $x + 2y \\leq 20$. If the length of the house must be at least 4 feet, write an inequality to represent the possible values of $y$. Graph the solution region on the coordinate plane.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Check for correct graphing of inequalities",
+       "Verify correct identification of boundary lines",
+       "Ensure students provide clear and concise explanations for their answers"
+   ],
+   "footer_title": "Chef's Tips"
+}

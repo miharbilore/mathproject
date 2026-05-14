@@ -1,0 +1,18 @@
+{
+  "unit": "Unit 3: Functions",
+   "topic": "Inverse Relations and Functions",
+   "test_type": "Challenge (Habanero)",
+   "questions": [
+     { "id": 1, "type": "MQ", "question": "A recipe for cake requires $2x$ cups of flour and $3x$ cups of sugar. If $f(x)$ represents the amount of flour and $g(x)$ represents the amount of sugar, what is the inverse of the relation $f(g(x))$?", "options": {"A": "$\\frac{x}{6}$", "B": "$\\frac{x}{3}$", "C": "$\\frac{x}{2}$", "D": "$x$", "E": "$2x$"}, "answer": "A" },
+     { "id": 2, "type": "MQ", "question": "A building's height is $5x$ meters, and its shadow is $2x$ meters. If the function $h(x)$ represents the height and $s(x)$ represents the shadow length, what is $h^{-1}(s(x))$?", "options": {"A": "$\\frac{x}{10}$", "B": "$\\frac{x}{5}$", "C": "$\\frac{x}{2}$", "D": "$x$", "E": "$2x$"}, "answer": "B" },
+     { "id": 3, "type": "MQ", "question": "If $f(x) = 2x + 1$, what is the equation of its inverse function $f^{-1}(x)$?", "options": {"A": "$\\frac{x-1}{2}$", "B": "$\\frac{x+1}{2}$", "C": "$\\frac{x-2}{2}$", "D": "$\\frac{x+2}{2}$", "E": "$x-2$"}, "answer": "A" },
+     { "id": 4, "type": "MQ", "question": "A construction company uses the function $c(x) = 3x - 2$ to calculate the cost of building a house, where $x$ is the number of rooms. What is $c^{-1}(x)$?", "options": {"A": "$\\frac{x+2}{3}$", "B": "$\\frac{x-2}{3}$", "C": "$\\frac{x+1}{2}$", "D": "$\\frac{x-1}{2}$", "E": "$x+2$"}, "answer": "A" },
+     { "id": 5, "type": "MQ", "question": "If $f(x) = x^2 + 2$, does $f(x)$ have an inverse function?", "options": {"A": "Yes", "B": "No", "C": "Maybe", "D": "Only for $x > 0$", "E": "Only for $x < 0$"}, "answer": "B" },
+     { "id": 6, "type": "MQ", "question": "The volume $V$ of a rectangular prism is given by $V = lwh$, where $l$ is the length, $w$ is the width, and $h$ is the height. If $l = 2w$ and $h = 3w$, what is the inverse of the relation $V(w)$?", "options": {"A": "$\\frac{x}{12}$", "B": "$\\frac{x}{6}$", "C": "$\\sqrt[3]{\\frac{x}{6}}$", "D": "$\\sqrt{\\frac{x}{6}}$", "E": "$\\frac{x}{2}$"}, "answer": "C" },
+     { "id": 7, "type": "MQ", "question": "A chef uses the function $t(x) = 2x - 5$ to determine the cooking time for a dish, where $x$ is the number of servings. What is $t^{-1}(x)$?", "options": {"A": "$\\frac{x+5}{2}$", "B": "$\\frac{x-5}{2}$", "C": "$\\frac{x+2}{2}$", "D": "$\\frac{x-2}{2}$", "E": "$x+5$"}, "answer": "A" },
+     { "id": 8, "type": "MQ", "question": "If $f(x) = x^2 - 4$, does $f(x)$ have an inverse function?", "options": {"A": "Yes", "B": "No", "C": "Maybe", "D": "Only for $x > 0$", "E": "Only for $x < 0$"}, "answer": "B" },
+     { "id": 9, "type": "FRQ", "question": "A contractor uses the function $c(x) = 2x + 5$ to calculate the cost of building a house, where $x$ is the number of rooms. Find the inverse of $c(x)$ and interpret its meaning in the context of the problem. Show all work and explain your answer.", "required_space_lines": 5 },
+     { "id": 10, "type": "FRQ", "question": "A baker uses the function $s(x) = 3x - 2$ to determine the amount of sugar needed for a recipe, where $x$ is the number of servings. Find the inverse of $s(x)$ and use it to find the number of servings that require $5$ cups of sugar. Show all work and explain your answer.", "required_space_lines": 5 }
+   ],
+   "teacher_rules": ["Read each question carefully", "Use the given equations to find the inverse functions", "Show all work and explain your answers"]
+}

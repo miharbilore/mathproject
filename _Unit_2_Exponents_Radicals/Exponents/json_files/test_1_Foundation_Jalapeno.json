@@ -1,0 +1,129 @@
+{
+  "unit": "\u1F4D6 Unit 2: Exponents & Radicals",
+   "topic": "Exponents",
+   "test_type": "Foundation (Jalapeno)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "Simplify $2^3 \\cdot 2^4$",
+           "options": {
+               "A": "$2^{3+4}$",
+               "B": "$2^{3-4}$",
+               "C": "$2^{3 \\cdot 4}$",
+               "D": "$2^{3/4}$",
+               "E": "$2^{4-3}$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "If $x^2 = 16$, then $x^4$ is",
+           "options": {
+               "A": "$16^2$",
+               "B": "$16^{1/2}$",
+               "C": "$4^2$",
+               "D": "$2^4$",
+               "E": "$8^2$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "The stock price of XYZ Inc. increases by a factor of $2^2$ each year. If it was $$10$ last year, what will it be in two years?",
+           "options": {
+               "A": "$$10 \\cdot 2^2$",
+               "B": "$$10 \\cdot 2^4$",
+               "C": "$$10 \\cdot 2^{2 \\cdot 2}$",
+               "D": "$$10 \\cdot 2^{2+2}$",
+               "E": "$$10 \\cdot 2^{2-2}$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "Simplify $(3^2)^3$",
+           "options": {
+               "A": "$3^{2+3}$",
+               "B": "$3^{2 \\cdot 3}$",
+               "C": "$3^{2-3}$",
+               "D": "$3^{2/3}$",
+               "E": "$3^{3-2}$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "A savings account earns interest at a rate of $2^2$% per year. If you start with $$1000$, how much will you have after one year?",
+           "options": {
+               "A": "$$1000 + $1000 \\cdot 2^2$",
+       "B": "$$1000 + $1000 \\cdot 2^{2-1}$",
+       "C": "$$1000 \\cdot 2^2$",
+       "D": "$$1000 \\cdot 2^{2+1}$",
+       "E": "$$1000 \\cdot 2^{2-2}$"
+   },
+   "answer": "A"
+},
+{
+   "id": 6,
+   "type": "MQ",
+   "question": "Simplify $4^3 \\cdot 4^2$",
+   "options": {
+       "A": "$4^{3+2}$",
+       "B": "$4^{3-2}$",
+       "C": "$4^{3 \\cdot 2}$",
+       "D": "$4^{3/2}$",
+       "E": "$4^{2-3}$"
+   },
+   "answer": "A"
+},
+{
+   "id": 7,
+   "type": "MQ",
+   "question": "The tax on a stock is $2^3$% of its value. If the stock is worth $$256$, what is the tax?",
+   "options": {
+       "A": "$$256 \\cdot 2^3$",
+       "B": "$$256 \\cdot 2^{3-1}$",
+       "C": "$$256 \\cdot 2^{3+1}$",
+       "D": "$$256 / 2^3$",
+       "E": "$$256 / 2^{3-1}$"
+   },
+   "answer": "A"
+},
+{
+   "id": 8,
+   "type": "MQ",
+   "question": "Simplify $(2^2)^4$",
+   "options": {
+       "A": "$2^{2+4}$",
+       "B": "$2^{2 \\cdot 4}$",
+       "C": "$2^{2-4}$",
+       "D": "$2^{2/4}$",
+       "E": "$2^{4-2}$"
+   },
+   "answer": "B"
+},
+{
+   "id": 9,
+   "type": "FRQ",
+   "question": "A company's profit increases by a factor of $3^2$ each quarter. If the profit was $$2500$ last quarter, what will it be in three quarters? Show your work and simplify your answer.",
+   "required_space_lines": 5
+},
+{
+   "id": 10,
+   "type": "FRQ",
+   "question": "Simplify the expression $2^3 \\cdot 4^2 \\cdot 8^1$. Show your work and explain each step.",
+   "required_space_lines": 5
+}
+   ],
+   "teacher_rules": [
+       "Tip 1: Make sure to check the units of the answers",
+       "Tip 2: Use the rules of exponents to simplify the expressions",
+       "Tip 3: Use real-world examples to help students understand the concepts"
+   ],
+   "footer": "Chef's Tips"
+}

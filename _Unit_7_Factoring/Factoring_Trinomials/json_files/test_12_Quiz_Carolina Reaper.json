@@ -1,0 +1,129 @@
+{
+  "unit": "\uD83D\uDCD8 Unit 7: Factoring",
+   "topic": "Factoring Trinomials",
+   "test_type": "Quiz (Carolina Reaper)",
+   "questions": [
+     {
+       "id": 1,
+       "type": "MQ",
+       "question": "A shipping company has a cost function $C(x) = 2x^2 + 5x + 3$ to transport $x$ crates. Factor the function.",
+       "options": {
+         "A": "$C(x) = (2x + 1)(x + 3)$",
+         "B": "$C(x) = (2x + 3)(x + 1)$",
+         "C": "$C(x) = (x + 1)(2x + 3)$",
+         "D": "$C(x) = (x + 3)(2x + 1)$",
+         "E": "$C(x) = (2x + 3)(x - 1)$"
+       },
+       "answer": "A"
+     },
+     {
+       "id": 2,
+       "type": "MQ",
+       "question": "The time $t$ it takes for a package to be delivered is given by $t(x) = x^2 + 4x + 4$. Factor $t(x)$.",
+       "options": {
+         "A": "$t(x) = (x + 2)(x - 2)$",
+         "B": "$t(x) = (x + 2)(x + 2)$",
+         "C": "$t(x) = (x - 2)(x - 2)$",
+         "D": "$t(x) = (x + 4)(x + 1)$",
+         "E": "$t(x) = (x - 4)(x - 1)$"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 3,
+       "type": "MQ",
+       "question": "A traffic flow model is given by $F(x) = 3x^2 + 2x - 1$. Factor $F(x)$ if possible.",
+       "options": {
+         "A": "$F(x) = (3x - 1)(x + 1)$",
+         "B": "$F(x) = (3x + 1)(x - 1)$",
+         "C": "$F(x) = (x + 1)(3x - 1)$",
+         "D": "Not factorable",
+         "E": "$F(x) = (x - 1)(3x + 1)$"
+       },
+       "answer": "D"
+     },
+     {
+       "id": 4,
+       "type": "MQ",
+       "question": "A logistics company has a profit function $P(x) = 2x^2 - 5x - 3$. Factor $P(x)$ if possible.",
+       "options": {
+         "A": "$P(x) = (2x + 1)(x - 3)$",
+         "B": "$P(x) = (2x - 1)(x + 3)$",
+         "C": "$P(x) = (x + 1)(2x - 3)$",
+         "D": "Not factorable",
+         "E": "$P(x) = (x - 1)(2x + 3)$"
+       },
+       "answer": "D"
+     },
+     {
+       "id": 5,
+       "type": "MQ",
+       "question": "The cost of shipping $x$ packages is given by $C(x) = x^2 + 2x + 1$. Factor $C(x)$.",
+       "options": {
+         "A": "$C(x) = (x + 1)(x - 1)$",
+         "B": "$C(x) = (x + 1)(x + 1)$",
+         "C": "$C(x) = (x - 1)(x - 1)$",
+         "D": "$C(x) = (x + 2)(x + 1)$",
+         "E": "$C(x) = (x - 2)(x - 1)$"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 6,
+       "type": "MQ",
+       "question": "The time $t$ it takes for a truck to travel $x$ miles is given by $t(x) = x^2 - 4x + 4$. Factor $t(x)$.",
+       "options": {
+         "A": "$t(x) = (x + 2)(x - 2)$",
+         "B": "$t(x) = (x - 2)(x - 2)$",
+         "C": "$t(x) = (x + 2)(x + 2)$",
+         "D": "$t(x) = (x + 4)(x + 1)$",
+         "E": "$t(x) = (x - 4)(x - 1)$"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 7,
+       "type": "MQ",
+       "question": "A delivery company has a function $D(x) = x^2 + 5x + 6$ to model the number of deliveries. Factor $D(x)$.",
+       "options": {
+         "A": "$D(x) = (x + 2)(x + 3)$",
+         "B": "$D(x) = (x + 1)(x + 6)$",
+         "C": "$D(x) = (x - 2)(x + 3)$",
+         "D": "$D(x) = (x + 2)(x - 3)$",
+         "E": "$D(x) = (x - 1)(x + 6)$"
+       },
+       "answer": "A"
+     },
+     {
+       "id": 8,
+       "type": "MQ",
+       "question": "The cost of fuel for a truck is given by $F(x) = 2x^2 + 7x + 3$. Factor $F(x)$ if possible.",
+       "options": {
+         "A": "$F(x) = (2x + 1)(x + 3)$",
+         "B": "$F(x) = (2x + 3)(x + 1)$",
+         "C": "$F(x) = (x + 3)(2x + 1)$",
+         "D": "Not factorable",
+         "E": "$F(x) = (x + 1)(2x + 3)$"
+       },
+       "answer": "D"
+     },
+     {
+       "id": 9,
+       "type": "FRQ",
+       "question": "A company has a cost function $C(x) = ax^2 + bx + c$ to transport $x$ crates. If $C(1) = 10$, $C(2) = 25$, and $C(3) = 42$, find the factored form of $C(x)$.",
+       "required_space_lines": 5
+     },
+     {
+       "id": 10,
+       "type": "FRQ",
+       "question": "A logistics company has a profit function $P(x) = 3x^2 - 2x - 1$. Factor $P(x)$ if possible, and explain your reasoning.",
+       "required_space_lines": 5
+     }
+   ],
+   "teacher_rules": [
+     "Read each question carefully before answering.",
+     "Show all work and explain your reasoning for FRQ questions.",
+     "Use the given formulas and equations to solve problems."
+   ],
+   "footer_title": "Chef's Tips"
+}

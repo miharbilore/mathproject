@@ -1,0 +1,129 @@
+{
+  "unit": "\uD83D\uDCD8 Unit 1: Ratio, Rate, Percentage",
+   "topic": "Rates & Variation",
+   "test_type": "Quiz (Habanero)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "A weather station records $15$ inches of rainfall in $3$ hours. What is the rate of rainfall per hour?",
+           "options": {
+               "A": "$3$ inches/hour",
+               "B": "$5$ inches/hour",
+               "C": "$6$ inches/hour",
+               "D": "$8$ inches/hour",
+               "E": "$10$ inches/hour"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "If $y$ varies directly with $x$, and $y = 12$ when $x = 4$, find the value of $y$ when $x = 6$.",
+           "options": {
+               "A": "$12$",
+               "B": "$16$",
+               "C": "$18$",
+               "D": "$20$",
+               "E": "$24$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "A ship travels $240$ miles in $4$ hours. What is its average speed?",
+           "options": {
+               "A": "$40$ miles/hour",
+               "B": "$50$ miles/hour",
+               "C": "$60$ miles/hour",
+               "D": "$70$ miles/hour",
+               "E": "$80$ miles/hour"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "The temperature in a city decreases by $2^circ$C for every $1000$ feet of elevation. If the temperature at sea level is $25^circ$C, find the temperature at an elevation of $3000$ feet.",
+           "options": {
+               "A": "$19^circ$C",
+               "B": "$21^circ$C",
+               "C": "$23^circ$C",
+               "D": "$25^circ$C",
+       "E": "$27^circ$C"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "A water tank can be filled by a pump at a rate of $2$ cubic meters per minute. How many minutes will it take to fill a tank that holds $30$ cubic meters of water?",
+           "options": {
+               "A": "$10$ minutes",
+               "B": "$12$ minutes",
+               "C": "$15$ minutes",
+               "D": "$18$ minutes",
+       "E": "$20$ minutes"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "A group of friends want to share some candy equally. If they have $48$ pieces of candy and there are $8$ friends, how many pieces will each friend get?",
+           "options": {
+               "A": "$4$ pieces",
+               "B": "$5$ pieces",
+       "C": "$6$ pieces",
+       "D": "$7$ pieces",
+       "E": "$8$ pieces"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "A cyclist travels $25$ miles in $2$ hours. What is the cyclist's average speed in miles per hour?",
+           "options": {
+       "A": "$10$ miles/hour",
+       "B": "$12$ miles/hour",
+       "C": "$12.5$ miles/hour",
+       "D": "$15$ miles/hour",
+       "E": "$20$ miles/hour"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "The cost of a ticket to a concert is directly proportional to the number of tickets purchased. If $2$ tickets cost $$20$, how much will $5$ tickets cost?",
+           "options": {
+       "A": "$$25$",
+       "B": "$$30$",
+       "C": "$$40$",
+       "D": "$$45$",
+       "E": "$$50$"
+           },
+           "answer": "D"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "A company is planning to build a new wind farm. The cost of the wind farm is directly proportional to the number of wind turbines. If the cost of $3$ wind turbines is $$900,000$, find the cost of $7$ wind turbines. Show your work and explain your reasoning.",
+       "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "A city's water reservoir can hold $1,200,000$ gallons of water. Due to a drought, the reservoir is being filled at a rate of $5,000$ gallons per hour. How many hours will it take to fill the reservoir? If the city's population is growing at a rate of $2%$ per year, and the current population is $100,000$, how many people will there be in $5$ years? Show your work and explain your reasoning.",
+       "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Calculate the unit rate by dividing the total amount by the total time or quantity.",
+       "Use the formula $y = kx$ for direct variation, where $k$ is the constant of variation.",
+       "Use the formula $y = \\frac{k}{x}$ for inverse variation, where $k$ is the constant of variation.",
+       "Chef's Tips"
+   ]
+}

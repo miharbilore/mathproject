@@ -1,0 +1,129 @@
+{
+  "unit": "\u1F4D6 Unit 5: Linear Equations",
+   "topic": "Scatter Plot and The Best Fit Line",
+   "test_type": "Quiz (Carolina Reaper)",
+   "questions": [
+       { 
+           "id": 1, 
+           "type": "MQ", 
+           "question": "A shipping company tracks the number of packages delivered and the total distance traveled. If the correlation between the two variables is $0.85$, what can be concluded?", 
+           "options": { 
+               "A": "Positive correlation", 
+               "B": "Negative correlation", 
+               "C": "No correlation", 
+               "D": "Weak correlation", 
+               "E": "Inverse correlation" 
+           }, 
+           "answer": "A" 
+       },
+       { 
+           "id": 2, 
+           "type": "MQ", 
+           "question": "The scatter plot below shows the relationship between the number of trucks on the road and the average traffic speed. What is the approximate equation of the line of best fit?", 
+           "options": { 
+               "A": "$y = 2x - 5$", 
+               "B": "$y = -0.5x + 30$", 
+               "C": "$y = x + 10$", 
+               "D": "$y = -2x + 20$", 
+               "E": "$y = 0.2x + 15$" 
+           }, 
+           "answer": "B" 
+       },
+       { 
+           "id": 3, 
+           "type": "MQ", 
+           "question": "A delivery company wants to predict the time it will take to deliver a package based on the distance from the warehouse. The company collects the following data: $(2, 10)$, $(4, 15)$, $(6, 20)$. What is the equation of the line of best fit?", 
+           "options": { 
+               "A": "$y = 2.5x + 5$", 
+               "B": "$y = 5x - 0.1$", 
+               "C": "$y = 0.5x + 10$", 
+               "D": "$y = x + 5$", 
+               "E": "$y = 1.5x + 2$" 
+           }, 
+           "answer": "C" 
+       },
+       { 
+           "id": 4, 
+           "type": "MQ", 
+           "question": "A transportation company tracks the relationship between the number of flights and the total passenger capacity. If the line of best fit has a slope of $-2$ and passes through the point $(10, 50)$, what is the equation of the line?", 
+           "options": { 
+               "A": "$y = -2x + 70$", 
+               "B": "$y = -2x + 30$", 
+               "C": "$y = 2x - 10$", 
+               "D": "$y = x + 40$", 
+               "E": "$y = -x - 20$" 
+           }, 
+           "answer": "A" 
+       },
+       { 
+           "id": 5, 
+           "type": "MQ", 
+           "question": "A traffic engineer collects data on the number of cars on the road and the average speed. The correlation between the two variables is $-0.7$. What does this indicate?", 
+           "options": { 
+               "A": "Positive correlation", 
+               "B": "Negative correlation", 
+               "C": "No correlation", 
+               "D": "Weak correlation", 
+               "E": "Inverse correlation" 
+           }, 
+           "answer": "B" 
+       },
+       { 
+           "id": 6, 
+           "type": "MQ", 
+           "question": "A shipping company uses a scatter plot to analyze the relationship between the weight of packages and the shipping cost. If the line of best fit has a $y$-intercept of $5$ and a slope of $0.2$, what is the equation of the line?", 
+           "options": { 
+               "A": "$y = 0.2x + 5$", 
+               "B": "$y = 0.2x - 5$", 
+               "C": "$y = 2x + 5$", 
+               "D": "$y = x + 5$", 
+               "E": "$y = 5x - 2$" 
+           }, 
+           "answer": "A" 
+       },
+       { 
+           "id": 7, 
+           "type": "MQ", 
+           "question": "The following data represents the relationship between the time of day and the number of buses on the road: $(8, 20)$, $(12, 30)$, $(16, 40)$. What is the approximate slope of the line of best fit?", 
+           "options": { 
+               "A": "$2$", 
+               "B": "$3$", 
+               "C": "$1$", 
+               "D": "$0.5$", 
+               "E": "$4$" 
+           }, 
+           "answer": "A" 
+       },
+       { 
+           "id": 8, 
+           "type": "MQ", 
+           "question": "A transportation company tracks the relationship between the number of trains and the total passenger capacity. If the line of best fit has a slope of $3$ and passes through the point $(5, 20)$, what is the equation of the line?", 
+           "options": { 
+               "A": "$y = 3x - 5$", 
+               "B": "$y = 3x + 5$", 
+               "C": "$y = x + 15$", 
+               "D": "$y = 2x + 10$", 
+               "E": "$y = -x + 25$" 
+           }, 
+           "answer": "A" 
+       },
+       { 
+           "id": 9, 
+           "type": "FRQ", 
+           "question": "A delivery company wants to predict the time it will take to deliver a package based on the distance from the warehouse. The company collects the following data: $(10, 25)$, $(20, 35)$, $(30, 45)$. Find the equation of the line of best fit and use it to predict the delivery time for a package that is $40$ miles away from the warehouse.", 
+           "required_space_lines": 5 
+       },
+       { 
+           "id": 10, 
+           "type": "FRQ", 
+           "question": "A traffic engineer collects data on the number of cars on the road and the average speed. The correlation between the two variables is $-0.9$. If the line of best fit has a slope of $-2$ and passes through the point $(15, 40)$, find the equation of the line and use it to predict the average speed when there are $25$ cars on the road.", 
+           "required_space_lines": 5 
+       }
+   ],
+   "teacher_rules": [
+       "Tip 1: Ensure students understand the concept of correlation and how it relates to the line of best fit.",
+       "Tip 2: Encourage students to use graph paper to create scatter plots and draw lines of best fit.",
+       "Tip 3: Remind students to check their units and ensure that their predictions make sense in the context of the problem."
+   ],
+   "footer": "Chef's Tips"
+}

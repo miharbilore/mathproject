@@ -1,0 +1,129 @@
+{
+  "unit":"📘 Unit 2: Exponents & Radicals",
+   "topic":"Operations with Radicals",
+   "test_type":"Foundation (Jalapeno)",
+   "questions":[
+      {
+         "id":1,
+         "type":"MQ",
+         "question":"Simplify $2 \\cdot \\sqrt{8}$",
+         "options":{
+            "A":"$4 \\sqrt{2}$",
+            "B":"$4 \\sqrt{3}$",
+            "C":"$2 \\sqrt{4}$",
+            "D":"$8 \\sqrt{2}$",
+            "E":"$8 \\sqrt{3}$"
+         },
+         "answer":"A"
+      },
+      {
+         "id":2,
+         "type":"MQ",
+         "question":"Add $3 \\sqrt{5}$ and $2 \\sqrt{5}$",
+         "options":{
+            "A":"$5 \\sqrt{3}$",
+            "B":"$5 \\sqrt{5}$",
+            "C":"$3 \\sqrt{3}$",
+            "D":"$6 \\sqrt{2}$",
+            "E":"$10 \\sqrt{2}$"
+         },
+         "answer":"B"
+      },
+      {
+         "id":3,
+         "type":"MQ",
+         "question":"Subtract $5 \\sqrt{3}$ from $8 \\sqrt{3}$",
+         "options":{
+            "A":"$3 \\sqrt{2}$",
+            "B":"$3 \\sqrt{3}$",
+            "C":"$12 \\sqrt{2}$",
+            "D":"$13 \\sqrt{3}$",
+            "E":"$10 \\sqrt{3}$"
+         },
+         "answer":"B"
+      },
+      {
+         "id":4,
+         "type":"MQ",
+         "question":"Simplify $(2 \\sqrt{6})(3 \\sqrt{6})$",
+         "options":{
+            "A":"$30 \\sqrt{2}$",
+            "B":"$36 \\sqrt{6}$",
+            "C":"$36 \\sqrt{2}$",
+            "D":"$12 \\sqrt{3}$",
+            "E":"$6 \\sqrt{12}$"
+         },
+         "answer":"B"
+      },
+      {
+         "id":5,
+         "type":"MQ",
+         "question":"A stock's price is $12 \\sqrt{2}$. If it increases by $4 \\sqrt{2}$, what is the new price?",
+         "options":{
+            "A":"$8 \\sqrt{2}$",
+            "B":"$16 \\sqrt{2}$",
+            "C":"$12 \\sqrt{2}$",
+            "D":"$10 \\sqrt{2}$",
+            "E":"$20 \\sqrt{2}$"
+         },
+         "answer":"B"
+      },
+      {
+         "id":6,
+         "type":"MQ",
+         "question":"Rationalize the denominator of $\\frac{2}{\\sqrt{5}}$",
+         "options":{
+            "A":"$\\frac{2 \\sqrt{5}}{5}$",
+            "B":"$\\frac{5 \\sqrt{2}}{2}$",
+            "C":"$\\frac{2 \\sqrt{2}}{5}$",
+            "D":"$\\frac{10}{\\sqrt{5}}$",
+            "E":"$\\frac{5}{2 \\sqrt{5}}$"
+         },
+         "answer":"A"
+      },
+      {
+         "id":7,
+         "type":"MQ",
+         "question":"Which of the following is equivalent to $\\sqrt{18}$?",
+     "options":{
+            "A":"$3 \\sqrt{2}$",
+            "B":"$3 \\sqrt{3}$",
+            "C":"$6 \\sqrt{2}$",
+            "D":"$9 \\sqrt{2}$",
+            "E":"$9 \\sqrt{3}$"
+         },
+         "answer":"B"
+      },
+      {
+         "id":8,
+         "type":"MQ",
+         "question":"A company's tax is $250 \\sqrt{2}$. If it decreases by $50 \\sqrt{2}$, what is the new tax?",
+         "options":{
+            "A":"$150 \\sqrt{3}$",
+            "B":"$200 \\sqrt{2}$",
+            "C":"$250 \\sqrt{3}$",
+            "D":"$250 \\sqrt{2}$",
+            "E":"$300 \\sqrt{2}$"
+         },
+         "answer":"B"
+      },
+      {
+         "id":9,
+         "type":"FRQ",
+         "question":"Simplify $(6 \\sqrt{3})(2 \\sqrt{3})$ and show your work.",
+         "required_space_lines":5
+      },
+      {
+         "id":10,
+         "type":"FRQ",
+         "question":"A savings account earns $200 \\sqrt{2}$ in interest per year. If the interest rate increases by $50 \\sqrt{2}$, what is the new interest earned and show your calculation?",
+         "required_space_lines":5
+      }
+   ],
+   "teacher_rules":[
+      "Tip 1: Use a calculator to check answers only when necessary",
+      "Tip 2: Emphasize the importance of rationalizing denominators",
+      "Tip 3: Encourage students to show all work for free response questions"
+   ],
+   "footer_title":"Chef's Tips"
+}

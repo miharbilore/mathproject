@@ -1,0 +1,129 @@
+{
+  "unit": "\uD83D\uDCD8 Unit 8: Quadratics",
+   "topic": "Systems of Quadratic Equations",
+   "test_type": "Homework (Habanero)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "Solve the system: $x^2 + y^2 = 25$, $x^2 - y^2 = 9$",
+           "options": {
+               "A": "$x = pm 4, y = pm 3$",
+               "B": "$x = pm 3, y = pm 4$",
+               "C": "$x = pm 2, y = pm 5$",
+               "D": "$x = pm 5, y = pm 2$",
+               "E": "$x = pm 1, y = pm 6$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "A bacteria culture grows according to $P(t) = 2t^2 + 5t + 1$, where $t$ is time in hours. If $P(2) = 25$, what is $P(4)$?",
+           "options": {
+               "A": "$41$",
+               "B": "$49$",
+               "C": "$57$",
+               "D": "$65$",
+               "E": "$73$"
+           },
+           "answer": "D"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "The quadratic $x^2 + bx + c$ has roots $x = -2$ and $x = 3$. What is the equation of the quadratic?",
+           "options": {
+               "A": "$x^2 + x - 6$",
+               "B": "$x^2 - x - 6$",
+               "C": "$x^2 + 5x + 6$",
+               "D": "$x^2 - 5x + 6$",
+               "E": "$x^2 + x + 6$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "Solve the system: $y = x^2 - 4$, $y = 2x - 3$",
+           "options": {
+       "A": "$x = 1, y = -3$",
+       "B": "$x = -1, y = -5$",
+       "C": "$x = 2, y = 1$",
+       "D": "$x = 3, y = 3$",
+       "E": "$x = -3, y = -3$"
+   },
+   "answer": "D"
+},
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "A quadratic model for the spread of a disease is given by $y = at^2 + bt + c$, where $y$ is the number infected and $t$ is time in days. If $y(1) = 10$ and $y(2) = 25$, what is the equation of the quadratic?",
+           "options": {
+       "A": "$y = t^2 + 5t + 4$",
+       "B": "$y = t^2 - 5t + 4$",
+       "C": "$y = t^2 + t - 4$",
+       "D": "$y = t^2 - t + 4$",
+       "E": "$y = t^2 + 3t - 4$"
+   },
+   "answer": "A"
+},
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "What is the $x$-coordinate of the vertex of the parabola $y = x^2 + 4x + 3$?",
+           "options": {
+       "A": "$-3$",
+       "B": "$-2$",
+       "C": "$-1$",
+       "D": "$0$",
+       "E": "$1$"
+   },
+   "answer": "B"
+},
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "The quadratic $ax^2 + bx + c$ has roots $x = -1$ and $x = 4$. If $a = 2$, what is $b$?",
+           "options": {
+       "A": "$-5$",
+       "B": "$-10$",
+       "C": "$10$",
+       "D": "$5$",
+       "E": "$0$"
+   },
+   "answer": "B"
+},
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "A medical researcher is studying the effect of a new drug on blood pressure. The quadratic model for the change in blood pressure is given by $y = 2x^2 - 5x + 1$, where $y$ is the change in blood pressure and $x$ is the dosage. What is the dosage for a change of $-1$?",
+           "options": {
+       "A": "$1$",
+       "B": "$2$",
+       "C": "$3$",
+       "D": "$0.5$",
+       "E": "$2.5$"
+   },
+   "answer": "D"
+},
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "A hospital is planning to build a new wing. The area of the wing is given by the quadratic $A = x^2 + 4x + 4$, where $x$ is the length of the wing. If the area of the wing must be at least $100$ square meters, what is the minimum length of the wing?",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "A pharmacist is mixing a new medication. The concentration of the medication is given by the quadratic $C = 2t^2 - 5t + 1$, where $t$ is time in minutes. If the concentration must be at least $0.5$ milligrams per liter, what is the minimum time required to mix the medication?",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Ensure students show all work and explain their reasoning",
+       "Emphasize the importance of checking answers",
+       "Encourage students to use graphs to visualize the solutions"
+   ],
+   "footer": "Chef's Tips"
+}

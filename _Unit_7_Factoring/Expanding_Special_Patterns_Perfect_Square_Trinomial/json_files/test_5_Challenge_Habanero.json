@@ -1,0 +1,129 @@
+{
+  "unit": "\u1F4D6 Unit 7: Factoring",
+   "topic": "Expanding Special Patterns & Perfect Square Trinomial",
+   "test_type": "Challenge (Habanero)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "What is the expansion of $(x + 2)^2$?",
+           "options": {
+               "A": "$x^2 + 4x + 4$",
+               "B": "$x^2 + 2x + 4$",
+               "C": "$x^2 - 4x + 4$",
+               "D": "$x^2 + 4x - 4$",
+               "E": "$x^2 - 2x - 4$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "A hiker is traveling at a rate of $x$ miles per hour. If the hiker's speed is increased by 3 miles per hour, what is the expansion of $(x + 3)^2$?",
+           "options": {
+               "A": "$x^2 + 6x + 9$",
+               "B": "$x^2 + 3x + 9$",
+               "C": "$x^2 - 6x + 9$",
+               "D": "$x^2 + 6x - 9$",
+               "E": "$x^2 - 3x - 9$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "What is the factored form of the perfect square trinomial $x^2 + 10x + 25$?",
+           "options": {
+               "A": "$(x + 5)^2$",
+               "B": "$(x - 5)^2$",
+               "C": "$(x + 2)^2$",
+               "D": "$(x - 2)^2$",
+               "E": "$(x + 3)^2$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "A park ranger is tracking the population of a species of animal. If the population is currently $x$ and is increasing at a rate of 4 animals per year, what is the expansion of $(x + 4)^2$?",
+           "options": {
+               "A": "$x^2 + 8x + 16$",
+               "B": "$x^2 + 4x + 16$",
+               "C": "$x^2 - 8x + 16$",
+               "D": "$x^2 + 8x - 16$",
+               "E": "$x^2 - 4x - 16$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "What is the expansion of $(2x - 3)^2$?",
+           "options": {
+               "A": "$4x^2 - 12x + 9$",
+               "B": "$4x^2 + 12x + 9$",
+       "C": "$4x^2 - 12x - 9$",
+       "D": "$4x^2 + 12x - 9$",
+       "E": "$4x^2 + 6x + 9$"
+   },
+   "answer": "A"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "A group of friends are planning a road trip. If their car gets $x$ miles per gallon and they drive for 2 hours at a speed of $x$ miles per hour, what is the expansion of $(x cdot 2)^2$?",
+           "options": {
+               "A": "$4x^2$",
+               "B": "$2x^2$",
+               "C": "$x^2$",
+               "D": "$4x$",
+               "E": "$2x$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "What is the factored form of the perfect square trinomial $4x^2 + 12x + 9$?",
+           "options": {
+               "A": "$(2x + 3)^2$",
+               "B": "$(2x - 3)^2$",
+               "C": "$(x + 3)^2$",
+               "D": "$(x - 3)^2$",
+               "E": "$(x + 2)^2$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "A farmer is harvesting crops at a rate of $x$ bushels per hour. If the farmer's harvesting speed is increased by 2 bushels per hour, what is the expansion of $(x + 2)^2$?",
+           "options": {
+               "A": "$x^2 + 4x + 4$",
+               "B": "$x^2 + 2x + 4$",
+               "C": "$x^2 - 4x + 4$",
+               "D": "$x^2 + 4x - 4$",
+               "E": "$x^2 - 2x - 4$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "A park is planning to build a new hiking trail. The trail will be $x$ miles long and will have a total elevation gain of $x^2 + 6x + 9$ feet. Factor the expression $x^2 + 6x + 9$ and explain its significance in the context of the hiking trail.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "A group of friends are planning a road trip to a national park. Their car gets $x$ miles per gallon, and they expect to drive for $x + 4$ hours. What is the expansion of $(x + 4)^2$? Use this expansion to calculate the total distance they will travel, assuming they drive at a constant speed of $x$ miles per hour.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Tip 1: Encourage students to use the formula $(a + b)^2 = a^2 + 2ab + b^2$ to expand special patterns.",
+       "Tip 2: Remind students to look for perfect square trinomials in the form $a^2 + 2ab + b^2$ and factor them as $(a + b)^2$.",
+       "Tip 3: Emphasize the importance of checking their work by plugging their factored expressions back into the original equation."
+   ],
+   "footer_title": "Chef's Tips"
+}

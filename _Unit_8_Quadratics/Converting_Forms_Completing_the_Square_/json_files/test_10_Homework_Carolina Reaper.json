@@ -1,0 +1,129 @@
+{
+  "unit": "\ud83d\udcda Unit 8: Quadratics",
+   "topic": "Converting Forms (Completing the Square)",
+   "test_type": "Homework (Carolina Reaper)",
+   "questions": [
+     {
+       "id": 1,
+       "type": "MQ",
+       "question": "A music producer is working with a quadratic equation $x^2 + 6x + 8$ to generate a rhythmic pattern. What is the vertex form of this equation?",
+       "options": {
+         "A": "$(x + 3)^2 - 1$",
+         "B": "$(x + 3)^2 + 1$",
+         "C": "$(x + 4)^2 - 8$",
+         "D": "$(x + 2)^2 + 4$",
+         "E": "$(x - 3)^2 - 1$"
+       },
+       "answer": "A"
+     },
+     {
+       "id": 2,
+       "type": "MQ",
+       "question": "To create a canvas with a quadratic shape, an artist uses the equation $x^2 - 4x - 3$. What is the vertex of this parabola?",
+       "options": {
+         "A": "$(2, -7)$",
+         "B": "$(-2, 7)$",
+         "C": "$(2, -1)$",
+         "D": "$(-1, 2)$",
+         "E": "$(0, 0)$"
+       },
+       "answer": "C"
+     },
+     {
+       "id": 3,
+       "type": "MQ",
+       "question": "A sound wave follows the quadratic equation $x^2 + 2x + 1 = 0$. Which of the following is the factored form of this equation?",
+       "options": {
+         "A": "$(x + 1)(x - 1)$",
+         "B": "$(x + 1)^2$",
+         "C": "$(x - 1)^2$",
+         "D": "$(x + 2)(x + 1)$",
+         "E": "$(x - 2)(x + 1)$"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 4,
+       "type": "MQ",
+       "question": "A painter is using a quadratic equation $x^2 - 2x - 6$ to create a unique pattern. What is the value of $x$ that minimizes this function?",
+       "options": {
+         "A": "$-1$",
+         "B": "$1$",
+         "C": "$2$",
+         "D": "$-3$",
+         "E": "$3$"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 5,
+       "type": "MQ",
+       "question": "To generate a specific audio frequency, a quadratic equation $x^2 + 8x + 15$ is used. What is the vertex form of this equation?",
+       "options": {
+         "A": "$(x + 4)^2 - 1$",
+         "B": "$(x + 4)^2 + 1$",
+         "C": "$(x + 3)^2 - 6$",
+         "D": "$(x + 2)^2 + 7$",
+       "E": "$(x + 4)^2 - 1$"
+       },
+       "answer": "A"
+     },
+     {
+       "id": 6,
+       "type": "MQ",
+       "question": "A musician is working with the quadratic equation $x^2 - 10x + 24$. What is the factored form of this equation?",
+       "options": {
+         "A": "$(x - 4)(x - 6)$",
+         "B": "$(x + 4)(x - 6)$",
+         "C": "$(x - 2)(x - 12)$",
+         "D": "$(x + 2)(x + 12)$",
+         "E": "$(x - 8)(x - 3)$"
+       },
+       "answer": "A"
+     },
+     {
+       "id": 7,
+       "type": "MQ",
+       "question": "An artist is using the quadratic equation $x^2 + 12x + 36$ to create a geometric pattern. What is the vertex of this parabola?",
+       "options": {
+         "A": "$(-6, 0)$",
+         "B": "$(-6, -36)$",
+         "C": "$(-6, 36)$",
+         "D": "$(-12, 0)$",
+         "E": "$(-12, -36)$"
+       },
+       "answer": "A"
+     },
+     {
+       "id": 8,
+       "type": "MQ",
+       "question": "A music composer uses the quadratic equation $x^2 - 8x + 12$. What is the value of $x$ that maximizes this function?",
+       "options": {
+         "A": "$-2$",
+         "B": "$2$",
+         "C": "$4$",
+         "D": "$6$",
+         "E": "$8$"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 9,
+       "type": "FRQ",
+       "question": "A painter is using a quadratic equation $x^2 - 6x + 8$ to create a mural. Convert this equation into vertex form and find the vertex of the parabola. Show all work and explain your reasoning.",
+       "required_space_lines": 5
+     },
+     {
+       "id": 10,
+       "type": "FRQ",
+       "question": "A sound engineer is working with a quadratic equation $x^2 + 4x + 4$. Complete the square to rewrite this equation in vertex form. Then, find the $x$-intercepts and the $y$-intercept of the parabola. Provide a clear explanation of each step.",
+       "required_space_lines": 5
+     }
+   ],
+   "teacher_rules": [
+     "Ensure students show all work and explain their reasoning for FRQs.",
+     "Allow students to use calculators for checking answers only.",
+     "Encourage students to use graphing tools to visualize the parabolas."
+   ],
+   "footer": "Chef's Tips"
+ }

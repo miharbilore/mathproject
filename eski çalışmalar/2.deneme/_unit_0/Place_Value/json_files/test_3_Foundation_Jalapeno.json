@@ -1,0 +1,129 @@
+{
+  "unit": "Unit 0: Foundations of Algebra",
+   "topic": "Place Value",
+   "test_type": "Foundation (Jalapeno)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "In the number $425$, what is the value of the digit $2$?",
+           "options": {
+               "A": "$200$",
+               "B": "$20$",
+               "C": "$2$",
+               "D": "$25$",
+               "E": "$250$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "A marathon runner covers a distance of $27.83$ kilometers. Rounded to the nearest tenth, the distance is $=$",
+           "options": {
+               "A": "$27.8$",
+               "B": "$27.9$",
+               "C": "$28.0$",
+               "D": "$28.3$",
+               "E": "$27.7$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "The score of a basketball game is $94$ to $67$. What is the value of the digit $9$ in $94$?",
+           "options": {
+               "A": "$9$",
+               "B": "$90$",
+               "C": "$94$",
+               "D": "$67$",
+               "E": "$100$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "A cyclist travels $14.29$ miles. In expanded form, this is $=$",
+           "options": {
+               "A": "$10 + 4 + 0.2 + 0.09$",
+               "B": "$10 + 4 + 0.2 + 0.09 + 0.001$",
+               "C": "$10 + 4 + 0.20 + 0.09$",
+               "D": "$10 + 4 + 0.29$",
+               "E": "$14 + 0.29$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "A sports statistician records $43,219$ attendance. What is the value of the digit $1$ in this number?",
+           "options": {
+               "A": "$1$",
+               "B": "$10$",
+               "C": "$100$",
+               "D": "$1,000$",
+               "E": "$10,000$"
+           },
+           "answer": "D"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "Rounded to the nearest hundred, $749$ is $=$",
+           "options": {
+               "A": "$700$",
+               "B": "$750$",
+               "C": "$800$",
+               "D": "$7000$",
+               "E": "$7500$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "A sprinter runs $9.45$ seconds. In standard form, the time is $=$",
+           "options": {
+               "A": "$9 + 0.4 + 0.05$",
+               "B": "$9 + 0.45$",
+               "C": "$9.45$",
+               "D": "$945$",
+               "E": "$94.5$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "In a tennis match, a player wins $6$ sets out of $8$. If each set is worth $100$ points, what is the total value of the sets won, rounded to the nearest hundred?",
+           "options": {
+               "A": "$500$",
+               "B": "$600$",
+               "C": "$700$",
+               "D": "$6000$",
+               "E": "$800$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "The finishing time for a $5000$-meter race is $16:23.19$. Write this time in expanded form and round to the nearest second.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "In a sports competition, a team scores $243$ points in the first round and $179$ points in the second round. What is the total score in standard form and expanded form? Show your work.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Read each question carefully.",
+       "Use the space provided for calculations.",
+       "Check your work before submitting."
+   ],
+   "footer_title": "Chef's Tips"
+}

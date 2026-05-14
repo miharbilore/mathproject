@@ -1,0 +1,129 @@
+{
+  "unit": "\u1F4D6 Unit 6: Systems of Linear Equations and Inequalities",
+   "topic": "Applications of Systems of Inequalities",
+   "test_type": "Homework (Jalapeno)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "In ancient Egypt, a pharaoh wants to build a rectangular pyramid with a base perimeter of $P$ and a height of $H$. The pharaoh has the following constraints: $2x + 3y leq 24$, $x + 2y leq 16$, $x geq 0$, and $y geq 0$. Which of the following is a feasible solution?",
+           "options": {
+               "A": "$x = 4$, $y = 2$",
+               "B": "$x = 6$, $y = 4$",
+               "C": "$x = 8$, $y = 0$",
+               "D": "$x = 0$, $y = 8$",
+               "E": "$x = 2$, $y = 6$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "The Great Wall of China has a series of watchtowers that are spaced at equal intervals. If the distance between two consecutive towers is $d$, and the total length of the wall is $L$, which inequality represents the maximum number of towers that can be built?",
+           "options": {
+               "A": "$d geq \frac{L}{n}$",
+               "B": "$d leq \frac{L}{n}$",
+               "C": "$n geq \frac{L}{d}$",
+               "D": "$n leq \frac{L}{d}$",
+               "E": "$n = \frac{L}{d}$"
+           },
+           "answer": "D"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "A historian is studying the population growth of ancient Mesopotamia. The population $P$ is modeled by the inequality $P leq 2t + 10$, where $t$ is the time in years. Which of the following values of $t$ satisfies the inequality when $P = 25$?",
+           "options": {
+               "A": "$t = 5$",
+               "B": "$t = 7$",
+               "C": "$t = 10$",
+               "D": "$t = 12$",
+               "E": "$t = 15$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "The Rosetta Stone is an ancient artifact that has a rectangular shape with a length $l$ and a width $w$. The stone has the following constraints: $l + 2w leq 20$, $2l + w leq 25$, $l geq 0$, and $w geq 0$. Which of the following is a feasible solution?",
+           "options": {
+               "A": "$l = 8$, $w = 4$",
+               "B": "$l = 10$, $w = 5$",
+               "C": "$l = 12$, $w = 6$",
+               "D": "$l = 15$, $w = 7$",
+               "E": "$l = 20$, $w = 0$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "The construction of the Colosseum in ancient Rome required a large amount of stone. The amount of stone $S$ is modeled by the inequality $S geq 3x + 2y$, where $x$ is the number of columns and $y$ is the number of arches. Which of the following values of $x$ and $y$ satisfies the inequality when $S = 50$?",
+           "options": {
+               "A": "$x = 10$, $y = 5$",
+               "B": "$x = 12$, $y = 6$",
+               "C": "$x = 15$, $y = 7$",
+               "D": "$x = 18$, $y = 8$",
+               "E": "$x = 20$, $y = 10$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "The Terracotta Army in ancient China has a series of soldiers that are arranged in a rectangular formation with $m$ rows and $n$ columns. The total number of soldiers $T$ is modeled by the inequality $T leq mn$. Which of the following values of $m$ and $n$ satisfies the inequality when $T = 100$?",
+           "options": {
+               "A": "$m = 5$, $n = 20$",
+               "B": "$m = 10$, $n = 10$",
+               "C": "$m = 15$, $n = 6$",
+               "D": "$m = 20$, $n = 5$",
+               "E": "$m = 25$, $n = 4$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "The Hanging Gardens of Babylon are a series of gardens that are supported by a system of arches. The height $h$ of the gardens is modeled by the inequality $h leq 2x + 3y$, where $x$ is the number of arches and $y$ is the number of pillars. Which of the following values of $x$ and $y$ satisfies the inequality when $h = 15$?",
+           "options": {
+               "A": "$x = 3$, $y = 2$",
+               "B": "$x = 4$, $y = 3$",
+               "C": "$x = 5$, $y = 4$",
+               "D": "$x = 6$, $y = 5$",
+               "E": "$x = 7$, $y = 6$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "The Great Pyramid of Giza has a square base with a side length $s$. The height $h$ of the pyramid is modeled by the inequality $h leq s + 10$. Which of the following values of $s$ satisfies the inequality when $h = 20$?",
+           "options": {
+               "A": "$s = 5$",
+               "B": "$s = 10$",
+               "C": "$s = 15$",
+               "D": "$s = 20$",
+               "E": "$s = 25$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "The ancient city of Pompeii has a rectangular wall with a length $l$ and a width $w$. The wall has the following constraints: $l + 2w leq 30$, $2l + w leq 35$, $l geq 0$, and $w geq 0$. Find the maximum area of the wall and the corresponding values of $l$ and $w$. Show your work and explain your answer.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "The ancient temple of Angkor Wat has a series of towers that are spaced at equal intervals. The distance between two consecutive towers is $d$, and the total length of the temple is $L$. The temple has the following constraints: $d geq 5$, $L leq 100$, and $n geq 2$, where $n$ is the number of towers. Find the maximum number of towers that can be built and the corresponding value of $d$. Show your work and explain your answer.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Tip 1: Make sure to read each question carefully and understand the constraints.",
+       "Tip 2: Use graphical methods to visualize the solution regions.",
+       "Tip 3: Check your work and explain your answers clearly."
+   ],
+   "footer_title": "Chef's Tips"
+}

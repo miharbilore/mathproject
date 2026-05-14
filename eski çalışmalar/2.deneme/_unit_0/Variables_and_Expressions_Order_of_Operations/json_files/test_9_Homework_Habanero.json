@@ -1,0 +1,129 @@
+{
+  "unit": "Unit 0: Foundations of Algebra",
+   "topic": "Variables and Expressions / Order of Operations",
+   "test_type": "Homework (Habanero)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "Evaluate the expression: $2 \\cdot 3 + 12 \\div 4$",
+           "options": {
+               "A": "9",
+               "B": "10",
+               "C": "11",
+               "D": "12",
+               "E": "13"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "Simplify the expression: $5x + 2x - 3x$",
+           "options": {
+               "A": "$4x$",
+               "B": "$5x$",
+               "C": "$3x$",
+               "D": "$2x$",
+               "E": "$x$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "A patient is given $2 \\cdot (5 - x)$ milligrams of medicine. If $x = 2$, how many milligrams are given?",
+           "options": {
+               "A": "6",
+               "B": "8",
+               "C": "10",
+               "D": "12",
+               "E": "14"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "The number of cells in a Petri dish triples every $2$ hours. If there are $12$ cells initially, how many will there be after $4$ hours?",
+           "options": {
+               "A": "36",
+               "B": "54",
+               "C": "72",
+               "D": "108",
+               "E": "144"
+           },
+           "answer": "D"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "Simplify the expression: $(12 - 8) \\div 2 + 5$",
+           "options": {
+               "A": "5",
+               "B": "6",
+               "C": "7",
+               "D": "8",
+               "E": "9"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "A nurse administers $3 \\cdot (x + 2)$ units of insulin. If $x = 4$, how many units are administered?",
+           "options": {
+               "A": "12",
+               "B": "15",
+               "C": "18",
+               "D": "21",
+               "E": "24"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "Evaluate the expression: $16 \\div 2 + 11 - 3$",
+           "options": {
+               "A": "13",
+               "B": "14",
+               "C": "15",
+       "D": "16",
+       "E": "17"
+   },
+   "answer": "C"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "The length of a hospital room is $2x + 5$ feet and the width is $x - 2$ feet. If $x = 7$, what is the area of the room?",
+           "options": {
+               "A": "50",
+               "B": "60",
+               "C": "70",
+       "D": "80",
+       "E": "90"
+   },
+   "answer": "B"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "A pharmaceutical company produces $2x^2 + 5x - 3$ units of medicine per day. If $x$ represents the number of hours the factory operates, find the total units produced in a $5$-hour period. Show all work and simplify your answer.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "A doctor prescribes $x + 2$ milligrams of a medication to a patient. If the patient's body absorbs $3 \\cdot (x - 1)$ milligrams, what is the net amount of medication in the patient's system after $2$ hours if $x = 5$? Show all work and simplify your answer.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Read each question carefully before answering",
+       "Use the correct order of operations when evaluating expressions",
+       "Check your work and simplify your answers"
+   ],
+   "footer_title": "Chef's Tips"
+}

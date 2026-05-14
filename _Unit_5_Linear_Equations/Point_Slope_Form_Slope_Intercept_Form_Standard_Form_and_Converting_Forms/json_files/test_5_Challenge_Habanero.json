@@ -1,0 +1,129 @@
+{
+  "unit": "\u1F4D6 Unit 5: Linear Equations",
+   "topic": "Point-Slope Form, Slope-Intercept Form, Standard Form and Converting Forms",
+   "test_type": "Challenge (Habanero)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "A hiker is walking at a rate of $3 \\cdot \\frac{miles}{hour}$ and has $2$ miles left to reach the campsite. If $y$ is the distance walked and $x$ is the time in hours, which equation represents this situation in slope-intercept form?",
+           "options": {
+               "A": "$y = 3x + 2$",
+               "B": "$y = 3x - 2$",
+               "C": "$y = 2x + 3$",
+               "D": "$y = 2x - 3$",
+               "E": "$y = -3x + 2$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "The population of deer in a forest is increasing at a rate of $2$ deer per year. If the current population is $50$ deer, which equation represents this situation in point-slope form?",
+           "options": {
+               "A": "$y - 50 = 2(x - 1)$",
+               "B": "$y - 50 = 2(x + 1)$",
+               "C": "$y - 50 = -2(x - 1)$",
+               "D": "$y - 50 = -2(x + 1)$",
+               "E": "$y - 50 = x - 2$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "A car's fuel consumption is given by the equation $y = -\\frac{1}{4}x + 12$, where $y$ is the amount of fuel in gallons and $x$ is the number of miles driven. Which of the following is the equation in standard form?",
+           "options": {
+               "A": "$\\frac{1}{4}x + y = 12$",
+               "B": "$\\frac{1}{4}x - y = -12$",
+               "C": "$-\\frac{1}{4}x + y = 12$",
+               "D": "$x + 4y = 48$",
+               "E": "$x - 4y = -48$"
+           },
+           "answer": "D"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "A river's water level is dropping at a rate of $0.5$ feet per hour. If the current water level is $10$ feet, which equation represents this situation in slope-intercept form?",
+           "options": {
+               "A": "$y = -0.5x + 10$",
+               "B": "$y = 0.5x + 10$",
+               "C": "$y = -0.5x - 10$",
+               "D": "$y = 0.5x - 10$",
+               "E": "$y = -10x + 0.5$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "A bike path has a slope of $-\\frac{1}{10}$. If the path is $20$ feet above the ground at $x = 0$, which equation represents this situation in point-slope form?",
+           "options": {
+       "A": "$y - 20 = -\\frac{1}{10}(x - 1)$",
+       "B": "$y - 20 = -\\frac{1}{10}(x + 1)$",
+       "C": "$y - 20 = -\\frac{1}{10}(x - 0)$",
+       "D": "$y - 20 = \\frac{1}{10}(x - 0)$",
+       "E": "$y - 20 = -\\frac{1}{5}(x - 0)$"
+   },
+           "answer": "C"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "A group of friends are planning a road trip. The cost of fuel for the trip is given by the equation $y = 0.25x + 10$, where $y$ is the cost of fuel in dollars and $x$ is the number of miles driven. Which of the following is the equation in standard form?",
+           "options": {
+               "A": "$0.25x - y = -10$",
+               "B": "$0.25x + y = 10$",
+               "C": "$x + 4y = 40$",
+               "D": "$x - 4y = -40$",
+               "E": "$x + 4y = 40$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "The altitude of a plane is given by the equation $y = -2x + 1000$, where $y$ is the altitude in feet and $x$ is the distance traveled in miles. If the plane is currently at an altitude of $800$ feet, how many miles has it traveled?",
+           "options": {
+               "A": "$50$ miles",
+               "B": "$100$ miles",
+               "C": "$150$ miles",
+               "D": "$200$ miles",
+               "E": "$250$ miles"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "A wind turbine's power output is given by the equation $y = 0.5x - 2$, where $y$ is the power output in kilowatts and $x$ is the wind speed in miles per hour. Which of the following is the equation in point-slope form?",
+           "options": {
+               "A": "$y - 2 = 0.5(x - 1)$",
+               "B": "$y - 2 = 0.5(x + 1)$",
+               "C": "$y - 2 = -0.5(x - 1)$",
+               "D": "$y + 2 = 0.5(x - 1)$",
+               "E": "$y + 2 = 0.5(x + 1)$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "A boat is traveling at a rate of $5$ miles per hour. If the boat has $15$ miles left to reach the dock, write an equation in slope-intercept form to represent the situation. Then, convert the equation to standard form.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "A company's profit is given by the equation $y = 2x - 1000$, where $y$ is the profit in dollars and $x$ is the number of units sold. Graph the equation and interpret the slope and intercepts in context. Then, convert the equation to point-slope form.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Tip 1: Provide clear instructions and examples for each question type.",
+       "Tip 2: Allow students to use calculators for calculation-based questions.",
+       "Tip 3: Emphasize the importance of showing work and explaining reasoning for free-response questions."
+   ],
+   "footer": "Chef's Tips"
+}

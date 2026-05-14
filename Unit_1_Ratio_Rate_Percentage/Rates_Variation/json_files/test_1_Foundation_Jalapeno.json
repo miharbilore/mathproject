@@ -1,0 +1,129 @@
+{
+  "unit": "\uE047 Unit 1: Ratio, Rate, Percentage",
+   "topic": "Rates & Variation",
+   "test_type": "Foundation (Jalapeno)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "A stock's price increased from $15 to $20. What is the rate of change?",
+           "options": {
+               "A": "$1.50",
+               "B": "$2.50",
+               "C": "$3.00",
+               "D": "$5.00",
+               "E": "$7.50"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "If a company's profit is directly proportional to its sales, and profit is $4000 when sales are $20000, what is the profit when sales are $30000?",
+           "options": {
+               "A": "$4000",
+               "B": "$5000",
+               "C": "$6000",
+               "D": "$8000",
+               "E": "$10000"
+           },
+           "answer": "D"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "A tax of $0.08 is added to each dollar spent on a purchase. If an item costs $25, what is the total cost?",
+           "options": {
+               "A": "$25.00",
+               "B": "$26.00",
+               "C": "$26.50",
+               "D": "$27.00",
+       "E": "$33.00"
+   },
+           "answer": "C"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "If $500 is invested at an annual interest rate of $4\\%$, how much will it be worth after one year?",
+           "options": {
+               "A": "$500.00",
+               "B": "$520.00",
+               "C": "$550.00",
+       "D": "$600.00",
+       "E": "$700.00"
+   },
+           "answer": "B"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "A savings account earns interest at a rate of $3\\%$ per annum. If $800 is deposited, how much interest will be earned in one year?",
+           "options": {
+               "A": "$20.00",
+       "B": "$24.00",
+       "C": "$30.00",
+       "D": "$40.00",
+       "E": "$50.00"
+   },
+           "answer": "B"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "The distance between two cities is $240$ miles. If a car travels at $40$ miles per hour, how long will the trip take?",
+           "options": {
+       "A": "4 hours",
+       "B": "5 hours",
+       "C": "6 hours",
+       "D": "8 hours",
+       "E": "10 hours"
+   },
+           "answer": "C"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "A company's cost is directly proportional to the number of products it manufactures. If it costs $150 to produce 50 items, what is the cost of producing 100 items?",
+           "options": {
+       "A": "$200",
+       "B": "$250",
+       "C": "$300",
+       "D": "$350",
+       "E": "$450"
+   },
+           "answer": "C"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "A water tank can hold $3600$ gallons. If $1200$ gallons of water are already in the tank, what percentage of the tank is filled?",
+           "options": {
+       "A": "20\\%}",
+       "B": "25\\%",
+       "C": "30\\%",
+       "D": "33\\%",
+       "E": "40\\%"
+   },
+           "answer": "C"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "A bakery sells a total of $250$ loaves of bread per day. They sell a combination of whole wheat and white bread. If the ratio of whole wheat to white bread is $3:5$, how many loaves of each type of bread are sold?",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "A car rental company charges a base fee of $\\$20$ plus an additional $\\$0.25$ per mile driven. If a customer rents a car for a day and drives it $120$ miles, what is the total cost?",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Review the concept of unit rates",
+       "Focus on direct and inverse variation",
+       "Practice converting units"
+   ],
+   "footer": "Chef's Tips"
+}

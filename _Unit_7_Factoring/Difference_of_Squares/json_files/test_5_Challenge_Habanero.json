@@ -1,0 +1,129 @@
+{
+  "unit": "\u1F4D6 Unit 7: Factoring",
+   "topic": "Difference of Squares",
+   "test_type": "Challenge (Habanero)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "What is the factored form of $x^2 - 16$?",
+           "options": {
+               "A": "$(x + 4)(x - 4)$",
+               "B": "$x(x - 4)$",
+               "C": "$x(x + 4)$",
+               "D": "$x^2 - 4^2$",
+               "E": "$x^2 + 4^2$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "A hiking trail is $3$ miles long, and a park ranger needs to mark the trail with signs every $x$ miles. If the ranger has $9$ signs and the trail is marked with a difference of squares pattern, how far apart are the signs in miles, given $x^2 - 9 = 0$?",
+           "options": {
+               "A": "$1$ mile",
+               "B": "$3$ miles",
+               "C": "$5$ miles",
+               "D": "$7$ miles",
+               "E": "$9$ miles"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "A species of bird has a population that grows according to the equation $P = x^2 - 64$, where $x$ is the number of years since the species was first observed. What is the factored form of this equation?",
+           "options": {
+               "A": "$P = (x + 8)(x - 8)$",
+               "B": "$P = x(x - 8)$",
+               "C": "$P = x(x + 8)$",
+               "D": "$P = x^2 + 64$",
+               "E": "$P = x^2 - 8^2$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "What is the factored form of $25x^2 - 49y^2$?",
+           "options": {
+               "A": "$(5x + 7y)(5x - 7y)$",
+               "B": "$(5x - 7y)(5x + 7y)$",
+               "C": "$x(5x - 7y)$",
+               "D": "$y(5x + 7y)$",
+               "E": "$x(5x + 7y)$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "A fuel tank can hold $x^2 - 36$ gallons of fuel, where $x$ is the number of hours the fuel pump has been running. If the pump has been running for $6$ hours, how many gallons of fuel are in the tank?",
+           "options": {
+               "A": "$0$ gallons",
+               "B": "$36$ gallons",
+               "C": "$-36$ gallons",
+               "D": "$6$ gallons",
+       "E": "$60$ gallons"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "A mountain has a height of $x^2 - 49$ feet, where $x$ is the number of miles from the base of the mountain. What is the factored form of this equation?",
+           "options": {
+               "A": "$x(x - 7)$",
+               "B": "$x(x + 7)$",
+       "C": "$x^2 - 7^2$",
+       "D": "$x^2 + 7^2$",
+       "E": "$x^2 + 49$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "A car's fuel consumption is given by the equation $C = x^2 - 9$, where $x$ is the number of hours driven. If $x = 5$, what is the fuel consumption in gallons?",
+           "options": {
+               "A": "$16$ gallons",
+       "B": "$20$ gallons",
+       "C": "$25$ gallons",
+       "D": "$30$ gallons",
+       "E": "$36$ gallons"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "What is the factored form of $4x^2 - 9y^2$?",
+           "options": {
+               "A": "$2x + 3y$",
+       "B": "$2x - 3y$",
+       "C": "$(2x + 3y)(2x - 3y)$",
+       "D": "$2(2x + 3y)$",
+       "E": "$3(2x - 3y)$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "A hiker is walking on a trail with an elevation change given by $h = x^2 - 25$. Find the elevation when $x = 6$. Show your work and explain your answer.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "A park has a population of animals that grows according to $P = x^2 - 100$. What is the population when $x = 12$? Use the difference of squares to factor the equation and find the solution. Provide a brief explanation.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Tip 1: Encourage students to check their work carefully.",
+       "Tip 2: Remind students to apply the difference of squares formula correctly.",
+       "Tip 3: Emphasize the importance of showing all work for free response questions."
+   ],
+   "footer_title": "Chef's Tips"
+}

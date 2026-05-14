@@ -1,0 +1,129 @@
+{
+  "unit": "\u1F4D6 Unit 2: Exponents & Radicals",
+   "topic": "Exponential Equations",
+   "test_type": "Challenge (Habanero)",
+   "questions": [
+     {
+       "id": 1,
+       "type": "MQ",
+       "question": "If $2^x = 32$, what is the value of $x$?",
+       "options": {
+         "A": "3",
+         "B": "4",
+         "C": "5",
+         "D": "6",
+         "E": "7"
+       },
+       "answer": "C"
+     },
+     {
+       "id": 2,
+       "type": "MQ",
+       "question": "A group of hikers is planning a trip to a remote area. They estimate that their fuel consumption will increase by a factor of $3^2$ due to the rough terrain. If their initial fuel consumption was 4 gallons per hour, what will be their new fuel consumption?",
+       "options": {
+         "A": "12 gallons/hour",
+         "B": "16 gallons/hour",
+         "C": "20 gallons/hour",
+         "D": "24 gallons/hour",
+         "E": "36 gallons/hour"
+       },
+       "answer": "E"
+     },
+     {
+       "id": 3,
+       "type": "MQ",
+       "question": "The population of a certain animal species is growing exponentially according to the equation $P(t) = 2^t cdot P_0$, where $P_0$ is the initial population. If the population doubles every 2 years, what is the value of $t$ when the population reaches 4 times its initial value?",
+       "options": {
+         "A": "2",
+         "B": "3",
+         "C": "4",
+         "D": "5",
+         "E": "6"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 4,
+       "type": "MQ",
+       "question": "Solve for $x$: $x^2 cdot 2^x = 64$",
+       "options": {
+         "A": "2",
+         "B": "3",
+         "C": "4",
+         "D": "5",
+         "E": "6"
+       },
+       "answer": "C"
+     },
+     {
+       "id": 5,
+       "type": "MQ",
+       "question": "A park ranger estimates that the number of visitors to a park will increase by a factor of $5^2$ over the next 5 years. If the current number of visitors is 100, what will be the estimated number of visitors in 5 years?",
+       "options": {
+         "A": "500",
+         "B": "1000",
+         "C": "1200",
+         "D": "1500",
+         "E": "2500"
+       },
+       "answer": "E"
+     },
+     {
+       "id": 6,
+       "type": "MQ",
+       "question": "If $3^x = 81$, what is the value of $x$?",
+       "options": {
+         "A": "2",
+         "B": "3",
+         "C": "4",
+         "D": "5",
+         "E": "6"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 7,
+       "type": "MQ",
+       "question": "A group of friends plan to go on a road trip. They estimate that their fuel consumption will decrease by a factor of $2^2$ if they drive at a constant speed of 60 mph. If their initial fuel consumption was 6 gallons per hour, what will be their new fuel consumption?",
+       "options": {
+         "A": "1.5 gallons/hour",
+         "B": "2 gallons/hour",
+         "C": "3 gallons/hour",
+         "D": "4 gallons/hour",
+         "E": "6 gallons/hour"
+       },
+       "answer": "C"
+     },
+     {
+       "id": 8,
+       "type": "MQ",
+       "question": "Solve for $y$: $y cdot 4^y = 256$",
+       "options": {
+         "A": "2",
+         "B": "3",
+         "C": "4",
+         "D": "5",
+         "E": "6"
+       },
+       "answer": "C"
+     },
+     {
+       "id": 9,
+       "type": "FRQ",
+       "question": "A certain species of tree is growing in a forest. The number of trees is increasing exponentially according to the equation $N(t) = 3^t cdot N_0$, where $N_0$ is the initial number of trees. If the number of trees doubles every 3 years, what is the value of $t$ when the number of trees reaches 8 times its initial value? Show your work and explain your reasoning.",
+       "required_space_lines": 5
+     },
+     {
+       "id": 10,
+       "type": "FRQ",
+       "question": "A traveler is planning a trip to a remote area. She estimates that her fuel consumption will increase by a factor of $2^x$ due to the rough terrain. If her initial fuel consumption was 8 gallons per hour and she wants to know her new fuel consumption when $x = 3$, what will be her new fuel consumption? Show your work and explain your reasoning.",
+       "required_space_lines": 5
+     }
+   ],
+   "teacher_rules": [
+     "Emphasize the importance of understanding exponential growth and decay in real-world contexts.",
+     "Encourage students to use mathematical models to solve problems and make predictions.",
+     "Remind students to show their work and explain their reasoning when solving problems."
+   ],
+   "footer_title": "Chef's Tips"
+ }

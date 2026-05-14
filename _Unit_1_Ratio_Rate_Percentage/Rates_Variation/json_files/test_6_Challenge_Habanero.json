@@ -1,0 +1,128 @@
+{
+  "unit": "\u1F4D6 Unit 1: Ratio, Rate, Percentage",
+   "topic": "Rates & Variation",
+   "test_type": "Challenge (Habanero)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "A gamer scored $12$ points in $4$ minutes. What is the unit rate of points per minute?",
+           "options": {
+               "A": "$2$ points/minute",
+               "B": "$3$ points/minute",
+               "C": "$4$ points/minute",
+               "D": "$6$ points/minute",
+               "E": "$8$ points/minute"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "A coding task requires $15$ lines of code to process $3000$ data points. How many lines of code are required to process $18000$ data points?",
+           "options": {
+               "A": "$60$ lines",
+               "B": "$75$ lines",
+               "C": "$90$ lines",
+               "D": "$120$ lines",
+               "E": "$150$ lines"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "The score of a game is directly proportional to the number of players. If $4$ players scored $120$ points, how many points would $6$ players score?",
+           "options": {
+               "A": "$150$ points",
+       "B": "$180$ points",
+       "C": "$200$ points",
+       "D": "$220$ points",
+       "E": "$240$ points"
+   },
+   "answer": "B"
+},
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "A video game uses $250$ MB of data per hour of gameplay. How many hours of gameplay are possible with $3750$ MB of data?",
+           "options": {
+               "A": "$10$ hours",
+               "B": "$12$ hours",
+               "C": "$15$ hours",
+               "D": "$18$ hours",
+               "E": "$20$ hours"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "A gamer's score increases at a rate of $5$ points per level. If the gamer's current score is $50$ points, what is the gamer's level?",
+           "options": {
+               "A": "Level $5$",
+               "B": "Level $6$",
+               "C": "Level $8$",
+               "D": "Level $10$",
+               "E": "Level $12$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "The time it takes to complete a coding task is inversely proportional to the number of coders. If $5$ coders take $2$ hours to complete the task, how long would it take for $10$ coders to complete the task?",
+           "options": {
+               "A": "$0.5$ hours",
+               "B": "$1$ hour",
+               "C": "$1.5$ hours",
+               "D": "$2$ hours",
+               "E": "$4$ hours"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "A gamer's data usage is $50$ MB per game. If the gamer plays $8$ games, what is the total data usage in GB?",
+           "options": {
+               "A": "$0.2$ GB",
+               "B": "$0.4$ GB",
+               "C": "$0.5$ GB",
+               "D": "$0.8$ GB",
+               "E": "$1$ GB"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "The cost of a gaming console is directly proportional to the number of controllers. If a console with $2$ controllers costs $$200$, what is the cost of a console with $4$ controllers?",
+           "options": {
+               "A": "$$300$",
+               "B": "$$350$",
+               "C": "$$400$",
+               "D": "$$450$",
+               "E": "$$500$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "A coding task requires $x$ lines of code to process $y$ data points. If $12$ lines of code are required to process $600$ data points, find the number of lines of code required to process $2400$ data points. Show your work and express your answer as a numerical value.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "The score of a game is inversely proportional to the time taken to complete the game. If a gamer scores $80$ points in $10$ minutes, find the score if the gamer takes $20$ minutes to complete the game. Show your work and express your answer as a numerical value.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Chef's Tips: Ensure students show all work and use proper mathematical notation.",
+       "Chef's Tips: Encourage students to read the questions carefully and choose the correct units.",
+       "Chef's Tips: Remind students to check their calculations for reasonableness."
+   ]
+}

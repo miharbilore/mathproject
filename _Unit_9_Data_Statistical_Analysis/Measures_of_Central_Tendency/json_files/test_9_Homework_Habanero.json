@@ -1,0 +1,129 @@
+{
+  "unit": "\uD83D\uDCD8 Unit 9: Data Statistical Analysis",
+   "topic": "Measures of Central Tendency",
+   "test_type": "Homework (Habanero)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "What is the mean of the dosages 2.5mg, 3.2mg, and 2.8mg?",
+           "options": {
+               "A": "$\\frac{2.5+3.2+2.8}{3} = 2.83mg$",
+               "B": "$\\frac{2.5+3.2+2.8}{3} = 2.85mg$",
+               "C": "$\\frac{2.5+3.2+2.8}{3} = 2.87mg$",
+               "D": "$\\frac{2.5+3.2+2.8}{3} = 2.89mg$",
+               "E": "$\\frac{2.5+3.2+2.8}{3} = 2.91mg$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "A scientist measures cell growth in 5 samples: 15%, 18%, 12%, 15%, 20%. What is the mode?",
+           "options": {
+               "A": "12%",
+               "B": "15%",
+               "C": "18%",
+               "D": "20%",
+               "E": "22%"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "What is the median of the data set {1.2, 2.5, 3.7, 4.1}?",
+           "options": {
+               "A": "$\\frac{2.5+3.7}{2} = 3.1$",
+               "B": "$\\frac{2.5+3.7}{2} = 3.2$",
+               "C": "$\\frac{2.5+3.7}{2} = 3.3$",
+               "D": "$2.5$",
+               "E": "$3.7$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "The mean blood pressure of a group of patients is $120mmHg$. If 8 patients have blood pressures of $110mmHg$, $115mmHg$, $118mmHg$, $122mmHg$, $125mmHg$, $130mmHg$, $132mmHg$, and $140mmHg$, what is the blood pressure of the 9th patient?",
+           "options": {
+               "A": "$100mmHg$",
+               "B": "$105mmHg$",
+               "C": "$110mmHg$",
+               "D": "$128mmHg$",
+       "E": "$132mmHg$"
+       },
+           "answer": "D"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "A doctor prescribes a dosage of $50mg$ to 3 patients, $75mg$ to 2 patients. What is the mode of the dosages?",
+           "options": {
+               "A": "$50mg$",
+           "B": "$75mg$",
+           "C": "$60mg$",
+           "D": "$65mg$",
+       "E": "$70mg$"
+       },
+           "answer": "A"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "The median of a data set is $12$. Which of the following could be the mean?",
+           "options": {
+               "A": "$10$",
+           "B": "$11$",
+           "C": "$12$",
+           "D": "$13$",
+       "E": "$14$"
+       },
+           "answer": "C"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "A researcher collects data on the number of hours patients spend in the hospital: $2$, $4$, $6$, $8$, $10$. What is the range of the data set?",
+           "options": {
+               "A": "$8$",
+           "B": "$6$",
+           "C": "$4$",
+           "D": "$10$",
+       "E": "$12$"
+       },
+           "answer": "A"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "What is the mean of the data set {1.1, 2.2, 3.3, 4.4, 5.5}?",
+           "options": {
+               "A": "$3.1$",
+           "B": "$3.2$",
+           "C": "$3.3$",
+           "D": "$3.4$",
+       "E": "$3.5$"
+       },
+           "answer": "C"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "A pharmaceutical company produces tablets with the following weights (in grams): 0.45, 0.50, 0.52, 0.48, 0.51. Calculate the mean, median, and mode. Show your work and explain your answers.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "The following data set represents the times (in minutes) it takes for a patient to recover from anesthesia: 15, 20, 18, 22, 25. Calculate the range, mean, and median. Explain the significance of each measure in the context of the problem.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Tip 1: Remind students to check their units of measurement.",
+       "Tip 2: Encourage students to use calculators to speed up calculations.",
+       "Tip 3: Emphasize the importance of labeling answers and showing work."
+   ],
+   "footer_title": "Chef's Tips"
+}

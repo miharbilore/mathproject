@@ -1,0 +1,129 @@
+{
+  "unit": "Unit 0: Foundations of Algebra",
+   "topic": "Equations",
+   "test_type": "Quiz (Habanero)",
+   "questions": [
+       { 
+           "id": 1, 
+           "type": "MQ", 
+           "question": "Solve for $x$: $x + 5 = 11$", 
+           "options": { 
+               "A": "$x = 6$", 
+               "B": "$x = 7$", 
+               "C": "$x = 8$", 
+               "D": "$x = 9$", 
+               "E": "$x = 10$"
+           }, 
+           "answer": "B" 
+       },
+       { 
+           "id": 2, 
+           "type": "MQ", 
+           "question": "A glacier is losing $3$ meters of ice per year. If it currently has $45$ meters of ice, how many years will it take for the glacier to lose $15$ meters of ice?", 
+           "options": { 
+               "A": "$5$ years", 
+               "B": "$3$ years", 
+               "C": "$2$ years", 
+               "D": "$1$ year", 
+               "E": "$4$ years"
+           }, 
+           "answer": "B" 
+       },
+       { 
+           "id": 3, 
+           "type": "MQ", 
+           "question": "The rainfall in a desert region is increasing by $2$ inches per month. If the current rainfall is $10$ inches, how many months will it take for the rainfall to reach $16$ inches?", 
+           "options": { 
+               "A": "$5$ months", 
+               "B": "$3$ months", 
+               "C": "$2$ months", 
+               "D": "$6$ months", 
+               "E": "$4$ months"
+           }, 
+           "answer": "C" 
+       },
+       { 
+           "id": 4, 
+           "type": "MQ", 
+           "question": "Solve for $y$: $2y - 4 = 12$", 
+           "options": { 
+               "A": "$y = 6$", 
+               "B": "$y = 7$", 
+               "C": "$y = 8$", 
+               "D": "$y = 9$", 
+               "E": "$y = 10$"
+           }, 
+           "answer": "C" 
+       },
+       { 
+           "id": 5, 
+           "type": "MQ", 
+           "question": "The temperature in a greenhouse is rising by $1.5$ degrees Celsius per hour. If the current temperature is $20$ degrees Celsius, how many hours will it take for the temperature to reach $25$ degrees Celsius?", 
+           "options": { 
+               "A": "$5$ hours", 
+               "B": "$3$ hours", 
+               "C": "$2$ hours", 
+               "D": "$1.67$ hours", 
+               "E": "$4$ hours"
+           }, 
+           "answer": "D" 
+       },
+       { 
+           "id": 6, 
+           "type": "MQ", 
+           "question": "Solve for $z$: $z/2 + 3 = 7$", 
+           "options": { 
+               "A": "$z = 6$", 
+               "B": "$z = 7$", 
+               "C": "$z = 8$", 
+               "D": "$z = 9$", 
+               "E": "$z = 10$"
+           }, 
+           "answer": "C" 
+       },
+       { 
+           "id": 7, 
+           "type": "MQ", 
+           "question": "A lake is being filled at a rate of $0.5$ meters per day. If the lake currently has $2$ meters of water and needs $4$ meters to be considered full, how many days will it take to fill the lake?", 
+           "options": { 
+               "A": "$2$ days", 
+               "B": "$3$ days", 
+               "C": "$4$ days", 
+               "D": "$6$ days", 
+               "E": "$8$ days"
+           }, 
+           "answer": "D" 
+       },
+       { 
+           "id": 8, 
+           "type": "MQ", 
+           "question": "Solve for $x$: $x - 2 = 9$", 
+           "options": { 
+               "A": "$x = 7$", 
+               "B": "$x = 10$", 
+               "C": "$x = 11$", 
+               "D": "$x = 12$", 
+               "E": "$x = 13$"
+           }, 
+           "answer": "C" 
+       },
+       { 
+           "id": 9, 
+           "type": "FRQ", 
+           "question": "Solve for $x$: $2x + 5 = 11$. Show all work and check your solution for accuracy.", 
+           "required_space_lines": 5 
+       },
+       { 
+           "id": 10, 
+           "type": "FRQ", 
+           "question": "A river is flowing at a rate of $1.2$ meters per second. If the river currently has $50$ meters of water and is losing $0.5$ meters per hour due to evaporation, how many hours will it take for the river to lose $10$ meters of water? Show all work and check your solution for accuracy.", 
+           "required_space_lines": 5 
+       }
+   ],
+   "teacher_rules": [
+       "Tip 1: Encourage students to use algebraic methods to solve equations.",
+       "Tip 2: Emphasize the importance of checking solutions for accuracy.",
+       "Tip 3: Consider providing additional support for students struggling with multi-step linear equations."
+   ],
+   "footer": "Chef's Tips"
+}

@@ -1,0 +1,129 @@
+{
+  "unit": "Unit 0: Foundations of Algebra",
+   "topic": "Natural Numbers & Integers",
+   "test_type": "Quiz (Carolina Reaper)",
+   "questions": [
+       { 
+           "id": 1, 
+           "type": "MQ", 
+           "question": "A ship is traveling at a speed of $25 \\cdot 10^3$ meters per hour. How many meters will it travel in $-2$ hours?", 
+           "options": {
+               "A": "$-50 \\cdot 10^3$ meters",
+               "B": "$50 \\cdot 10^3$ meters",
+               "C": "$-25 \\cdot 10^3$ meters",
+               "D": "$25 \\cdot 10^3$ meters",
+               "E": "0 meters"
+           },
+           "answer": "A"
+       },
+       { 
+           "id": 2, 
+           "type": "MQ", 
+           "question": "What is the next number in the pattern: $2, 5, 8, 11, 14$?", 
+           "options": {
+               "A": "15",
+               "B": "17",
+               "C": "18",
+               "D": "20",
+               "E": "21"
+           },
+           "answer": "B"
+       },
+       { 
+           "id": 3, 
+           "type": "MQ", 
+           "question": "Classify the number $-17$ as:", 
+           "options": {
+               "A": "Natural Number",
+               "B": "Whole Number",
+               "C": "Integer",
+               "D": "Rational Number",
+               "E": "Irrational Number"
+           },
+           "answer": "C"
+       },
+       { 
+           "id": 4, 
+           "type": "MQ", 
+           "question": "A truck driver is $3$ hours behind schedule. If he drives for $-2$ hours, how many hours behind schedule will he be?", 
+           "options": {
+               "A": "1 hour",
+               "B": "3 hours",
+               "C": "5 hours",
+               "D": "6 hours",
+               "E": "7 hours"
+           },
+           "answer": "C"
+       },
+       { 
+           "id": 5, 
+           "type": "MQ", 
+           "question": "What is the value of $x$ in the equation $x + 2 = 7$?", 
+           "options": {
+               "A": "5",
+               "B": "6",
+               "C": "7",
+               "D": "8",
+               "E": "9"
+           },
+           "answer": "A"
+       },
+       { 
+           "id": 6, 
+           "type": "MQ", 
+           "question": "A traffic light has a cycle of $12$ seconds. If it has been $-4$ seconds since the light turned green, how many seconds until it turns green again?", 
+           "options": {
+               "A": "8 seconds",
+               "B": "10 seconds",
+               "C": "12 seconds",
+               "D": "16 seconds",
+               "E": "20 seconds"
+           },
+           "answer": "A"
+       },
+       { 
+           "id": 7, 
+           "type": "MQ", 
+           "question": "A delivery truck is traveling at a speed of $40$ kilometers per hour. If it travels for $-1.5$ hours, how many kilometers will it have traveled?", 
+           "options": {
+               "A": "$-60$ kilometers",
+               "B": "$-50$ kilometers",
+               "C": "$-40$ kilometers",
+               "D": "$-30$ kilometers",
+               "E": "$-20$ kilometers"
+           },
+           "answer": "A"
+       },
+       { 
+           "id": 8, 
+           "type": "MQ", 
+           "question": "What is the result of $(-3) \\cdot (-6)$?", 
+           "options": {
+               "A": "$-18$",
+               "B": "$-9$",
+               "C": "9",
+               "D": "18",
+               "E": "27"
+           },
+           "answer": "D"
+       },
+       { 
+           "id": 9, 
+           "type": "FRQ", 
+           "question": "A company has $15$ trucks, each traveling at a speed of $60$ kilometers per hour. If they travel for $2$ hours, and then $3$ trucks break down and travel at $-20$ kilometers per hour for $1$ hour, how many kilometers will the company have traveled in total?", 
+           "required_space_lines": 5
+       },
+       { 
+           "id": 10, 
+           "type": "FRQ", 
+           "question": "A pattern starts with $1, 4, 7, 10, 13$. If the pattern continues, what will be the $10^{th}$ term in the pattern?", 
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Make sure to check the units of measurement",
+       "Verify that all calculations are correct",
+       "Read each question carefully before answering"
+   ],
+   "footer": "Chef's Tips"
+}

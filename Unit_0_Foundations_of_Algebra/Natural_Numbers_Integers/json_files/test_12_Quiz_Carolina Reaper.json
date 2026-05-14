@@ -1,0 +1,129 @@
+{
+  "unit": "Unit 0: Foundations of Algebra",
+   "topic": "Natural Numbers & Integers",
+   "test_type": "Quiz (Carolina Reaper)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "A shipping company has $5 \\cdot 3$ trucks. How many trucks does the company have?",
+           "options": {
+               "A": "13",
+               "B": "15",
+               "C": "20",
+               "D": "25",
+               "E": "30"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "The traffic flow rate is increasing by $2$ cars per minute. If there are currently $10$ cars on the road, how many will there be in $4$ minutes?",
+           "options": {
+               "A": "12",
+               "B": "14",
+               "C": "16",
+               "D": "18",
+               "E": "22"
+           },
+           "answer": "D"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "A delivery driver is $-3$ hours behind schedule. How many hours will it take to deliver $6$ packages if each package takes $2$ hours to deliver?",
+           "options": {
+               "A": "9",
+               "B": "12",
+               "C": "15",
+               "D": "18",
+               "E": "21"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "Find the next even number in the pattern: $2, 6, 10, 14, ...$",
+           "options": {
+               "A": "16",
+               "B": "18",
+               "C": "20",
+               "D": "22",
+               "E": "24"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "A logistics company has $12$ crates to transport. If $4$ crates are already loaded, what is the value of $x$ in the equation $12 - 4 = x$?",
+           "options": {
+               "A": "6",
+               "B": "8",
+               "C": "10",
+               "D": "12",
+               "E": "14"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "Determine the value of $x$ in the equation $x + 5 = 11$ if $x$ is an integer.",
+           "options": {
+               "A": "5",
+               "B": "6",
+               "C": "7",
+               "D": "8",
+               "E": "9"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "A transportation company has a total of $25$ vehicles, including $15$ trucks and $10$ cars. If $x$ represents the number of trucks, which equation represents the total number of vehicles?",
+           "options": {
+               "A": "$x + 10 = 25$",
+               "B": "$x - 10 = 25$",
+               "C": "$x + 15 = 25$",
+               "D": "$x - 15 = 25$",
+       "E": "$x = 25 - 10$"
+   },
+           "answer": "A"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "A pattern of odd numbers starts with $3, 7, 11, 15, ...$. What is the next odd number in the pattern?",
+           "options": {
+               "A": "17",
+               "B": "19",
+               "C": "21",
+               "D": "23",
+       "E": "25"
+   },
+           "answer": "B"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "A delivery truck travels $250$ miles in $5$ hours. If the truck needs to travel an additional $120$ miles, and it is currently $2$ hours behind schedule, how many more hours will it take to complete the delivery? Show all work.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "A shipping company is scheduling deliveries for the day. The first delivery is at $9$ AM, and each subsequent delivery is $30$ minutes apart. If there are $8$ deliveries to be made, what time will the last delivery be? Assume the company starts delivering at $9$ AM and does not take breaks.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Tip 1: Ensure students understand the context of each question.",
+       "Tip 2: Encourage students to show all work for free response questions.",
+       "Tip 3: Allow students to use calculators for calculations only."
+   ],
+   "footer": "Chef's Tips"
+}

@@ -1,0 +1,129 @@
+{
+  "unit": "\u1F4D6 Unit 4: Absolute Value",
+   "topic": "Absolute Value Inequalities and Their Applications",
+   "test_type": "Homework (Jalapeno)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "The ancient Egyptians used $|x - 5|$ to measure the distance from a temple. If the distance is less than 3, what is the solution set in interval notation?",
+           "options": {
+               "A": "$(2, 8)$",
+               "B": "$[2, 8]$",
+               "C": "$(-infty, 2] cup [8, infty)$",
+               "D": "$[2, 8)$",
+               "E": "$(2, 8]$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "The Great Pyramid of Giza's height above sea level is modeled by $|h - 150| leq 20$. What is the range of possible heights $h$?",
+           "options": {
+               "A": "$130 leq h leq 170$",
+               "B": "$130 < h < 170$",
+               "C": "$130 leq h < 170$",
+               "D": "$130 < h leq 170$",
+               "E": "$120 leq h leq 180$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "The Phoenicians used $|x + 2| > 5$ to navigate the Mediterranean. What is the solution set on a number line?",
+           "options": {
+               "A": "$(-infty, -7) cup (3, infty)$",
+               "B": "$(-7, 3)$",
+               "C": "$(-infty, -7] cup [3, infty)$",
+               "D": "$(-7, 3)$",
+               "E": "$(-7, 3]$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "The Rosetta Stone's age is estimated using $|a - 2000| geq 500$. What is the solution set for $a$?",
+           "options": {
+               "A": "$a leq 1500$ or $a geq 2500$",
+               "B": "$1500 leq a leq 2500$",
+       "C": "$a leq 1500$ and $a geq 2500$",
+       "D": "$1500 < a < 2500$",
+       "E": "$1500 < a leq 2500$"
+   },
+   "answer": "A"
+},
+{
+   "id": 5,
+   "type": "MQ",
+   "question": "Ancient Babylonians measured the distance between cities using $|d - 50| < 20$. What is the solution set for $d$?",
+   "options": {
+       "A": "$30 < d < 70$",
+       "B": "$30 leq d leq 70$",
+       "C": "$30 leq d < 70$",
+       "D": "$30 < d leq 70$",
+       "E": "$20 leq d leq 80$"
+   },
+   "answer": "A"
+},
+{
+   "id": 6,
+   "type": "MQ",
+   "question": "The ancient Greek Parthenon's length is estimated using $|l - 70| leq 10$. What is the solution set for $l$?",
+   "options": {
+       "A": "$60 leq l leq 80$",
+       "B": "$60 < l < 80$",
+       "C": "$60 leq l < 80$",
+       "D": "$60 < l leq 80$",
+       "E": "$50 leq l leq 90$"
+   },
+   "answer": "A"
+},
+{
+   "id": 7,
+   "type": "MQ",
+   "question": "The Terracotta Army's height above ground level is modeled by $|h - 5| > 2$. What is the solution set for $h$?",
+   "options": {
+       "A": "$h < 3$ or $h > 7$",
+       "B": "$3 leq h leq 7$",
+       "C": "$3 < h < 7$",
+       "D": "$h leq 3$ or $h geq 7$",
+       "E": "$3 < h leq 7$"
+   },
+   "answer": "A"
+},
+{
+   "id": 8,
+   "type": "MQ",
+   "question": "The Great Wall of China's length is estimated using $|l - 4000| geq 1000$. What is the solution set for $l$?",
+   "options": {
+       "A": "$l leq 3000$ or $l geq 5000$",
+       "B": "$3000 leq l leq 5000$",
+       "C": "$3000 < l < 5000$",
+       "D": "$3000 leq l < 5000$",
+       "E": "$3000 < l leq 5000$"
+   },
+   "answer": "A"
+},
+{
+   "id": 9,
+   "type": "FRQ",
+   "question": "In ancient Rome, the distance between two landmarks was estimated to be $|d - 20| < 5$. Find the solution set for $d$ and graph it on a number line.",
+   "required_space_lines": 5
+},
+{
+   "id": 10,
+   "type": "FRQ",
+   "question": "The Aztec calendar's age is estimated using $|a - 500| > 200$. Find the solution set for $a$ and express it in interval notation.",
+   "required_space_lines": 5
+}
+],
+"teacher_rules": [
+   "Tip 1: Ensure students understand the concept of absolute value inequalities.",
+   "Tip 2: Emphasize the importance of expressing solutions in interval notation.",
+   "Tip 3: Encourage students to visualize the solutions on a number line."
+],
+"footer_title": "Chef's Tips"
+}

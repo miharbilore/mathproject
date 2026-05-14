@@ -1,0 +1,129 @@
+{
+  "unit": "Unit 0: Foundations of Algebra",
+   "topic": "Isolating Variables",
+   "test_type": "Foundation (Jalapeno)",
+   "questions": [
+       { 
+           "id": 1, 
+           "type": "MQ", 
+           "question": "Solve for $x$: $2x + 5 = 11$", 
+           "options": { 
+               "A": "$x = 2$", 
+               "B": "$x = 3$", 
+               "C": "$x = 4$", 
+               "D": "$x = 5$", 
+               "E": "$x = 6$"
+           }, 
+           "answer": "B" 
+       },
+       { 
+           "id": 2, 
+           "type": "MQ", 
+           "question": "Isolate $y$ in $3y - 2 = 7$", 
+           "options": { 
+               "A": "$y = 3$", 
+               "B": "$y = 5$", 
+               "C": "$y = 7$", 
+               "D": "$y = 9$", 
+               "E": "$y = 11$"
+           }, 
+           "answer": "B" 
+       },
+       { 
+           "id": 3, 
+           "type": "MQ", 
+           "question": "In basketball, a player scores $2x + 10$ points in the first half and $x - 5$ points in the second half. If the total score is 35, what is $x$?", 
+           "options": { 
+               "A": "$x = 5$", 
+               "B": "$x = 7$", 
+               "C": "$x = 10$", 
+               "D": "$x = 12$", 
+               "E": "$x = 15$"
+           }, 
+           "answer": "B" 
+       },
+       { 
+           "id": 4, 
+           "type": "MQ", 
+           "question": "A cyclist travels $2x$ miles in the morning and $x + 1$ miles in the afternoon. If the total distance is 21 miles, what is $x$?", 
+           "options": { 
+               "A": "$x = 6$", 
+               "B": "$x = 7$", 
+               "C": "$x = 8$", 
+               "D": "$x = 9$", 
+               "E": "$x = 10$"
+           }, 
+           "answer": "B" 
+       },
+       { 
+           "id": 5, 
+           "type": "MQ", 
+           "question": "Solve for $z$: $z/4 + 2 = 9$", 
+           "options": { 
+               "A": "$z = 20$", 
+               "B": "$z = 24$", 
+               "C": "$z = 28$", 
+               "D": "$z = 32$", 
+               "E": "$z = 36$"
+           }, 
+           "answer": "C" 
+       },
+       { 
+           "id": 6, 
+           "type": "MQ", 
+           "question": "In a tennis match, a player wins $3x - 2$ games in the first set and $2x + 1$ games in the second set. If the total number of games won is 16, what is $x$?", 
+           "options": { 
+               "A": "$x = 3$", 
+               "B": "$x = 4$", 
+               "C": "$x = 5$", 
+               "D": "$x = 6$", 
+               "E": "$x = 7$"
+           }, 
+           "answer": "B" 
+       },
+       { 
+           "id": 7, 
+           "type": "MQ", 
+           "question": "Isolate $w$ in $w/2 - 3 = 7$", 
+           "options": { 
+               "A": "$w = 10$", 
+               "B": "$w = 12$", 
+               "C": "$w = 14$", 
+               "D": "$w = 16$", 
+               "E": "$w = 20$"
+           }, 
+           "answer": "D" 
+       },
+       { 
+           "id": 8, 
+           "type": "MQ", 
+           "question": "A gymnast scores $x + 2$ points for the vault and $3x - 1$ points for the floor exercise. If the total score is 20, what is $x$?", 
+           "options": { 
+               "A": "$x = 4$", 
+               "B": "$x = 5$", 
+               "C": "$x = 6$", 
+               "D": "$x = 7$", 
+               "E": "$x = 8$"
+           }, 
+           "answer": "B" 
+       },
+       { 
+           "id": 9, 
+           "type": "FRQ", 
+           "question": "Solve for $y$ in the equation $2y + 5 = 3y - 2$. Show all steps.", 
+           "required_space_lines": 5
+       },
+       { 
+           "id": 10, 
+           "type": "FRQ", 
+           "question": "Isolate $x$ in the equation $x/3 + 2 = 2x - 5$. Show all steps.", 
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Read each question carefully before answering.",
+       "Use the space provided for workings.",
+       "Check your answers."
+   ],
+   "footer": "Chef's Tips"
+}

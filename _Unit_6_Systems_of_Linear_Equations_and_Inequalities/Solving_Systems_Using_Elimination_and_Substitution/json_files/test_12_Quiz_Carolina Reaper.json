@@ -1,0 +1,129 @@
+{
+  "unit": "\u1f4d6 Unit 6: Systems of Linear Equations and Inequalities",
+   "topic": "Solving Systems Using Elimination and Substitution",
+   "test_type": "Quiz (Carolina Reaper)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "A shipping company has two types of trucks. Let $x$ be the number of large trucks and $y$ be the number of small trucks. The company has $12$ trucks in total and the large trucks are $3$ times more expensive than the small trucks. The total cost of the trucks is $$240,000$. Which system represents the situation?",
+           "options": {
+               "A": "$x + y = 12$, $x = 3y$",
+               "B": "$x + y = 12$, $3x + y = 240$",
+               "C": "$x + y = 12$, $3x + y = 240,000$",
+               "D": "$x - y = 12$, $3x + y = 240,000$",
+               "E": "$x + y = 12$, $x = 3y$, $3x + y = 240,000$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "Solve the system of equations using substitution: $x - 2y = 3$, $y = 2x - 5$. What is the value of $x$?",
+           "options": {
+               "A": "$x = 1$",
+               "B": "$x = 3$",
+               "C": "$x = 7$",
+               "D": "$x = 11$",
+               "E": "$x = 13$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "A traffic flow problem can be represented by the system: $2x + 3y = 12$, $x - 2y = -3$. Which method would be most efficient to solve this system?",
+           "options": {
+               "A": "Graphing",
+               "B": "Substitution",
+               "C": "Elimination",
+               "D": "Matrices",
+               "E": "Guess and check"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "A delivery company has $15$ drivers and $20$ trucks. Let $x$ be the number of trucks that are not in use and $y$ be the number of drivers that are not assigned to a truck. The company has $5$ more trucks than drivers. Which equation represents the situation?",
+           "options": {
+       "A": "$x + y = 15$",
+       "B": "$x + y = 20$",
+       "C": "$x + y = 35$",
+       "D": "$x - y = 5$",
+       "E": "$x - y = -5$"
+   },
+   "answer": "D"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "The system of equations $x + 2y = 7$, $3x + 6y = 21$ has which type of solution?",
+           "options": {
+               "A": "One solution",
+               "B": "No solution",
+               "C": "Infinitely many solutions",
+               "D": "Two solutions",
+               "E": "Three solutions"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "A logistics company has a system of equations representing the cost of shipping: $2x + 3y = 120$, $x - 2y = -30$. What is the value of $y$?",
+           "options": {
+               "A": "$y = 10$",
+               "B": "$y = 15$",
+               "C": "$y = 20$",
+               "D": "$y = 25$",
+               "E": "$y = 30$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "The system $x + y = 4$, $3x - 3y = 12$ has which type of solution?",
+           "options": {
+               "A": "One solution",
+               "B": "No solution",
+               "C": "Infinitely many solutions",
+               "D": "Two solutions",
+               "E": "No solution, the equations are parallel"
+           },
+           "answer": "E"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "Solve the system using elimination: $x + 4y = 11$, $3x - 4y = 5$. What is the value of $x$?",
+           "options": {
+               "A": "$x = 2$",
+               "B": "$x = 3$",
+               "C": "$x = 4$",
+               "D": "$x = 5$",
+               "E": "$x = 6$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "A shipping company has two types of containers: large and small. Let $x$ be the number of large containers and $y$ be the number of small containers. The company has $25$ containers in total and the large containers are $2$ times more expensive than the small containers. The total cost of the containers is $$10,000$. Write a system of equations to represent the situation and solve for $x$ and $y$. Show all work and explain your answer.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "A traffic flow problem can be represented by the system: $x + 2y = 15$, $3x - y = 10$. Solve the system using substitution or elimination and explain which method you chose and why. Show all work and write a brief conclusion about the solution.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Tip 1: Ensure students show all work and explain their answers",
+       "Tip 2: Encourage students to use substitution or elimination to solve systems of equations",
+       "Tip 3: Remind students to check their answers by plugging them back into the original equations"
+   ],
+   "footer": "Chef's Tips"
+}

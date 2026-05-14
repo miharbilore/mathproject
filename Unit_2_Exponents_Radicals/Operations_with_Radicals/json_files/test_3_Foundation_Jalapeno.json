@@ -1,0 +1,129 @@
+{
+  "unit": "\u1f4d6 Unit 2: Exponents & Radicals",
+   "topic": "Operations with Radicals",
+   "test_type": "Foundation (Jalapeno)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "Simplify $\\sqrt{9} + \\sqrt{16}$",
+           "options": {
+               "A": "$3 + 4$",
+               "B": "$5$",
+               "C": "$7$",
+               "D": "$\\sqrt{25}$",
+               "E": "$\\sqrt{32}$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "Simplify $\\sqrt{4} cdot \\sqrt{9}$",
+           "options": {
+               "A": "$2 cdot 3$",
+               "B": "$6$",
+               "C": "$12$",
+               "D": "$\\sqrt{36}$",
+               "E": "$\\sqrt{13}$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "A basketball player scored $\\sqrt{81}$ points in the first half. How many points did she score?",
+           "options": {
+               "A": "$3$",
+               "B": "$6$",
+               "C": "$9$",
+               "D": "$12$",
+               "E": "$15$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "Simplify $\\frac{\\sqrt{16}}{\\sqrt{4}}$",
+           "options": {
+               "A": "$2$",
+               "B": "$4$",
+               "C": "$\\sqrt{4}$",
+               "D": "$\\sqrt{16}$",
+               "E": "$\\frac{\\sqrt{16}}{2}$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "A cyclist traveled $\\sqrt{25}$ miles in the first hour. How many miles did she travel?",
+           "options": {
+               "A": "$3$",
+       "B": "$5$",
+       "C": "$7$",
+       "D": "$9$",
+       "E": "$11$"
+   },
+   "answer": "B"
+},
+{
+   "id": 6,
+   "type": "MQ",
+   "question": "Simplify $\\sqrt{9} - \\sqrt{4}$",
+   "options": {
+       "A": "$1$",
+       "B": "$3$",
+       "C": "$5$",
+       "D": "$\\sqrt{5}$",
+       "E": "$\\sqrt{13}$"
+   },
+   "answer": "A"
+},
+{
+   "id": 7,
+   "type": "MQ",
+   "question": "A football player ran $\\sqrt{36}$ yards in the first quarter. How many yards did he run?",
+   "options": {
+       "A": "$3$",
+       "B": "$4$",
+       "C": "$6$",
+       "D": "$8$",
+       "E": "$9$"
+   },
+   "answer": "C"
+},
+{
+   "id": 8,
+   "type": "MQ",
+   "question": "Simplify $\\sqrt{16} cdot \\sqrt{9}$",
+   "options": {
+       "A": "$12$",
+       "B": "$24$",
+       "C": "$36$",
+       "D": "$48$",
+       "E": "$\\sqrt{144}$"
+   },
+   "answer": "C"
+},
+{
+   "id": 9,
+   "type": "FRQ",
+   "question": "A marathon runner's average pace is $\\sqrt{16}$ miles per hour. If she runs for $2$ hours, how many miles will she have run? Show your work.",
+   "required_space_lines": 5
+},
+{
+   "id": 10,
+   "type": "FRQ",
+   "question": "Simplify the expression $\\sqrt{9} + \\sqrt{25} - \\sqrt{16}$. Show your work.",
+   "required_space_lines": 5
+}
+   ],
+   "teacher_rules": [
+       "Encourage students to check their work.",
+       "Remind students to simplify radicals when possible.",
+       "Emphasize the importance of showing work for free-response questions."
+   ],
+   "footer": "Chef's Tips"
+}

@@ -1,0 +1,129 @@
+{
+  "unit": "\u1F4D6 Unit 5: Linear Equations",
+   "topic": "Rate of Change and Slope",
+   "test_type": "Advanced (Carolina Reaper)",
+   "questions": [
+     {
+       "id": 1,
+       "type": "MQ",
+       "question": "What is the slope of the line that passes through points $(2, 3)$ and $(4, 5)$?",
+       "options": {
+         "A": "$\\frac{1}{2}$",
+         "B": "$1$",
+         "C": "$\\frac{3}{2}$",
+         "D": "$2$",
+         "E": "$\\frac{5}{2}$"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 2,
+       "type": "MQ",
+       "question": "A water tank is being filled at a rate of $2$ gallons per minute. What is the slope of the graph of the amount of water in the tank versus time?",
+       "options": {
+         "A": "$0$",
+         "B": "$1$",
+         "C": "$2$",
+         "D": "$\\frac{1}{2}$",
+         "E": "$-2$"
+       },
+       "answer": "C"
+     },
+     {
+       "id": 3,
+       "type": "MQ",
+       "question": "The cost of renting a bike is $ $10$ plus $ $2$ per hour. What is the slope of the graph of the cost versus time?",
+       "options": {
+         "A": "$2$",
+         "B": "$5$",
+         "C": "$10$",
+         "D": "$\\frac{1}{2}$",
+         "E": "$0$"
+       },
+       "answer": "A"
+     },
+     {
+       "id": 4,
+       "type": "MQ",
+       "question": "A bookshelf has $5$ shelves, and each shelf can hold $8$ books. If the bookshelf is currently empty, what is the slope of the graph of the number of books on the bookshelf versus the number of hours spent stocking the bookshelf at a rate of $2$ books per hour?",
+       "options": {
+         "A": "$\\frac{1}{4}$",
+         "B": "$1$",
+         "C": "$2$",
+         "D": "$4$",
+         "E": "$8$"
+       },
+       "answer": "C"
+     },
+     {
+       "id": 5,
+       "type": "MQ",
+       "question": "A person is saving money for a trip and has $ $100$ already saved. They plan to save an additional $ $20$ per week. What is the slope of the graph of the amount saved versus time?",
+       "options": {
+         "A": "$10$",
+         "B": "$20$",
+         "C": "$50$",
+         "D": "$100$",
+         "E": "$200$"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 6,
+       "type": "MQ",
+       "question": "What is the slope of the line $y = -3x + 2$?",
+       "options": {
+         "A": "$-1$",
+         "B": "$-2$",
+         "C": "$-3$",
+         "D": "$2$",
+         "E": "$3$"
+       },
+       "answer": "C"
+     },
+     {
+       "id": 7,
+       "type": "MQ",
+       "question": "A person is planning a road trip and wants to drive $250$ miles in $5$ hours. What is the slope of the graph of the distance traveled versus time?",
+       "options": {
+         "A": "$25$",
+         "B": "$50$",
+         "C": "$50$",
+         "D": "$60$",
+         "E": "$100$"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 8,
+       "type": "MQ",
+       "question": "What is the slope of the line that passes through points $(1, 2)$ and $(3, 2)$?",
+       "options": {
+         "A": "$0$",
+         "B": "$1$",
+         "C": "$\\frac{1}{2}$",
+         "D": "$2$",
+         "E": "undefined"
+       },
+       "answer": "A"
+     },
+     {
+       "id": 9,
+       "type": "FRQ",
+       "question": "A bakery is making cakes for a wedding. They need to make $150$ cakes in $10$ hours. If they have already made $20$ cakes in $2$ hours, what is the slope of the graph of the number of cakes made versus time? Show your work and explain your answer.",
+       "required_space_lines": 5
+     },
+     {
+       "id": 10,
+       "type": "FRQ",
+       "question": "A person is saving money for a down payment on a house and has $ $500$ already saved. They plan to save an additional $ $50$ per month. If they want to have $ $2000$ saved in $2$ years, what is the slope of the graph of the amount saved versus time? Show your work and explain your answer.",
+       "required_space_lines": 5
+     }
+   ],
+   "teacher_rules": [
+     "Tip 1: Make sure to read each question carefully and understand what is being asked.",
+     "Tip 2: Use the given information to find the slope, and show your work.",
+     "Tip 3: Check your answers to make sure they make sense in the context of the problem."
+   ],
+   "footer": "Chef's Tips"
+ }

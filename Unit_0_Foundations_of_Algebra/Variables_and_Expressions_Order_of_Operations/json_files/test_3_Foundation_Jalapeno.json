@@ -1,0 +1,129 @@
+{
+  "unit": "Unit 0: Foundations of Algebra",
+   "topic": "Variables and Expressions / Order of Operations",
+   "test_type": "Foundation (Jalapeno)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "Evaluate the expression $2 \\cdot 3 + 12 \\div 4$ using PEMDAS.",
+           "options": {
+               "A": "9",
+               "B": "10",
+               "C": "11",
+               "D": "12",
+               "E": "15"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "A basketball team scores $x$ points in the first quarter and $2x$ points in the second quarter. The total score is $15$ points. What is the value of $x$?",
+           "options": {
+               "A": "3",
+               "B": "5",
+               "C": "2",
+               "D": "1",
+               "E": "4"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "Simplify the expression $3x + 2x$.",
+           "options": {
+               "A": "$5x$",
+               "B": "$6x$",
+               "C": "$x$",
+               "D": "$2x$",
+               "E": "$4x$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "A cyclist travels $x$ miles in $2$ hours. If she travels $3x$ miles in $6$ hours, what is her average speed?",
+           "options": {
+               "A": "$x/2$ mph",
+               "B": "$3x/2$ mph",
+               "C": "$x$ mph",
+               "D": "$2x$ mph",
+       "E": "$3x$ mph"
+       },
+           "answer": "C"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "What is the value of the expression $12 - 3 \\cdot 2$?",
+           "options": {
+               "A": "6",
+               "B": "0",
+               "C": "2",
+               "D": "4",
+       "E": "12"
+       },
+           "answer": "A"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "Evaluate the expression $(4 + 2) \\div (8 - 2)$.",
+           "options": {
+               "A": "1",
+               "B": "2",
+       "C": "3",
+       "D": "4",
+       "E": "6"
+       },
+           "answer": "B"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "Simplify the expression $2(3x - 1)$.",
+           "options": {
+               "A": "$6x - 1$",
+       "B": "$6x + 1$",
+       "C": "$5x - 2$",
+       "D": "$6x - 2$",
+       "E": "$5x + 2$"
+       },
+           "answer": "D"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "What is the value of $x$ if $x + 2 = 7$?",
+           "options": {
+               "A": "3",
+       "B": "5",
+       "C": "2",
+       "D": "9",
+       "E": "1"
+       },
+           "answer": "B"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "Tommy shoots $x$ free throws in a basketball game, with a success rate of $0.8$. If he made $0.6x$ successful shots, what is the value of $x$?",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "The score of a baseball game is given by $2x + 5$, where $x$ is the number of home runs. If the score is $17$, find the value of $x$.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Check for the correct order of operations",
+       "Verify the units and dimensions",
+       "Emphasize the importance of labeling and formatting"
+   ],
+   "footer": "Chef's Tips"
+}

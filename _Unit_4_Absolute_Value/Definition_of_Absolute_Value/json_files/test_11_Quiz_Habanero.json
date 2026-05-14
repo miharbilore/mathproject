@@ -1,0 +1,129 @@
+{
+  "unit": "\u1F4D6 Unit 4: Absolute Value",
+   "topic": "Definition of Absolute Value",
+   "test_type": "Quiz (Habanero)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "What is the absolute value of $-5$?",
+           "options": {
+               "A": "$-5$",
+               "B": "$5$",
+               "C": "$0$",
+               "D": "$10$",
+               "E": "$-10$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "The temperature in a city was $-2$ degrees Celsius in the morning and $8$ degrees Celsius in the evening. What is the absolute value of the temperature change?",
+           "options": {
+               "A": "$5$",
+               "B": "$6$",
+               "C": "$10$",
+               "D": "$12$",
+               "E": "$15$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "Evaluate the expression $|3 - 2|$",
+           "options": {
+               "A": "$1$",
+               "B": "$2$",
+               "C": "$3$",
+               "D": "$4$",
+               "E": "$5$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "A weather station recorded $4$ inches of rainfall in one day and $-2$ inches the next day due to evaporation. What is the absolute value of the total rainfall?",
+           "options": {
+               "A": "$2$",
+               "B": "$4$",
+               "C": "$6$",
+               "D": "$8$",
+               "E": "$10$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "What is the absolute value of $|x|$ when $x = -4$?",
+           "options": {
+               "A": "$-4$",
+               "B": "$4$",
+               "C": "$0$",
+               "D": "$8$",
+               "E": "$-8$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "The water level in a lake rose by $5$ meters and then dropped by $3$ meters. What is the absolute value of the net change in water level?",
+           "options": {
+               "A": "$2$",
+               "B": "$3$",
+               "C": "$5$",
+               "D": "$8$",
+               "E": "$10$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "Evaluate the expression $|-2 + 5|$",
+           "options": {
+               "A": "$1$",
+               "B": "$2$",
+               "C": "$3$",
+               "D": "$5$",
+               "E": "$7$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "The temperature in a greenhouse was $25$ degrees Celsius during the day and $-5$ degrees Celsius at night. What is the absolute value of the temperature difference?",
+           "options": {
+               "A": "$20$",
+               "B": "$25$",
+               "C": "$30$",
+               "D": "$35$",
+               "E": "$40$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "A researcher measured the depth of a lake at two different points. At point A, the depth was $10$ meters below the surface, and at point B, the depth was $8$ meters below the surface. What is the absolute value of the difference in depth between the two points? Show your work and explain your answer.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "A city's average temperature in January was $-2$ degrees Celsius, and in July it was $25$ degrees Celsius. What is the absolute value of the temperature change between the two months? Explain how you would calculate this value using absolute value.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Read each question carefully before answering",
+       "Use a number line to help visualize the concept of absolute value",
+       "Check your work and explain your reasoning"
+   ],
+   "footer": "Chef's Tips"
+}

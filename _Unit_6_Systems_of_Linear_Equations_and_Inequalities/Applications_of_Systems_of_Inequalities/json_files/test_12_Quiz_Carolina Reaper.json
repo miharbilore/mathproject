@@ -1,0 +1,129 @@
+{
+  "unit": "\u1F4D6 Unit 6: Systems of Linear Equations and Inequalities",
+   "topic": "Applications of Systems of Inequalities",
+   "test_type": "Quiz (Carolina Reaper)",
+   "questions": [
+      {
+         "id": 1,
+         "type": "MQ",
+         "question": "A shipping company has $x$ trucks and $y$ drivers. Each truck requires one driver, and each driver can drive one truck. The company operates with the constraints $x \\geq 10$, $y \\geq 10$, and $x \\leq y + 5$. Which of the following is a feasible solution?",
+         "options": {
+            "A": "$x = 12$, $y = 10$",
+            "B": "$x = 15$, $y = 15$",
+            "C": "$x = 8$, $y = 12$",
+            "D": "$x = 20$, $y = 20$",
+            "E": "$x = 10$, $y = 8$"
+         },
+         "answer": "B"
+      },
+      {
+         "id": 2,
+         "type": "MQ",
+         "question": "A traffic management system has two roads with capacities of $30$ and $40$ cars per hour. The total number of cars $x$ and trucks $y$ that can use these roads is constrained by $x + y \\leq 60$ and $x \\geq 10y$. What is the maximum number of trucks that can use these roads?",
+         "options": {
+            "A": "10",
+            "B": "15",
+            "C": "20",
+            "D": "25",
+            "E": "30"
+         },
+         "answer": "C"
+      },
+      {
+         "id": 3,
+         "type": "MQ",
+         "question": "A delivery company needs to transport $x$ packages and $y$ documents. Each package requires $2$ hours and each document requires $1$ hour. The company operates within the constraints $2x + y \\leq 120$ and $x + y \\geq 40$. What is the minimum number of hours required to deliver all packages and documents?",
+         "options": {
+            "A": "40",
+            "B": "60",
+            "C": "80",
+            "D": "100",
+            "E": "120"
+         },
+         "answer": "B"
+      },
+      {
+         "id": 4,
+         "type": "MQ",
+         "question": "A logistics company has two warehouses with storage capacities of $1000$ and $1500$ cubic meters. The company stores $x$ boxes and $y$ crates, with each box requiring $2$ cubic meters and each crate requiring $3$ cubic meters. The constraints are $2x + 3y \\leq 2500$ and $x + y \\geq 200$. What is the maximum number of boxes that can be stored?",
+         "options": {
+            "A": "200",
+            "B": "300",
+            "C": "400",
+            "D": "500",
+            "E": "600"
+         },
+         "answer": "D"
+      },
+      {
+         "id": 5,
+         "type": "MQ",
+         "question": "A transportation system has two modes: bus and train. The bus can carry $x$ passengers and the train can carry $y$ passengers. The constraints are $x + y \\leq 500$ and $x \\geq 0.5y$. What is the maximum number of passengers that can be carried by the train?",
+         "options": {
+            "A": "200",
+            "B": "250",
+            "C": "300",
+            "D": "350",
+            "E": "400"
+         },
+         "answer": "D"
+      },
+      {
+         "id": 6,
+         "type": "MQ",
+         "question": "A shipping company has a fleet of $x$ ships and $y$ crew members. Each ship requires $5$ crew members, and each crew member can serve on one ship. The company operates within the constraints $x \\leq 20$, $y \\geq 50$, and $5x \\leq y$. What is the maximum number of ships that can be deployed?",
+         "options": {
+            "A": "5",
+            "B": "10",
+            "C": "15",
+            "D": "18",
+            "E": "20"
+         },
+         "answer": "D"
+      },
+      {
+         "id": 7,
+         "type": "MQ",
+         "question": "A traffic flow management system has two roads with speed limits of $60$ km/h and $80$ km/h. The number of cars $x$ and trucks $y$ that can use these roads is constrained by $x + 1.5y \\leq 120$ and $x \\geq 0.8y$. What is the maximum number of trucks that can use these roads?",
+         "options": {
+            "A": "40",
+            "B": "50",
+            "C": "60",
+            "D": "70",
+            "E": "80"
+         },
+         "answer": "C"
+      },
+      {
+         "id": 8,
+         "type": "MQ",
+         "question": "A delivery company needs to transport $x$ packages and $y$ documents. Each package requires $3$ hours and each document requires $2$ hours. The company operates within the constraints $3x + 2y \\leq 240$ and $x + y \\geq 30$. What is the minimum number of hours required to deliver all packages and documents?",
+         "options": {
+            "A": "60",
+            "B": "80",
+            "C": "100",
+            "D": "120",
+            "E": "140"
+         },
+         "answer": "C"
+      },
+      {
+         "id": 9,
+         "type": "FRQ",
+         "question": "A logistics company needs to transport $x$ boxes and $y$ crates from a warehouse to a store. The company has two trucks with capacities of $1000$ and $1200$ cubic meters. Each box requires $1$ cubic meter and each crate requires $2$ cubic meters. The constraints are $x + 2y \\leq 1200$ and $x + y \\geq 300$. Find the maximum number of crates that can be transported and the minimum number of hours required to transport all boxes and crates. Show all work and explain your answers.",
+         "required_space_lines": 5
+      },
+      {
+         "id": 10,
+         "type": "FRQ",
+         "question": "A transportation system has two modes: bus and train. The bus can carry $x$ passengers and the train can carry $y$ passengers. The constraints are $x + y \\leq 800$ and $x \\geq 0.6y$. The company wants to maximize the number of passengers carried by the train while minimizing the number of passengers carried by the bus. Find the maximum number of passengers that can be carried by the train and the minimum number of passengers that can be carried by the bus. Show all work and explain your answers.",
+         "required_space_lines": 5
+      }
+   ],
+   "teacher_rules": [
+      "Ensure students show all work and explain their answers for free-response questions.",
+      "Allow students to use calculators for calculations, but not for graphing or plotting.",
+      "Remind students to check their units and ensure they are consistent throughout their answers."
+   ],
+   "footer_title": "Chef's Tips"
+}

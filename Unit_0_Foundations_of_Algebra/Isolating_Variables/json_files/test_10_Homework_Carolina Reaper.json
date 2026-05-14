@@ -1,0 +1,129 @@
+{
+  "unit":"Unit 0: Foundations of Algebra",
+   "topic":"Isolating Variables",
+   "test_type":"Homework (Carolina Reaper)",
+   "questions":[
+      {
+         "id":1,
+         "type":"MQ",
+         "question":"Solve for $x$: $2x + 5 = 11$",
+         "options":{
+            "A":"$x = 2$",
+            "B":"$x = 3$",
+            "C":"$x = 4$",
+            "D":"$x = 5$",
+            "E":"$x = 6$"
+         },
+         "answer":"B"
+      },
+      {
+         "id":2,
+         "type":"MQ",
+         "question":"A musician has $15$ songs to fill a $45$-minute set. If each song is $x$ minutes long, what is $x$?",
+         "options":{
+            "A":"$x = 3$",
+            "B":"$x = 4$",
+            "C":"$x = 5$",
+            "D":"$x = 6$",
+            "E":"$x = 7$"
+         },
+         "answer":"A"
+      },
+      {
+         "id":3,
+         "type":"MQ",
+         "question":"In a rhythm pattern, $3x + 2 = 14$. Solve for $x$.",
+         "options":{
+            "A":"$x = 2$",
+            "B":"$x = 3$",
+            "C":"$x = 4$",
+            "D":"$x = 5$",
+            "E":"$x = 6$"
+         },
+         "answer":"C"
+      },
+      {
+         "id":4,
+         "type":"MQ",
+         "question":"An artist is creating a canvas with a width of $x$ inches and a length of $2x + 5$ inches. If the perimeter is $50$ inches, what is $x$?",
+         "options":{
+            "A":"$x = 5$",
+            "B":"$x = 6$",
+            "C":"$x = 7$",
+            "D":"$x = 8$",
+            "E":"$x = 9$"
+         },
+         "answer":"D"
+      },
+      {
+         "id":5,
+         "type":"MQ",
+         "question":"A sound wave has a frequency of $x$ Hz. If $2x - 5 = 11$, what is $x$?",
+         "options":{
+            "A":"$x = 6$",
+            "B":"$x = 7$",
+            "C":"$x = 8$",
+            "D":"$x = 9$",
+            "E":"$x = 10$"
+         },
+         "answer":"C"
+      },
+      {
+         "id":6,
+         "type":"MQ",
+         "question":"Solve for $y$: $y - 3 = 7$",
+         "options":{
+            "A":"$y = 4$",
+            "B":"$y = 5$",
+            "C":"$y = 10$",
+            "D":"$y = 11$",
+            "E":"$y = 12$"
+         },
+         "answer":"D"
+      },
+      {
+         "id":7,
+         "type":"MQ",
+         "question":"In a music festival, $4x + 2 = 26$. Solve for $x$.",
+         "options":{
+            "A":"$x = 4$",
+            "B":"$x = 5$",
+            "C":"$x = 6$",
+            "D":"$x = 7$",
+            "E":"$x = 8$"
+         },
+         "answer":"C"
+      },
+      {
+         "id":8,
+         "type":"MQ",
+         "question":"A painter is creating a mural with a width of $x$ feet and a length of $3x - 2$ feet. If the perimeter is $64$ feet, what is $x$?",
+         "options":{
+            "A":"$x = 10$",
+            "B":"$x = 11$",
+            "C":"$x = 12$",
+            "D":"x = 13$",
+            "E":"$x = 14$"
+         },
+         "answer":"C"
+      },
+      {
+         "id":9,
+         "type":"FRQ",
+         "question":"Solve for $z$: $z + 2 = 9$. Show your work and provide the final answer.",
+         "required_space_lines":5
+      },
+      {
+         "id":10,
+         "type":"FRQ",
+         "question":"A photographer is taking pictures of a painting with a width of $x$ inches and a length of $2x + 1$ inches. If the perimeter is $42$ inches, solve for $x$. Show your work and provide the final answer.",
+         "required_space_lines":5
+      }
+   ],
+   "teacher_rules":[
+      "Read each question carefully.",
+      "Use a pencil to write your answers.",
+      "Check your work before submitting."
+   ],
+   "footer_title":"Chef's Tips"
+}

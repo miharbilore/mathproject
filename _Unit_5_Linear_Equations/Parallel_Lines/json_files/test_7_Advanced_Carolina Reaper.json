@@ -1,0 +1,129 @@
+{
+  "unit":"📘 Unit 5: Linear Equations",
+   "topic":"Parallel Lines",
+   "test_type":"Advanced (Carolina Reaper)",
+   "questions":[
+      {
+         "id":1,
+         "type":"MQ",
+         "question":"What is the slope of a line parallel to $y = 2x + 3$?",
+         "options":{
+            "A":"$m = 1$",
+            "B":"$m = 2$",
+            "C":"$m = 3$",
+            "D":"$m = 4$",
+            "E":"$m = 5$"
+         },
+         "answer":"B"
+      },
+      {
+         "id":2,
+         "type":"MQ",
+         "question":"If two lines have slopes $m_1 = 4$ and $m_2 = 4$, what can be concluded about them?",
+         "options":{
+            "A":"They are perpendicular",
+            "B":"They are parallel",
+            "C":"They are skew",
+            "D":"They are intersecting",
+            "E":"They are coincident"
+         },
+         "answer":"B"
+      },
+      {
+         "id":3,
+         "type":"MQ",
+         "question":"A bike trail is represented by the equation $y = 3x - 2$. What is the equation of a parallel trail?",
+         "options":{
+            "A":"$y = 2x + 1$",
+            "B":"$y = 3x + 1$",
+            "C":"$y = 4x - 2$",
+            "D":"$y = 3x - 1$",
+            "E":"$y = 2x - 3$"
+         },
+         "answer":"D"
+      },
+      {
+         "id":4,
+         "type":"MQ",
+         "question":"A hiker is walking on a trail with a slope of $m = 2$. If she walks for $3$ hours at a rate of $2$ miles per hour, how far will she be from her starting point?",
+         "options":{
+            "A":"$6$ miles",
+            "B":"$4$ miles",
+            "C":"$8$ miles",
+            "D":"$12$ miles",
+            "E":"$10$ miles"
+         },
+         "answer":"A"
+      },
+      {
+         "id":5,
+         "type":"MQ",
+         "question":"If two lines are parallel, what is the relationship between their $y$-intercepts?",
+         "options":{
+            "A":"They are equal",
+            "B":"They are unequal",
+            "C":"They are proportional",
+            "D":"They are inversely proportional",
+            "E":"They are unrelated"
+         },
+         "answer":"B"
+      },
+      {
+         "id":6,
+         "type":"MQ",
+         "question":"A store is having a sale on bikes, with a discount of $10%$ off the original price of $$200$. If a customer buys two bikes, what is the total cost?",
+     "options":{
+        "A":"$$360$",
+        "B":"$$340$",
+        "C":"$$380$",
+        "D":"$$400$",
+        "E":"$$420$"
+     },
+     "answer":"B"
+      },
+      {
+         "id":7,
+         "type":"MQ",
+         "question":"A person has $$50$ to spend on video games, with a budget of $2$ hours of gaming per day. If each game costs $$10$, how many games can they buy?",
+         "options":{
+            "A":"$4$ games",
+            "B":"$5$ games",
+            "C":"$3$ games",
+            "D":"$2$ games",
+            "E":"$1$ game"
+         },
+         "answer":"B"
+      },
+      {
+         "id":8,
+         "type":"MQ",
+         "question":"A line has a slope of $m = 5$ and passes through the point $(1, 2)$. What is the equation of this line?",
+         "options":{
+            "A":"$y = 5x - 3$",
+            "B":"$y = 5x + 2$",
+            "C":"$y = 4x + 1$",
+            "D":"$y = 3x - 2$",
+            "E":"$y = 2x + 1$"
+         },
+         "answer":"A"
+      },
+      {
+         "id":9,
+         "type":"FRQ",
+         "question":"A person is planning a road trip from City A to City B, a distance of $250$ miles. If they drive at an average speed of $50$ miles per hour, how many hours will it take to complete the trip? Show your work and explain your reasoning.",
+         "required_space_lines":5
+      },
+      {
+         "id":10,
+         "type":"FRQ",
+         "question":"A bookstore is having a sale on books, with a discount of $15%$ off the original price of $$20$. If a customer buys $5$ books, what is the total cost? Show your work and explain your reasoning.",
+         "required_space_lines":5
+      }
+   ],
+   "teacher_rules":[
+      "Provide clear instructions for each question",
+      "Encourage students to show their work and explain their reasoning",
+      "Allow students to use calculators for calculations"
+   ],
+   "footer_title":"Chef's Tips"
+}

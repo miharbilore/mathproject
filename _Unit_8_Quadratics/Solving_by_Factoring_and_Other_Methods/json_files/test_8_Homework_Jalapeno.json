@@ -1,0 +1,129 @@
+{
+  "unit":"📘 Unit 8: Quadratics",
+   "topic":"Solving by Factoring and Other Methods",
+   "test_type":"Homework (Jalapeno)",
+   "questions":[
+      {
+         "id":1,
+         "type":"MQ",
+         "question":"Solve the quadratic equation: $x^2 + 5x + 6 = 0$",
+         "options":{
+            "A":"$x = -2, -3$",
+            "B":"$x = -1, -6$",
+            "C":"$x = -2, -4$",
+            "D":"$x = 1, -6$",
+            "E":"$x = 3, -2$"
+         },
+         "answer":"A"
+      },
+      {
+         "id":2,
+         "type":"MQ",
+         "question":"Factor the quadratic expression: $x^2 + 4x + 4$",
+         "options":{
+            "A":"$(x + 2)^2$",
+            "B":"$(x + 1)^2$",
+            "C":"$(x + 3)^2$",
+            "D":"$(x - 2)^2$",
+            "E":"$(x - 1)^2$"
+         },
+         "answer":"A"
+      },
+      {
+         "id":3,
+         "type":"MQ",
+         "question":"The ancient Egyptians built a rectangular pond with a length of $x + 3$ and a width of $x - 2$. If the area is $15$, solve for $x$.",
+         "options":{
+            "A":"$x = 5$",
+            "B":"$x = 7$",
+            "C":"$x = 3$",
+            "D":"$x = 2$",
+            "E":"$x = 1$"
+         },
+         "answer":"A"
+      },
+      {
+         "id":4,
+         "type":"MQ",
+         "question":"The quadratic equation $x^2 - 7x + 12 = 0$ has solutions",
+         "options":{
+            "A":"$x = 3, 4$",
+            "B":"$x = 2, 6$",
+            "C":"$x = 1, 12$",
+            "D":"$x = 5, 12$",
+            "E":"$x = 3, 12$"
+         },
+         "answer":"A"
+      },
+      {
+         "id":5,
+         "type":"MQ",
+         "question":"Factor the quadratic expression: $x^2 - 9x + 20$",
+         "options":{
+            "A":"$(x - 5)(x - 4)$",
+            "B":"$(x - 4)(x - 5)$",
+            "C":"$(x + 4)(x + 5)$",
+            "D":"$(x + 5)(x - 4)$",
+            "E":"$(x - 4)(x + 5)$"
+         },
+         "answer":"B"
+      },
+      {
+         "id":6,
+         "type":"MQ",
+         "question":"Solve the quadratic equation: $x^2 - 2x - 15 = 0$",
+         "options":{
+            "A":"$x = -3, 5$",
+            "B":"$x = 3, -5$",
+            "C":"$x = 1, 15$",
+            "D":"$x = -1, -15$",
+            "E":"$x = 2, 15$"
+         },
+         "answer":"A"
+      },
+      {
+         "id":7,
+         "type":"MQ",
+         "question":"The ancient Greeks used quadratic equations to design their stadiums. If a stadium has a length of $x + 2$ and a width of $x - 1$, and the area is $20$, solve for $x$.",
+         "options":{
+            "A":"$x = 5$",
+            "B":"$x = 4$",
+            "C":"$x = 6$",
+            "D":"$x = 3$",
+            "E":"$x = 2$"
+         },
+         "answer":"A"
+      },
+      {
+         "id":8,
+         "type":"MQ",
+         "question":"Factor the quadratic expression: $x^2 + 2x - 15$",
+         "options":{
+            "A":"$(x - 5)(x + 3)$",
+            "B":"$(x + 5)(x - 3)$",
+            "C":"$(x - 3)(x + 5)$",
+            "D":"$(x + 3)(x - 5)$",
+            "E":"$(x + 1)(x - 15)$"
+         },
+         "answer":"C"
+      },
+      {
+         "id":9,
+         "type":"FRQ",
+         "question":"The ancient Babylonians used quadratic equations to calculate the area of their fields. If a field has a length of $x + 1$ and a width of $x - 2$, and the area is $24$, solve for $x$ and show your work.",
+         "required_space_lines":5
+      },
+      {
+         "id":10,
+         "type":"FRQ",
+         "question":"The quadratic equation $x^2 + 5x + 6 = 0$ has solutions. Verify the solutions and show your work.",
+         "required_space_lines":5
+      }
+   ],
+   "teacher_rules":[
+      "Tip 1: Encourage students to use factoring to solve quadratic equations.",
+      "Tip 2: Remind students to verify their solutions.",
+      "Tip 3: Provide feedback on student work to help them improve."
+   ],
+   "footer":"Chef's Tips"
+}

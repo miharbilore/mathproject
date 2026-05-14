@@ -1,0 +1,129 @@
+{
+  "unit": "\ud83d\udcda Unit 4: Absolute Value",
+   "topic": "Definition of Absolute Value",
+   "test_type": "Foundation (Jalapeno)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "What is the absolute value of $-5$?",
+           "options": {
+               "A": "$-5$",
+               "B": "$5$",
+               "C": "$0$",
+               "D": "$10$",
+               "E": "$25$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "A stock's price decreased by $|-8|$ dollars. What is the actual change in price?",
+           "options": {
+               "A": "Increased by $8$ dollars",
+               "B": "Decreased by $8$ dollars",
+               "C": "No change",
+               "D": "Increased by $16$ dollars",
+               "E": "Decreased by $16$ dollars"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "The absolute value of $x$ is denoted by $|x|$. What is $|-2|$?",
+           "options": {
+               "A": "$-2$",
+               "B": "$2$",
+               "C": "$0$",
+               "D": "$4$",
+               "E": "$1$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "A savings account has an interest rate of $|2%|$. What is the interest rate?",
+           "options": {
+               "A": "$-2%$",
+               "B": "$2%$",
+               "C": "$0%$",
+               "D": "$4%$",
+       "E": "$1%$"
+       },
+       "answer": "B"
+   },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "What is the absolute value of $3 - |4|$?",
+           "options": {
+               "A": "$1$",
+               "B": "$5$",
+               "C": "$7$",
+               "D": "$3$",
+       "E": "$0$"
+       },
+           "answer": "A"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "The distance between two stock prices is given by $|x - y|$. If $x = 50$ and $y = -30$, what is the distance?",
+           "options": {
+               "A": "$20$",
+               "B": "$80$",
+               "C": "$40$",
+       "D": "$60$",
+       "E": "$10$"
+       },
+           "answer": "B"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "A company has a tax rate of $|-5%|$. What is the actual tax rate?",
+           "options": {
+               "A": "$-5%$",
+               "B": "$5%$",
+               "C": "$0%$",
+       "D": "$10%$",
+       "E": "$2%$"
+       },
+           "answer": "B"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "What is the value of $|x|$ if $x = -10$?",
+           "options": {
+               "A": "$-10$",
+               "B": "$10$",
+               "C": "$0$",
+       "D": "$5$",
+       "E": "$20$"
+       },
+           "answer": "B"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "Explain how absolute value is used in the stock market to measure changes in stock prices.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "A business owner has two savings accounts with interest rates of $|4%|$ and $|-2%|$. Calculate the total interest earned if the principal amount for each account is $$1000$. ",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Tip 1: Emphasize the concept of distance from zero on the number line.",
+       "Tip 2: Use real-life scenarios to illustrate the application of absolute value.",
+       "Tip 3: Encourage students to use visual aids like number lines to understand absolute value concepts."
+   ],
+   "footer": "Chef's Tips"
+}

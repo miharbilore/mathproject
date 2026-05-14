@@ -1,0 +1,129 @@
+{
+  "unit": "\u1F4D6 Unit 2: Exponents & Radicals",
+   "topic": "Rationalizing Denominator",
+   "test_type": "Foundation (Jalapeno)",
+   "questions": [
+     {
+       "id": 1,
+       "type": "MQ",
+       "question": "Rationalize the denominator of $\\frac{2}{\\sqrt{3}}$",
+       "options": {
+         "A": "$\\frac{2\\sqrt{3}}{3}$",
+         "B": "$\\frac{2}{3\\sqrt{3}}$",
+         "C": "$\\frac{2\\sqrt{2}}{3}$",
+         "D": "$\\frac{\\sqrt{2}}{3}$",
+         "E": "$\\frac{2}{\\sqrt{2}}$"
+       },
+       "answer": "A"
+     },
+     {
+       "id": 2,
+       "type": "MQ",
+       "question": "A basketball player scored $\\frac{1}{\\sqrt{2}}$ points per minute. Rationalize the denominator to find the points scored in $x$ minutes.",
+       "options": {
+         "A": "$\\frac{x\\sqrt{2}}{2}$",
+         "B": "$\\frac{x}{2\\sqrt{2}}$",
+         "C": "$\\frac{x}{\\sqrt{2}}$",
+         "D": "$\\frac{x\\sqrt{2}}{4}$",
+         "E": "$x\\sqrt{2}$"
+       },
+       "answer": "A"
+     },
+     {
+       "id": 3,
+       "type": "MQ",
+       "question": "The distance between two football players is $\\frac{5}{\\sqrt{11}}$ yards. Rationalize the denominator.",
+       "options": {
+         "A": "$\\frac{5\\sqrt{11}}{11}$",
+         "B": "$\\frac{5}{11\\sqrt{11}}$",
+         "C": "$\\frac{55}{\\sqrt{11}}$",
+         "D": "$\\frac{5}{\\sqrt{11}}$",
+         "E": "$5\\sqrt{11}$"
+       },
+       "answer": "A"
+     },
+     {
+       "id": 4,
+       "type": "MQ",
+       "question": "Rationalize the denominator of $\\frac{3}{\\sqrt{5} + 2}$",
+       "options": {
+         "A": "$\\frac{3(\\sqrt{5} - 2)}{5 - 4}$",
+         "B": "$\\frac{3(\\sqrt{5} + 2)}{5 + 4}$",
+         "C": "$\\frac{3\\sqrt{5}}{5}$",
+         "D": "$\\frac{3}{5\\sqrt{5}}$",
+         "E": "$\\frac{3(\\sqrt{5} - 2)}{5 + 4}$"
+       },
+       "answer": "A"
+     },
+     {
+       "id": 5,
+       "type": "MQ",
+       "question": "The average score of a golfer is $\\frac{72}{\\sqrt{8}}$. Rationalize the denominator.",
+       "options": {
+         "A": "$\\frac{72\\sqrt{2}}{4}$",
+         "B": "$\\frac{72}{4\\sqrt{2}}$",
+         "C": "$\\frac{72}{\\sqrt{8}}$",
+         "D": "$\\frac{36\\sqrt{2}}{2}$",
+         "E": "$18\\sqrt{2}$"
+       },
+       "answer": "D"
+     },
+     {
+       "id": 6,
+       "type": "MQ",
+       "question": "The speed of a cyclist is $\\frac{25}{\\sqrt{10}}$ miles per hour. Rationalize the denominator.",
+       "options": {
+         "A": "$\\frac{25\\sqrt{10}}{10}$",
+         "B": "$\\frac{25}{10\\sqrt{10}}$",
+         "C": "$\\frac{5\\sqrt{10}}{2}$",
+         "D": "$\\frac{25}{\\sqrt{10}}$",
+         "E": "$5\\sqrt{10}$"
+       },
+       "answer": "A"
+     },
+     {
+       "id": 7,
+       "type": "MQ",
+       "question": "The time taken by an athlete to run $x$ meters is $\\frac{x}{\\sqrt{6}}$ seconds. Rationalize the denominator.",
+       "options": {
+         "A": "$\\frac{x\\sqrt{6}}{6}$",
+         "B": "$\\frac{x}{6\\sqrt{6}}$",
+         "C": "$\\frac{x}{\\sqrt{6}}$",
+         "D": "$x\\sqrt{6}$",
+         "E": "$\\frac{x}{6}$"
+       },
+       "answer": "A"
+     },
+     {
+       "id": 8,
+       "type": "MQ",
+       "question": "The distance traveled by a swimmer is $\\frac{50}{\\sqrt{3}}$ meters. Rationalize the denominator.",
+       "options": {
+         "A": "$\\frac{50\\sqrt{3}}{3}$",
+         "B": "$\\frac{50}{3\\sqrt{3}}$",
+         "C": "$\\frac{50}{\\sqrt{3}}$",
+         "D": "$50\\sqrt{3}$",
+         "E": "$\\frac{50}{3}$"
+       },
+       "answer": "A"
+     },
+     {
+       "id": 9,
+       "type": "FRQ",
+       "question": "Rationalize the denominator of $\\frac{2x + 1}{\\sqrt{x} + 2}$ and simplify.",
+       "required_space_lines": 5
+     },
+     {
+       "id": 10,
+       "type": "FRQ",
+       "question": "The score of a tennis player is $\\frac{80}{\\sqrt{16}}$. Rationalize the denominator and find the score.",
+       "required_space_lines": 5
+     }
+   ],
+   "teacher_rules": [
+     "Check if the denominators are rationalized",
+     "Verify the final answers",
+     "Review the work for completeness and accuracy"
+   ],
+   "footer_title": "Chef's Tips"
+ }

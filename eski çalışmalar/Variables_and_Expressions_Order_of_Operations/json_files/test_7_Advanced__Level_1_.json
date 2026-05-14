@@ -1,0 +1,150 @@
+{
+  "test_id": 7,
+   "test_type": "Advanced (Level 1)",
+   "topic": "Variables and Expressions / Order of Operations",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "What is the variable in the expression $2x + 3$?",
+           "options": { 
+               "A": "$2$", 
+               "B": "$3$", 
+               "C": "$x$", 
+               "D": "$2x$", 
+               "E": "$2 + 3$"
+           },
+           "answer": "C",
+           "spicy_level": "", 
+           "required_space_lines": 0
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "Identify the coefficient in the term $4y$",
+           "options": { 
+               "A": "$y$", 
+               "B": "$4$", 
+               "C": "$4y$", 
+               "D": "$0$", 
+               "E": "$1$"
+           },
+           "answer": "B",
+           "spicy_level": "", 
+           "required_space_lines": 0
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "What is the constant term in the expression $2x - 5$?",
+           "options": { 
+               "A": "$2x$", 
+               "B": "$-5$", 
+               "C": "$2$", 
+               "D": "$5$", 
+               "E": "$2 - 5$"
+           },
+           "answer": "B",
+           "spicy_level": "", 
+           "required_space_lines": 0
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "Identify the operator in $7 - 2$",
+           "options": { 
+               "A": "$+$", 
+               "B": "$-$", 
+               "C": "$\times$", 
+               "D": "$div$", 
+               "E": "$=$"
+           },
+           "answer": "B",
+           "spicy_level": "", 
+           "required_space_lines": 0
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "What is the term $3z$ an example of?",
+           "options": { 
+               "A": "Constant", 
+               "B": "Variable", 
+               "C": "Coefficient", 
+               "D": "Monomial", 
+               "E": "Binomial"
+           },
+           "answer": "D",
+           "spicy_level": "", 
+           "required_space_lines": 0
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "In the expression $9x^2$, what is $x^2$?",
+           "options": { 
+               "A": "Variable", 
+               "B": "Coefficient", 
+               "C": "Constant", 
+               "D": "Exponent", 
+               "E": "Monomial"
+           },
+           "answer": "A",
+           "spicy_level": "", 
+           "required_space_lines": 0
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "Identify the exponent in $2x^3$",
+           "options": { 
+               "A": "$2$", 
+               "B": "$x$", 
+               "C": "$3$", 
+               "D": "$2x$", 
+               "E": "$x^3$"
+           },
+           "answer": "C",
+           "spicy_level": "", 
+           "required_space_lines": 0
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "In $4(2x + 1)$, what operation should be performed first?",
+           "options": { 
+               "A": "Multiplication", 
+               "B": "Addition", 
+               "C": "Subtraction", 
+               "D": "Division", 
+               "E": "Exponentiation"
+           },
+           "answer": "B",
+           "spicy_level": "", 
+           "required_space_lines": 0
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "Draw a diagram to illustrate the concept of variables and constants in the expression $3x + 2$. Label each part.",
+           "options": {},
+           "answer": "See model solution",
+           "spicy_level": "", 
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "Explain in your own words what the order of operations is and provide an example. Use $2 + 3 \times 4$ as your example.",
+           "options": {},
+           "answer": "See model solution",
+           "spicy_level": "", 
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Keep the focus on basic definitions and single-step identification for Level 1.",
+       "Ensure students understand that variables represent unknown or changing values, while constants are fixed values.",
+       "Emphasize the importance of following the order of operations (PEMDAS/BODMAS) to simplify expressions correctly."
+   ]
+}

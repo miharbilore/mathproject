@@ -1,0 +1,129 @@
+{
+  "unit": "Unit 0: Foundations of Algebra",
+   "topic": "Divisibility & Division Algorithm",
+   "test_type": "Foundation (Jalapeno)",
+   "questions": [
+      {
+         "id": 1,
+         "type": "MQ",
+         "question": "Which number is divisible by $2$ and $5$?",
+         "options": {
+            "A": "13",
+            "B": "25",
+            "C": "30",
+            "D": "37",
+            "E": "41"
+         },
+         "answer": "C"
+      },
+      {
+         "id": 2,
+         "type": "MQ",
+         "question": "What is the remainder when $17$ is divided by $5$?",
+         "options": {
+            "A": "0",
+            "B": "1",
+            "C": "2",
+            "D": "3",
+            "E": "4"
+         },
+         "answer": "B"
+      },
+      {
+         "id": 3,
+         "type": "MQ",
+         "question": "A stock trader has $48$ shares to sell. If she wants to sell them in boxes of $4$, how many boxes can she make?",
+         "options": {
+            "A": "10",
+            "B": "12",
+            "C": "14",
+            "D": "16",
+            "E": "18"
+         },
+         "answer": "B"
+      },
+      {
+         "id": 4,
+         "type": "MQ",
+         "question": "Which of the following numbers is NOT divisible by $3$?",
+         "options": {
+            "A": "12",
+            "B": "15",
+            "C": "21",
+            "D": "23",
+            "E": "30"
+         },
+         "answer": "D"
+      },
+      {
+         "id": 5,
+         "type": "MQ",
+         "question": "What is the result of $24 div 3$?",
+         "options": {
+            "A": "$8$",
+            "B": "$7$",
+            "C": "$6$",
+            "D": "$5$",
+            "E": "$4$"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 6,
+         "type": "MQ",
+         "question": "A savings account has $150$. If $30$ is withdrawn, what is the remaining balance?",
+         "options": {
+            "A": "$120$",
+            "B": "$130$",
+            "C": "$140$",
+            "D": "$150$",
+            "E": "$160$"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 7,
+         "type": "MQ",
+         "question": "What is the remainder when $43$ is divided by $9$?",
+         "options": {
+            "A": "0",
+            "B": "1",
+            "C": "2",
+            "D": "4",
+            "E": "7"
+         },
+         "answer": "D"
+      },
+      {
+         "id": 8,
+         "type": "MQ",
+         "question": "A tax consultant has $96$ files to organize. If she organizes them in folders of $8$, how many folders can she make?",
+         "options": {
+            "A": "10",
+            "B": "12",
+            "C": "14",
+            "D": "16",
+            "E": "18"
+         },
+         "answer": "B"
+      },
+      {
+         "id": 9,
+         "type": "FRQ",
+         "question": "Perform the long division: $63 div 5$. Express your result with a remainder.",
+         "required_space_lines": 5
+      },
+      {
+         "id": 10,
+         "type": "FRQ",
+         "question": "A company has $240$ shares to distribute among its employees. If each employee receives $8$ shares, how many employees will receive shares? Show your work and express your result with a remainder.",
+         "required_space_lines": 5
+      }
+   ],
+   "teacher_rules": [
+      "Tip 1: Ensure students understand the concept of divisibility before attempting long division.",
+      "Tip 2: Provide examples of real-world applications of division in business and finance.",
+      "Tip 3: Encourage students to check their work by multiplying the quotient and divisor and adding the remainder."
+   ],
+   "footer": "Chef's Tips"
+}

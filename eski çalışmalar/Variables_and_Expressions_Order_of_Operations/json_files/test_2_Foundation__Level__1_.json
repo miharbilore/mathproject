@@ -1,0 +1,150 @@
+{
+  "test_id": 2,
+   "test_type": "Foundation (Level -1)",
+   "topic": "Variables and Expressions / Order of Operations",
+   "questions": [
+     {
+       "id": 1,
+       "type": "MQ",
+       "question": "What is the variable in the expression $2x$?",
+       "options": {
+         "A": "2",
+         "B": "x",
+         "C": "2x",
+         "D": "+",
+         "E": "$-$"
+       },
+       "answer": "B",
+       "spicy_level": "",
+       "required_space_lines": 0
+     },
+     {
+       "id": 2,
+       "type": "MQ",
+       "question": "Identify the coefficient in the expression $4y$.",
+       "options": {
+         "A": "y",
+         "B": "4",
+         "C": "4y",
+         "D": "$+$",
+         "E": "$-$"
+       },
+       "answer": "B",
+       "spicy_level": "",
+       "required_space_lines": 0
+     },
+     {
+       "id": 3,
+       "type": "MQ",
+       "question": "What is the operator in the expression $3 + 2$?",
+       "options": {
+         "A": "3",
+         "B": "2",
+         "C": "$+$",
+         "D": "$-$",
+         "E": "$\times$"
+       },
+       "answer": "C",
+       "spicy_level": "",
+       "required_space_lines": 0
+     },
+     {
+       "id": 4,
+       "type": "MQ",
+       "question": "Identify the constant term in the expression $2x + 5$.",
+       "options": {
+         "A": "2x",
+         "B": "5",
+         "C": "$+$",
+         "D": "$-$",
+         "E": "$\times$"
+       },
+       "answer": "B",
+       "spicy_level": "",
+       "required_space_lines": 0
+     },
+     {
+       "id": 5,
+       "type": "MQ",
+       "question": "What is the expression $x$ an example of?",
+       "options": {
+         "A": "A constant",
+         "B": "A variable",
+         "C": "A coefficient",
+         "D": "An operator",
+         "E": "A constant term"
+       },
+       "answer": "B",
+       "spicy_level": "",
+       "required_space_lines": 0
+     },
+     {
+       "id": 6,
+       "type": "MQ",
+       "question": "Identify the type of expression $3x$ is.",
+       "options": {
+         "A": "A numerical expression",
+         "B": "An algebraic expression",
+         "C": "A constant expression",
+         "D": "A variable expression",
+         "E": "A geometric expression"
+       },
+       "answer": "B",
+       "spicy_level": "",
+       "required_space_lines": 0
+     },
+     {
+       "id": 7,
+       "type": "MQ",
+       "question": "What does the term $2x$ represent in an expression?",
+       "options": {
+         "A": "The sum of 2 and x",
+         "B": "The product of 2 and x",
+         "C": "The difference of 2 and x",
+         "D": "The quotient of 2 and x",
+         "E": "The constant term"
+       },
+       "answer": "B",
+       "spicy_level": "",
+       "required_space_lines": 0
+     },
+     {
+       "id": 8,
+       "type": "MQ",
+       "question": "Which of the following is an example of a simple expression?",
+       "options": {
+         "A": "$2x + 3$",
+         "B": "$4y - 2$",
+         "C": "$x$",
+         "D": "$5$",
+         "E": "All of the above"
+       },
+       "answer": "E",
+       "spicy_level": "",
+       "required_space_lines": 0
+     },
+     {
+       "id": 9,
+       "type": "FRQ",
+       "question": "Draw a simple diagram to illustrate the concept of a variable in an expression. Explain your diagram in 1-2 sentences.",
+       "options": {},
+       "answer": "Model Solution: A simple diagram could be a box labeled $x$ with an arrow pointing to it, indicating that $x$ can take on different values. The diagram should be accompanied by a brief explanation, such as: 'The box represents the variable $x$, which can hold any value.'",
+       "spicy_level": "",
+       "required_space_lines": 3
+     },
+     {
+       "id": 10,
+       "type": "FRQ",
+       "question": "Provide an example of a real-life situation where you would use a simple expression, such as $2x$ or $3y$. Explain your example in 1-2 sentences.",
+       "options": {},
+       "answer": "Model Solution: An example could be 'Tom has $2x$ pencils in his pencil case, where $x$ is the number of packs of pencils he buys.' The explanation should briefly describe how the expression $2x$ represents the total number of pencils Tom has.",
+       "spicy_level": "",
+       "required_space_lines": 3
+     }
+   ],
+   "teacher_rules": [
+     "Emphasize the definition of variables as letters or symbols that represent unknown or changing values.",
+     "Focus on simple expressions, such as $2x$ or $3y$, to introduce the concept of coefficients and variables.",
+     "Use visual aids and real-life examples to help students understand the concept of expressions and variables."
+   ]
+}

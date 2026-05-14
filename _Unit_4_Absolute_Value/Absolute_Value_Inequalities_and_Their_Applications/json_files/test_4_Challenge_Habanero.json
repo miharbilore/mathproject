@@ -1,0 +1,129 @@
+{
+  "unit": "\u1F4D6 Unit 4: Absolute Value",
+   "topic": "Absolute Value Inequalities and Their Applications",
+   "test_type": "Challenge (Habanero)",
+   "questions": [
+     { 
+       "id": 1, 
+       "type": "MQ", 
+       "question": "Solve the inequality $|x - 5| < 2$. What is the solution set?",
+       "options": {
+         "A": "$(-infty, 3)$",
+         "B": "$(-infty, 7)$",
+         "C": "$(3, 7)$",
+         "D": "$[3, 7]$",
+         "E": "$(-infty, -3] cup [7, infty)$"
+       },
+       "answer": "C"
+     },
+     { 
+       "id": 2, 
+       "type": "MQ", 
+       "question": "A recipe for chicken parmesan requires $|2x - 5|$ ounces of breadcrumbs. If $x$ must be between 2 and 4, what is the range of possible breadcrumb amounts?",
+       "options": {
+         "A": "$[0, 3]$",
+         "B": "$[1, 5]$",
+         "C": "$[3, 7]$",
+         "D": "$[2, 6]$",
+         "E": "$[4, 8]$"
+       },
+       "answer": "B"
+     },
+     { 
+       "id": 3, 
+       "type": "MQ", 
+       "question": "The height of a building is $|3x + 2|$ feet. If the height must be between 10 and 20 feet, what is the solution set for $x$?",
+       "options": {
+         "A": "$(-infty, -2) cup (2, infty)$",
+         "B": "$(-2, 2)$",
+         "C": "$(-infty, -\frac{8}{3}) cup (\frac{4}{3}, infty)$",
+         "D": "$(\frac{4}{3}, \frac{16}{3})$",
+         "E": "$(-\frac{8}{3}, \frac{4}{3})$"
+       },
+       "answer": "D"
+     },
+     { 
+       "id": 4, 
+       "type": "MQ", 
+       "question": "A carpenter needs to cut a board to $|x - 10|$ inches. If the board must be between 5 and 15 inches, what is the solution set for $x$?",
+       "options": {
+         "A": "$(-infty, 5) cup (15, infty)$",
+         "B": "$(-infty, 0) cup (20, infty)$",
+         "C": "$[5, 15]$",
+         "D": "$[0, 20]$",
+         "E": "$[10, 15]$"
+       },
+       "answer": "D"
+     },
+     { 
+       "id": 5, 
+       "type": "MQ", 
+       "question": "Graph the solution set of $|x + 2| leq 4$ on a number line.",
+       "options": {
+         "A": "$(-6, 2)$",
+         "B": "$[-6, 2]$",
+         "C": "$(-2, 4)$",
+         "D": "$[-2, 4]$",
+         "E": "$(-infty, -2] cup [4, infty)$"
+       },
+       "answer": "B"
+     },
+     { 
+       "id": 6, 
+       "type": "MQ", 
+       "question": "The cost of shipping a package is $|2x - 10|$ dollars. If the cost must be between 5 and 15 dollars, what is the range of possible package weights?",
+       "options": {
+         "A": "$[2.5, 7.5]$",
+         "B": "$[5, 10]$",
+         "C": "$[2, 12]$",
+         "D": "$[7.5, 12.5]$",
+         "E": "$[10, 15]$"
+       },
+       "answer": "C"
+     },
+     { 
+       "id": 7, 
+       "type": "MQ", 
+       "question": "A chef needs to mix $|x + 3|$ cups of flour. If the recipe requires between 2 and 6 cups of flour, what is the solution set for $x$?",
+       "options": {
+         "A": "$(-infty, -5) cup (1, infty)$",
+         "B": "$[-5, 1]$",
+         "C": "$(-infty, -1) cup (3, infty)$",
+         "D": "$[-1, 3]$",
+         "E": "$(-5, 1)$"
+       },
+       "answer": "D"
+     },
+     { 
+       "id": 8, 
+       "type": "MQ", 
+       "question": "Solve the inequality $|3x - 2| > 7$. What is the solution set?",
+       "options": {
+         "A": "$(-infty, -\frac{5}{3}) cup (\frac{9}{3}, infty)$",
+         "B": "$(-infty, \frac{5}{3}) cup (\frac{9}{3}, infty)$",
+         "C": "$(-infty, -\frac{5}{3}) cup (\frac{3}{3}, infty)$",
+         "D": "$(\frac{5}{3}, \frac{9}{3})$",
+         "E": "$(-infty, \frac{3}{3}) cup (\frac{5}{3}, infty)$"
+       },
+       "answer": "A"
+     },
+     { 
+       "id": 9, 
+       "type": "FRQ", 
+       "question": "Model the situation: A bridge has a height restriction of $|2x - 5|$ feet. If trucks can be at most 12 feet tall, what is the range of possible values for $x$?",
+       "required_space_lines": 5
+     },
+     { 
+       "id": 10, 
+       "type": "FRQ", 
+       "question": "A baker is making a cake that requires $|x - 3|$ cups of sugar. If the recipe can use at most 5 cups of sugar, what is the solution set for $x$? Graph the solution set on a number line and express it in interval notation.",
+       "required_space_lines": 5
+     }
+   ],
+   "teacher_rules": [
+     "Tip 1: Ensure students understand the concept of absolute value inequalities.",
+     "Tip 2: Provide examples of real-world applications to help students model situations using absolute value inequalities.",
+     "Tip 3: Encourage students to graph solution sets on a number line and express them in interval notation."
+   ],
+   "footer_title": "Chef's Tips"
+}

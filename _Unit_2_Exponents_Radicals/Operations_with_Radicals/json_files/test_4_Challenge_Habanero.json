@@ -1,0 +1,129 @@
+{
+  "unit": "\u1F4D6 Unit 2: Exponents & Radicals",
+   "topic": "Operations with Radicals",
+   "test_type": "Challenge (Habanero)",
+   "questions": [
+     {
+       "id": 1,
+       "type": "MQ",
+       "question": "Simplify the expression: $\\sqrt{16} + \\sqrt{9}$",
+       "options": {
+         "A": "5",
+         "B": "7",
+         "C": "3",
+         "D": "4",
+         "E": "6"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 2,
+       "type": "MQ",
+       "question": "A construction worker needs to cut a beam into two pieces. The length of the beam is $4\\sqrt{2}$ meters, and the worker wants to cut it into two equal pieces. How long will each piece be?",
+       "options": {
+         "A": "$2\\sqrt{2}$ meters",
+         "B": "$4$ meters",
+         "C": "$2$ meters",
+         "D": "$\\sqrt{2}$ meters",
+         "E": "$8$ meters"
+       },
+       "answer": "A"
+     },
+     {
+       "id": 3,
+       "type": "MQ",
+       "question": "A recipe calls for $3\\sqrt{3}$ cups of flour. If the cook only has a $\\frac{1}{\\sqrt{3}}$ cup measuring cup, how many times will the cook need to fill the measuring cup?",
+       "options": {
+         "A": "9 times",
+         "B": "3 times",
+         "C": "6 times",
+         "D": "1 time",
+         "E": "12 times"
+       },
+       "answer": "A"
+     },
+     {
+       "id": 4,
+       "type": "MQ",
+       "question": "Simplify the expression: $\\frac{\\sqrt{18}}{\\sqrt{2}}$",
+       "options": {
+         "A": "$3\\sqrt{2}$",
+         "B": "$\\sqrt{9}$",
+         "C": "$3$",
+         "D": "$\\sqrt{6}$",
+         "E": "$2\\sqrt{3}$"
+       },
+       "answer": "A"
+     },
+     {
+       "id": 5,
+       "type": "MQ",
+       "question": "A carpenter is building a rectangular deck with an area of $20\\sqrt{5}$ square feet. If the length of the deck is $2\\sqrt{5}$ feet, what is the width of the deck?",
+       "options": {
+         "A": "10 feet",
+         "B": "2 feet",
+         "C": "4 feet",
+         "D": "8 feet",
+         "E": "6 feet"
+       },
+       "answer": "A"
+     },
+     {
+       "id": 6,
+       "type": "MQ",
+       "question": "Simplify the expression: $\\sqrt{48} - \\sqrt{12}$",
+       "options": {
+         "A": "$2\\sqrt{3}$",
+         "B": "$4\\sqrt{3}$",
+         "C": "$\\sqrt{36}$",
+         "D": "$6$",
+         "E": "$\\sqrt{27}$"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 7,
+       "type": "MQ",
+       "question": "A cook needs to mix $2\\sqrt{2}$ cups of sugar and $3\\sqrt{2}$ cups of flour. How many cups of the mixture will the cook have in total?",
+       "options": {
+         "A": "$5\\sqrt{2}$ cups",
+         "B": "5 cups",
+         "C": "2 cups",
+         "D": "$\\sqrt{2}$ cups",
+         "E": "8 cups"
+       },
+       "answer": "A"
+     },
+     {
+       "id": 8,
+       "type": "MQ",
+       "question": "Simplify the expression: $\\frac{\\sqrt{50}}{\\sqrt{10}}$",
+       "options": {
+         "A": "$\\sqrt{5}$",
+         "B": "$\\sqrt{20}$",
+         "C": "$\\sqrt{2}$",
+         "D": "$5$",
+         "E": "$2\\sqrt{5}$"
+       },
+       "answer": "A"
+     },
+     {
+       "id": 9,
+       "type": "FRQ",
+       "question": "A construction company is building a triangular roof with sides of length $5\\sqrt{3}$ feet, $10\\sqrt{3}$ feet, and $15\\sqrt{3}$ feet. Find the area of the roof. Show your work and explain your reasoning.",
+       "required_space_lines": 5
+     },
+     {
+       "id": 10,
+       "type": "FRQ",
+       "question": "A recipe calls for $2\\sqrt{2}$ cups of oil and $3\\sqrt{2}$ cups of vinegar. If the cook wants to make half the recipe, how many cups of oil and vinegar will the cook need in total? Show your work and explain your reasoning.",
+       "required_space_lines": 5
+     }
+   ],
+   "teacher_rules": [
+     "Tip 1: Encourage students to simplify expressions before performing operations.",
+     "Tip 2: Remind students to check their units and make sure they are consistent.",
+     "Tip 3: Suggest that students use visual models or diagrams to help them understand and solve problems."
+   ],
+   "footer": "Chef's Tips"
+ }

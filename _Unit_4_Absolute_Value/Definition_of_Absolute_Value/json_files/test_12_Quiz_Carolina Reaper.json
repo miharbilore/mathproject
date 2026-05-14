@@ -1,0 +1,129 @@
+{
+  "unit": "\u1F4D6 Unit 4: Absolute Value",
+   "topic": "Definition of Absolute Value",
+   "test_type": "Quiz (Carolina Reaper)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "The absolute value of $x$ represents the distance from $x$ to:",
+           "options": {
+               "A": "the origin on a coordinate plane",
+               "B": "the number 1 on a number line",
+               "C": "zero on a number line",
+               "D": "the number $-1$ on a number line",
+               "E": "the number $pi$ on a number line"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "If a delivery truck is $5$ miles away from a warehouse, the absolute value of its distance is:",
+           "options": {
+               "A": "$-5$ miles",
+               "B": "$5$ miles",
+               "C": "$10$ miles",
+               "D": "$15$ miles",
+               "E": "$20$ miles"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "Evaluate the expression $|-2 cdot 3|$:",
+           "options": {
+               "A": "$-6$",
+               "B": "$6$",
+               "C": "$-9$",
+               "D": "$9$",
+               "E": "$12$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "A shipment of packages is delayed by $|x - 5|$ hours, where $x$ is the scheduled arrival time. If $x = 8$, the delay is:",
+           "options": {
+               "A": "$3$ hours",
+               "B": "$5$ hours",
+               "C": "$7$ hours",
+       "D": "$11$ hours",
+       "E": "$13$ hours"
+   },
+   "answer": "A"
+},
+{
+   "id": 5,
+   "type": "MQ",
+   "question": "The equation $|x - 2| = 4$ has solutions $x =$",
+   "options": {
+       "A": "$-2, 6$",
+       "B": "$-6, 2$",
+       "C": "$2, 6$",
+       "D": "$-2, -6$",
+       "E": "$6, -6$"
+   },
+   "answer": "A"
+},
+{
+   "id": 6,
+   "type": "MQ",
+   "question": "A traffic signal has a cycle length of $|x + 3|$ minutes, where $x$ is the time of day. If $x = -5$, the cycle length is:",
+   "options": {
+       "A": "$2$ minutes",
+       "B": "$5$ minutes",
+       "C": "$8$ minutes",
+       "D": "$10$ minutes",
+       "E": "$12$ minutes"
+   },
+   "answer": "A"
+},
+{
+   "id": 7,
+   "type": "MQ",
+   "question": "The inequality $|x| > 3$ is equivalent to:",
+   "options": {
+       "A": "$x > 3$ or $x < -3$",
+       "B": "$x > 3$ and $x < -3$",
+       "C": "$x < 3$ or $x > -3$",
+       "D": "$x < 3$ and $x > -3$",
+       "E": "$x = 3$ or $x = -3$"
+   },
+   "answer": "A"
+},
+{
+   "id": 8,
+   "type": "MQ",
+   "question": "The absolute value of $-3 + 4i$ is:",
+   "options": {
+       "A": "$5$",
+       "B": "$sqrt{25}$",
+       "C": "$1$",
+       "D": "$sqrt{3^2 + 4^2}$",
+       "E": "$sqrt{3^2 - 4^2}$"
+   },
+   "answer": "D"
+},
+{
+   "id": 9,
+   "type": "FRQ",
+   "question": "A company has two warehouses, A and B, which are $|x - 10|$ miles apart. The company has a delivery truck that travels from warehouse A to warehouse B. If the truck travels at an average speed of $|2x + 5|$ miles per hour, and $x = 7$, how many hours will it take the truck to travel from warehouse A to warehouse B?",
+   "required_space_lines": 5
+},
+{
+   "id": 10,
+   "type": "FRQ",
+   "question": "A shipping company has a fleet of trucks that travel from a central hub to various destinations. The company uses the equation $|d - 200| = 50$ to determine the distance $d$ from the hub to each destination. Solve for $d$ and explain the meaning of the solutions in the context of the shipping company.",
+   "required_space_lines": 5
+}
+],
+"teacher_rules": [
+   "Ensure students understand the definition of absolute value as distance from zero on a number line.",
+   "Remind students to consider both positive and negative solutions when evaluating absolute value expressions.",
+   "Encourage students to interpret absolute value in contextual problems, such as transportation and logistics."
+],
+"footer": "Chef's Tips"
+}

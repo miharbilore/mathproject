@@ -1,0 +1,129 @@
+{
+  "unit": "\u1f4d6 Unit 1: Ratio, Rate, Percentage",
+   "topic": "Percent",
+   "test_type": "Quiz (Carolina Reaper)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "A shipping company has $25$ trucks, and $15%$ of them are currently in maintenance. How many trucks are in maintenance?",
+           "options": {
+               "A": "2",
+               "B": "3",
+               "C": "4",
+               "D": "3.75",
+               "E": "5"
+           },
+           "answer": "D"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "The traffic flow on a highway is $45%$ more than it was last year. If there were $200$ cars last year, how many are there now?",
+           "options": {
+               "A": "250",
+               "B": "260",
+               "C": "280",
+               "D": "290",
+               "E": "300"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "A delivery company reduces its delivery time by $12%$. If the original delivery time was $50$ minutes, what is the new delivery time?",
+           "options": {
+               "A": "43.8",
+               "B": "44",
+               "C": "45",
+               "D": "46",
+               "E": "47"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "A logistics company has a $25%$ increase in shipping costs. If the original cost was $$1000$, what is the new cost?",
+           "options": {
+               "A": "$1200",
+               "B": "$1250",
+               "C": "$1300",
+               "D": "$1250",
+               "E": "$1300"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "The number of flights at an airport increases by $18%$ from $250$ flights. How many flights are there now?",
+           "options": {
+               "A": "290",
+               "B": "295",
+               "C": "300",
+       "D": "305",
+       "E": "310"
+   },
+   "answer": "B"
+},
+{
+   "id": 6,
+   "type": "MQ",
+   "question": "A transportation company reduces its workforce by $8%$. If there were originally $400$ employees, how many are left?",
+   "options": {
+       "A": "360",
+       "B": "365",
+       "C": "368",
+       "D": "370",
+       "E": "372"
+   },
+   "answer": "C"
+},
+{
+   "id": 7,
+   "type": "MQ",
+   "question": "A package delivery company increases its delivery rate by $22%$. If the original delivery rate was $120$ packages per hour, what is the new rate?",
+   "options": {
+       "A": "140",
+       "B": "145",
+       "C": "146.4",
+       "D": "150",
+       "E": "155"
+   },
+   "answer": "C"
+},
+{
+   "id": 8,
+   "type": "MQ",
+   "question": "The cost of fuel for a truck increases by $5%$ from $$2.50$ per gallon. What is the new cost per gallon?",
+   "options": {
+       "A": "$2.55",
+       "B": "$2.60",
+       "C": "$2.62",
+       "D": "$2.63",
+       "E": "$2.65"
+   },
+   "answer": "D"
+},
+{
+   "id": 9,
+   "type": "FRQ",
+   "question": "A shipping company has two types of trucks: large and small. The large trucks have a $15%$ increase in maintenance costs, while the small trucks have a $20%$ decrease. If the large trucks originally cost $$5000$ to maintain and the small trucks cost $$3000$, what is the total change in maintenance costs if there are $10$ large trucks and $15$ small trucks?",
+   "required_space_lines": 5
+},
+{
+   "id": 10,
+   "type": "FRQ",
+   "question": "A logistics company is considering two shipping options. Option A has a $10%$ increase in shipping time, while Option B has a $12%$ decrease in shipping costs. If the original shipping time is $30$ hours and the original cost is $$1000$, which option is more cost-effective in terms of $$ per hour$?",
+   "required_space_lines": 5
+}
+   ],
+   "teacher_rules": [
+       "Emphasize the importance of calculating percentages correctly",
+       "Use real-world examples to illustrate percent increase and decrease",
+       "Encourage students to check their answers for reasonableness"
+   ],
+   "footer_title": "Chef's Tips"
+}

@@ -1,0 +1,129 @@
+{
+  "unit": "\u1F4D6 Unit 5: Linear Equations",
+   "topic": "Rate of Change and Slope",
+   "test_type": "Foundation (Jalapeno)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "What is the slope of the line $y = 2x + 1$?",
+           "options": {
+               "A": "1",
+               "B": "2",
+               "C": "3",
+               "D": "4",
+               "E": "5"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "A basketball player scores $y$ points in $x$ games. If $y = 3x - 2$, what is the rate of change of points scored per game?",
+           "options": {
+               "A": "1 point per game",
+               "B": "2 points per game",
+               "C": "3 points per game",
+               "D": "4 points per game",
+               "E": "5 points per game"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "The table shows the distance $d$ traveled by a cyclist in $t$ hours. What is the slope of the line?",
+           "options": {
+               "A": "10 km/h",
+               "B": "15 km/h",
+               "C": "20 km/h",
+               "D": "25 km/h",
+               "E": "30 km/h"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "The line $y = -2x + 5$ represents the score of a tennis player. What is the slope of the line?",
+           "options": {
+               "A": "$-1$",
+               "B": "$-2$",
+       "C": "0",
+       "D": "1",
+       "E": "2"
+   },
+   "answer": "B"
+},
+{
+   "id": 5,
+   "type": "MQ",
+   "question": "The graph shows the height $h$ of a basketball player after $t$ years. What is the slope of the line?",
+   "options": {
+       "A": "0.5 cm/year",
+       "B": "1 cm/year",
+       "C": "1.5 cm/year",
+       "D": "2 cm/year",
+       "E": "2.5 cm/year"
+   },
+   "answer": "B"
+},
+{
+   "id": 6,
+   "type": "MQ",
+   "question": "What is the slope of a vertical line?",
+   "options": {
+       "A": "positive",
+       "B": "negative",
+       "C": "zero",
+       "D": "undefined",
+       "E": "1"
+   },
+   "answer": "D"
+},
+{
+   "id": 7,
+   "type": "MQ",
+   "question": "The equation $y = 0.5x + 2$ represents the distance $y$ traveled by a runner in $x$ minutes. What is the rate of change of distance traveled per minute?",
+   "options": {
+       "A": "0.25 km/min",
+       "B": "0.5 km/min",
+       "C": "0.75 km/min",
+       "D": "1 km/min",
+       "E": "1.25 km/min"
+   },
+   "answer": "B"
+},
+{
+   "id": 8,
+   "type": "MQ",
+   "question": "A football player throws a ball with an initial velocity of $v$ m/s. The equation $d = vt$ represents the distance $d$ traveled by the ball in $t$ seconds. What is the slope of the line?",
+   "options": {
+       "A": "$v$",
+       "B": "$t$",
+       "C": "$d$",
+       "D": "1",
+       "E": "0"
+   },
+   "answer": "A"
+},
+{
+   "id": 9,
+   "type": "FRQ",
+   "question": "The table shows the number of points $y$ scored by a team in $x$ games. Calculate the slope of the line and interpret it as the rate of change of points scored per game. Show your work and explain your answer.",
+   "required_space_lines": 5
+},
+{
+   "id": 10,
+   "type": "FRQ",
+   "question": "The equation $y = -3x + 10$ represents the number of yards $y$ a football team has to go to score a touchdown in $x$ plays. Calculate the slope of the line and interpret it as the rate of change of yards to go per play. Show your work and explain your answer.",
+   "required_space_lines": 5
+}
+],
+"teacher_rules": [
+   "Tip 1: Ensure students understand the concept of slope and rate of change.",
+   "Tip 2: Emphasize the importance of interpreting slope in the context of real-world problems.",
+   "Tip 3: Encourage students to show their work and explain their answers in the free-response questions."
+],
+"footer_title": "Chef's Tips"
+}

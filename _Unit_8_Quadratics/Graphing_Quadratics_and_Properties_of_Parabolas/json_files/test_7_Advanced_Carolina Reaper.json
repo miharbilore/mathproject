@@ -1,0 +1,129 @@
+{
+  "unit": "\u270d Unit 8: Quadratics",
+   "topic": "Graphing Quadratics and Properties of Parabolas",
+   "test_type": "Advanced (Carolina Reaper)",
+   "questions": [
+      {
+         "id": 1,
+         "type": "MQ",
+         "question": "What is the vertex of the parabola $y = x^2 + 4x + 4$?",
+         "options": {
+            "A": "$( -2, 0 )$",
+            "B": "$( -2, 4 )$",
+            "C": "$( 0, 4 )$",
+            "D": "$( 2, 0 )$",
+            "E": "$( 2, 4 )$"
+         },
+         "answer": "B"
+      },
+      {
+         "id": 2,
+         "type": "MQ",
+         "question": "A store is having a sale on bicycles. The price of a bicycle, $y$, in dollars, is related to the number of bicycles sold, $x$, by the equation $y = -x^2 + 10x + 50$. What is the maximum price of a bicycle during the sale?",
+         "options": {
+            "A": "$75",
+            "B": "$100",
+            "C": "$125",
+            "D": "$150",
+            "E": "$175"
+         },
+         "answer": "B"
+      },
+      {
+         "id": 3,
+         "type": "MQ",
+         "question": "A water tank can hold $120$ gallons of water. Due to a leak, the amount of water, $y$, in gallons, in the tank after $x$ minutes is given by $y = -2x^2 + 20x + 100$. How many gallons of water will be in the tank after $4$ minutes?",
+         "options": {
+            "A": "$64$ gallons",
+            "B": "$80$ gallons",
+            "C": "$96$ gallons",
+            "D": "$112$ gallons",
+            "E": "$120$ gallons"
+         },
+         "answer": "C"
+      },
+      {
+         "id": 4,
+         "type": "MQ",
+         "question": "The height of a projectile, $y$, in meters, is related to the time, $x$, in seconds, by the equation $y = x^2 - 4x + 5$. What is the axis of symmetry of this parabola?",
+         "options": {
+            "A": "$x = 0$",
+            "B": "$x = 1$",
+            "C": "$x = 2$",
+            "D": "$x = 3$",
+            "E": "$x = 4$"
+         },
+         "answer": "C"
+      },
+      {
+         "id": 5,
+         "type": "MQ",
+         "question": "A farmer is planning to build a fence around a rectangular field. The area of the field, $y$, in square meters, is related to the length of one side, $x$, in meters, by the equation $y = x^2 + 2x + 1$. What is the minimum area of the field?",
+         "options": {
+            "A": "$0$ m^2",
+            "B": "$1$ m^2",
+            "C": "$4$ m^2",
+            "D": "$9$ m^2",
+            "E": "$16$ m^2"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 6,
+         "type": "MQ",
+         "question": "A company is analyzing the cost of producing $x$ units of a product. The cost, $y$, in dollars, is related to the number of units by the equation $y = x^2 - 10x + 50$. What is the minimum cost of production?",
+         "options": {
+            "A": "$-25$",
+            "B": "$0$",
+            "C": "$25$",
+            "D": "$50$",
+            "E": "$100$"
+         },
+         "answer": "C"
+      },
+      {
+         "id": 7,
+         "type": "MQ",
+         "question": "The number of cars, $y$, on a road is related to the time of day, $x$, in hours, by the equation $y = x^2 - 4x + 5$. What is the $y$-intercept of this parabola?",
+         "options": {
+            "A": "$0$",
+            "B": "$1$",
+            "C": "$4$",
+            "D": "$5$",
+            "E": "$9$"
+         },
+         "answer": "D"
+      },
+      {
+         "id": 8,
+         "type": "MQ",
+         "question": "The depth of water, $y$, in meters, in a pool is related to the distance from one end, $x$, in meters, by the equation $y = x^2 - 2x + 1$. What is the vertex of this parabola?",
+         "options": {
+            "A": "$( 0, 0 )$",
+            "B": "$( 0, 1 )$",
+            "C": "$( 1, 0 )$",
+            "D": "$( 1, 1 )$",
+            "E": "$( 2, 0 )$"
+         },
+         "answer": "D"
+      },
+      {
+         "id": 9,
+         "type": "FRQ",
+         "question": "A skateboarder is performing tricks on a half-pipe. The height of the skateboarder, $y$, in meters, is related to the horizontal distance from the center of the half-pipe, $x$, in meters, by the equation $y = x^2 - 4$. Find the maximum height of the skateboarder and the horizontal distance at which it occurs.",
+         "required_space_lines": 5
+      },
+      {
+         "id": 10,
+         "type": "FRQ",
+         "question": "A city planner is designing a new park with a pond. The area of the pond, $y$, in square meters, is related to the length of one side, $x$, in meters, by the equation $y = x^2 + 2x + 1$. Find the minimum area of the pond and the length of the side at which it occurs.",
+         "required_space_lines": 5
+      }
+   ],
+   "teacher_rules": [
+      "Provide clear instructions for each question.",
+      "Emphasize the importance of showing work and explanations for free-response questions.",
+      "Encourage students to use graphs and visual aids to support their answers."
+   ],
+   "footer": "Chef's Tips"
+}

@@ -1,0 +1,129 @@
+{
+  "unit":"Unit 3: Functions",
+   "topic":"Definition of Relation and Function, Domain, Range, and Notations",
+   "test_type":"Foundation (Jalapeno)",
+   "questions":[
+      {
+         "id":1,
+         "type":"MQ",
+         "question":"What is the relation between the stock price and time if the stock price is $20 at 9am, $22 at 10am, and $20 at 11am?",
+         "options":{
+            "A":"$t \\rightarrow p$ where t is time and p is price",
+            "B":"$p \\rightarrow t$ where p is price and t is time",
+            "C":" Neither A nor B",
+            "D":"Both A and B",
+            "E":"Insufficient information"
+         },
+         "answer":"A"
+      },
+      {
+         "id":2,
+         "type":"MQ",
+         "question":"Determine if the relation $y = $2x$ is a function.",
+         "options":{
+            "A":"Yes, it is a function",
+            "B":"No, it is not a function",
+            "C":"Maybe, it depends on x",
+            "D":"Both A and B",
+            "E":"Neither A nor B"
+         },
+         "answer":"A"
+      },
+      {
+         "id":3,
+         "type":"MQ",
+         "question":"If $f(x) =$ $x^2 + 3$, what is $f(4)$?",
+         "options":{
+            "A":"$13$",
+            "B":"$16$",
+            "C":"$19$",
+            "D":"$25$",
+            "E":"$31$"
+         },
+         "answer":"C"
+      },
+      {
+         "id":4,
+         "type":"MQ",
+         "question":"A tax table gives the relation between the taxable income and the tax owed. If the tax owed is $1000 for a taxable income of $20000, $1500 for $25000, and $1000 for $30000, is this relation a function?",
+         "options":{
+            "A":"Yes, it is a function",
+            "B":"No, it is not a function",
+            "C":"Maybe, it depends on income",
+            "D":"Both A and B",
+            "E":"Neither A nor B"
+         },
+         "answer":"A"
+      },
+      {
+         "id":5,
+         "type":"MQ",
+         "question":"What is the domain of the function $f(x) =$ $\\sqrt{x}$?",
+         "options":{
+            "A":"All real numbers",
+            "B":"All positive real numbers",
+            "C":"All negative real numbers",
+            "D":"All integers",
+            "E":"All rational numbers"
+         },
+         "answer":"B"
+      },
+      {
+         "id":6,
+         "type":"MQ",
+         "question":"If the relation between the savings and time is given by the equation $y = 500 + 50t$, what is the range of this relation if $0 \\leq t \\leq 10$?",
+         "options":{
+            "A":"$500 \\leq y \\leq 1000$",
+            "B":"$0 \\leq y \\leq 1000$",
+            "C":"$500 \\leq y \\leq 1500$",
+            "D":"$-500 \\leq y \\leq 500$",
+            "E":"$1000 \\leq y \\leq 1500$"
+         },
+         "answer":"A"
+      },
+      {
+         "id":7,
+         "type":"MQ",
+         "question":"Determine the range of the function $f(x) =$ $x^2 - 4$ if the domain is $-2 \\leq x \\leq 2$.",
+         "options":{
+            "A":"$-4 \\leq f(x) \\leq 0$",
+            "B":"$0 \\leq f(x) \\leq 4$",
+            "C":"$-4 \\leq f(x) \\leq 4$",
+            "D":"$-2 \\leq f(x) \\leq 2$",
+            "E":"$2 \\leq f(x) \\leq 4$"
+         },
+         "answer":"A"
+      },
+      {
+         "id":8,
+         "type":"MQ",
+         "question":"What is the value of $f(-2)$ if $f(x) =$ $x^2 - 2x$?",
+         "options":{
+            "A":"$0$",
+            "B":"$2$",
+            "C":"$4$",
+            "D":"$6$",
+            "E":"$8$"
+         },
+         "answer":"C"
+      },
+      {
+         "id":9,
+         "type":"FRQ",
+         "question":"Graph the function $f(x) =$ $|x|$ and identify its domain and range.",
+         "required_space_lines":5
+      },
+      {
+         "id":10,
+         "type":"FRQ",
+         "question":"If $f(x) =$ $2x + 1$ and $g(x) =$ $x - 3$, evaluate $(f \\circ g)(x)$ and $(g \\circ f)(x)$ and determine if they are equal.",
+         "required_space_lines":5
+      }
+   ],
+   "teacher_rules":[
+      "Tip 1: Emphasize the importance of understanding function notation and its application to real-life scenarios.",
+      "Tip 2: Make sure students can distinguish between relations and functions using various representations.",
+      "Tip 3: Encourage students to use the vertical line test to determine if a relation is a function."
+   ],
+   "footer":"Chef's Tips"
+}

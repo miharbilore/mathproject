@@ -1,0 +1,129 @@
+{
+  "unit": "\u2756 Unit 9: Data Statistical Analysis",
+   "topic": "Box & Whisker (Dispersion)",
+   "test_type": "Challenge (Habanero)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "A recipe for cake requires $2 \\cdot x$ cups of flour. If $x$ ranges from 1 to 5, what is the interquartile range of flour needed?",
+           "options": {
+               "A": "2",
+               "B": "4",
+               "C": "6",
+               "D": "8",
+               "E": "10"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "The construction of a bridge requires beams of lengths $10, 12, 15, 18, 20$. What is the first quartile of the beam lengths?",
+           "options": {
+               "A": "10",
+               "B": "12",
+               "C": "13",
+               "D": "15",
+               "E": "18"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "The scores of a cooking competition are $85, 90, 92, 95, 100$. Which score is an outlier?",
+           "options": {
+               "A": "85",
+               "B": "90",
+               "C": "92",
+               "D": "95",
+               "E": "100"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "A set of measurements for a building are $20, 22, 25, 28, 30$. What is the range of the measurements?",
+           "options": {
+               "A": "8",
+               "B": "10",
+               "C": "12",
+       "D": "15",
+       "E": "18"
+   },
+           "answer": "B"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "The time taken to bake a cake at different temperatures is $15, 20, 25, 30, 35$ minutes. What is the third quartile?",
+           "options": {
+               "A": "20",
+               "B": "25",
+       "C": "28",
+       "D": "30",
+       "E": "35"
+   },
+           "answer": "D"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "A box-and-whisker plot shows a minimum value of $5$ and a maximum value of $15$. If the first quartile is $7$, what is the interquartile range?",
+           "options": {
+               "A": "4",
+       "B": "6",
+       "C": "8",
+       "D": "10",
+       "E": "12"
+   },
+           "answer": "C"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "A dataset of exam scores has a median of $70$ and an interquartile range of $20$. If a new score of $95$ is added, what is the new median?",
+           "options": {
+               "A": "70",
+       "B": "72",
+       "C": "75",
+       "D": "78",
+       "E": "80"
+   },
+           "answer": "A"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "The amount of sugar needed for a recipe is $2x + 5$ grams. If $x$ ranges from $2$ to $6$, what is the range of sugar needed?",
+           "options": {
+               "A": "10",
+       "B": "12",
+       "C": "14",
+       "D": "16",
+       "E": "18"
+   },
+           "answer": "D"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "Construct a box-and-whisker plot for the data set $12, 15, 18, 20, 22, 25, 30$ and identify the outliers.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "A set of measurements for a construction project are $10.2, 11.5, 12.8, 14.1, 15.6$. Calculate the interquartile range and identify the quartiles.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Use a ruler to draw the box-and-whisker plots",
+       "Check for outliers and explain their significance",
+       "Ensure accurate calculations of quartiles and interquartile range"
+   ],
+   "footer": "Chef's Tips"
+}

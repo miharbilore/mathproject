@@ -1,0 +1,129 @@
+{
+  "unit": "Unit 0: Foundations of Algebra",
+   "topic": "Inequalities",
+   "test_type": "Quiz (Carolina Reaper)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "A cargo ship travels $120$ miles in $t$ hours. If the speed is at least $20$ mph, what inequality represents this situation?",
+           "options": {
+               "A": "$t \\geq 6$",
+               "B": "$t \\leq 6$",
+               "C": "$t > 6$",
+               "D": "$t < 6$",
+               "E": "$t = 6$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "The cost $C$ of shipping a package is given by $C = 5x + 10$, where $x$ is the weight in pounds. If the cost is at most $$25$, what is the inequality for $x$?",
+           "options": {
+               "A": "$x \\leq 3$",
+               "B": "$x \\geq 3$",
+               "C": "$x < 3$",
+               "D": "$x > 3$",
+               "E": "$x = 3$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "A traffic light has a red phase that lasts for $t$ seconds. If $t$ is between $20$ and $40$ seconds, the inequality for $t$ is",
+           "options": {
+               "A": "$20 < t < 40$",
+               "B": "$20 \\leq t \\leq 40$",
+               "C": "$t > 20$",
+               "D": "$t < 40$",
+               "E": "$t = 20$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "The number of boxes $n$ that can be delivered by a truck is given by $n = 10t - 5$, where $t$ is the time in hours. If the number of boxes is at least $30$, what inequality represents this situation?",
+           "options": {
+               "A": "$t \\geq 3.5$",
+               "B": "$t \\leq 3.5$",
+               "C": "$t > 3.5$",
+               "D": "$t < 3.5$",
+               "E": "$t = 3.5$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "A company offers a discount on shipping for orders over $50$. If $x$ represents the cost of the order, the inequality for orders that qualify for the discount is",
+           "options": {
+       "A": "$x > 50$",
+       "B": "$x \\geq 50$",
+       "C": "$x < 50$",
+       "D": "$x \\leq 50$",
+       "E": "$x = 50$"
+   },
+   "answer": "B"
+ },
+ {
+   "id": 6,
+   "type": "MQ",
+   "question": "A delivery person can carry at most $25$ packages. If $x$ represents the number of packages, the inequality for $x$ is",
+   "options": {
+       "A": "$x \\leq 25$",
+       "B": "$x \\geq 25$",
+       "C": "$x < 25$",
+       "D": "$x > 25$",
+       "E": "$x = 25$"
+   },
+   "answer": "A"
+},
+{
+   "id": 7,
+   "type": "MQ",
+   "question": "The time $t$ it takes for a package to be delivered is given by $t = \\frac{x}{10} + 2$, where $x$ is the distance in miles. If the delivery time is at most $5$ hours, what inequality represents this situation?",
+   "options": {
+       "A": "$x \\leq 30$",
+       "B": "$x \\geq 30$",
+       "C": "$x < 30$",
+       "D": "$x > 30$",
+       "E": "$x = 30$"
+   },
+   "answer": "A"
+},
+{
+   "id": 8,
+   "type": "MQ",
+   "question": "A truck can travel at most $400$ miles in a day. If $x$ represents the distance traveled, the inequality for $x$ is",
+   "options": {
+       "A": "$x \\leq 400$",
+       "B": "$x \\geq 400$",
+       "C": "$x < 400$",
+       "D": "$x > 400$",
+       "E": "$x = 400$"
+   },
+   "answer": "A"
+},
+{
+   "id": 9,
+   "type": "FRQ",
+   "question": "A package delivery company guarantees that packages will be delivered within $t$ hours, where $t = \\frac{x}{5} + 1$, and $x$ is the distance in miles. Graph the inequality $t \\leq 4$ on a number line and write the solution in interval notation.",
+   "required_space_lines": 5
+},
+{
+   "id": 10,
+   "type": "FRQ",
+   "question": "A cargo ship travels from port $A$ to port $B$ at a speed of $s$ miles per hour. The time $t$ it takes for the ship to travel from $A$ to $B$ is given by $t = \\frac{240}{s}$. If the time $t$ is between $4$ and $12$ hours, write an inequality for $s$ and graph the solution on a number line.",
+   "required_space_lines": 5
+}
+   ],
+   "teacher_rules": [
+       "Make sure students show all work and explain their reasoning.",
+       "Emphasize the importance of checking the units of the variables.",
+       "Encourage students to use different methods to solve the problems, such as graphing and algebraic manipulation."
+   ],
+   "footer": "Chef's Tips"
+}

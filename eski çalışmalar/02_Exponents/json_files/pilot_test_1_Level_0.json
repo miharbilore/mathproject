@@ -1,0 +1,129 @@
+{
+  "test_id": 1,
+   "test_type": "Intro (Level 0)",
+   "topic": "Exponents",
+   "unit": "Unit 2: Exponents & Radicals",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "What is the value of 2^3?",
+           "options": {
+               "A": "6",
+               "B": "8",
+               "C": "9",
+               "D": "10",
+               "E": "12"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "What is the result of 3^2?",
+           "options": {
+               "A": "5",
+               "B": "6",
+               "C": "8",
+               "D": "9",
+               "E": "10"
+           },
+           "answer": "D"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "Simplify the expression: 4^1",
+           "options": {
+               "A": "2",
+               "B": "4",
+               "C": "8",
+               "D": "16",
+               "E": "32"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "Evaluate the expression: 2^4",
+           "options": {
+               "A": "8",
+               "B": "10",
+               "C": "12",
+               "D": "14",
+       "E": "16"
+       },
+           "answer": "E"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "Simplify the expression: 5^0",
+           "options": {
+               "A": "0",
+               "B": "1",
+               "C": "5",
+               "D": "10",
+               "E": "25"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "What is the value of (2^2)^3?",
+           "options": {
+               "A": "16",
+               "B": "24",
+               "C": "32",
+               "D": "64",
+       "E": "128"
+       },
+           "answer": "D"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "Simplify the expression: (3^2)^2",
+           "options": {
+               "A": "9",
+               "B": "16",
+               "C": "25",
+               "D": "27",
+       "E": "81"
+       },
+           "answer": "E"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "What is the result of 2^0?",
+           "options": {
+               "A": "0",
+               "B": "1",
+               "C": "2",
+               "D": "4",
+       "E": "8"
+       },
+           "answer": "B"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "Simplify the expression: 2^3 * 2^4",
+           "answer": "128"
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "Simplify the expression: (2^2)^3 * 2^2",
+           "answer": "512"
+       }
+   ],
+   "teacher_rules": [
+       "Tip 1: Remember that any number raised to the power of 0 is 1",
+       "Tip 2: To multiply two powers with the same base, add the exponents",
+       "Tip 3: To divide two powers with the same base, subtract the exponents"
+   ]
+}

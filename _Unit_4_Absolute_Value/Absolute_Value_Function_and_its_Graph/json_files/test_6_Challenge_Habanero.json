@@ -1,0 +1,129 @@
+{
+  "unit": "\u1F4D6 Unit 4: Absolute Value",
+   "topic": "Absolute Value Function and its Graph",
+   "test_type": "Challenge (Habanero)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "What is the vertex of the graph of $y = |x - 2| + 1$?",
+           "options": {
+               "A": "$(2, 1)$",
+               "B": "$(1, 2)$",
+               "C": "$(0, 1)$",
+               "D": "$(-2, 1)$",
+               "E": "$(2, -1)$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "The graph of $y = |x + 3|$ has an axis of symmetry at $x =$",
+           "options": {
+               "A": "$-3$",
+               "B": "$3$",
+               "C": "$0$",
+               "D": "$-2$",
+               "E": "$2$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "A gaming company has a data usage function $y = |x - 5| cdot 2$ where $y$ is the amount of data used and $x$ is the number of hours played. If $x = 3$, then $y =$",
+           "options": {
+               "A": "$4$",
+               "B": "$6$",
+               "C": "$8$",
+               "D": "$10$",
+               "E": "$12$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "The function $y = 2|x| - 1$ has a minimum value of",
+           "options": {
+               "A": "$-1$",
+               "B": "$1$",
+               "C": "$2$",
+               "D": "$3$",
+               "E": "$4$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "A coding logic function is given by $y = |x - 2| + |x + 2|$. The value of $y$ when $x = 0$ is",
+           "options": {
+               "A": "$2$",
+               "B": "$4$",
+               "C": "$6$",
+               "D": "$8$",
+               "E": "$10$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "Which of the following functions has the same graph as $y = |x|$ but shifted $2$ units to the right?",
+           "options": {
+               "A": "$y = |x - 2|$",
+               "B": "$y = |x + 2|$",
+               "C": "$y = x - 2$",
+               "D": "$y = x + 2$",
+               "E": "$y = -x + 2$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "A scoreboard function is given by $y = |x - 5| - 3$. The value of $y$ when $x = 8$ is",
+           "options": {
+               "A": "$0$",
+               "B": "$1$",
+               "C": "$2$",
+               "D": "$3$",
+               "E": "$4$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "The function $y = 3|x| - 2$ has an axis of symmetry at $x =$",
+           "options": {
+               "A": "$-2$",
+               "B": "$-1$",
+               "C": "$0$",
+               "D": "$1$",
+               "E": "$2$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "Graph the function $y = |x + 1| - 2$ and identify its vertex, axis of symmetry, and direction of opening. Provide your answer in $5$ lines or less.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "A gaming company has a function $y = |x - 3| cdot 4$ where $y$ is the number of points scored and $x$ is the number of levels completed. Graph the function and determine the number of points scored when $x = 5$. Provide your answer in $5$ lines or less.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Tip 1: Review the properties of absolute value functions and their graphs.",
+       "Tip 2: Use technology to verify student answers.",
+       "Tip 3: Provide opportunities for students to create their own absolute value functions and graph them."
+   ],
+   "footer_title": "Chef's Tips"
+}

@@ -1,0 +1,129 @@
+{
+  "unit": "Unit 0: Foundations of Algebra",
+   "topic": "Place Value",
+   "test_type": "Foundation (Jalapeno)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "What is the value of the digit $3$ in the number $43,279$?",
+           "options": {
+               "A": "ones",
+               "B": "tens",
+               "C": "hundreds",
+               "D": "thousands",
+               "E": "ten thousands"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "Round $27,832$ to the nearest $1,000$",
+           "options": {
+               "A": "$20,000$",
+               "B": "$28,000$",
+               "C": "$27,000$",
+               "D": "$30,000$",
+               "E": "$29,000$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "What is $94,219$ in expanded form?",
+           "options": {
+               "A": "$90,000 + 4,000 + 200 + 10 + 9$",
+               "B": "$90,000 + 4,000 + 200 + 19$",
+               "C": "$90,000 + 4,000 + 100 + 19$",
+               "D": "$90,000 + 4,000 + 200 + 1 + 9$",
+               "E": "$90,000 + 4,000 + 2,000 + 9$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "The price of a stock is $34.59$. What is the value of the digit $3$?",
+           "options": {
+               "A": "tens",
+               "B": "ones",
+               "C": "tenths",
+               "D": "hundredths",
+               "E": "thousands"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "A savings account has $10,349.21$. What is the value of the digit $1$ in the amount?",
+           "options": {
+       "A": "hundredths",
+       "B": "thousands",
+       "C": "ones",
+       "D": "tenths",
+       "E": "ten thousands"
+   },
+   "answer": "C"
+},
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "Round $8,942$ to the nearest $100$",
+           "options": {
+       "A": "$8,900$",
+       "B": "$9,000$",
+       "C": "$9,100$",
+       "D": "$8,800$",
+       "E": "$9,900$"
+   },
+   "answer": "A"
+},
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "A tax return shows a refund of $2,431$. What is the digit $4$ worth?",
+           "options": {
+       "A": "hundreds",
+       "B": "thousands",
+       "C": "ten thousands",
+       "D": "tens",
+       "E": "ones"
+   },
+   "answer": "A"
+},
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "The cost of a financial transaction is $0.058$. What is the value of the digit $5$?",
+           "options": {
+       "A": "hundredths",
+       "B": "thousands",
+       "C": "tenths",
+       "D": "ten thousands",
+       "E": "ones"
+   },
+   "answer": "C"
+},
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "A company made a profit of $145,678$. Write the number in expanded and standard form. Show your work and provide your answer in the space below.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "A person invests $23,491$ in the stock market. Round the amount to the nearest thousand and explain why you rounded up or down. Use the space below for your answer.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Remind students to read each question carefully and pay attention to place value.",
+       "Emphasize that rounding should be done based on the digit immediately to the right of the rounding place.",
+       "Encourage students to use real-life examples, such as money and finance, to illustrate their understanding of place value concepts."
+   ],
+   "footer": "Chef's Tips"
+}

@@ -1,6 +1,8 @@
 const fs = require("fs");
 const { exec } = require("child_process");
 const path = require("path");
+const util = require("util");
+const execPromise = util.promisify(exec);
 require("dotenv").config();
 
 const PDFLATEX_PATH = process.env.PDFLATEX_PATH || "pdflatex";
@@ -69,61 +71,81 @@ ${frqQuestions.map(q => `
   `;
 }
 
-// RECURSIVE FOLDER SCANNER (Filtered)
-function walk(dir, callback) {
+// COLLECT ALL JSON FILES
+function collectJsonFiles(dir, fileList = []) {
   const items = fs.readdirSync(dir);
   for (const f of items) {
-    if (f.startsWith(".") || ["node_modules", "artifacts", "brain", "eski çalışmalar", "2.deneme"].includes(f)) continue;
+    // Exclude hidden files and specific folders
+    if (f.startsWith(".") || ["node_modules", "artifacts", "brain", "eski çalışmalar", "2.deneme", "pdf_files"].includes(f)) continue;
     
     let dirPath = path.join(dir, f);
     try {
-      let isDirectory = fs.statSync(dirPath).isDirectory();
-      if (isDirectory) {
-        if (f === "json_files") {
-          callback(dirPath);
-        } else {
-          walk(dirPath, callback);
-        }
+      let stat = fs.statSync(dirPath);
+      if (stat.isDirectory()) {
+        collectJsonFiles(dirPath, fileList);
+      } else if (f.endsWith(".json")) {
+        fileList.push(dirPath);
       }
-    } catch (e) {
-      // Skip dead links or permission errors
-    }
+    } catch (e) {}
   }
+  return fileList;
 }
 
-console.log("🔍 Scanning for JSON files to generate PDFs...");
-walk(".", (jsonDir) => {
-  const pdfDir = path.join(path.dirname(jsonDir), "pdf_files");
-  if (!fs.existsSync(pdfDir)) fs.mkdirSync(pdfDir, { recursive: true });
+async function run() {
+  console.log("🔍 Scanning for JSON files to generate PDFs...");
+  const jsonFiles = collectJsonFiles(".");
+  console.log(`📂 Found ${jsonFiles.length} JSON files to process.`);
 
-  const files = fs.readdirSync(jsonDir).filter(file => file.endsWith(".json"));
-  
-  if (files.length > 0) {
-    console.log(`📂 Found ${files.length} files in ${jsonDir}`);
-  }
+  for (const jsonPath of jsonFiles) {
+    const jsonDir = path.dirname(jsonPath);
+    const pdfDir = path.join(path.dirname(jsonDir), "pdf_files");
+    if (!fs.existsSync(pdfDir)) fs.mkdirSync(pdfDir, { recursive: true });
 
-  files.forEach(file => {
-    const data = JSON.parse(fs.readFileSync(path.join(jsonDir, file), "utf-8"));
-    const tex = generateLatex(data);
+    const file = path.basename(jsonPath);
     const baseName = path.basename(file, ".json");
-    const texPath = path.join(pdfDir, `${baseName}.tex`);
-    
-    fs.writeFileSync(texPath, tex);
+    const pdfPath = path.join(pdfDir, `${baseName}.pdf`);
 
-    exec(`"${PDFLATEX_PATH}" -interaction=nonstopmode "${baseName}.tex"`, { cwd: pdfDir }, (err) => {
-      if (err) {
-        console.error(`❌ Error generating PDF for ${baseName}`);
-      } else {
-        console.log(`✅ PDF Generated: ${baseName}.pdf`);
+    // Skip if PDF already exists
+    if (fs.existsSync(pdfPath)) {
+      // console.log(`⏩ Skipping: ${baseName}.pdf (already exists)`);
+      continue;
+    }
+
+    try {
+      const data = JSON.parse(fs.readFileSync(jsonPath, "utf-8"));
+      const tex = generateLatex(data);
+      const texPath = path.join(pdfDir, `${baseName}.tex`);
+      
+      fs.writeFileSync(texPath, tex);
+
+      console.log(`⏳ Generating PDF: ${baseName}.pdf ...`);
+      try {
+        await execPromise(`"${PDFLATEX_PATH}" -interaction=nonstopmode "${baseName}.tex"`, { cwd: pdfDir });
+      } catch (execErr) {
+        // LaTeX often returns non-zero even if PDF is generated (warnings)
+        if (!fs.existsSync(pdfPath)) {
+          throw new Error(`LaTeX failed and no PDF was created: ${execErr.message}`);
+        }
       }
       
-      // ALWAYS Cleanup auxiliary files to keep only the PDF
+      if (fs.existsSync(pdfPath)) {
+        console.log(`✅ Success!`);
+      } else {
+        console.error(`❌ Failed to create PDF for ${baseName}`);
+      }
+
+      // Cleanup auxiliary files
       [".tex", ".aux", ".log"].forEach(ext => {
         try {
           const auxFile = path.join(pdfDir, baseName + ext);
           if (fs.existsSync(auxFile)) fs.unlinkSync(auxFile);
         } catch (cleanupErr) {}
       });
-    });
-  });
-});
+    } catch (err) {
+      console.error(`❌ Error for ${baseName}:`, err.message);
+    }
+  }
+  console.log("\n✅ ALL PDF GENERATION COMPLETE!");
+}
+
+run();

@@ -1,0 +1,129 @@
+{
+  "unit": "Unit 0: Foundations of Algebra",
+   "topic": "Place Value",
+   "test_type": "Challenge (Habanero)",
+   "questions": [
+      {
+         "id": 1,
+         "type": "MQ",
+         "question": "In a recipe for $45 \\frac{3}{4}$ cups of flour, what is the value of the digit 4?",
+         "options": {
+            "A": "Thousands",
+            "B": "Hundreds",
+            "C": "Tens",
+            "D": "Ones",
+            "E": "Tenths"
+         },
+         "answer": "B"
+      },
+      {
+         "id": 2,
+         "type": "MQ",
+         "question": "A building is $234.56$ meters tall. Rounded to the nearest hundred, what is its height?",
+         "options": {
+            "A": "$200$",
+            "B": "$300$",
+            "C": "$234$",
+            "D": "$235$",
+            "E": "$240$"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 3,
+         "type": "MQ",
+         "question": "The cost of $3 \\frac{1}{2}$ acres of land is $12,000$. What is the cost per acre in standard form?",
+         "options": {
+            "A": "$3,428.57$",
+            "B": "$3,571.43$",
+            "C": "$3,600$",
+            "D": "$3,429$",
+            "E": "$3,571$"
+         },
+         "answer": "B"
+      },
+      {
+         "id": 4,
+         "type": "MQ",
+         "question": "A chef needs $15 \\frac{3}{4}$ kilograms of sugar. What is this in expanded form?",
+         "options": {
+            "A": "$15 + \\frac{3}{4}$",
+            "B": "$15 + 0.75$",
+            "C": "$15 \\cdot \\frac{3}{4}$",
+            "D": "$15 \\cdot 0.75$",
+            "E": "$15 + 3 \\cdot \\frac{1}{4}$"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 5,
+         "type": "MQ",
+         "question": "The length of a room is $12.34$ meters. Rounded to the nearest tenth, what is its length?",
+         "options": {
+            "A": "$12.3$",
+            "B": "$12.4$",
+            "C": "$12$",
+            "D": "$12.34$",
+            "E": "$12.5$"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 6,
+         "type": "MQ",
+         "question": "A recipe calls for $0.45$ liters of oil. What is this in standard form?",
+         "options": {
+            "A": "$\frac{45}{100}$",
+            "B": "$\frac{9}{20}$",
+            "C": "$45$",
+            "D": "$\frac{45}{10}$",
+            "E": "$\frac{4.5}{10}$"
+         },
+         "answer": "B"
+      },
+      {
+         "id": 7,
+         "type": "MQ",
+         "question": "A water tank can hold $456.78$ liters. What is the value of the digit 6?",
+         "options": {
+            "A": "Ones",
+            "B": "Tens",
+            "C": "Hundreds",
+            "D": "Thousands",
+            "E": "Tenths"
+         },
+         "answer": "C"
+      },
+      {
+         "id": 8,
+         "type": "MQ",
+         "question": "The cost of a meal is $23.49$. Rounded to the nearest dollar, what is the cost?",
+         "options": {
+            "A": "$20$",
+            "B": "$23$",
+            "C": "$24$",
+            "D": "$25$",
+            "E": "$30$"
+         },
+         "answer": "C"
+      },
+      {
+         "id": 9,
+         "type": "FRQ",
+         "question": "The area of a rectangular garden is $25.6$ square meters. If its length is $5.2$ meters, what is its width in standard form? Show your calculations.",
+         "required_space_lines": 5
+      },
+      {
+         "id": 10,
+         "type": "FRQ",
+         "question": "A bakery sells $234.56$ kilograms of bread per day. If they sell it in packs of $1.25$ kilograms, how many packs do they sell per day? Show your calculations.",
+         "required_space_lines": 5
+      }
+   ],
+   "teacher_rules": [
+      "Tip 1: Encourage students to use the place value chart to identify digit values.",
+      "Tip 2: Remind students that rounding numbers depends on the digit to the right of the place value.",
+      "Tip 3: Emphasize the importance of using the correct form (standard or expanded) when writing numbers."
+   ],
+   "footer": "Chef's Tips"
+}

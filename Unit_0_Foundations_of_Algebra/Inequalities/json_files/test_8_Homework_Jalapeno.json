@@ -1,0 +1,129 @@
+{
+  "unit": "Unit 0: Foundations of Algebra",
+   "topic": "Inequalities",
+   "test_type": "Homework (Jalapeno)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "Solve the inequality $2x - 5 > 3$.",
+           "options": {
+               "A": "$x > 4$",
+               "B": "$x < 4$",
+               "C": "$x > -4$",
+               "D": "$x < -4$",
+               "E": "$x = 4$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "Graph the solution to $x + 2 \\leq 7$ on a number line.",
+           "options": {
+               "A": "$(-\\infty, 5]$",
+               "B": "$[5, \\infty)$",
+               "C": "$(-\\infty, 5)$",
+               "D": "$(-5, \\infty)$",
+               "E": "$[5, 7]$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "The ancient Egyptians built the Great Pyramid with a height of $146.5$ meters. If the height $h$ of the pyramid is reduced by $x$ meters, the inequality $h - x > 120$ represents the condition that the reduced height is greater than $120$ meters. Solve for $x$.",
+           "options": {
+               "A": "$x < 26.5$",
+               "B": "$x > 26.5$",
+               "C": "$x = 26.5$",
+               "D": "$x < -26.5$",
+               "E": "$x > -26.5$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "The Babylonians used a sexagesimal (base-60) system for mathematics. If $x$ is a number in this system and $x + 20 > 40$, solve for $x$.",
+           "options": {
+               "A": "$x > 20$",
+               "B": "$x < 20$",
+               "C": "$x = 20$",
+               "D": "$x > 40$",
+               "E": "$x < 40$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "The ancient Greeks used the method of exhaustion to calculate areas. If $x$ is the area of a shape and $x - 3 \\geq 5$, solve for $x$.",
+           "options": {
+               "A": "$x \\geq 8$",
+               "B": "$x \\leq 8$",
+               "C": "$x = 8$",
+               "D": "$x > 8$",
+               "E": "$x < 8$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "Write the solution to $-3x + 2 > 5$ in interval notation.",
+           "options": {
+               "A": "$(-\\infty, -1)$",
+               "B": "$(-1, \\infty)$",
+               "C": "$(-\\infty, 1)$",
+               "D": "$(-1, 1)$",
+               "E": "$(-1, \\infty)$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "Solve the inequality $\\frac{2x + 3}{5} \\leq 2$.",
+           "options": {
+               "A": "$x \\leq \\frac{7}{2}$",
+               "B": "$x \\geq \\frac{7}{2}$",
+               "C": "$x = \\frac{7}{2}$",
+               "D": "$x > \\frac{7}{2}$",
+               "E": "$x < \\frac{7}{2}$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "The ancient Chinese used abacuses for calculations. If $x$ is a number on an abacus and $-2x + 1 > 7$, solve for $x$.",
+           "options": {
+               "A": "$x < -3$",
+               "B": "$x > -3$",
+               "C": "$x = -3$",
+               "D": "$x < 3$",
+               "E": "$x > 3$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "Solve the inequality $x^2 - 4x - 3 > 0$ and graph the solution on a number line. Write your answer in interval notation.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "The ancient Romans built a bridge with an arch that had a height of $15$ meters. If the height $h$ of the bridge is reduced by $x$ meters, the inequality $h - x > 10$ represents the condition that the reduced height is greater than $10$ meters. Solve for $x$, graph the solution on a number line, and write your answer in interval notation.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Tip 1: Emphasize the importance of understanding the inequality sign and its direction.",
+       "Tip 2: Use number lines to visualize the solution to inequalities.",
+       "Tip 3: Encourage students to check their solutions by plugging values back into the original inequality."
+   ],
+   "footer": "Chef's Tips"
+}

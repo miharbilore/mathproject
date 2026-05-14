@@ -1,0 +1,129 @@
+{
+  "unit": "\ud83d\udcda Unit 2: Exponents & Radicals",
+   "topic": "Operations with Radicals",
+   "test_type": "Foundation (Jalapeno)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "Simplify $\\sqrt{9} + \\sqrt{16}$",
+           "options": {
+               "A": "$3 + 4$",
+               "B": "$5 + 2$",
+               "C": "$7$",
+               "D": "$1$",
+               "E": "$25$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "Simplify $\\sqrt{4} \\cdot \\sqrt{9}$",
+           "options": {
+               "A": "$6$",
+               "B": "$12$",
+               "C": "$2 \\cdot 3$",
+               "D": "$3$",
+               "E": "$1$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "In a basketball game, the home team scores $\\sqrt{256}$ points and the visiting team scores $\\sqrt{144}$ points. What is the difference in their scores?",
+           "options": {
+               "A": "$8$",
+               "B": "$16 - 12$",
+               "C": "$4$",
+       "D": "$20$",
+       "E": "$112$"
+   },
+   "answer": "B"
+},
+{
+   "id": 4,
+   "type": "MQ",
+   "question": "A sprinter runs $\\sqrt{36}$ meters in the first heat and $\\sqrt{49}$ meters in the second heat. What is the total distance she runs?",
+   "options": {
+       "A": "$10$",
+       "B": "$6 + 7$",
+       "C": "$5$",
+       "D": "$13$",
+       "E": "$25$"
+   },
+   "answer": "B"
+},
+{
+   "id": 5,
+   "type": "MQ",
+   "question": "Simplify $\\frac{\\sqrt{16}}{\\sqrt{4}}$",
+   "options": {
+       "A": "$2$",
+       "B": "$1$",
+       "C": "$4$",
+       "D": "$8$",
+       "E": "$16$"
+   },
+   "answer": "A"
+},
+{
+   "id": 6,
+   "type": "MQ",
+   "question": "A soccer player kicks the ball $\\sqrt{25}$ yards and it goes over the head of a player who is $\\sqrt{9}$ yards away. What is the difference between the distance the ball was kicked and the player's position?",
+   "options": {
+       "A": "$6$",
+       "B": "$4$",
+       "C": "$16$",
+       "D": "$5 - 3$",
+       "E": "$2$"
+   },
+   "answer": "D"
+},
+{
+   "id": 7,
+   "type": "MQ",
+   "question": "In a long jump competition, a jumper lands $\\sqrt{64}$ meters away from the launch point. What is the distance the jumper covered?",
+   "options": {
+       "A": "$1$",
+       "B": "$4$",
+       "C": "$8$",
+       "D": "$12$",
+       "E": "$16$"
+   },
+   "answer": "C"
+},
+{
+   "id": 8,
+   "type": "MQ",
+   "question": "A tennis player serves the ball $\\sqrt{100}$ kilometers per hour and her opponent returns it $\\sqrt{81}$ kilometers per hour. What is the sum of their speeds?",
+   "options": {
+       "A": "$20$",
+       "B": "$10 + 9$",
+       "C": "$16$",
+       "D": "$30$",
+       "E": "$45$"
+   },
+   "answer": "B"
+},
+{
+   "id": 9,
+   "type": "FRQ",
+   "question": "In a high jump competition, the bar is set at a height of $\\sqrt{196}$ centimeters and a jumper clears it by $\\sqrt{49}$ centimeters. Calculate the jumper's total height.",
+   "required_space_lines": 5
+},
+{
+   "id": 10,
+   "type": "FRQ",
+   "question": "A cyclist covers $\\sqrt{400}$ meters in $2$ minutes and $\\sqrt{225}$ meters in $1.5$ minutes. Calculate the cyclist's average speed.",
+   "required_space_lines": 5
+}
+   ],
+   "teacher_rules": [
+       "Tip 1: Ensure students use the correct radical notation.",
+       "Tip 2: Pay attention to units and conversion where necessary.",
+       "Tip 3: Remind students to simplify their answers."
+   ],
+   "footer": "Chef's Tips"
+}

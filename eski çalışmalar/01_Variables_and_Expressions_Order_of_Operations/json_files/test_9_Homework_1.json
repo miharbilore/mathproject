@@ -1,0 +1,150 @@
+{
+  "test_id": 9,
+   "test_type": "Homework 1",
+   "topic": "Variables and Expressions / Order of Operations",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "What is the variable in the expression $2x + 3$?",
+           "options": {
+               "A": "$2$",
+               "B": "$3$",
+               "C": "$x$",
+               "D": "$2x$",
+               "E": "$2 + 3$"
+           },
+           "answer": "C",
+           "spicy_level": "",
+           "required_space_lines": 0
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "Identify the coefficient in the term $4y$",
+           "options": {
+               "A": "$y$",
+               "B": "$4$",
+               "C": "$4y$",
+               "D": "$1$",
+               "E": "$0$"
+           },
+           "answer": "B",
+           "spicy_level": "",
+           "required_space_lines": 0
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "What is the constant term in the expression $2x - 5$?",
+           "options": {
+               "A": "$2x$",
+               "B": "$-5$",
+               "C": "$2$",
+               "D": "$5$",
+               "E": "$-2x$"
+           },
+           "answer": "B",
+           "spicy_level": "",
+           "required_space_lines": 0
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "In the expression $3 + 2$, what is the operator?",
+           "options": {
+               "A": "$3$",
+               "B": "$2$",
+               "C": "$+$",
+               "D": "$-$",
+               "E": "$*$"
+           },
+           "answer": "C",
+           "spicy_level": "",
+           "required_space_lines": 0
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "What does the term $2x^2$ represent?",
+           "options": {
+               "A": "The coefficient of $x$ is $2$ and the exponent is $2$",
+               "B": "The variable is $2$ and the coefficient is $x^2$",
+               "C": "The coefficient of $x$ is $2$ and $x$ is squared",
+               "D": "The coefficient is $x$ and the variable is $2$",
+               "E": "The constant term is $2$ and the variable term is $x^2$"
+           },
+           "answer": "C",
+           "spicy_level": "",
+           "required_space_lines": 0
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "In the expression $x + 2$, what operation is being performed?",
+           "options": {
+               "A": "Subtraction",
+               "B": "Addition",
+               "C": "Multiplication",
+               "D": "Division",
+               "E": "Exponentiation"
+           },
+           "answer": "B",
+           "spicy_level": "",
+           "required_space_lines": 0
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "Identify the term that is a variable in $3x + 2y - 4$",
+           "options": {
+               "A": "$3x$ and $2y$",
+               "B": "$2y$ only",
+               "C": "$3x$ only",
+               "D": "$-4$",
+               "E": "$3x + 2y$"
+           },
+           "answer": "A",
+           "spicy_level": "",
+           "required_space_lines": 0
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "What is the purpose of the order of operations?",
+           "options": {
+               "A": "To simplify fractions",
+               "B": "To solve equations",
+               "C": "To evaluate expressions with multiple operations",
+               "D": "To graph functions",
+               "E": "To find the perimeter of a shape"
+           },
+           "answer": "C",
+           "spicy_level": "",
+           "required_space_lines": 0
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "Draw and explain how you would represent the expression $2x + 1$ using algebra tiles. Be sure to include a key for your drawing.",
+           "options": {},
+           "answer": "Model Solution: A diagram with $2$ $x$-tiles and $1$ unit tile, labeled with a key.",
+           "spicy_level": "",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "Explain, in your own words, what a variable is in an algebraic expression. Provide an example of a simple expression that contains a variable and describe what the variable represents in the context of the expression.",
+           "options": {},
+           "answer": "Model Solution: A written description of a variable, including an example expression such as $3x$, explaining that $x$ is the variable and can represent an unknown value or quantity.",
+           "spicy_level": "",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Focus on introducing basic concepts and definitions related to variables and expressions, such as coefficients and constants.",
+       "Use simple, one-step problems to help students understand the fundamentals of the order of operations.",
+       "Encourage students to use visual aids like algebra tiles to represent expressions and enhance their understanding of variables and expressions."
+   ]
+}

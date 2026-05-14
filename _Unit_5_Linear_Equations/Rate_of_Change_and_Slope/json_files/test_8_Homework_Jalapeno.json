@@ -1,0 +1,129 @@
+{
+  "unit": "\u1F4D6 Unit 5: Linear Equations",
+   "topic": "Rate of Change and Slope",
+   "test_type": "Homework (Jalapeno)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "The Great Pyramid of Giza's original height was $146.5$ meters. If it took $20$ years to build, what was the rate of change of its height in meters per year?",
+           "options": {
+               "A": "$7.325$",
+               "B": "$6.5$",
+               "C": "$5.2$",
+               "D": "$4.8$",
+               "E": "$3.1$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "A table shows the number of wheels on ancient chariots and their corresponding speeds. If the table has $x$ values of $2, 4, 6$, and $y$ values of $10, 20, 30$, what is the slope?",
+           "options": {
+               "A": "$0$",
+               "B": "$5$",
+               "C": "$2.5$",
+               "D": "$\frac{5}{2}$",
+               "E": "Undefined"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "The $y$-intercept of a linear equation representing the cost of tickets to a historical site is $(0, 5)$. If the slope of this line is $2$, which equation best represents the relationship?",
+           "options": {
+               "A": "$y = 2x - 5$",
+               "B": "$y = 2x + 5$",
+               "C": "$y = \frac{1}{2}x + 5$",
+               "D": "$y = -2x + 5$",
+               "E": "$y = 5x - 2$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "An ancient trade route has two cities, $A$ and $B$. City $A$ is $240$ kilometers from city $B$. If a merchant travels $48$ kilometers per day, what is the rate of change of the distance remaining to city $B$?",
+           "options": {
+               "A": "$-2$ km/day",
+               "B": "$2$ km/day",
+       "C": "$-48$ km/day",
+       "D": "$48$ km/day",
+       "E": "$0$ km/day"
+   },
+   "answer": "C"
+},
+{
+   "id": 5,
+   "type": "MQ",
+   "question": "The equation $y = \frac{3}{4}x - 2$ represents the number of stones used to build a wall based on its height. What does the slope represent?",
+   "options": {
+       "A": "The number of stones used per meter of height",
+       "B": "The height of the wall in meters",
+       "C": "The rate of change of stones used per meter of height",
+       "D": "The cost of stones in dollars",
+       "E": "The type of stones used"
+   },
+   "answer": "C"
+},
+{
+   "id": 6,
+   "type": "MQ",
+   "question": "A graph represents the population growth of an ancient city over time. If the line has a slope of $0$, what does this indicate about the population?",
+   "options": {
+       "A": "The population is increasing rapidly",
+       "B": "The population is decreasing",
+       "C": "The population remains constant",
+       "D": "The population is fluctuating",
+       "E": "There is no population growth data"
+   },
+   "answer": "C"
+},
+{
+   "id": 7,
+   "type": "MQ",
+   "question": "The equation $y = -3x + 1$ represents the relationship between the number of workers and the time taken to complete a task. What is the slope of this line?",
+   "options": {
+       "A": "$3$",
+       "B": "$-3$",
+       "C": "$1$",
+       "D": "$0$",
+       "E": "Undefined"
+   },
+   "answer": "B"
+},
+{
+   "id": 8,
+   "type": "MQ",
+   "question": "A map shows the distance between two ancient cities as $300$ kilometers. If a traveler walks $4$ kilometers per hour, what is the rate of change of the distance remaining to the destination city?",
+   "options": {
+       "A": "$-1$ km/h",
+       "B": "$1$ km/h",
+       "C": "$-4$ km/h",
+       "D": "$4$ km/h",
+       "E": "$0$ km/h"
+   },
+   "answer": "C"
+},
+{
+   "id": 9,
+   "type": "FRQ",
+   "question": "A historian is studying the rise and fall of an ancient empire. The empire's population can be modeled by the equation $y = 2x - 5$, where $y$ is the population in millions and $x$ is the number of years since its founding. What is the rate of change of the population, and what does it represent in this context? Show your work and explain your answer.",
+   "required_space_lines": 5
+},
+{
+   "id": 10,
+   "type": "FRQ",
+   "question": "A linear equation representing the cost of building a ancient structure is given by $y = \frac{1}{2}x + 10$, where $y$ is the cost in dollars and $x$ is the number of workers. If the structure requires $100$ workers, what is the total cost, and what is the rate of change of the cost with respect to the number of workers? Show your work and explain your answer.",
+   "required_space_lines": 5
+}
+],
+"teacher_rules": [
+   "Tip 1: Remind students to show their work for FRQs",
+   "Tip 2: Encourage students to use historical context to interpret slopes",
+   "Tip 3: Emphasize the importance of labeling axes and units in graphs"
+],
+"footer": "Chef's Tips"
+}

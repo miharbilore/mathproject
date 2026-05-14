@@ -1,0 +1,129 @@
+{
+  "unit": "\ud83d\udcda Unit 2: Exponents & Radicals",
+   "topic": "Exponential Equations",
+   "test_type": "Challenge (Habanero)",
+   "questions": [
+     { 
+       "id": 1, 
+       "type": "MQ", 
+       "question": "Solve for $x$: $2^x = 32$",
+       "options": { 
+         "A": "$x = 3$", 
+         "B": "$x = 4$", 
+         "C": "$x = 5$", 
+         "D": "$x = 6$", 
+         "E": "$x = 7$"
+       }, 
+       "answer": "C" 
+     },
+     { 
+       "id": 2, 
+       "type": "MQ", 
+       "question": "A recipe for cooking rice requires $3^x$ cups of water. If $3^x = 27$, how many cups of water are needed?",
+       "options": { 
+         "A": "6 cups", 
+         "B": "8 cups", 
+         "C": "9 cups", 
+         "D": "12 cups", 
+         "E": "15 cups"
+       }, 
+       "answer": "C" 
+     },
+     { 
+       "id": 3, 
+       "type": "MQ", 
+       "question": "Solve for $y$: $4^y = 256$",
+       "options": { 
+         "A": "$y = 2$", 
+         "B": "$y = 3$", 
+         "C": "$y = 4$", 
+         "D": "$y = 5$", 
+         "E": "$y = 6$"
+       }, 
+       "answer": "B" 
+     },
+     { 
+       "id": 4, 
+       "type": "MQ", 
+       "question": "A building has $5^x$ floors. If $5^x = 125$, how many floors does the building have?",
+       "options": { 
+         "A": "5 floors", 
+         "B": "10 floors", 
+         "C": "20 floors", 
+         "D": "25 floors", 
+         "E": "30 floors"
+       }, 
+       "answer": "D" 
+     },
+     { 
+       "id": 5, 
+       "type": "MQ", 
+       "question": "Solve for $z$: $2^z = 64$",
+       "options": { 
+         "A": "$z = 4$", 
+         "B": "$z = 5$", 
+         "C": "$z = 6$", 
+         "D": "$z = 7$", 
+         "E": "$z = 8$"
+       }, 
+       "answer": "B" 
+     },
+     { 
+       "id": 6, 
+       "type": "MQ", 
+       "question": "A chef needs to make $3^x$ batches of cookies for a party. If $3^x = 81$, how many batches of cookies will the chef make?",
+       "options": { 
+         "A": "20 batches", 
+         "B": "25 batches", 
+         "C": "27 batches", 
+         "D": "30 batches", 
+         "E": "35 batches"
+       }, 
+       "answer": "C" 
+     },
+     { 
+       "id": 7, 
+       "type": "MQ", 
+       "question": "Solve for $w$: $5^w = 625$",
+       "options": { 
+         "A": "$w = 3$", 
+         "B": "$w = 4$", 
+         "C": "$w = 5$", 
+         "D": "$w = 6$", 
+         "E": "$w = 7$"
+       }, 
+       "answer": "B" 
+     },
+     { 
+       "id": 8, 
+       "type": "MQ", 
+       "question": "A construction site has $2^x$ workers. If $2^x = 16$, how many workers are on the site?",
+       "options": { 
+         "A": "10 workers", 
+         "B": "12 workers", 
+         "C": "14 workers", 
+         "D": "15 workers", 
+         "E": "16 workers"
+       }, 
+       "answer": "E" 
+     },
+     { 
+       "id": 9, 
+       "type": "FRQ", 
+       "question": "Solve for $x$: $x^2 = 2^x$. Show all work and provide the final answer.",
+       "required_space_lines": 5
+     },
+     { 
+       "id": 10, 
+       "type": "FRQ", 
+       "question": "Solve the system of equations: $2^x + 3^y = 10$, $x + y = 4$. Show all work and provide the final answer for $x$ and $y$.",
+       "required_space_lines": 5
+     }
+   ],
+   "teacher_rules": [
+     "Make sure students show their work for all problems",
+     "Emphasize the importance of checking units in word problems",
+     "Encourage students to use a calculator to check their answers"
+   ],
+   "footer": "Chef's Tips"
+}

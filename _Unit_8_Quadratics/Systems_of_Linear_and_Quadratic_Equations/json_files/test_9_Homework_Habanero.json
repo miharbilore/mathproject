@@ -1,0 +1,129 @@
+{
+  "unit": "\u1F4D6 Unit 8: Quadratics",
+   "topic": "Systems of Linear and Quadratic Equations",
+   "test_type": "Homework (Habanero)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "Solve the system: $x + 2y = 4$, $y = $x^2$ - 3$. What is $x$?",
+           "options": {
+               "A": "-1",
+               "B": "1",
+               "C": "2",
+               "D": "3",
+               "E": "4"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "Find the intersection point of $y = 2x - 1$ and $y = $x^2$ + 1$. What is $y$?",
+           "options": {
+               "A": "0",
+               "B": "1",
+               "C": "2",
+               "D": "3",
+               "E": "4"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "A patient's temperature $T$ (in $^circ$F) is modeled by $T = $t^2$ - 4t + 98$, where $t$ is time (in hours). A medicine reduces the temperature to $T = 2t + 96$. When does the medicine take effect?",
+           "options": {
+               "A": "t = 2",
+               "B": "t = 4",
+       "C": "t = 6",
+       "D": "t = 8",
+       "E": "t = 10"
+   },
+   "answer": "B"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "The growth rate of a bacteria population is given by $y = 3x^2 + 2x - 1$. A medicine reduces the population to $y = 2x + 1$. When do they intersect?",
+           "options": {
+               "A": "x = -1",
+               "B": "x = 0",
+               "C": "x = 1",
+               "D": "x = 2",
+               "E": "x = 3"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "A quadratic model $y = $x^2$ - 2x - 3$ and a linear model $y = x + 1$ represent the dosage of a medicine. What is the intersection point?",
+           "options": {
+       "A": "(1, 2)",
+       "B": "(2, 3)",
+       "C": "(3, 4)",
+       "D": "(-1, 0)",
+       "E": "(0, -3)"
+   },
+   "answer": "D"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "The cost $C$ of producing $x$ units of medicine is $C = 2x^2 + 3x + 2$. The revenue $R$ is $R = 5x - 1$. When do the costs equal revenue?",
+           "options": {
+               "A": "x = 1",
+               "B": "x = 2",
+               "C": "x = 3",
+               "D": "x = 4",
+               "E": "x = 5"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "The volume $V$ of a medicine container is $V = $x^2$ + 3x - 2$. The capacity is $V = 2x + 5$. When is the container full?",
+           "options": {
+       "A": "x = 1",
+       "B": "x = 2",
+       "C": "x = 3",
+       "D": "x = 4",
+       "E": "x = 5"
+   },
+   "answer": "B"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "A linear equation $y = x + 2$ and a quadratic equation $y = $x^2$ - 2x - 3$ represent the dosage and effect of a medicine. What is the $y$-coordinate of their intersection point?",
+           "options": {
+               "A": "0",
+               "B": "1",
+               "C": "2",
+               "D": "3",
+               "E": "4"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "Solve the system of equations: $y = 3x - 2$ and $y = $x^2$ + x - 1$. Find $x$ and $y$.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "A quadratic function $y = $x^2$ + 2x - 3$ models the spread of a disease. A linear function $y = x + 1$ models the recovery rate. Find their intersection point and interpret the results.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Ensure students show all steps for FRQs",
+       "Encourage the use of graphing calculators to check answers",
+       "Have students interpret the results in context"
+   ],
+   "footer": "Chef's Tips"
+}

@@ -1,0 +1,129 @@
+{
+  "unit": "Unit 0: Foundations of Algebra",
+   "topic": "Variables and Expressions / Order of Operations",
+   "test_type": "Challenge (Habanero)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "A recipe for cake requires $3 \\cdot x + 2$ cups of flour and $2 \\cdot x - 1$ cups of sugar. If $x = 2$, how many cups of flour and sugar are needed in total?",
+           "options": {
+               "A": "12",
+               "B": "10",
+               "C": "14",
+               "D": "16",
+               "E": "18"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "A builder needs to mix $2x + 5$ bags of concrete and $x - 3$ bags of sand for a construction project. If $x = 4$, how many bags of concrete and sand are needed in total?",
+           "options": {
+               "A": "15",
+               "B": "12",
+               "C": "18",
+               "D": "10",
+               "E": "20"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "A chef is making a sauce that requires $\\frac{2}{3} \\cdot x + 1$ cups of water and $\\frac{1}{2} \\cdot x - 1$ cups of oil. If $x = 6$, how many cups of water and oil are needed in total?",
+           "options": {
+               "A": "6",
+               "B": "5",
+               "C": "7",
+               "D": "4",
+               "E": "8"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "An architect is designing a building with $5 \\cdot x - 2$ floors and each floor has $3 \\cdot x + 1$ rooms. If $x = 3$, how many rooms are there in total?",
+           "options": {
+               "A": "120",
+               "B": "130",
+               "C": "140",
+       "D": "150",
+       "E": "160"
+   },
+   "answer": "B"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "A recipe for cookies requires $\\frac{3}{4} \\cdot x + 2$ cups of butter and $\\frac{2}{3} \\cdot x - 1$ cups of sugar. If $x = 8$, how many cups of butter and sugar are needed in total?",
+           "options": {
+               "A": "11",
+               "B": "12",
+               "C": "13",
+               "D": "14",
+       "E": "15"
+   },
+   "answer": "B"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "A contractor needs to lay $4x + 1$ meters of pipe and $2x - 3$ meters of wire for a construction project. If $x = 5$, how many meters of pipe and wire are needed in total?",
+           "options": {
+               "A": "30",
+               "B": "32",
+               "C": "34",
+       "D": "36",
+       "E": "38"
+   },
+   "answer": "B"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "A chef is making a dish that requires $2 \\cdot x + 3$ cups of flour and $x - 2$ cups of sugar. If $x = 6$, how many cups of flour and sugar are needed in total?",
+           "options": {
+               "A": "16",
+       "B": "14",
+       "C": "18",
+       "D": "12",
+       "E": "20"
+   },
+   "answer": "B"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "An architect is designing a bridge with $3 \\cdot x - 1$ spans and each span has $2 \\cdot x + 2$ supports. If $x = 4$, how many supports are there in total?",
+           "options": {
+               "A": "80",
+       "B": "70",
+       "C": "90",
+       "D": "60",
+       "E": "100"
+   },
+   "answer": "B"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "A contractor is building a house that requires $x + 2$ loads of lumber and $3x - 1$ loads of roofing material. If $x = 5$, calculate the total number of loads of lumber and roofing material needed and show your solution.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "A chef is making a recipe that requires $2x + 1$ cups of flour and $x - 3$ cups of sugar. If $x = 8$, calculate the total number of cups of flour and sugar needed and simplify the expression $2x + 1 + x - 3$.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Check calculations carefully",
+       "Ensure all questions are answered",
+       "Use a calculator only when necessary"
+   ],
+   "footer_title": "Chef's Tips"
+}

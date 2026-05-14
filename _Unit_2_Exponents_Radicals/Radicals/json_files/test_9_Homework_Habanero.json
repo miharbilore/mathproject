@@ -1,0 +1,129 @@
+{
+  "unit": "\u1f4d6 Unit 2: Exponents & Radicals",
+   "topic": "Radicals",
+   "test_type": "Homework (Habanero)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "Simplify $\\sqrt{64}$",
+           "options": {
+               "A": "8",
+               "B": "16",
+               "C": "32",
+               "D": "4",
+               "E": "6"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "Convert $\\sqrt[3]{27}$ to rational exponent form",
+           "options": {
+               "A": "$3^\\frac{1}{3}$",
+               "B": "$3^\\frac{2}{3}$",
+               "C": "$3^\\frac{3}{3}$",
+               "D": "$3^\\frac{4}{3}$",
+               "E": "$3^\\frac{5}{3}$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "A patient is prescribed $2 \\cdot \\sqrt{5}$ milligrams of medication. If $\\sqrt{5} \\approx 2.24$, how many milligrams of medication will the patient take?",
+           "options": {
+               "A": "4.48",
+               "B": "5.28",
+               "C": "6.24",
+               "D": "7.2",
+               "E": "8.16"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "Simplify $\\sqrt{16x^2}$",
+           "options": {
+               "A": "$4x$",
+               "B": "$4|x|$",
+               "C": "$16x$",
+               "D": "$16|x|$",
+               "E": "$8x$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "The volume of a cell is increasing at a rate of $2 \\cdot \\sqrt{t}$ cubic millimeters per hour. If $t$ is the number of hours, what is the volume of the cell after 4 hours?",
+           "options": {
+               "A": "$4 \\cdot \\sqrt{4}$",
+               "B": "$8 \\cdot \\sqrt{2}$",
+               "C": "$16$",
+       "D": "$4 \\cdot 2$",
+       "E": "$8$"
+   },
+           "answer": "C"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "Convert $x^\\frac{2}{3}$ to radical form",
+           "options": {
+               "A": "$\\sqrt[3]{x^2}$",
+               "B": "$\\sqrt[2]{x^3}$",
+               "C": "$\\sqrt[3]{x}$",
+               "D": "$\\sqrt{x}$",
+       "E": "$\\sqrt[2]{x}$"
+   },
+           "answer": "A"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "The probability of a patient responding to a new medication is $\\frac{1}{\\sqrt{2}}$. What is the probability that the patient will not respond to the medication?",
+           "options": {
+       "A": "$\\frac{1}{2}$",
+       "B": "$\\frac{1}{\\sqrt{2}}$",
+       "C": "$1 - \\frac{1}{\\sqrt{2}}$",
+       "D": "$\\frac{1}{2}$",
+       "E": "$1 - \\frac{1}{2}$"
+   },
+           "answer": "C"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "A scientist is studying the growth of a cell culture. The number of cells is increasing at a rate of $3 \\cdot \\sqrt{t}$ cells per hour. If $t$ is the number of hours, what is the number of cells after 9 hours?",
+           "options": {
+       "A": "$9 \\cdot 3$",
+       "B": "$27$",
+       "C": "$3 \\cdot 3$",
+       "D": "$3 \\cdot \\sqrt{9}$",
+       "E": "$27 \\cdot 3$"
+   },
+           "answer": "D"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "The length of a microscope slide is $2 \\cdot \\sqrt{5}$ centimeters. If the width of the slide is $x$ centimeters, and the area of the slide is $20 \\sqrt{5}$ square centimeters, find the value of $x$. Show all work and simplify your answer.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "The volume of a cell is given by the formula $V = \\frac{4}{3} \\pi r^3$, where $r$ is the radius of the cell. If the radius of the cell is increasing at a rate of $2 \\cdot \\sqrt{t}$ millimeters per hour, find the rate at which the volume of the cell is increasing after 4 hours. Show all work and simplify your answer.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Ensure students show all work and simplify their answers.",
+       "Emphasize the importance of checking units in word problems.",
+       "Encourage students to use calculators to check their work, but not to rely solely on them."
+   ],
+   "footer": "Chef's Tips"
+}

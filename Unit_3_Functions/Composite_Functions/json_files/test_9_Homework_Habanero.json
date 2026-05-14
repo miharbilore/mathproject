@@ -1,0 +1,129 @@
+{
+  "unit": "Unit 3: Functions",
+   "topic": "Composite Functions",
+   "test_type": "Homework (Habanero)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "If $f(x) = x^2$ and $g(x) = 2x + 1$, what is $f(g(x))$?",
+           "options": {
+               "A": "$4x^2 + 4x + 1$",
+               "B": "$4x^2 + 2$",
+               "C": "$2x^2 + 2x + 1$",
+               "D": "$x^2 + 2x + 1$",
+               "E": "$2x^2 + 1$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "Given $f(x) = \\frac{1}{x}$ and $g(x) = \\frac{1}{x+1}$, what is the domain of $f(g(x))$?",
+           "options": {
+               "A": "$x \\neq -1, x \\neq 0$",
+               "B": "$x \\neq 0$",
+               "C": "$x \\neq -1$",
+               "D": "$x > 0$",
+               "E": "$x < 0$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "A patient's dosage of medicine is determined by the function $f(x) = 2x$, where $x$ is the patient's weight. If $g(x)$ represents the patient's weight after a 10% weight loss, what is $f(g(x))$?",
+           "options": {
+               "A": "$1.8x$",
+               "B": "$2x$",
+               "C": "$2.2x$",
+               "D": "$1.9x$",
+               "E": "$2.1x$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "The growth rate of a cell culture is modeled by $f(x) = 3^x$, where $x$ is time in hours. If $g(x) = x - 2$, what does $f(g(x))$ represent?",
+           "options": {
+               "A": "The growth rate after a 2-hour delay",
+               "B": "The growth rate 2 hours ago",
+               "C": "The growth rate in 2 hours",
+               "D": "The initial growth rate",
+               "E": "The final growth rate"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "A biologist is studying the effect of a new drug on bacteria growth. The function $f(x) = \\frac{1}{x}$ models the growth rate, and $g(x) = x + 2$ models the change in environment. What is $f(g(x))$?",
+           "options": {
+               "A": "$\\frac{1}{x+2}$",
+               "B": "$\\frac{1}{x}$",
+               "C": "$\\frac{1}{x-2}$",
+               "D": "$\\frac{x+2}{x}$",
+               "E": "$\\frac{x-2}{x}$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "If $f(x) = \\sqrt{x}$ and $g(x) = x^2 - 4$, what is the domain of $f(g(x))$?",
+           "options": {
+               "A": "$x \\geq 2, x \\leq -2$",
+               "B": "$x > 2$",
+               "C": "$x \\geq 0$",
+               "D": "$x \\geq -2$",
+               "E": "$x < 0$"
+           },
+           "answer": "D"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "A medical researcher is analyzing the relationship between the dosage of a new vaccine and its effectiveness. The function $f(x) = 0.8x$ represents the dosage, and $g(x) = x + 10$ represents the patient's immune response. What is $f(g(x))$?",
+           "options": {
+               "A": "$0.8x + 8$",
+               "B": "$0.8x + 10$",
+               "C": "$0.8x - 8$",
+               "D": "$0.8x - 10$",
+               "E": "$0.8x$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "The function $f(x) = 2x$ models the rate at which a patient recovers from a disease, and $g(x) = x - 5$ models the time elapsed since treatment began. What is $f(g(x))$?",
+           "options": {
+               "A": "$2x - 10$",
+               "B": "$2x + 5$",
+               "C": "$2x - 5$",
+               "D": "$2x + 10$",
+               "E": "$2x$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "A pharmaceutical company is developing a new medication that affects the body's production of a certain enzyme. The function $f(x) = 0.5x$ models the amount of enzyme produced, and $g(x) = 2x + 1$ models the dosage of the medication. Find $f(g(x))$ and explain its significance in the context of the problem. ",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "The population growth of a certain species of bacteria can be modeled by the function $f(x) = 2^x$, where $x$ is the time in hours. If $g(x) = x - 3$, find $f(g(x))$ and describe what this function represents in the context of the problem. ",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Read each question carefully before answering",
+       "Use the given formulas and equations to solve problems",
+       "Check your work and explain your reasoning where necessary"
+   ],
+   "footer_title": "Chef's Tips"
+}

@@ -1,0 +1,129 @@
+{
+  "unit": "Unit 0: Foundations of Algebra",
+   "topic": "Place Value",
+   "test_type": "Homework (Jalapeno)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "In ancient Babylon, a tablet showed $456$ as the count of clay bricks. What is the value of the digit $5$?",
+           "options": {
+               "A": "$5$",
+               "B": "$50$",
+               "C": "$500$",
+               "D": "$5000$",
+               "E": "$50000$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "The height of the Great Pyramid is approximately $146.5$ meters. Rounded to the nearest ten, what is its height?",
+           "options": {
+               "A": "$140$",
+               "B": "$150$",
+               "C": "$160$",
+               "D": "$170$",
+               "E": "$180$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "The ancient Mayans used a vigesimal (base-$20$) system. If $1$ unit of their currency was equal to $5$ US cents, what is the value of $3$ units in US cents, given $1$ US dollar $=$ $100$ US cents?",
+           "options": {
+               "A": "$5$ cents",
+               "B": "$10$ cents",
+               "C": "$15$ cents",
+               "D": "$20$ cents",
+               "E": "$25$ cents"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "What is $274$ in expanded form?",
+           "options": {
+               "A": "$200 + 70 + 4$",
+               "B": "$200 + 70 + 5$",
+               "C": "$200 + 60 + 14$",
+               "D": "$300 + 70 + 4$",
+               "E": "$200 + 40 + 14$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "A relic from ancient Greece weighs $0.542$ kilograms. What is its weight rounded to the nearest hundredth of a kilogram?",
+           "options": {
+               "A": "$0.5$ kilograms",
+               "B": "$0.6$ kilograms",
+               "C": "$0.54$ kilograms",
+               "D": "$0.55$ kilograms",
+               "E": "$0.56$ kilograms"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "In standard form, what is the value of $4 \\cdot 10^2 + 5 \\cdot 10^1 + 6 \\cdot 10^0$?",
+           "options": {
+               "A": "$450$",
+               "B": "$460$",
+               "C": "$456$",
+               "D": "$405$",
+               "E": "$406$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "The Rosetta Stone is $114$ centimeters long. What is its length rounded to the nearest ten centimeters?",
+           "options": {
+               "A": "$100$ centimeters",
+       "B": "$110$ centimeters",
+       "C": "$120$ centimeters",
+       "D": "$130$ centimeters",
+       "E": "$140$ centimeters"
+   },
+   "answer": "B"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "What is $943$ in expanded form?",
+           "options": {
+               "A": "$900 + 40 + 3$",
+               "B": "$900 + 30 + 13$",
+               "C": "$900 + 50 + 3$",
+               "D": "$800 + 100 + 43$",
+               "E": "$1000 + 40 + 3$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "The Library of Ashurbanipal contained approximately $30,000$ clay tablets. If each tablet has $50$ lines, and each line contains $5$ pieces of information, how many pieces of information are there in total? Show your work and justify your answer.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "A historical site contains an artifact with an inscription that reads $1245$. If this represents a count of items, and you need to round this number to the nearest hundred, what is the result? Explain the reasoning behind your answer, including how place value is used to determine the rounded number.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Emphasize the importance of understanding place value in multi-digit numbers.",
+       "Remind students that rounding numbers involves looking at the digit immediately to the right of the place to which they are rounding.",
+       "Encourage students to use real-world examples from history to help illustrate mathematical concepts."
+   ],
+   "footer": "Chef's Tips"
+}

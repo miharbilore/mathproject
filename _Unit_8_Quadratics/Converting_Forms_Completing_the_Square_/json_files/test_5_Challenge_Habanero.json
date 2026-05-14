@@ -1,0 +1,129 @@
+{
+  "unit": "\u1F4D6 Unit 8: Quadratics",
+   "topic": "Converting Forms (Completing the Square)",
+   "test_type": "Challenge (Habanero)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "The $x^2 + 8x + 12$ equation represents the population of rabbits in a forest. Convert this to vertex form.",
+           "options": {
+               "A": "$y = (x + 4)^2 - 4$",
+               "B": "$y = (x + 4)^2 + 4$",
+               "C": "$y = (x + 3)^2 - 3$",
+               "D": "$y = (x + 6)^2 - 6$",
+               "E": "$y = (x - 4)^2 + 4$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "Complete the square for $x^2 + 5x$ to find the vertex form.",
+           "options": {
+               "A": "$y = (x + \frac{5}{2})^2 - \frac{25}{4}$",
+               "B": "$y = (x - \frac{5}{2})^2 + \frac{25}{4}$",
+               "C": "$y = (x + 2)^2 - 1$",
+               "D": "$y = (x - \frac{5}{2})^2 - \frac{25}{4}$",
+               "E": "$y = (x + \frac{5}{2})^2 + \frac{25}{4}$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "A hiker's distance $d$ from the campsite after $t$ hours is $d = t^2 - 6t + 5$. Rewrite this equation in vertex form.",
+           "options": {
+       "A": "$d = (t - 3)^2 - 4$",
+       "B": "$d = (t + 3)^2 + 4$",
+       "C": "$d = (t - 2)^2 - 1$",
+       "D": "$d = (t + 2)^2 - 1$",
+       "E": "$d = (t - 4)^2 + 5$"
+   },
+   "answer": "A"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "The cost $C$ of transporting $x$ kilograms of cargo is $C = x^2 + 4x + 4$. Rewrite this equation in vertex form.",
+           "options": {
+       "A": "$C = (x + 2)^2$",
+       "B": "$C = (x - 2)^2$",
+       "C": "$C = (x + 1)^2 + 3$",
+       "D": "$C = (x + 3)^2 - 2$",
+       "E": "$C = (x - 1)^2 + 1$"
+   },
+   "answer": "A"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "The area of a plot of land is given by $A = x^2 + 2x - 6$. Convert this to vertex form.",
+           "options": {
+       "A": "$A = (x + 1)^2 - 7$",
+       "B": "$A = (x - 1)^2 + 7$",
+       "C": "$A = (x + 2)^2 - 2$",
+       "D": "$A = (x - 2)^2 + 2$",
+       "E": "$A = (x + 3)^2 - 3$"
+   },
+   "answer": "A"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "Complete the square for $x^2 - 3x - 2$ to find the vertex form.",
+           "options": {
+       "A": "$y = (x - \frac{3}{2})^2 - \frac{17}{4}$",
+       "B": "$y = (x + \frac{3}{2})^2 + \frac{17}{4}$",
+       "C": "$y = (x - 2)^2 + 1$",
+       "D": "$y = (x + 2)^2 - 1$",
+       "E": "$y = (x - \frac{3}{2})^2 + \frac{17}{4}$"
+   },
+   "answer": "A"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "A fuel consumption model is given by $F = x^2 - 4x + 3$. Rewrite this equation in vertex form.",
+           "options": {
+       "A": "$F = (x - 2)^2 - 1$",
+       "B": "$F = (x + 2)^2 + 1$",
+       "C": "$F = (x - 1)^2 + 2$",
+       "D": "$F = (x + 1)^2 - 2$",
+       "E": "$F = (x - 3)^2 + 3$"
+   },
+   "answer": "A"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "Complete the square for $x^2 + 2x - 1$ to find the vertex form.",
+           "options": {
+       "A": "$y = (x + 1)^2 - 2$",
+       "B": "$y = (x - 1)^2 + 2$",
+       "C": "$y = (x + 2)^2 - 1$",
+       "D": "$y = (x - 2)^2 + 1$",
+       "E": "$y = (x + 1)^2 + 2$"
+   },
+   "answer": "A"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "A park ranger wants to create a rectangular trail with an area of $A = x^2 + 5x + 6$. Convert this equation into vertex form and interpret the results in the context of the trail's dimensions.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "The population $P$ of a certain species of bird is modeled by the equation $P = t^2 - 8t + 12$, where $t$ is the number of years. Rewrite this equation in vertex form and describe the significance of the vertex in this context.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Emphasize the importance of completing the square for vertex form conversion.",
+       "Use real-world examples to illustrate the relevance of vertex form in modeling.",
+       "Encourage students to interpret the results of vertex form conversion in context."
+   ],
+   "footer": "Chef's Tips"
+}

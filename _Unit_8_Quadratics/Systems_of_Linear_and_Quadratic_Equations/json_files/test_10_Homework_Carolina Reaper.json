@@ -1,0 +1,129 @@
+{
+  "unit": "\u1f4d6 Unit 8: Quadratics",
+   "topic": "Systems of Linear and Quadratic Equations",
+   "test_type": "Homework (Carolina Reaper)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "A musician is mixing two audio signals. The frequency of the first signal is given by $x^2 + 3x - 2$, and the frequency of the second signal is given by $2x + 1$. What is the intersection point of these two frequencies?",
+           "options": {
+               "A": "$x = -2$",
+               "B": "$x = 1$",
+               "C": "$x = -1$",
+               "D": "$x = 2$",
+               "E": "$x = 0$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "An artist is creating a painting with a quadratic shape. The dimensions of the shape are given by $x^2 - 4x + 3 = 0$ and $y = 2x - 1$. What are the coordinates of the vertex of the quadratic shape?",
+           "options": {
+               "A": "$(1, 1)$",
+               "B": "$(2, 3)$",
+               "C": "$(3, 5)$",
+               "D": "$(4, 7)$",
+               "E": "$(5, 9)$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "A guitarist is playing a rhythm pattern with a quadratic equation $x^2 + 2x - 6 = 0$. What is the $x$-intercept of this equation?",
+           "options": {
+       "A": "$x = -3$",
+       "B": "$x = -1$",
+       "C": "$x = 1$",
+       "D": "$x = 2$",
+       "E": "$x = 3$"
+   },
+   "answer": "E"
+},
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "A music producer is working with a quadratic function $y = x^2 - 4x + 4$. What is the axis of symmetry of this function?",
+           "options": {
+               "A": "$x = -2$",
+               "B": "$x = -1$",
+               "C": "$x = 0$",
+               "D": "$x = 1$",
+               "E": "$x = 2$"
+           },
+           "answer": "E"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "A drummer is playing a rhythm with a linear equation $y = 2x + 1$ and a quadratic equation $y = x^2 - 2x - 3$. What is the point of intersection of these two equations?",
+           "options": {
+               "A": "$(1, 3)$",
+               "B": "$(2, 5)$",
+               "C": "$(3, 7)$",
+               "D": "$(4, 9)$",
+               "E": "$(5, 11)$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "A composer is working with a system of equations: $x^2 + 2y = 4$ and $2x - y = -3$. What is the solution to this system?",
+           "options": {
+               "A": "$(1, 1)$",
+               "B": "$(2, 2)$",
+               "C": "$(3, 3)$",
+               "D": "$(4, 4)$",
+               "E": "$(5, 5)$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "A pianist is playing a melody with a quadratic equation $x^2 - 3x - 2 = 0$. What is the $y$-intercept of this equation?",
+           "options": {
+               "A": "$y = -2$",
+               "B": "$y = -1$",
+               "C": "$y = 0$",
+               "D": "$y = 1$",
+               "E": "$y = 2$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "A music therapist is working with a client who is creating a song with a quadratic equation $y = x^2 + 2x - 3$. What is the vertex of this equation?",
+           "options": {
+               "A": "$(-1, -4)$",
+               "B": "$(-2, -3)$",
+               "C": "$(-3, -2)$",
+               "D": "$(-4, -1)$",
+               "E": "$(-5, 0)$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "A painter is creating a mural with a quadratic shape. The dimensions of the shape are given by $x^2 - 5x + 6 = 0$ and $y = 3x - 2$. Find the coordinates of the vertex of the quadratic shape and explain the significance of the vertex in the context of the mural.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "A music producer is working with a system of equations: $x^2 + 4y = 8$ and $3x - 2y = 5$. Solve the system and interpret the solution in the context of music production. Be sure to explain the significance of the intersection point.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Tip 1: Encourage students to use graphing calculators to visualize the quadratic equations.",
+       "Tip 2: Remind students to check their work by plugging their solutions back into the original equations.",
+       "Tip 3: Emphasize the importance of interpreting the intersection points in the context of the given scenarios."
+   ],
+   "footer": "Chef's Tips"
+}

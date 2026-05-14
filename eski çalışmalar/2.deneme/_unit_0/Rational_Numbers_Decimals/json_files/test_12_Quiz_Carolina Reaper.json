@@ -1,0 +1,129 @@
+{
+  "unit": "Unit 0: Foundations of Algebra",
+   "topic": "Rational Numbers & Decimals",
+   "test_type": "Quiz (Carolina Reaper)",
+   "questions": [
+      { 
+         "id": 1, 
+         "type": "MQ", 
+         "question": "A cargo ship travels $\\frac{3}{4}$ of the distance to its destination in $\\frac{2}{3}$ of the total time. What fraction of the total distance does it cover in the remaining $\\frac{1}{3}$ of the time?", 
+         "options": { 
+            "A": "$\\frac{1}{12}$", 
+            "B": "$\\frac{1}{6}$", 
+            "C": "$\\frac{1}{4}$", 
+            "D": "$\\frac{1}{3}$", 
+            "E": "$\\frac{1}{2}$" 
+         }, 
+         "answer": "B" 
+      },
+      { 
+         "id": 2, 
+         "type": "MQ", 
+         "question": "A traffic flow model predicts that $\\frac{2}{5}$ of the drivers will take a detour, while $\\frac{1}{10}$ will take the main road. What percent of drivers will take the main road?", 
+         "options": { 
+            "A": "10%", 
+            "B": "15%", 
+            "C": "20%", 
+            "D": "25%", 
+            "E": "30%" 
+         }, 
+         "answer": "C" 
+      },
+      { 
+         "id": 3, 
+         "type": "MQ", 
+         "question": "A delivery truck travels $2.5$ miles in $\\frac{1}{2}$ hour. What is its average speed in miles per hour?", 
+         "options": { 
+            "A": "3 mph", 
+            "B": "4 mph", 
+            "C": "5 mph", 
+            "D": "6 mph", 
+            "E": "8 mph" 
+         }, 
+         "answer": "C" 
+      },
+      { 
+         "id": 4, 
+         "type": "MQ", 
+         "question": "A logistics company has $\\frac{3}{8}$ of its fleet of trucks currently in use. If $\\frac{1}{4}$ of the fleet is being serviced, what fraction of the fleet is available for new shipments?", 
+         "options": { 
+            "A": "$\\frac{1}{8}$", 
+            "B": "$\\frac{1}{4}$", 
+            "C": "$\\frac{3}{8}$", 
+            "D": "$\\frac{1}{2}$", 
+            "E": "$\\frac{5}{8}$" 
+         }, 
+         "answer": "E" 
+      },
+      { 
+         "id": 5, 
+         "type": "MQ", 
+         "question": "A toll road has a $\\frac{3}{5}$ chance of being congested during rush hour. What is the probability that it will not be congested?", 
+         "options": { 
+            "A": "$\\frac{1}{5}$", 
+            "B": "$\\frac{2}{5}$", 
+            "C": "$\\frac{3}{5}$", 
+            "D": "$\\frac{4}{5}$", 
+            "E": "$\\frac{6}{5}$" 
+         }, 
+         "answer": "B" 
+      },
+      { 
+         "id": 6, 
+         "type": "MQ", 
+         "question": "An airport has $\\frac{2}{3}$ of its flights departing on time. If $\\frac{1}{6}$ of the flights are delayed, what fraction of flights are cancelled?", 
+         "options": { 
+            "A": "$\\frac{1}{6}$", 
+            "B": "$\\frac{1}{4}$", 
+            "C": "$\\frac{1}{3}$", 
+            "D": "$\\frac{2}{3}$", 
+            "E": "$\\frac{3}{4}$" 
+         }, 
+         "answer": "A" 
+      },
+      { 
+         "id": 7, 
+         "type": "MQ", 
+         "question": "A transportation company has a $\\frac{3}{4}$ full tank of gas. If $\\frac{1}{8}$ of the tank is used for a delivery, what fraction of the tank is left?", 
+         "options": { 
+            "A": "$\\frac{1}{8}$", 
+            "B": "$\\frac{1}{4}$", 
+            "C": "$\\frac{3}{8}$", 
+            "D": "$\\frac{1}{2}$", 
+            "E": "$\\frac{5}{8}$" 
+         }, 
+         "answer": "E" 
+      },
+      { 
+         "id": 8, 
+         "type": "MQ", 
+         "question": "A ship travels $2$ miles in $\\frac{1}{4}$ hour. What is its average speed in miles per hour?", 
+         "options": { 
+            "A": "4 mph", 
+            "B": "6 mph", 
+            "C": "8 mph", 
+            "D": "10 mph", 
+            "E": "12 mph" 
+         }, 
+         "answer": "C" 
+      },
+      { 
+         "id": 9, 
+         "type": "FRQ", 
+         "question": "A delivery company has two routes: Route A is $\\frac{3}{5}$ of the total distance and takes $\\frac{2}{3}$ of the total time, while Route B is $\\frac{2}{5}$ of the total distance and takes $\\frac{1}{3}$ of the total time. Compare the average speeds of the two routes and explain your reasoning.", 
+         "required_space_lines": 5 
+      },
+      { 
+         "id": 10, 
+         "type": "FRQ", 
+         "question": "A logistics company uses a rational number $x$ to represent the ratio of the number of packages delivered to the number of packages shipped. If $x = \\frac{a}{b}$, where $a$ and $b$ are integers, and the company delivers $\\frac{3}{4}$ of its shipments, what is the value of $x$? Explain your reasoning and show all work.", 
+         "required_space_lines": 5 
+      }
+   ],
+   "teacher_rules": [
+      "Read each question carefully before answering.",
+      "Show all work and explain your reasoning for free response questions.",
+      "Use a calculator only when necessary and be sure to show all work."
+   ],
+   "footer": "Chef's Tips"
+}

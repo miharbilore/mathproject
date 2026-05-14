@@ -1,0 +1,150 @@
+{
+  "test_id": 9,
+   "test_type": "Homework 1",
+   "topic": "Variables and Expressions / Order of Operations",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "What is the variable in the expression $2x$?",
+           "options": {
+               "A": "2",
+               "B": "x",
+               "C": "2x",
+               "D": "+",
+               "E": "None of the above"
+           },
+           "answer": "B",
+           "spicy_level": "",
+           "required_space_lines": 0
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "Identify the constant term in $3y + 2$.",
+           "options": {
+               "A": "3y",
+               "B": "2",
+               "C": "+",
+               "D": "3",
+               "E": "$3y + 2$"
+           },
+           "answer": "B",
+           "spicy_level": "",
+           "required_space_lines": 0
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "What operation does the symbol $+$ represent in $4 + 5$?",
+           "options": {
+               "A": "Subtraction",
+               "B": "Addition",
+               "C": "Multiplication",
+               "D": "Division",
+               "E": "None of the above"
+           },
+           "answer": "B",
+           "spicy_level": "",
+           "required_space_lines": 0
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "What is the coefficient of $x$ in $-2x$?",
+           "options": {
+               "A": "$-2$",
+               "B": "$x$",
+               "C": "$2x$",
+               "D": "$-x$",
+               "E": "$2$"
+           },
+           "answer": "A",
+           "spicy_level": "",
+           "required_space_lines": 0
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "Which part of the expression $4x - 3$ is the term with the variable?",
+           "options": {
+               "A": "$4x$",
+               "B": "$-3$",
+               "C": "$4$",
+               "D": "$x$",
+               "E": "$-$"
+           },
+           "answer": "A",
+           "spicy_level": "",
+           "required_space_lines": 0
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "What does the term $3 cdot 2$ represent in terms of operations?",
+           "options": {
+               "A": "Addition",
+               "B": "Subtraction",
+               "C": "Multiplication",
+               "D": "Division",
+               "E": "None of the above"
+           },
+           "answer": "C",
+           "spicy_level": "",
+           "required_space_lines": 0
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "Identify the expression that shows $3$ added to $x$.",
+           "options": {
+               "A": "$x + 3$",
+               "B": "$x - 3$",
+               "C": "$3x$",
+               "D": "$3 - x$",
+               "E": "$x cdot 3$"
+           },
+           "answer": "A",
+           "spicy_level": "",
+           "required_space_lines": 0
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "What is the order of operations represented by PEMDAS?",
+           "options": {
+               "A": "Parentheses, Exponents, Multiplication and Division, and Addition and Subtraction",
+               "B": "Parentheses, Multiplication and Division, Exponents, and Addition and Subtraction",
+               "C": "Parentheses, Addition and Subtraction, Exponents, and Multiplication and Division",
+               "D": "Parentheses, Exponents, Addition and Subtraction, and Multiplication and Division",
+               "E": "None of the above"
+           },
+           "answer": "A",
+           "spicy_level": "",
+           "required_space_lines": 0
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "Draw a simple algebraic expression that represents the phrase '5 more than $x$'. Explain what each part of your expression represents.",
+           "options": {},
+           "answer": "See model solution: $x + 5$. The $x$ represents the variable, and $+5$ represents '5 more than'.",
+           "spicy_level": "",
+           "required_space_lines": 3
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "Explain in your own words the difference between a constant and a variable in an algebraic expression. Provide a simple example of each.",
+           "options": {},
+           "answer": "See model solution: A constant is a number that does not change, while a variable is a letter that represents a value that can change. Example: In $2x + 3$, $3$ is a constant, and $x$ is a variable.",
+           "spicy_level": "",
+           "required_space_lines": 3
+       }
+   ],
+   "teacher_rules": [
+       "Ensure students understand that variables are letters that represent unknown or changing values.",
+       "Constant terms are numbers without variables, and coefficients are numbers multiplied by variables.",
+       "Students should be able to identify and explain basic operators such as $+$, $-$, $cdot$, and $div$ in simple expressions."
+   ]
+}

@@ -1,0 +1,129 @@
+{
+  "unit": "\u1f4d6 Unit 6: Systems of Linear Equations and Inequalities",
+   "topic": "Systems of Linear Inequalities by Graphing",
+   "test_type": "Advanced (Carolina Reaper)",
+   "questions": [
+     {
+       "id": 1,
+       "type": "MQ",
+       "question": "Graph the system of inequalities: $x + y geq 2$ and $x - y leq 1$. What is the shape of the solution region?",
+       "options": {
+         "A": "Triangle",
+         "B": "Quadrilateral",
+         "C": "Pentagon",
+         "D": "Circle",
+         "E": "Parallelogram"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 2,
+       "type": "MQ",
+       "question": "A book costs $$15$ and a pen costs $$5$. Graph the system of inequalities representing the total cost of buying $x$ books and $y$ pens, given that the total budget is $$50$.",
+       "options": {
+         "A": "$x + y leq 10$",
+         "B": "$15x + 5y leq 50$",
+         "C": "$x - y geq 5$",
+         "D": "$3x + 2y geq 20$",
+         "E": "$2x - y leq 10$"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 3,
+       "type": "MQ",
+       "question": "A company produces two types of products: $x$ and $y$. The profit from $x$ is $$20$ per unit and from $y$ is $$15$ per unit. The graph of the system of inequalities representing the total profit is",
+       "options": {
+         "A": "$20x + 15y geq 100$",
+         "B": "$15x + 20y leq 50$",
+         "C": "$x + y leq 10$",
+         "D": "$2x - y geq 5$",
+         "E": "$3x + 2y geq 20$"
+       },
+       "answer": "A"
+     },
+     {
+       "id": 4,
+       "type": "MQ",
+       "question": "Tom has $$25$ to spend on video games and snacks. Video games cost $$10$ each and snacks cost $$5$ each. Graph the system of inequalities representing the total cost of buying $x$ video games and $y$ snacks.",
+       "options": {
+         "A": "$10x + 5y leq 25$",
+         "B": "$5x + 10y geq 20$",
+         "C": "$2x - y leq 10$",
+         "D": "$x + y geq 5$",
+         "E": "$3x + 2y leq 15$"
+       },
+       "answer": "A"
+     },
+     {
+       "id": 5,
+       "type": "MQ",
+       "question": "A bakery sells two types of cakes: $x$ and $y$. The system of inequalities representing the total number of cakes sold is $x + y leq 20$ and $x - y geq 5$. What is the minimum number of cakes sold?",
+       "options": {
+         "A": "5",
+         "B": "10",
+         "C": "15",
+         "D": "20",
+         "E": "25"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 6,
+       "type": "MQ",
+       "question": "A student has 12 hours to study for two exams. The system of inequalities representing the time spent studying for each exam is $x + y leq 12$ and $x - y geq 2$. What is the maximum time spent studying for the first exam?",
+       "options": {
+         "A": "5 hours",
+         "B": "6 hours",
+         "C": "7 hours",
+         "D": "8 hours",
+         "E": "9 hours"
+       },
+       "answer": "D"
+     },
+     {
+       "id": 7,
+       "type": "MQ",
+       "question": "A store sells two types of shirts: $x$ and $y$. The profit from $x$ is $$10$ per unit and from $y$ is $$8$ per unit. The system of inequalities representing the total profit is $10x + 8y geq 50$ and $x - y leq 5$. What is the minimum profit?",
+       "options": {
+         "A": "$$50$",
+         "B": "$$60$",
+         "C": "$$70$",
+         "D": "$$80$",
+         "E": "$$90$"
+       },
+       "answer": "A"
+     },
+     {
+       "id": 8,
+       "type": "MQ",
+       "question": "A company produces two types of products: $x$ and $y$. The cost of producing $x$ is $$5$ per unit and the cost of producing $y$ is $$3$ per unit. The system of inequalities representing the total cost is $5x + 3y leq 50$ and $x + y geq 10$. What is the minimum cost?",
+       "options": {
+         "A": "$$30$",
+         "B": "$$35$",
+         "C": "$$40$",
+         "D": "$$45$",
+         "E": "$$50$"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 9,
+       "type": "FRQ",
+       "question": "Graph the system of inequalities: $2x + y geq 4$ and $x - 2y leq 3$. Identify the overlapping solution region and interpret the feasible region.",
+       "required_space_lines": 5
+     },
+     {
+       "id": 10,
+       "type": "FRQ",
+       "question": "A student has 15 hours to study for three exams. The system of inequalities representing the time spent studying for each exam is $x + y + z leq 15$ and $x - y geq 2$ and $y - z leq 3$. Graph the system and identify the minimum time spent studying for the first exam.",
+       "required_space_lines": 5
+     }
+   ],
+   "teacher_rules": [
+     "Tip 1: Ensure students understand the concept of graphing multiple inequalities on the same coordinate plane.",
+     "Tip 2: Emphasize the importance of identifying overlapping solution regions and interpreting feasible regions.",
+     "Tip 3: Encourage students to use real-life scenarios to understand the application of systems of linear inequalities."
+   ],
+   "footer_title": "Chef's Tips"
+ }

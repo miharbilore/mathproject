@@ -1,0 +1,129 @@
+{
+  "unit": "\u1f4d6 Unit 8: Quadratics",
+   "topic": "Definition of Quadratics and Standard Form",
+   "test_type": "Foundation (Jalapeno)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "What is the standard form of a quadratic function?",
+           "options": {
+               "A": "$ax^2 + bx + c$",
+               "B": "$ax + bx^2 + c$",
+               "C": "$ax^2 - bx + c$",
+               "D": "$ax^3 + bx^2 + c$",
+               "E": "$ax^2 + b$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "A stock's price is modeled by the function $f(x) = 2x^2 - 5x + 3$. What type of function is this?",
+           "options": {
+               "A": "Linear",
+               "B": "Quadratic",
+               "C": "Cubic",
+               "D": "Exponential",
+               "E": "Trigonometric"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "The function $f(x) = x^2 - 4x + 4$ can be written in the form $f(x) = a(x - h)^2 + k$. What is the value of $a$?",
+           "options": {
+               "A": "1",
+               "B": "2",
+               "C": "3",
+               "D": "4",
+               "E": "5"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "A company's profit is modeled by the function $f(x) = -x^2 + 10x - 20$. What is the vertex of the parabola?",
+           "options": {
+               "A": "(0, -20)",
+               "B": "(5, 5)",
+               "C": "(10, 0)",
+               "D": "(5, 15)",
+               "E": "(0, 0)"
+           },
+           "answer": "D"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "The function $f(x) = 3x^2 + 2x - 1$ has a key feature of",
+           "options": {
+               "A": "A maximum value",
+               "B": "A minimum value",
+               "C": "A zero value",
+               "D": "A vertical asymptote",
+               "E": "A horizontal asymptote"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "A quadratic function $f(x) = ax^2 + bx + c$ has $a = 2$, $b = -5$, and $c = 1$. What is the equation of the function?",
+           "options": {
+               "A": "$f(x) = 2x^2 + 5x + 1$",
+               "B": "$f(x) = 2x^2 - 5x + 1$",
+               "C": "$f(x) = 2x^2 + 5x - 1$",
+               "D": "$f(x) = x^2 - 5x + 1$",
+               "E": "$f(x) = x^2 + 5x + 1$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "A savings account earns interest according to the function $f(x) = 0.05x^2 + 10x + 100$. What type of function models the interest?",
+           "options": {
+               "A": "Linear",
+               "B": "Quadratic",
+               "C": "Exponential",
+               "D": "Logarithmic",
+               "E": "Trigonometric"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "The graph of $f(x) = x^2 - 2x - 3$ opens",
+           "options": {
+               "A": "Upward",
+               "B": "Downward",
+               "C": "Leftward",
+               "D": "Rightward",
+               "E": "Neither upward nor downward"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "Describe the key features of the quadratic function $f(x) = -2x^2 + 4x + 1$. Provide examples of how the function could be used in a business context.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "Write a quadratic function in standard form that models a company's profit based on the number of products sold. Assume the profit is $100 when 10 products are sold and $150 when 15 products are sold. Show your work and explain your reasoning.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Emphasize the importance of identifying the standard form of a quadratic function",
+       "Provide examples of how quadratic functions can be used in real-world business contexts",
+       "Encourage students to analyze and describe the key features of quadratic functions"
+   ],
+   "footer": "Chef's Tips"
+}

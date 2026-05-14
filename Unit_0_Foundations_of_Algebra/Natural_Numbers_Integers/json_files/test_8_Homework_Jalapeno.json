@@ -1,0 +1,129 @@
+{
+  "unit": "Unit 0: Foundations of Algebra",
+   "topic": "Natural Numbers & Integers",
+   "test_type": "Homework (Jalapeno)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "The ancient Babylonians used a sexagesimal (base 60) number system. If they had $5$ groups of $12$ and $8$ individual units, what number would they represent in base 10?",
+           "options": {
+               "A": "$5 \\cdot 12 + 8 = 68$",
+               "B": "$5 \\cdot 12 - 8 = 52$",
+               "C": "$12 \\cdot 8 + 5 = 101$",
+               "D": "$5 + 12 + 8 = 25$",
+               "E": "$5 \\cdot 8 + 12 = 52$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "The Mayan civilization used a vigesimal (base 20) number system. Which number in base 10 is equivalent to $3 \\cdot 20^2 + 4 \\cdot 20 + 5$?",
+           "options": {
+               "A": "$1205$",
+               "B": "$1220$",
+               "C": "$1249$",
+               "D": "$1225$",
+               "E": "$1200$"
+           },
+           "answer": "D"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "Identify the pattern in the sequence: $2, 5, 8, 11, 14, ...$",
+           "options": {
+               "A": "Add $3$ each time",
+               "B": "Add $2$ then $3$ alternately",
+               "C": "Add $1$ then $4$ alternately",
+               "D": "Add $4$ then $1$ alternately",
+               "E": "Add $6$ then $2$ alternately"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "Ancient Egyptians used fractions to represent parts of a whole. What is the value of $-\\frac{3}{4} + \\frac{2}{4}$?",
+           "options": {
+               "A": "$-\\frac{1}{4}$",
+               "B": "$\\frac{1}{4}$",
+               "C": "$-\\frac{2}{4}$",
+               "D": "$\\frac{2}{4}$",
+               "E": "$-\\frac{3}{2}$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "Classify $-11$ as a(n) _______ number.",
+           "options": {
+               "A": "Natural number",
+               "B": "Whole number",
+               "C": "Integer",
+               "D": "Rational number",
+               "E": "Irrational number"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "The ancient Greek mathematician Diophantus studied equations with integers. Evaluate $-3 \\cdot -4$.",
+           "options": {
+               "A": "$-12$",
+               "B": "$12$",
+               "C": "$-3 + 4 = 1$",
+               "D": "$3 + 4 = 7$",
+               "E": "$3 - 4 = -1$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "The Roman Numeral system uses VII to represent $7$. Identify the next odd number after $7$.",
+           "options": {
+       "A": "$5$",
+       "B": "$9$",
+       "C": "$11$",
+       "D": "$13$",
+       "E": "$15$"
+   },
+   "answer": "B"
+},
+{
+   "id": 8,
+   "type": "MQ",
+   "question": "An archaeologist discovered an ancient artifact with the number $-2$ inscribed on it. If she found $5$ more artifacts with the same number, what would be the total value?",
+   "options": {
+       "A": "$-10$",
+       "B": "$-7$",
+       "C": "$3$",
+       "D": "$-2$",
+       "E": "$-12$"
+   },
+   "answer": "A"
+},
+{
+   "id": 9,
+   "type": "FRQ",
+   "question": "The Great Pyramid of Giza is approximately $146.5$ meters tall. If it was built in $20$ years, and each year the pyramid grew by a certain number of meters, find this number.",
+   "required_space_lines": 5
+},
+{
+   "id": 10,
+   "type": "FRQ",
+   "question": "A time capsule buried in $2000$ is to be opened in $2060$. How many years will it take for the capsule to be opened after it was buried, assuming the time is counted from $2000$ as year $0$?",
+   "required_space_lines": 5
+}
+   ],
+   "teacher_rules": [
+       "Check for accurate calculations and correct units.",
+       "Ensure all work is shown for free response questions.",
+       "Be mindful of sign errors when working with negative integers."
+   ],
+   "footer": "Chef's Tips"
+}

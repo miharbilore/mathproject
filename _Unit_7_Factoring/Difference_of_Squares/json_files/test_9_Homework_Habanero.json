@@ -1,0 +1,124 @@
+{
+  "unit": "\u1F4D6 Unit 7: Factoring",
+   "topic": "Difference of Squares",
+   "test_type": "Homework (Habanero)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "Factor $x^2 - 4$",
+           "options": {
+               "A": "$x^2 - 2^2$",
+               "B": "$(x-2)(x+2)$",
+               "C": "$x(x-4)$",
+               "D": "$x^2 - 2x + 4$",
+               "E": "$2(x^2-2)$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "The area of a cell culture is given by $A = 9t^2 - 4t^2$. Factor the expression for $A$",
+           "options": {
+               "A": "$5t^2$",
+               "B": "$5t^4$",
+               "C": "$5t^2(1+t^2)$",
+               "D": "$(3t-2t)(3t+2t)$",
+               "E": "$5t^2(1-t^2)$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "The difference of squares of the lengths of the sides of a microscopic image are given by $64x^2 - 36x^2$. Factor the expression",
+           "options": {
+               "A": "$(8x-6x)(8x+6x)$",
+               "B": "$28x^2$",
+               "C": "$28x^4$",
+       "D": "$2x^2(32-18)$",
+       "E": "$2x(8x-6x)(8x+6x)$"
+   },
+           "answer": "B"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "The amount of bacteria present in a hospital ward after applying a new sanitation method is modeled by $B = 25t^2 - 9t^2$. Factor the expression for $B$",
+           "options": {
+               "A": "16t^4",
+       "B": "$t(25-9t)$",
+       "C": "$4(25t^2 - 9t^2)$",
+       "D": "16t^2",
+       "E": "$t^2(25-9)$"
+   },
+           "answer": "D"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "The square of the speed of a pharmaceutical delivery truck is given by $s^2 - 36$. Factor the expression",
+           "options": {
+               "A": "$3s(s-4)$",
+       "B": "$(s-6)(s+6)$",
+       "C": "36(s^2-1)$",
+       "D": "$s(s-6)$",
+       "E": "$s(s+6)$"
+   },
+           "answer": "B"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "The expression $121x^2 - 25x^2$ represents the difference of squares. Factor the expression",
+           "options": {
+       "A": "$x(11x-5x)(11x+5x)$",
+       "B": "$x^2(121-25)$",
+       "C": "$96x^2$",
+       "D": "$x(121-25)$",
+       "E": "$96x^2(1+x)$"
+   },
+           "answer": "C"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "The difference of squares of the growth rate of cancer cells are given by $r^2 - 9r^2$. Factor the expression",
+           "options": {
+       "A": "$-8r^2$",
+       "B": "$r^2(r-3)$",
+       "C": "$8r(r+1)$",
+       "D": "$8r^2(r-1)$",
+       "E": "$-8r^2(r+3r)$"
+   },
+           "answer": "A"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "The area of a medical testing lab is given by $49m^2 - 16m^2$. Factor the expression for the area",
+           "options": {
+       "A": "33m^2",
+       "B": "65m^2",
+       "C": "$m^2(49-16)$",
+       "D": "$33m(m-4)$",
+       "E": "$(7m-4m)(7m+4m)$"
+   },
+           "answer": "A"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "The population growth of a new species of bacteria can be modeled by the equation $P = 16t^2 - 9t^2$. Factor the expression and explain its significance in the context of population growth.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "A hospital is planning to expand its emergency ward. The area of the new ward is given by $A = 25x^2 - 16x^2$, where $x$ is the length of the side of the ward. Factor the expression for $A$ and calculate the area if $x = 4$ meters.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": ["Provide clear instructions", "Encourage critical thinking", "Remind students to check units of measurement"]
+}

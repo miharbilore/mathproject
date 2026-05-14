@@ -1,0 +1,128 @@
+{
+  "unit": "Unit 0: Foundations of Algebra",
+   "topic": "Equations",
+   "test_type": "Homework (Jalapeno)",
+   "questions": [
+     { 
+       "id": 1, 
+       "type": "MQ", 
+       "question": "Solve for $x$: $x + 2 = 7$",
+       "options": {
+         "A": "$x = 5$",
+         "B": "$x = 3$",
+         "C": "$x = 9$",
+         "D": "$x = 1$",
+         "E": "$x = 6$"
+       },
+       "answer": "A"
+     },
+     { 
+       "id": 2, 
+       "type": "MQ", 
+       "question": "In ancient Egypt, a slab of stone weighed $15$ pounds. If $3$ pounds of stone were removed, what is the weight $w$ of the remaining slab?",
+       "options": {
+         "A": "$w = 12$ pounds",
+         "B": "$w = 15$ pounds",
+         "C": "$w = 18$ pounds",
+         "D": "$w = 20$ pounds",
+         "E": "$w = 10$ pounds"
+       },
+       "answer": "A"
+     },
+     { 
+       "id": 3, 
+       "type": "MQ", 
+       "question": "Solve for $y$: $y - 4 = 11$",
+       "options": {
+         "A": "$y = 7$",
+         "B": "$y = 15$",
+         "C": "$y = 20$",
+         "D": "$y = 12$",
+         "E": "$y = 9$"
+       },
+       "answer": "D"
+     },
+     { 
+       "id": 4, 
+       "type": "MQ", 
+       "question": "A math artifact from the Mayan civilization has $2x + 5 = 11$. What is $x$?",
+       "options": {
+         "A": "$x = 2$",
+         "B": "$x = 3$",
+         "C": "$x = 1$",
+         "D": "$x = 4$",
+         "E": "$x = 6$"
+       },
+       "answer": "B"
+     },
+     { 
+       "id": 5, 
+       "type": "MQ", 
+       "question": "In the time of the pyramids, $4x = 28$. Solve for $x$.",
+       "options": {
+         "A": "$x = 6$",
+         "B": "$x = 7$",
+         "C": "$x = 5$",
+         "D": "$x = 8$",
+         "E": "$x = 4$"
+       },
+       "answer": "C"
+     },
+     { 
+       "id": 6, 
+       "type": "MQ", 
+       "question": "Solve the equation $x/2 + 3 = 5$ for $x$.",
+       "options": {
+         "A": "$x = 2$",
+         "B": "$x = 4$",
+         "C": "$x = 6$",
+         "D": "$x = 8$",
+         "E": "$x = 10$"
+       },
+       "answer": "C"
+     },
+     { 
+       "id": 7, 
+       "type": "MQ", 
+       "question": "A historian found an ancient scroll with the equation $x - 2 = 9$. Solve for $x$.",
+       "options": {
+         "A": "$x = 7$",
+         "B": "$x = 11$",
+         "C": "$x = 10$",
+         "D": "$x = 12$",
+         "E": "$x = 8$"
+       },
+       "answer": "B"
+     },
+     { 
+       "id": 8, 
+       "type": "MQ", 
+       "question": "In a museum, an artifact has the equation $3x = 24$. What is $x$?",
+       "options": {
+         "A": "$x = 6$",
+         "B": "$x = 7$",
+         "C": "$x = 8$",
+         "D": "$x = 9$",
+         "E": "$x = 10$"
+       },
+       "answer": "C"
+     },
+     { 
+       "id": 9, 
+       "type": "FRQ", 
+       "question": "Solve the equation $2x + 5 = 11$ and check your solution. Provide all steps.",
+       "required_space_lines": 5
+     },
+     { 
+       "id": 10, 
+       "type": "FRQ", 
+       "question": "The ancient Babylonians used the equation $x/4 = 9$ to solve for $x$. Solve this equation and explain how you checked your solution.",
+       "required_space_lines": 5
+     }
+   ],
+   "teacher_rules": [
+     "Chef's Tips: Provide clear work and explanations for free response questions.",
+     "Ensure all equations are properly solved and checked.",
+     "Use historical contexts to make word problems more engaging."
+   ]
+ }

@@ -1,0 +1,129 @@
+{
+  "unit": "Unit 0: Foundations of Algebra",
+   "topic": "Rational Numbers & Decimals",
+   "test_type": "Homework (Jalapeno)",
+   "questions": [
+      {
+         "id": 1,
+         "type": "MQ",
+         "question": "In ancient Babylon, a farmer used $\\frac{3}{4}$ of his land for wheat. What decimal represents this fraction?",
+         "options": {
+            "A": "0.25",
+            "B": "0.5",
+            "C": "0.75",
+            "D": "0.9",
+            "E": "1.0"
+         },
+         "answer": "C"
+      },
+      {
+         "id": 2,
+         "type": "MQ",
+         "question": "The Great Pyramid of Giza's original height is estimated to be $146.5$ meters. What is this height as a percent of $200$ meters?",
+         "options": {
+            "A": "50%",
+            "B": "55%",
+            "C": "66%",
+            "D": "73.25%",
+            "E": "80%"
+         },
+         "answer": "D"
+      },
+      {
+         "id": 3,
+         "type": "MQ",
+         "question": "A ancient Greek vase has $\\frac{1}{8}$ of its height filled with water. If the total height of the vase is $24$ inches, how many inches of water are in the vase?",
+         "options": {
+            "A": "2",
+            "B": "3",
+            "C": "4",
+            "D": "6",
+            "E": "8"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 4,
+         "type": "MQ",
+         "question": "What is $0.45$ as a fraction in simplest form?",
+         "options": {
+            "A": "$\\frac{1}{20}$",
+            "B": "$\\frac{1}{5}$",
+            "C": "$\\frac{4}{5}$",
+            "D": "$\\frac{9}{20}$",
+            "E": "$\\frac{2}{5}$"
+         },
+         "answer": "D"
+      },
+      {
+         "id": 5,
+         "type": "MQ",
+         "question": "In a timeline of ancient civilizations, the proportion of time spent by the Indus Valley Civilization is $\\frac{2}{5}$. What percent is this?",
+         "options": {
+            "A": "20%",
+            "B": "30%",
+            "C": "40%",
+            "D": "50%",
+            "E": "60%"
+         },
+         "answer": "C"
+      },
+      {
+         "id": 6,
+         "type": "MQ",
+         "question": "The ancient Olympic Games' $400$-meter dash was said to be $\\frac{1}{4}$ the length of the $1600$-meter relay. What decimal represents this fraction?",
+         "options": {
+            "A": "0.25",
+            "B": "0.4",
+            "C": "0.5",
+            "D": "0.6",
+            "E": "0.75"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 7,
+         "type": "MQ",
+         "question": "A museum has an artifact that is $0.8$ meters long. What fraction of a meter is this in simplest form?",
+         "options": {
+            "A": "$\\frac{2}{5}$",
+            "B": "$\\frac{4}{5}$",
+            "C": "$\\frac{3}{4}$",
+            "D": "$\\frac{1}{2}$",
+            "E": "$\\frac{3}{10}$"
+         },
+         "answer": "B"
+      },
+      {
+         "id": 8,
+         "type": "MQ",
+         "question": "In ancient Rome, a merchant sold $\\frac{3}{10}$ of his goods. What percent is this?",
+         "options": {
+            "A": "20%",
+            "B": "25%",
+            "C": "30%",
+            "D": "33.33%",
+            "E": "40%"
+         },
+         "answer": "C"
+      },
+      {
+         "id": 9,
+         "type": "FRQ",
+         "question": "The ancient Egyptians built the Great Pyramid using $\\frac{1}{3}$ of the total workforce. If the total workforce was $10000$ laborers, how many laborers worked on the Great Pyramid? Show your work and represent the answer as a decimal.",
+         "required_space_lines": 5
+      },
+      {
+         "id": 10,
+         "type": "FRQ",
+         "question": "Create a number line and plot the rational numbers $\\frac{1}{2}$, $0.75$, and $-\\frac{3}{4}$. Label each point and show the relationships between them. Be sure to include arrows at the ends of the number line.",
+         "required_space_lines": 5
+      }
+   ],
+   "teacher_rules": [
+      "Emphasize the importance of converting between fractions and decimals.",
+      "Remind students to simplify their fractions.",
+      "Encourage students to use a number line to visualize the relationships between rational numbers."
+   ],
+   "footer": "Chef's Tips"
+}

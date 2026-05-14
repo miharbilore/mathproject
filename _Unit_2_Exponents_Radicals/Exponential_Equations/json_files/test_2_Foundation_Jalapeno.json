@@ -1,0 +1,125 @@
+{
+  "unit": "\u1F4D6 Unit 2: Exponents & Radicals",
+   "topic": "Exponential Equations",
+   "test_type": "Foundation (Jalapeno)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "If $2^x = 16$, what is $x$?",
+           "options": {
+               "A": "2",
+               "B": "3",
+               "C": "4",
+               "D": "5",
+               "E": "6"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "Solve for $y$ in $y = 3^x$ when $y = 27$",
+           "options": {
+               "A": "1",
+               "B": "2",
+               "C": "3",
+               "D": "4",
+               "E": "5"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "What is the value of $x$ in $5^x = 125$?",
+           "options": {
+               "A": "2",
+               "B": "3",
+               "C": "4",
+               "D": "5",
+               "E": "6"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "A space station is traveling at a speed of $2^x$ km/h. If the speed is 32 km/h, what is $x$?",
+           "options": {
+               "A": "2",
+               "B": "3",
+               "C": "4",
+               "D": "5",
+               "E": "6"
+           },
+           "answer": "D"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "A scientist is studying the growth of bacteria in a lab. The population of bacteria is given by $3^x$. If the population is 81, what is $x$?",
+           "options": {
+               "A": "2",
+               "B": "3",
+               "C": "4",
+               "D": "5",
+               "E": "6"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "Solve for $x$ in $x = log_2(64)$",
+           "options": {
+               "A": "4",
+               "B": "5",
+               "C": "6",
+               "D": "7",
+               "E": "8"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "A planet is orbiting the sun at a distance of $4^x$ km. If the distance is 256 km, what is $x$?",
+           "options": {
+               "A": "2",
+               "B": "3",
+               "C": "4",
+               "D": "5",
+       "E": "6"
+       },
+           "answer": "C"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "What is the value of $x$ in $2^{2x} = 256$?",
+           "options": {
+               "A": "2",
+               "B": "3",
+               "C": "4",
+               "D": "5",
+               "E": "6"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "Solve for $y$ in $y = 2^x$ when $y = 128$. Show your work and provide the final answer.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "A spacecraft is traveling through space with a velocity of $3^x$ m/s. If the velocity is 243 m/s, what is $x$? Provide your solution and final answer.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": ["Read each question carefully", "Use a calculator only when necessary", "Show all work for free response questions"],
+   "footer": "Chef's Tips"
+}

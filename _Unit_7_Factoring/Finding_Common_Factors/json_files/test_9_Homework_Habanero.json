@@ -1,0 +1,129 @@
+{
+  "unit": "\uD83D\uDCD8 Unit 7: Factoring",
+   "topic": "Finding Common Factors",
+   "test_type": "Homework (Habanero)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "What is the greatest common factor of $12x$ and $18y$?",
+           "options": {
+               "A": "2",
+               "B": "3",
+               "C": "6",
+               "D": "$6x$",
+               "E": "$6y$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "Factor out the greatest common factor from $9a + 12b$",
+           "options": {
+               "A": "$3(3a + 4b)$",
+               "B": "$3(a + 4b)$",
+               "C": "$3(3a - 4b)$",
+               "D": "$9(a + b)$",
+               "E": "$12(a + b)$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "A patient needs to take $15$ pills of medication $3$ times a day. What is the total number of pills taken in a day in terms of the greatest common factor?",
+           "options": {
+               "A": "$3 \\cdot 5$",
+               "B": "$3 \\cdot 15$",
+               "C": "$5 \\cdot 9$",
+               "D": "$3(5)$",
+               "E": "$5(3)$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "What is the factored form of $24x^2 + 16x$?",
+           "options": {
+               "A": "$8x(3x + 2)$",
+               "B": "$8(3x^2 + 2x)$",
+               "C": "$8x(2x + 3)$",
+               "D": "$4x(6x + 4)$",
+               "E": "$4(6x^2 + 4x)$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "A biologist is studying the growth of two types of cells. The growth rate of type A cells is $12$ cells per hour and type B cells is $9$ cells per hour. What is the greatest common factor of their growth rates?",
+           "options": {
+               "A": "2",
+               "B": "3",
+               "C": "6",
+       "D": "9",
+       "E": "12"
+   },
+   "answer": "C"
+},
+{
+   "id": 6,
+   "type": "MQ",
+   "question": "Factor out the greatest common factor from $20x^2y + 16xy^2$",
+   "options": {
+       "A": "$4xy(5x + 4y)$",
+       "B": "$4x(5xy + 4y)$",
+       "C": "$4y(5x^2 + 4x)$",
+       "D": "$4xy(4x + 5y)$",
+       "E": "$8xy(x + y)$"
+   },
+   "answer": "A"
+},
+{
+   "id": 7,
+   "type": "MQ",
+   "question": "A doctor prescribes $18$ pills of medicine $2$ times a day to a patient. What is the total number of pills taken in a day in terms of the greatest common factor?",
+   "options": {
+       "A": "$2 \\cdot 9$",
+       "B": "$2 \\cdot 18$",
+       "C": "$9 \\cdot 2$",
+       "D": "$2(9)$",
+       "E": "$9(2)$"
+   },
+   "answer": "B"
+},
+{
+   "id": 8,
+   "type": "MQ",
+   "question": "What is the factored form of $18x^2 + 12x$?",
+   "options": {
+       "A": "$6x(3x + 2)$",
+       "B": "$6(3x^2 + 2x)$",
+       "C": "$6x(2x + 3)$",
+       "D": "$3x(6x + 4)$",
+       "E": "$3(6x^2 + 4x)$"
+   },
+   "answer": "A"
+},
+{
+   "id": 9,
+   "type": "FRQ",
+   "question": "A researcher is analyzing the statistics of two types of medical treatments. The first treatment has a success rate of $12%$ and the second treatment has a success rate of $9%$. What is the greatest common factor of their success rates? Show your work and explain your answer.",
+   "required_space_lines": 5
+},
+{
+   "id": 10,
+   "type": "FRQ",
+   "question": "Factor out the greatest common factor from the expression $24x^3 + 16x^2$. Show your work and explain your answer.",
+   "required_space_lines": 5
+}
+],
+"teacher_rules": [
+   "Tip 1: Emphasize the importance of finding the greatest common factor",
+   "Tip 2: Use real-world examples from healthcare and biology to illustrate the concept",
+   "Tip 3: Provide additional practice problems for students who need extra help"
+],
+"footer_title": "Chef's Tips"
+}

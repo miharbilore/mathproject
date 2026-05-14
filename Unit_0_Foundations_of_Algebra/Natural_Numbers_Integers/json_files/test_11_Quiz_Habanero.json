@@ -1,0 +1,128 @@
+{
+  "unit": "Unit 0: Foundations of Algebra",
+   "topic": "Natural Numbers & Integers",
+   "test_type": "Quiz (Habanero)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "A temperature increase of $3$ degrees per day for $5$ days results in a total temperature change of:",
+           "options": {
+               "A": "$-15$ degrees",
+               "B": "$0$ degrees",
+               "C": "$15$ degrees",
+               "D": "$25$ degrees",
+               "E": "$30$ degrees"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "If it rains $2$ inches every $4$ days, how many inches will it rain in $12$ days?",
+           "options": {
+               "A": "$1$ inch",
+               "B": "$2$ inches",
+               "C": "$3$ inches",
+               "D": "$4$ inches",
+               "E": "$6$ inches"
+           },
+           "answer": "E"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "The pattern $1, 4, 7, 10, ...$ represents the number of species of plants in an ecosystem every $3$ years. What is the next number in the pattern?",
+           "options": {
+               "A": "$10$",
+               "B": "$13$",
+               "C": "$16$",
+               "D": "$19$",
+               "E": "$22$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "If $x = -5$, then $x \\cdot (-2)$ is equal to:",
+           "options": {
+               "A": "$-10$",
+               "B": "$10$",
+               "C": "$15$",
+               "D": "$20$",
+               "E": "$25$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "A city's population is decreasing at a rate of $-200$ people per year. If the current population is $10,000$, what will the population be in $3$ years?",
+           "options": {
+               "A": "$9,400$",
+               "B": "$9,600$",
+               "C": "$9,800$",
+               "D": "$10,200$",
+               "E": "$10,400$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "What is the value of $x$ in the equation $x + 2 = 7$?",
+           "options": {
+               "A": "$3$",
+               "B": "$5$",
+               "C": "$7$",
+               "D": "$9$",
+               "E": "$11$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "Which of the following numbers is an example of an odd integer?",
+           "options": {
+               "A": "$-2$",
+               "B": "$0$",
+               "C": "$2$",
+               "D": "$-5$",
+               "E": "$10$"
+           },
+           "answer": "D"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "The number of inches of rainfall in a month is given by the formula $R = 2n + 1$, where $n$ is the number of days. What is the rainfall in a month with $20$ days?",
+           "options": {
+               "A": "$20$ inches",
+               "B": "$41$ inches",
+               "C": "$42$ inches",
+               "D": "$61$ inches",
+               "E": "$81$ inches"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "A glacier is melting at a rate of $-0.5$ meters per year. If the current depth of the glacier is $100$ meters, how many years will it take for the glacier to melt completely? Show your work.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "The population of a city is increasing according to the pattern $1000, 1200, 1440, 1728, ...$. What is the next number in the pattern? Explain your reasoning and show your work.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Chef's Tips",
+       "Read each question carefully before answering",
+       "Use a calculator only when necessary"
+   ]
+}

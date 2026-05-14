@@ -1,0 +1,129 @@
+{
+  "unit": "\u1f4d6 Unit 9: Data Statistical Analysis",
+   "topic": "Two-Way Tables",
+   "test_type": "Advanced (Carolina Reaper)",
+   "questions": [
+     {
+       "id": 1,
+       "type": "MQ",
+       "question": "In a survey, 25 students like coffee and 15 like tea. The two-way table shows that 10 students like both. What is the total number of students who like at least one of the two drinks?",
+       "options": {
+         "A": "30",
+         "B": "35",
+         "C": "40",
+         "D": "45",
+         "E": "50"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 2,
+       "type": "MQ",
+       "question": "A two-way table shows the relationship between the type of music and the age group of people. If 60% of people who like rock music are between 18-25 years old, what is the relative frequency of people who like rock music and are between 18-25 years old?",
+       "options": {
+         "A": "0.2",
+         "B": "0.4",
+         "C": "0.6",
+         "D": "0.8",
+         "E": "1.0"
+       },
+       "answer": "C"
+     },
+     {
+       "id": 3,
+       "type": "MQ",
+       "question": "In a two-way table, the row total for 'yes' is 25 and the column total for 'agree' is 30. If there are 10 people who said 'yes' and 'agree', what is the $\\frac{number\\ of\\ people\\ who\\ said\\ 'yes'\\ and\\ 'agree'}{total\\ number\\ of\\ people}$?",
+       "options": {
+         "A": "$\\frac{1}{6}$",
+         "B": "$\\frac{1}{3}$",
+         "C": "$\\frac{1}{2}$",
+         "D": "$\\frac{2}{3}$",
+         "E": "$\\frac{3}{4}$"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 4,
+       "type": "MQ",
+       "MQ": "A survey shows that 40% of people who own a car also own a house. If 25 people own a car, how many people own both a car and a house?",
+       "options": {
+         "A": "5",
+         "B": "10",
+         "C": "15",
+         "D": "20",
+         "E": "25"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 5,
+       "type": "MQ",
+       "question": "A two-way table shows that 30 people like reading and 20 people like writing. If 10 people like both, what is the total number of people who like reading or writing?",
+       "options": {
+         "A": "30",
+         "B": "35",
+         "C": "40",
+         "D": "45",
+         "E": "50"
+       },
+       "answer": "C"
+     },
+     {
+       "id": 6,
+       "type": "MQ",
+       "question": "In a survey, 50 people said they like sports and 30 said they like music. The two-way table shows that 15 people like both. What is the $\\frac{number\\ of\\ people\\ who\\ like\\ both}{total\\ number\\ of\\ people\\ who\\ like\\ sports}$?",
+       "options": {
+         "A": "$\\frac{1}{5}$",
+         "B": "$\\frac{1}{3}$",
+         "C": "$\\frac{1}{2}$",
+         "D": "$\\frac{2}{3}$",
+         "E": "$\\frac{3}{4}$"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 7,
+       "type": "MQ",
+       "question": "A two-way table shows the relationship between the type of food and the age group of people. If 20% of people who like pizza are between 18-25 years old, what is the relative frequency of people who like pizza and are between 18-25 years old?",
+       "options": {
+         "A": "0.1",
+         "B": "0.2",
+         "C": "0.3",
+         "D": "0.4",
+         "E": "0.5"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 8,
+       "type": "MQ",
+       "question": "In a two-way table, the row total for 'yes' is 20 and the column total for 'agree' is 25. If there are 5 people who said 'yes' and 'agree', what is the $\\frac{number\\ of\\ people\\ who\\ said\\ 'yes'\\ and\\ 'agree'}{total\\ number\\ of\\ people}$?",
+       "options": {
+         "A": "$\\frac{1}{10}$",
+         "B": "$\\frac{1}{5}$",
+         "C": "$\\frac{1}{4}$",
+         "D": "$\\frac{1}{3}$",
+         "E": "$\\frac{1}{2}$"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 9,
+       "type": "FRQ",
+       "question": "A survey was conducted to determine the relationship between the type of transportation used to commute to work and the level of education. The two-way table shows the results. Calculate the relative frequency of people who use a car to commute to work and have a bachelor's degree.",
+       "required_space_lines": 5
+     },
+     {
+       "id": 10,
+       "type": "FRQ",
+       "question": "A company conducted a survey to determine the relationship between the type of product purchased and the age group of the customer. The two-way table shows the results. Analyze the association between the type of product and the age group of the customer. Show all your work and explain your answer.",
+       "required_space_lines": 5
+     }
+   ],
+   "teacher_rules": [
+     "Read each question carefully and choose the correct answer.",
+     "Use the space provided for free response questions.",
+     "Show all your work and explain your answer for free response questions."
+   ],
+   "footer": "Chef's Tips"
+ }

@@ -1,0 +1,129 @@
+{
+  "unit": "\\ Unit 1: Ratio, Rate, Percentage",
+   "topic": "Ratios & Proportions",
+   "test_type": "Advanced (Carolina Reaper)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "A music store sells $x$ guitars for every $3$ keyboards. If they sell $12$ keyboards, how many guitars are sold?",
+           "options": {
+               "A": "$4$",
+               "B": "$6$",
+               "C": "$8$",
+               "D": "$9$",
+               "E": "$12$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "If $5$ ounces of coffee costs $\\$2.50$, how much will $15$ ounces cost?",
+           "options": {
+               "A": "$\\$7.50$",
+               "B": "$\\$10.00$",
+               "C": "$\\$12.50$",
+               "D": "$\\$15.00$",
+               "E": "$\\$20.00$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "In a recipe, $2$ cups of flour are needed for every $\\frac{1}{4}$ cup of sugar. If $1$ cup of sugar is used, how many cups of flour are needed?",
+           "options": {
+               "A": "$8$",
+               "B": "$10$",
+               "C": "$12$",
+               "D": "$14$",
+               "E": "$16$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "A car travels $250$ miles in $5$ hours. How many miles will it travel in $10$ hours?",
+           "options": {
+               "A": "$250$",
+       "B": "$375$",
+       "C": "$500$",
+       "D": "$750$",
+       "E": "$1000$"
+   },
+   "answer": "C"
+},
+{
+   "id": 5,
+   "type": "MQ",
+   "question": "A group of friends want to split some money in the ratio $2:3:5$. If they have a total of $\\$200$ to split, how much will the person with the ratio $5$ get?",
+   "options": {
+       "A": "$\\$20$",
+       "B": "$\\$30$",
+       "C": "$\\$40$",
+       "D": "$\\$50$",
+       "E": "$\\$100$"
+   },
+   "answer": "E"
+},
+{
+   "id": 6,
+   "type": "MQ",
+   "question": "A bakery sells $480$ loaves of bread per day. They pack the loaves in bags of $12$. How many bags will they need per day?",
+   "options": {
+       "A": "$30$",
+       "B": "$40$",
+       "C": "$50$",
+       "D": "$60$",
+       "E": "$80$"
+   },
+   "answer": "B"
+},
+{
+   "id": 7,
+   "type": "MQ",
+   "question": "A water tank can hold $3000$ gallons of water. If $1200$ gallons of water are already in the tank, what percentage of the tank is filled?",
+   "options": {
+       "A": "$20\\%$",
+       "B": "$30\\%$",
+       "C": "$40\\%$",
+       "D": "$50\\%$",
+       "E": "$60\\%$"
+   },
+   "answer": "C"
+},
+{
+   "id": 8,
+   "type": "MQ",
+   "question": "A plane travels $600$ miles in $3$ hours. How many miles will it travel in $6$ hours?",
+   "options": {
+       "A": "$1000$",
+       "B": "$1200$",
+       "C": "$1500$",
+       "D": "$1800$",
+       "E": "$2000$"
+   },
+   "answer": "B"
+},
+{
+   "id": 9,
+   "type": "FRQ",
+   "question": "A school has $300$ students. The ratio of boys to girls is $7:5$. How many boys and girls are in the school? Show your work and explain your reasoning.",
+   "required_space_lines": 5
+},
+{
+   "id": 10,
+   "type": "FRQ",
+   "question": "A company has $250$ employees. The company wants to give a $10\\%$ raise to all employees. If the total budget for raises is $\\$15000$, will the company have enough money to give all employees the raise? Show your work and explain your reasoning.",
+   "required_space_lines": 5
+}
+   ],
+   "teacher_rules": [
+       "Tip 1: Make sure students show their work for all problems",
+       "Tip 2: Emphasize the importance of using proportions to model real-world situations",
+       "Tip 3: Encourage students to check their units and make sure they are consistent"
+   ],
+   "footer": "Chef's Tips"
+}

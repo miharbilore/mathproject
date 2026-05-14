@@ -1,0 +1,129 @@
+{
+  "unit": "Unit 0: Foundations of Algebra",
+   "topic": "Natural Numbers & Integers",
+   "test_type": "Challenge (Habanero)",
+   "questions": [
+      {
+         "id": 1,
+         "type": "MQ",
+         "question": "A hiker ascends $5$ mountains, each with an elevation of $-200$ feet below sea level. What is the total elevation change?",
+         "options": {
+            "A": "$-1000$ feet",
+            "B": "$1000$ feet",
+            "C": "$0$ feet",
+            "D": "$-500$ feet",
+            "E": "$500$ feet"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 2,
+         "type": "MQ",
+         "question": "A park ranger tracks a pack of wolves, observing their population grows by $3$ every $2$ months. If the pack starts with $17$ wolves, how many will there be after $8$ months?",
+         "options": {
+            "A": "$23$ wolves",
+            "B": "$25$ wolves",
+            "C": "$29$ wolves",
+            "D": "$31$ wolves",
+            "E": "$35$ wolves"
+         },
+         "answer": "C"
+      },
+      {
+         "id": 3,
+         "type": "MQ",
+         "question": "A gas tank is filled with $25$ gallons of fuel. If $3$ gallons are consumed every $50$ miles, how many miles can the vehicle travel on $-5$ gallons of fuel?",
+         "options": {
+            "A": "The vehicle cannot travel",
+            "B": "$-80$ miles",
+            "C": "$-50$ miles",
+            "D": "$0$ miles",
+            "E": "$50$ miles"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 4,
+         "type": "MQ",
+         "question": "What is the next number in the pattern: $2, 5, 8, 11, 14, ...$?",
+         "options": {
+            "A": "$17$",
+            "B": "$20$",
+            "C": "$21$",
+            "D": "$23$",
+            "E": "$25$"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 5,
+         "type": "MQ",
+         "question": "A group of friends plan a trip to a national park, and they drive a total distance of $240$ miles. If they drive at an average speed of $-8$ miles per hour, what is their total travel time?",
+         "options": {
+            "A": "The trip is not possible",
+            "B": "$-30$ hours",
+            "C": "$-20$ hours",
+            "D": "$0$ hours",
+            "E": "$30$ hours"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 6,
+         "type": "MQ",
+         "question": "What is the result of $(-3) \\cdot (-5)$?",
+         "options": {
+            "A": "$-15$",
+            "B": "$15$",
+            "C": "$-9$",
+            "D": "$9$",
+            "E": "$0$"
+         },
+         "answer": "B"
+      },
+      {
+         "id": 7,
+         "type": "MQ",
+         "question": "A camper observes that the temperature drops by $2$ degrees every hour. If the initial temperature is $-5$ degrees, what is the temperature after $4$ hours?",
+         "options": {
+            "A": "$-13$ degrees",
+            "B": "$-9$ degrees",
+            "C": "$-5$ degrees",
+            "D": "$-1$ degree",
+            "E": "$1$ degree"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 8,
+         "type": "MQ",
+         "question": "A hiker needs to ascend a mountain with an elevation change of $1200$ feet. If the hiker climbs $4$ hours a day at a rate of $-3$ feet per hour, how many days will it take to reach the top?",
+         "options": {
+            "A": "The hiker will never reach the top",
+            "B": "$-100$ days",
+            "C": "$100$ days",
+            "D": "$50$ days",
+            "E": "$40$ days"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 9,
+         "type": "FRQ",
+         "question": "A group of friends plan a road trip, and they want to know how much fuel they will consume. If their vehicle's fuel efficiency is $25$ miles per gallon, and the total distance of the trip is $1200$ miles, how much fuel will they consume if they start with a full tank of $20$ gallons?",
+         "required_space_lines": 5
+      },
+      {
+         "id": 10,
+         "type": "FRQ",
+         "question": "A wildlife reserve tracks the population of a certain species of animal. If the population grows by $15$ every $3$ months, and the initial population is $50$, what is the population after $12$ months?",
+         "required_space_lines": 5
+      }
+   ],
+   "teacher_rules": [
+      "Tip 1: Ensure students understand the difference between natural, whole, and integer numbers.",
+      "Tip 2: Emphasize the importance of signs when performing operations with integers.",
+      "Tip 3: Encourage students to visualize the problems and use real-world examples to illustrate the concepts."
+   ],
+   "footer": "Chef's Tips"
+}

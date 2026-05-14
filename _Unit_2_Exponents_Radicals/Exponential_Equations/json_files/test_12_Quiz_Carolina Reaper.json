@@ -1,0 +1,129 @@
+{
+  "unit": "\u1f4d6 Unit 2: Exponents & Radicals",
+   "topic": "Exponential Equations",
+   "test_type": "Quiz (Carolina Reaper)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "Solve for $x$ in the equation $2^x = 32$.",
+           "options": {
+               "A": "$x = 3$",
+               "B": "$x = 4$",
+               "C": "$x = 5$",
+               "D": "$x = 6$",
+               "E": "$x = 7$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "A shipping company can transport $3^x$ crates per day. If they can transport 243 crates, what is the value of $x$?",
+           "options": {
+               "A": "$x = 4$",
+               "B": "$x = 5$",
+               "C": "$x = 6$",
+               "D": "$x = 7$",
+               "E": "$x = 8$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "The traffic flow in a city is modeled by the equation $y = 2^{0.5x}$. If $y = 8$, what is the value of $x$?",
+           "options": {
+               "A": "$x = 2$",
+               "B": "$x = 3$",
+               "C": "$x = 4$",
+               "D": "$x = 5$",
+               "E": "$x = 6$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "Solve for $x$ in the equation $4^x = 16$.",
+           "options": {
+               "A": "$x = 1$",
+               "B": "$x = 2$",
+               "C": "$x = 3$",
+               "D": "$x = 4$",
+               "E": "$x = 5$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "A delivery company can deliver $x$ packages per hour, where $x = 2^y$. If they can deliver 16 packages per hour, what is the value of $y$?",
+           "options": {
+               "A": "$y = 2$",
+               "B": "$y = 3$",
+               "C": "$y = 4$",
+               "D": "$y = 5$",
+               "E": "$y = 6$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "The time it takes for a package to be delivered is modeled by the equation $t = 3^x$. If $t = 27$, what is the value of $x$?",
+           "options": {
+               "A": "$x = 1$",
+               "B": "$x = 2$",
+               "C": "$x = 3$",
+               "D": "$x = 4$",
+               "E": "$x = 5$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "Solve for $x$ in the equation $5^x = 125$.",
+           "options": {
+               "A": "$x = 2$",
+               "B": "$x = 3$",
+               "C": "$x = 4$",
+               "D": "$x = 5$",
+               "E": "$x = 6$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "A logistics company can store $2^x$ crates in their warehouse. If they can store 64 crates, what is the value of $x$?",
+           "options": {
+               "A": "$x = 5$",
+               "B": "$x = 6$",
+               "C": "$x = 7$",
+               "D": "$x = 8$",
+               "E": "$x = 9$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "Solve for $x$ in the equation $x^2 = 2^{2x}$. Show all work and explain your reasoning.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "A transportation company can transport $x$ packages per day, where $x = 3^y$. If they can transport 81 packages per day, what is the value of $y$? Show all work and explain your reasoning.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Tip 1: Encourage students to use logarithms to solve exponential equations.",
+       "Tip 2: Remind students to check their work by plugging their answer back into the original equation.",
+       "Tip 3: Emphasize the importance of labeling axes and showing all work when graphing exponential functions."
+   ],
+   "footer": "Chef's Tips"
+}

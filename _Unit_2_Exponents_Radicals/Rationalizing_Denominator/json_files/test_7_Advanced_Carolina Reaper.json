@@ -1,0 +1,129 @@
+{
+  "unit": "\u1f4d6 Unit 2: Exponents & Radicals",
+   "topic": "Rationalizing Denominator",
+   "test_type": "Advanced (Carolina Reaper)",
+   "questions": [
+     {
+       "id": 1,
+       "type": "MQ",
+       "question": "Rationalize the denominator: $\\frac{1}{\\sqrt{2} + 1}$",
+       "options": {
+         "A": "$\\frac{1}{\\sqrt{2} + 1} \\cdot \\frac{\\sqrt{2} - 1}{\\sqrt{2} - 1}$",
+         "B": "$\\frac{1}{\\sqrt{2} + 1} \\cdot \\frac{\\sqrt{2} + 1}{\\sqrt{2} + 1}$",
+         "C": "$\\frac{\\sqrt{2} - 1}{2 - 1}$",
+         "D": "$\\frac{\\sqrt{2} + 1}{2 + 1}$",
+         "E": "$\\frac{\\sqrt{2} - 1}{3}$"
+       },
+       "answer": "C"
+     },
+     {
+       "id": 2,
+       "type": "MQ",
+       "question": "A furniture store is having a sale on desks. The original price of a desk is $200. If the sale price is $\\frac{200}{\\sqrt{2}}$, what is the sale price after rationalizing the denominator?",
+       "options": {
+         "A": "$100\\sqrt{2}$",
+         "B": "$100\\sqrt{3}$",
+         "C": "$141.42",
+         "D": "$200\\sqrt{2}$",
+         "E": "$282.84"
+       },
+       "answer": "C"
+     },
+     {
+       "id": 3,
+       "type": "MQ",
+       "question": "Rationalize the denominator: $\\frac{3}{\\sqrt{5} - 2}$",
+       "options": {
+         "A": "$\\frac{3}{\\sqrt{5} - 2} \\cdot \\frac{\\sqrt{5} + 2}{\\sqrt{5} + 2}$",
+         "B": "$\\frac{3}{\\sqrt{5} - 2} \\cdot \\frac{\\sqrt{5} - 2}{\\sqrt{5} - 2}$",
+         "C": "$\\frac{3(\\sqrt{5} + 2)}{5 - 4}$",
+         "D": "$\\frac{3(\\sqrt{5} - 2)}{5 + 4}$",
+         "E": "$\\frac{3(\\sqrt{5} + 2)}{3}$"
+       },
+       "answer": "C"
+     },
+     {
+       "id": 4,
+       "type": "MQ",
+       "question": "A surfer is riding a wave with a height of $5\\sqrt{3}$ feet. If the wave's height is decreasing at a rate of $\\frac{1}{\\sqrt{3}}$ feet per second, what is the wave's height after 2 seconds?",
+       "options": {
+         "A": "$5\\sqrt{3} - 2\\sqrt{3}$",
+         "B": "$5\\sqrt{3} - \\frac{2}{\\sqrt{3}}$",
+         "C": "$5\\sqrt{3} - \\frac{2\\sqrt{3}}{3}$",
+         "D": "$5\\sqrt{3} - 2$",
+         "E": "$5\\sqrt{3} + 2$"
+       },
+       "answer": "C"
+     },
+     {
+       "id": 5,
+       "type": "MQ",
+       "question": "Rationalize the denominator: $\\frac{2}{\\sqrt{7} + \\sqrt{3}}$",
+       "options": {
+         "A": "$\\frac{2}{\\sqrt{7} + \\sqrt{3}} \\cdot \\frac{\\sqrt{7} - \\sqrt{3}}{\\sqrt{7} - \\sqrt{3}}$",
+         "B": "$\\frac{2}{\\sqrt{7} + \\sqrt{3}} \\cdot \\frac{\\sqrt{7} + \\sqrt{3}}{\\sqrt{7} + \\sqrt{3}}$",
+         "C": "$\\frac{2(\\sqrt{7} - \\sqrt{3})}{7 - 3}$",
+         "D": "$\\frac{2(\\sqrt{7} + \\sqrt{3})}{7 + 3}$",
+         "E": "$\\frac{2(\\sqrt{7} - \\sqrt{3})}{4}$"
+       },
+       "answer": "C"
+     },
+     {
+       "id": 6,
+       "type": "MQ",
+       "question": "A cyclist is traveling at a speed of $15\\sqrt{2}$ miles per hour. If the cyclist is traveling for $\\frac{1}{\\sqrt{2}}$ hours, how far will the cyclist travel?",
+       "options": {
+         "A": "$15$ miles",
+         "B": "$15\\sqrt{2}$ miles",
+         "C": "$10.61$ miles",
+         "D": "$21.21$ miles",
+         "E": "$30$ miles"
+       },
+       "answer": "C"
+     },
+     {
+       "id": 7,
+       "type": "MQ",
+       "question": "Rationalize the denominator: $\\frac{5}{\\sqrt{11} - 2}$",
+       "options": {
+         "A": "$\\frac{5}{\\sqrt{11} - 2} \\cdot \\frac{\\sqrt{11} + 2}{\\sqrt{11} + 2}$",
+         "B": "$\\frac{5}{\\sqrt{11} - 2} \\cdot \\frac{\\sqrt{11} - 2}{\\sqrt{11} - 2}$",
+         "C": "$\\frac{5(\\sqrt{11} + 2)}{11 - 4}$",
+         "D": "$\\frac{5(\\sqrt{11} - 2)}{11 + 4}$",
+         "E": "$\\frac{5(\\sqrt{11} + 2)}{7}$"
+       },
+       "answer": "C"
+     },
+     {
+       "id": 8,
+       "type": "MQ",
+       "question": "A water tank can hold $2000\\sqrt{2}$ gallons of water. If $\\frac{1}{\\sqrt{2}}$ of the tank is already filled, how many gallons of water are already in the tank?",
+       "options": {
+         "A": "$1000$ gallons",
+         "B": "$1414.21$ gallons",
+         "C": "$2000$ gallons",
+         "D": "$2828.43$ gallons",
+         "E": "$4000$ gallons"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 9,
+       "type": "FRQ",
+       "question": "Rationalize the denominator and simplify: $\\frac{3\\sqrt{6} + 2}{\\sqrt{2} + \\sqrt{3}}$",
+       "required_space_lines": 5
+     },
+     {
+       "id": 10,
+       "type": "FRQ",
+       "question": "A carpenter is building a staircase with a height of $10\\sqrt{5}$ feet. If the staircase has $\\frac{1}{\\sqrt{5}}$ times the height of the building, what is the height of the building?",
+       "required_space_lines": 5
+     }
+   ],
+   "teacher_rules": [
+     "Tip 1: Encourage students to check their work by plugging their answers back into the original equation.",
+     "Tip 2: Remind students to rationalize the denominator by multiplying the numerator and denominator by the conjugate of the denominator.",
+     "Tip 3: Suggest that students use a calculator to check their answers, but also require them to show their work and explain their reasoning."
+   ],
+   "footer_title": "Chef's Tips"
+ }

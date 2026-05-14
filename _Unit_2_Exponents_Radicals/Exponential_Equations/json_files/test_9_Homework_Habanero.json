@@ -1,0 +1,129 @@
+{
+  "unit": "\u1F4D6 Unit 2: Exponents & Radicals",
+   "topic": "Exponential Equations",
+   "test_type": "Homework (Habanero)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "Solve for $x$ in the equation $2^x = 32$.",
+           "options": {
+               "A": "$x = 3$",
+               "B": "$x = 4$",
+               "C": "$x = 5$",
+               "D": "$x = 6$",
+               "E": "$x = 7$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "A certain medicine's dosage is given by $D = 5 cdot 2^t$, where $t$ is the time in hours. What is the dosage after 2 hours?",
+           "options": {
+               "A": "$20$",
+               "B": "$40$",
+               "C": "$50$",
+               "D": "$80$",
+               "E": "$100$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "The population of a bacteria culture grows according to the equation $P = 100 cdot 3^t$, where $t$ is the time in days. What is the population after 3 days?",
+           "options": {
+               "A": "$900$",
+               "B": "$2,700$",
+               "C": "$3,000$",
+               "D": "$6,300$",
+               "E": "$9,000$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "Solve for $y$ in the equation $y = log_2(64)$.",
+           "options": {
+               "A": "$y = 5$",
+               "B": "$y = 6$",
+               "C": "$y = 7$",
+               "D": "$y = 8$",
+               "E": "$y = 9$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "A patient's white blood cell count is given by $W = 500 cdot 2^{0.5t}$, where $t$ is the time in days. What is the count after 4 days?",
+           "options": {
+       "A": "$1,000$",
+       "B": "$1,500$",
+       "C": "$2,000$",
+       "D": "$2,500$",
+       "E": "$3,000$"
+   },
+           "answer": "C"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "The probability of a certain disease is modeled by the equation $P = 1 - 2^{-x}$, where $x$ is the number of screenings. What is the probability after 3 screenings?",
+           "options": {
+       "A": "$0.75$",
+       "B": "$0.80$",
+       "C": "$0.85$",
+       "D": "$0.90$",
+       "E": "$0.95$"
+   },
+           "answer": "D"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "The growth of a tumor is given by $G = 10 cdot e^{0.2t}$, where $t$ is the time in weeks. What is the growth after 5 weeks?",
+           "options": {
+       "A": "$50$",
+       "B": "$60$",
+       "C": "$70$",
+       "D": "$80$",
+       "E": "$90$"
+   },
+           "answer": "D"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "A certain medical test's accuracy is given by $A = 80 cdot (1 - 2^{-x})$, where $x$ is the number of trials. What is the accuracy after 4 trials?",
+           "options": {
+       "A": "$60$",
+       "B": "$70$",
+       "C": "$75$",
+       "D": "$80$",
+       "E": "$90$"
+   },
+           "answer": "C"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "Solve for $x$ in the equation $3^{2x} = 81$ and show your work.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "A patient's medication dosage is given by $D = 20 cdot 2^{0.5x}$, where $x$ is the number of hours. Find the dosage after 6 hours and explain your reasoning.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Ensure students show all steps in their work for FRQs",
+       "Use online resources to supplement instruction",
+       "Encourage students to ask questions and seek help when needed"
+   ],
+   "footer": "Chef's Tips"
+}

@@ -1,0 +1,131 @@
+{
+  "unit": "\u1F4D6 Unit 2: Exponents & Radicals",
+   "topic": "Rationalizing Denominator",
+   "test_type": "Challenge (Habanero)",
+   "questions": [
+     {
+       "id": 1,
+       "type": "MQ",
+       "question": "Rationalize the denominator of $\\frac{2}{\\sqrt{3}}$",
+       "options": {
+         "A": "$\\frac{2\\sqrt{3}}{3}$",
+         "B": "$\\frac{2}{3\\sqrt{3}}$",
+         "C": "$\\frac{2\\sqrt{3}}{9}$",
+         "D": "$\\frac{2}{9\\sqrt{3}}$",
+         "E": "$\\frac{4\\sqrt{3}}{3}$"
+       },
+       "answer": "A"
+     },
+     {
+       "id": 2,
+       "type": "MQ",
+       "question": "A recipe for cooking chicken requires $\\frac{1}{\\sqrt{2}}$ cups of sauce. Rationalize the denominator to simplify the measurement.",
+       "options": {
+         "A": "$\\frac{1}{2}\\sqrt{2}$",
+         "B": "$\\frac{\\sqrt{2}}{2}$",
+         "C": "$\\frac{2}{\\sqrt{2}}$",
+         "D": "$\\frac{\\sqrt{2}}{4}$",
+         "E": "$\\frac{2}{2\\sqrt{2}}$"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 3,
+       "type": "MQ",
+       "question": "The height of a building is $\\frac{10}{\\sqrt{5}}$ meters. Rationalize the denominator to find the height in simplest form.",
+       "options": {
+         "A": "$2\\sqrt{5}$",
+         "B": "$\\frac{10}{5}$",
+         "C": "$\\frac{10\\sqrt{5}}{5}$",
+         "D": "$\\frac{2}{\\sqrt{5}}$",
+         "E": "$5\\sqrt{2}$"
+       },
+       "answer": "C"
+     },
+     {
+       "id": 4,
+       "type": "MQ",
+       "question": "The area of a triangle is given by $\\frac{1}{2}bh$, where $b$ is the base and $h$ is the height. If the base is $2\\sqrt{3}$ meters and the height is $\\frac{4}{\\sqrt{3}}$ meters, find the area of the triangle with a rationalized denominator.",
+       "options": {
+         "A": "$\\frac{4}{3}$",
+         "B": "$\\frac{4\\sqrt{3}}{3}$",
+         "C": "$\\frac{8}{3}$",
+         "D": "$2\\sqrt{3}$",
+         "E": "$\\frac{8\\sqrt{3}}{3}$"
+       },
+       "answer": "E"
+     },
+     {
+       "id": 5,
+       "type": "MQ",
+       "question": "The length of a rectangular room is $\\frac{6}{\\sqrt{2}}$ meters. Rationalize the denominator to simplify the measurement.",
+       "options": {
+         "A": "$3\\sqrt{2}$",
+         "B": "$\\frac{6}{2}$",
+         "C": "$\\frac{6\\sqrt{2}}{2}$",
+         "D": "$2\\sqrt{3}$",
+         "E": "$\\frac{3}{\\sqrt{2}}$"
+       },
+       "answer": "C"
+     },
+     {
+       "id": 6,
+       "type": "MQ",
+       "question": "The recipe for a cake requires $\\frac{3}{\\sqrt{5}}$ cups of flour. Rationalize the denominator to simplify the measurement.",
+       "options": {
+         "A": "$\\frac{3\\sqrt{5}}{5}$",
+         "B": "$\\frac{3}{5}$",
+         "C": "$\\frac{\\sqrt{5}}{3}$",
+         "D": "$\\frac{5}{3}$",
+         "E": "$\\frac{15}{\\sqrt{5}}$"
+       },
+       "answer": "A"
+     },
+     {
+       "id": 7,
+       "type": "MQ",
+       "question": "The width of a picture frame is $\\frac{8}{\\sqrt{6}}$ inches. Rationalize the denominator to simplify the measurement.",
+       "options": {
+         "A": "$\\frac{4}{\\sqrt{3}}$",
+         "B": "$\\frac{8\\sqrt{6}}{6}$",
+         "C": "$\\frac{8}{6}$",
+         "D": "$\\frac{4\\sqrt{3}}{3}$",
+         "E": "$\\frac{8}{3}$"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 8,
+       "type": "MQ",
+       "question": "The height of a skyscraper is $\\frac{50}{\\sqrt{10}}$ meters. Rationalize the denominator to find the height in simplest form.",
+       "options": {
+         "A": "$5\\sqrt{10}$",
+         "B": "$\\frac{50}{10}$",
+         "C": "$\\frac{50\\sqrt{10}}{10}$",
+         "D": "$\\frac{5}{\\sqrt{10}}$",
+         "E": "$25\\sqrt{2}$"
+       },
+       "answer": "C"
+     },
+     {
+       "id": 9,
+       "type": "FRQ",
+       "question": "A construction worker needs to mix $\\frac{2}{\\sqrt{7}}$ bags of cement with $\\frac{3}{\\sqrt{5}}$ bags of sand. Rationalize the denominators and simplify the total amount of mixture required.",
+       "required_space_lines": 5
+     },
+     {
+       "id": 10,
+       "type": "FRQ",
+       "question": "The area of a plot of land is given by $\\frac{1}{2} \\cdot \\frac{10}{\\sqrt{3}} \\cdot \\frac{8}{\\sqrt{2}}$. Rationalize the denominators and simplify the expression to find the area of the land.",
+       "required_space_lines": 5
+     }
+   ],
+   "teacher_rules": [
+     "Remind students to simplify their answers.",
+     "Encourage students to use calculators to check their work.",
+     "Emphasize the importance of rationalizing denominators in real-world applications."
+   ],
+   "footer": {
+     "title": "Chef's Tips"
+   }
+}

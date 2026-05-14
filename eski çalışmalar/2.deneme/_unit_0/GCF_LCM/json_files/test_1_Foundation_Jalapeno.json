@@ -1,0 +1,129 @@
+{
+  "unit": "Unit 0: Foundations of Algebra",
+   "topic": "GCF & LCM",
+   "test_type": "Foundation (Jalapeno)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "Find the GCF of $12$ and $18$ using factors.",
+           "options": {
+               "A": "$1$",
+               "B": "$2$",
+               "C": "$3$",
+               "D": "$6$",
+               "E": "$12$"
+           },
+           "answer": "D"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "What is the LCM of $4$ and $6$ using multiples?",
+           "options": {
+               "A": "$4$",
+               "B": "$6$",
+               "C": "$8$",
+               "D": "$12$",
+               "E": "$24$"
+           },
+           "answer": "D"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "A stock trader buys $15$ shares of stock A and $20$ shares of stock B. What is the GCF of the number of shares?",
+           "options": {
+               "A": "$1$",
+               "B": "$2$",
+               "C": "$3$",
+               "D": "$5$",
+               "E": "$10$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "Find the LCM of $9$ and $12$ using prime factorization.",
+           "options": {
+               "A": "$18$",
+               "B": "$24$",
+               "C": "$36$",
+               "D": "$48$",
+               "E": "$60$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "A business has $24$ employees and wants to divide them into teams with an equal number of employees. If they want to have the maximum number of teams, what is the largest possible team size?",
+           "options": {
+               "A": "$1$",
+               "B": "$2$",
+               "C": "$3$",
+               "D": "$4$",
+       "E": "$6$"
+   },
+           "answer": "D"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "Find the GCF of $48$ and $60$.",
+           "options": {
+               "A": "$4$",
+               "B": "$6$",
+               "C": "$8$",
+               "D": "$12$",
+               "E": "$24$"
+           },
+           "answer": "D"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "A tax consultant needs to file $18$ tax returns and $24$ financial reports. What is the LCM of the number of tax returns and financial reports?",
+           "options": {
+               "A": "$36$",
+               "B": "$48$",
+               "C": "$72$",
+               "D": "$96$",
+               "E": "$144$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "Find the GCF of $30$ and $45$ using prime factorization.",
+           "options": {
+               "A": "$1$",
+               "B": "$3$",
+               "C": "$5$",
+               "D": "$10$",
+               "E": "$15$"
+           },
+           "answer": "E"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "A savings account earns $6\\%$ interest per year. If the account has $$360$ and $$480$, what is the GCF of the amounts after one year?",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "A company produces $48$ units of product A and $60$ units of product B per day. What is the LCM of the number of units produced per day?",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Tip 1: Encourage students to use prime factorization to find GCF and LCM.",
+       "Tip 2: Remind students to consider real-world applications of GCF and LCM.",
+       "Tip 3: Emphasize the importance of checking calculations for accuracy."
+   ],
+   "footer_title": "Chef's Tips"
+}

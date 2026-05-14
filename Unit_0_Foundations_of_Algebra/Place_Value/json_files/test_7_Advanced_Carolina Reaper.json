@@ -1,0 +1,129 @@
+{
+  "unit": "Unit 0: Foundations of Algebra",
+   "topic": "Place Value",
+   "test_type": "Advanced (Carolina Reaper)",
+   "questions": [
+     { 
+       "id": 1, 
+       "type": "MQ", 
+       "question": "A bookstore has $243$ books on a shelf. What is the value of the digit $4$ in this number?", 
+       "options": {
+         "A": "$40$", 
+         "B": "$400$", 
+         "C": "$4,000$", 
+         "D": "$400,000$", 
+         "E": "$4$"
+       }, 
+       "answer": "A" 
+     },
+     { 
+       "id": 2, 
+       "type": "MQ", 
+       "question": "Round $46,279$ to the nearest thousand.", 
+       "options": {
+         "A": "$46,000$", 
+         "B": "$47,000$", 
+         "C": "$46,279$", 
+         "D": "$40,000$", 
+         "E": "$50,000$"
+       }, 
+       "answer": "A" 
+     },
+     { 
+       "id": 3, 
+       "type": "MQ", 
+       "question": "A city has $14,753$ residents. Write this number in expanded form.", 
+       "options": {
+         "A": "$1 \\cdot 10,000 + 4 \\cdot 1,000 + 7 \\cdot 100 + 5 \\cdot 10 + 3 \\cdot 1$", 
+         "B": "$1 \\cdot 1,000 + 4 \\cdot 100 + 7 \\cdot 10 + 5 \\cdot 1 + 3 \\cdot 10,000$", 
+         "C": "$1 \\cdot 100 + 4 \\cdot 10 + 7 \\cdot 1 + 5 \\cdot 1,000 + 3 \\cdot 10,000$", 
+         "D": "$10,000 + 4,000 + 700 + 50 + 3$", 
+         "E": "$10,000 + 4,000 + 700 + 50 + 30$"
+       }, 
+       "answer": "A" 
+     },
+     { 
+       "id": 4, 
+       "type": "MQ", 
+       "question": "What is the value of the digit $7$ in $94,753$?", 
+       "options": {
+         "A": "$7$", 
+         "B": "$70$", 
+         "C": "$700$", 
+         "D": "$7,000$", 
+         "E": "$70,000$"
+       }, 
+       "answer": "C" 
+     },
+     { 
+       "id": 5, 
+       "type": "MQ", 
+       "question": "A bakery sells $2,467$ cakes per day. Round this number to the nearest hundred.", 
+       "options": {
+         "A": "$2,500$", 
+         "B": "$2,400$", 
+         "C": "$2,000$", 
+         "D": "$3,000$", 
+         "E": "$2,000$"
+       }, 
+       "answer": "B" 
+     },
+     { 
+       "id": 6, 
+       "type": "MQ", 
+       "question": "Write the number $94,279$ in standard form.", 
+       "options": {
+         "A": "$94,279$", 
+         "B": "$9.4279 \\cdot 10,000$", 
+         "C": "$9.4279 \\cdot 10^4$", 
+         "D": "$94.279 \\cdot 1,000$", 
+         "E": "$942.79 \\cdot 100$"
+       }, 
+       "answer": "C" 
+     },
+     { 
+       "id": 7, 
+       "type": "MQ", 
+       "question": "A water tank can hold $150,027$ gallons of water. What is the value of the digit $5$ in this number?", 
+       "options": {
+         "A": "$5$", 
+         "B": "$50$", 
+         "C": "$500$", 
+         "D": "$5,000$", 
+         "E": "$50,000$"
+       }, 
+       "answer": "D" 
+     },
+     { 
+       "id": 8, 
+       "type": "MQ", 
+       "question": "Round $7,463,219$ to the nearest million.", 
+       "options": {
+         "A": "$7,000,000$", 
+         "B": "$8,000,000$", 
+         "C": "$7,500,000$", 
+         "D": "$7,463,219$", 
+         "E": "$8,500,000$"
+       }, 
+       "answer": "A" 
+     },
+     { 
+       "id": 9, 
+       "type": "FRQ", 
+       "question": "A city planner has $85,219$ residents to consider for a new development. Write this number in expanded form and round it to the nearest thousand. Show your work and explain your reasoning.", 
+       "required_space_lines": 5 
+     },
+     { 
+       "id": 10, 
+       "type": "FRQ", 
+       "question": "A library has $94,357$ books to catalog. Write this number in standard form and then round it to the nearest hundred. Justify your answer with calculations.", 
+       "required_space_lines": 5 
+     }
+   ],
+   "teacher_rules": [
+     "Tip 1: Encourage students to use visual aids like place value charts to solve problems.",
+     "Tip 2: Remind students to always read the question carefully and identify the key concepts being tested.",
+     "Tip 3: Emphasize the importance of showing work and explaining reasoning, especially for free-response questions."
+   ],
+   "footer": "Chef's Tips"
+ }

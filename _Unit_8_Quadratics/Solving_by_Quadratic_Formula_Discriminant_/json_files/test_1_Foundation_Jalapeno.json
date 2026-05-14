@@ -1,0 +1,129 @@
+{
+  "unit": "\u1f4d6 Unit 8: Quadratics",
+   "topic": "Solving by Quadratic Formula (Discriminant)",
+   "test_type": "Foundation (Jalapeno)",
+   "questions": [
+       { 
+           "id": 1, 
+           "type": "MQ", 
+           "question": "Solve for $x$: $x^2 + 4x + 4 = 0$ using the quadratic formula. What is the discriminant?",
+           "options": { 
+               "A": "0", 
+               "B": "4", 
+               "C": "8", 
+               "D": "12", 
+               "E": "16" 
+           }, 
+           "answer": "A" 
+       },
+       { 
+           "id": 2, 
+           "type": "MQ", 
+           "question": "A company's profit $P$ is given by $P = -2x^2 + 12x - 5$. Find the discriminant to determine the nature of solutions for $x$ when $P = 0$.",
+           "options": { 
+               "A": "104", 
+               "B": "112", 
+               "C": "128", 
+               "D": "144", 
+               "E": "156" 
+           }, 
+           "answer": "B" 
+       },
+       { 
+           "id": 3, 
+           "type": "MQ", 
+           "question": "How many solutions does $x^2 + 5x + 7 = 0$ have?",
+           "options": { 
+               "A": "0 real, 2 complex", 
+               "B": "1 real, 1 complex", 
+               "C": "2 real, 0 complex", 
+               "D": "1 real, 0 complex", 
+               "E": "0 real, 0 complex" 
+           }, 
+           "answer": "A" 
+       },
+       { 
+           "id": 4, 
+           "type": "MQ", 
+           "question": "What is the purpose of finding the discriminant in a quadratic equation?",
+           "options": { 
+               "A": "To find the $x$-intercepts", 
+               "B": "To find the $y$-intercept", 
+               "C": "To determine the number of solutions", 
+               "D": "To simplify the equation", 
+               "E": "To graph the equation" 
+           }, 
+           "answer": "C" 
+       },
+       { 
+           "id": 5, 
+           "type": "MQ", 
+           "question": "A stock's value $V$ is modeled by $V = -3x^2 + 10x + 2$. Find the discriminant when $V = 0$ to determine possible buy times.",
+           "options": { 
+               "A": "64", 
+               "B": "76", 
+               "C": "88", 
+               "D": "100", 
+               "E": "112" 
+           }, 
+           "answer": "A" 
+       },
+       { 
+           "id": 6, 
+           "type": "MQ", 
+           "question": "Solve $x^2 - 6x + 9 = 0$ and determine the nature of its solutions.",
+           "options": { 
+               "A": "1 real solution, 0 complex", 
+               "B": "2 real solutions, 0 complex", 
+               "C": "0 real solutions, 2 complex", 
+               "D": "2 real solutions, 2 complex", 
+               "E": "0 real solutions, 0 complex" 
+           }, 
+           "answer": "A" 
+       },
+       { 
+           "id": 7, 
+           "type": "MQ", 
+           "question": "The quadratic equation $x^2 - 4x - 3 = 0$ has how many real solutions?",
+           "options": { 
+               "A": "0", 
+               "B": "1", 
+               "C": "2", 
+               "D": "3", 
+               "E": "4" 
+           }, 
+           "answer": "C" 
+       },
+       { 
+           "id": 8, 
+           "type": "MQ", 
+           "question": "A savings account grows according to $A = -2x^2 + 5x + 1000$ where $A$ is the amount after $x$ years. What is the discriminant when $A = 0$?",
+           "options": { 
+               "A": "25", 
+               "B": "33", 
+               "C": "41", 
+               "D": "49", 
+               "E": "57" 
+           }, 
+           "answer": "C" 
+       },
+       { 
+           "id": 9, 
+           "type": "FRQ", 
+           "question": "Solve for $x$: $2x^2 + 5x - 3 = 0$ using the quadratic formula and determine the nature of its solutions.", 
+           "required_space_lines": 5 
+       },
+       { 
+           "id": 10, 
+           "type": "FRQ", 
+           "question": "Given $x^2 + bx + c = 0$, find the values of $b$ and $c$ if the discriminant is 16 and one solution is $x = 2$. Show your work and explain your reasoning.", 
+           "required_space_lines": 5 
+       }
+   ],
+   "teacher_rules": [
+       "Remind students to check their work for reasonableness and to consider the context of the problem",
+       "Encourage students to use the quadratic formula to solve equations when factoring is not straightforward",
+       "Emphasize the importance of determining the nature of solutions to understand the behavior of the quadratic function"
+   ],
+   "footer": "Chef's Tips"
+}

@@ -1,0 +1,129 @@
+{
+  "unit": "\ud83d\udcda Unit 1: Ratio, Rate, Percentage",
+   "topic": "Rates & Variation",
+   "test_type": "Foundation (Jalapeno)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "A spaceship travels $240 \\text{ km}$ in $4 \\text{ hours}$. What is its unit rate?",
+           "options": {
+               "A": "$50 \\text{ km/h}$",
+               "B": "$60 \\text{ km/h}$",
+               "C": "$70 \\text{ km/h}$",
+               "D": "$80 \\text{ km/h}$",
+               "E": "$90 \\text{ km/h}$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "A scientist mixes $2 \\text{ liters}$ of a chemical with $5 \\text{ liters}$ of water. What is the ratio of chemical to total mixture?",
+           "options": {
+               "A": "$1:3$",
+               "B": "$1:4$",
+               "C": "$1:5$",
+               "D": "$1:6$",
+               "E": "$1:7$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "The cost of launching a satellite is directly proportional to its mass. If a $500 \\text{ kg}$ satellite costs $$120,000$ to launch, how much will it cost to launch a $750 \\text{ kg}$ satellite?",
+           "options": {
+               "A": "$$180,000$",
+               "B": "$$216,000$",
+               "C": "$$240,000$",
+               "D": "$$270,000$",
+               "E": "$$300,000$"
+       },
+           "answer": "B"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "A rocket travels at a rate of $200 \\text{ m/s}$. How far will it travel in $10 \\text{ seconds}$?",
+           "options": {
+               "A": "$1500 \\text{ m}$",
+               "B": "$1800 \\text{ m}$",
+               "C": "$2000 \\text{ m}$",
+               "D": "$2200 \\text{ m}$",
+               "E": "$2500 \\text{ m}$"
+       },
+           "answer": "C"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "The time it takes for a spacecraft to orbit the Earth is inversely proportional to its velocity. If a spacecraft orbits the Earth in $90 \\text{ minutes}$ at a velocity of $7.8 \\text{ km/s}$, how long will it take to orbit the Earth at a velocity of $10.2 \\text{ km/s}$?",
+           "options": {
+               "A": "$60 \\text{ minutes}$",
+       "B": "$70 \\text{ minutes}$",
+       "C": "$75 \\text{ minutes}$",
+       "D": "$80 \\text{ minutes}$",
+       "E": "$90 \\text{ minutes}$"
+       },
+           "answer": "B"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "A lab experiment requires a ratio of $3:5$ of two chemicals. If $21 \\text{ liters}$ of the first chemical are used, how many liters of the second chemical are needed?",
+           "options": {
+       "A": "$30 \\text{ liters}$",
+       "B": "$35 \\text{ liters}$",
+       "C": "$40 \\text{ liters}$",
+       "D": "$45 \\text{ liters}$",
+       "E": "$50 \\text{ liters}$"
+       },
+           "answer": "B"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "A telescope can view a planet at a distance of $50 \\text{ million km}$ in $10 \\text{ seconds}$. How far away can it view the planet in $5 \\text{ seconds}$?",
+           "options": {
+       "A": "$20 \\text{ million km}$",
+       "B": "$25 \\text{ million km}$",
+       "C": "$30 \\text{ million km}$",
+       "D": "$40 \\text{ million km}$",
+       "E": "$50 \\text{ million km}$"
+       },
+           "answer": "B"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "A spacecraft travels $300 \\text{ km}$ in $5 \\text{ hours}$. What is its average speed in $\\text{ km/h}$?",
+           "options": {
+       "A": "$50 \\text{ km/h}$",
+       "B": "$60 \\text{ km/h}$",
+       "C": "$70 \\text{ km/h}$",
+       "D": "$80 \\text{ km/h}$",
+       "E": "$90 \\text{ km/h}$"
+       },
+           "answer": "B"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "A lab experiment requires a mixture of two chemicals in a ratio of $2:3$. If $16 \\text{ liters}$ of the first chemical are used, how many liters of the second chemical are needed? Show your work and calculate the total volume of the mixture.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "The distance a spacecraft travels is directly proportional to the square of its velocity. If a spacecraft travels $1500 \\text{ km}$ at a velocity of $20 \\text{ m/s}$, how far will it travel at a velocity of $30 \\text{ m/s}$? Show your work and explain your reasoning.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Emphasize the importance of units and conversions in rate problems",
+       "Encourage students to use visual models to represent direct and inverse variation",
+       "Remind students to check their work and calculate carefully"
+   ],
+   "footer": "Chef's Tips"
+}

@@ -1,0 +1,129 @@
+{
+  "unit": "\u1F4D6 Unit 9: Data Statistical Analysis",
+   "topic": "Measures of Central Tendency",
+   "test_type": "Homework (Jalapeno)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "The height of ancient Egyptian pyramids had a $mean$ of $100$ meters. If the heights were $90$, $100$, $110$, $120$, and $130$ meters, what was the $median$ height?",
+           "options": {
+               "A": "100",
+               "B": "110",
+               "C": "105",
+               "D": "108",
+               "E": "112"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "In the ancient city of Pompeii, the number of $coins$ found in 5 different jars were $10$, $15$, $20$, $25$, and $30$. What is the $mode$ of this dataset?",
+           "options": {
+               "A": "10",
+               "B": "15",
+               "C": "20",
+               "D": "There is no mode",
+               "E": "25"
+           },
+           "answer": "D"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "A Greek philosopher measured the $time$ it took for 5 students to complete a task. The times were $10$, $12$, $15$, $18$, and $20$ minutes. What is the $mean$ time?",
+           "options": {
+               "A": "12",
+               "B": "13",
+               "C": "14",
+               "D": "15",
+               "E": "16"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "The $distance$ traveled by Roman soldiers in a day were $20$, $22$, $25$, $28$, and $30$ kilometers. What is the $median$ distance?",
+           "options": {
+               "A": "22",
+               "B": "24",
+       "C": "25",
+       "D": "26",
+       "E": "28"
+   },
+   "answer": "C"
+},
+{
+   "id": 5,
+   "type": "MQ",
+   "question": "The $weight$ of ancient artifacts found in a museum were $5$, $10$, $15$, $20$, and $25$ kilograms. If the $mean$ weight is $15$ kilograms, what is the $mode$?",
+   "options": {
+       "A": "5",
+       "B": "10",
+       "C": "15",
+       "D": "There is no mode",
+       "E": "20"
+   },
+   "answer": "D"
+},
+{
+   "id": 6,
+   "type": "MQ",
+   "question": "In the ancient Olympic Games, the $number$ of $wins$ by 5 different athletes were $2$, $4$, $6$, $8$, and $10$. What is the $mean$ number of wins?",
+   "options": {
+       "A": "4",
+       "B": "5",
+       "C": "6",
+       "D": "7",
+       "E": "8"
+   },
+   "answer": "C"
+},
+{
+   "id": 7,
+   "type": "MQ",
+   "question": "A historian recorded the $number$ of $years$ it took for 5 different civilizations to build their capitals. The times were $10$, $20$, $30$, $40$, and $50$ years. What is the $median$ time?",
+   "options": {
+       "A": "20",
+       "B": "25",
+       "C": "30",
+       "D": "35",
+       "E": "40"
+   },
+   "answer": "C"
+},
+{
+   "id": 8,
+   "type": "MQ",
+   "question": "The $height$ of 5 different ancient statues were $150$, $160$, $170$, $180$, and $190$ centimeters. If the $mean$ height is $170$ centimeters, what is the $mode$?",
+   "options": {
+       "A": "150",
+       "B": "160",
+       "C": "170",
+       "D": "There is no mode",
+       "E": "180"
+   },
+   "answer": "D"
+},
+{
+   "id": 9,
+   "type": "FRQ",
+   "question": "The $length$ of the sides of 5 different ancient triangles were $5$, $6$, $7$, $8$, and $9$ meters. Calculate the $mean$, $median$, and $mode$ of the dataset and compare the measures of central tendency. Provide your answers with $\\boxed{[answer]}$.",
+   "required_space_lines": 5
+},
+{
+   "id": 10,
+   "type": "FRQ",
+   "question": "A archaeologist discovered 5 ancient vases with the following $weights$: $10$, $12$, $15$, $18$, and $20$ kilograms. Calculate the $mean$, $median$, and $mode$ of the weights. Interpret the results in the context of the ancient civilization. Provide your answers with $\\boxed{[answer]}$.",
+   "required_space_lines": 5
+}
+],
+"teacher_rules": [
+   "Tip 1: Ensure students understand the concept of central tendency",
+   "Tip 2: Emphasize the importance of context in data interpretation",
+   "Tip 3: Encourage students to use calculators to verify their calculations"
+],
+"footer": "Chef's Tips"
+}

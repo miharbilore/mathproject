@@ -1,0 +1,129 @@
+{
+  "unit": "\u1F4D6 Unit 8: Quadratics",
+   "topic": "Solving by Factoring and Other Methods",
+   "test_type": "Homework (Carolina Reaper)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "A painter is creating a mural on a $24 \\times 36$ canvas. If she wants to divide it into smaller squares of equal size, what is the largest possible square size $s$ in inches if she wants the number of squares to be a quadratic equation in the form $x^2 + bx + c$, where $b$ and $c$ are positive integers? The dimensions of the squares are $s \\times s$.",
+           "options": {
+               "A": "$1 \\times 1$",
+               "B": "$2 \\times 2$",
+               "C": "$3 \\times 3$",
+               "D": "$4 \\times 4$",
+               "E": "$6 \\times 6$"
+           },
+           "answer": "D"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "A musician is composing a piece with a rhythm pattern that follows a quadratic equation $x^2 - 5x + 6 = 0$. What are the possible time signatures that can be used for this pattern if the solutions to the equation represent the number of beats in a measure?",
+           "options": {
+               "A": "$2/4$ and $3/4$",
+               "B": "$3/4$ and $2/4$",
+               "C": "$4/4$ and $6/4$",
+               "D": "$6/4$ and $4/4$",
+               "E": "$2/4$ and $6/4$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "A photographer is taking pictures of a ballet dancer. If the height $h$ of the dancer above the ground at time $t$ is modeled by the quadratic equation $h(t) = -2t^2 + 8t + 1$, at what time $t$ will the dancer be at a height of $5$ feet?",
+           "options": {
+               "A": "$t = 1$",
+               "B": "$t = 2$",
+               "C": "$t = 3$",
+               "D": "$t = 4$",
+               "E": "$t = 5$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "A sound engineer is mixing a song with two different frequencies, $f_1$ and $f_2$, where $f_1$ and $f_2$ are the solutions to the quadratic equation $x^2 - 7x - 18 = 0$. What are the two possible frequencies?",
+           "options": {
+               "A": "$f_1 = 9$ Hz, $f_2 = -2$ Hz",
+               "B": "$f_1 = -2$ Hz, $f_2 = 9$ Hz",
+               "C": "$f_1 = 2$ Hz, $f_2 = -9$ Hz",
+               "D": "$f_1 = -9$ Hz, $f_2 = 2$ Hz",
+       "E": "$f_1 = 18$ Hz, $f_2 = -1$ Hz"
+   },
+           "answer": "A"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "An artist is creating a mosaic with two different colors of tiles, where the total number of tiles $t$ is related to the number of blue tiles $b$ by the quadratic equation $t = b^2 + 4b + 4$. If $t = 36$, how many blue tiles are there?",
+           "options": {
+               "A": "$b = 2$",
+               "B": "$b = 4$",
+               "C": "$b = 6$",
+               "D": "$b = 8$",
+               "E": "$b = 10$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "A choreographer is creating a dance routine that involves $n$ dancers. The number of possible formations $f$ is given by the quadratic equation $f = n^2 - 3n + 2$. If $f = 10$, how many dancers are there?",
+           "options": {
+               "A": "$n = 5$",
+               "B": "$n = 6$",
+       "C": "$n = 7$",
+       "D": "$n = 8$",
+       "E": "$n = 9$"
+   },
+           "answer": "B"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "A sculptor is creating a statue with a base that has a quadratic cross-section given by $x^2 + 5x + 6 = 0$. What are the possible dimensions $x$ of the base?",
+           "options": {
+               "A": "$x = -2$ and $x = -3$",
+               "B": "$x = -3$ and $x = -2$",
+               "C": "$x = 2$ and $x = 3$",
+       "D": "$x = -2$ and $x = 3$",
+       "E": "$x = 2$ and $x = -3$"
+   },
+           "answer": "A"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "A music producer is mixing a song with a frequency response curve that follows a quadratic equation $y = x^2 - 2x - 3$. If the frequency $x$ is in Hz and the amplitude $y$ is in decibels, at what frequency will the amplitude be $-4$ decibels?",
+           "options": {
+               "A": "$x = 3$ Hz",
+               "B": "$x = 4$ Hz",
+       "C": "$x = 5$ Hz",
+       "D": "$x = 6$ Hz",
+       "E": "$x = 7$ Hz"
+   },
+           "answer": "B"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "A photographer is taking a picture of a model on a staircase. The height $h$ of the model above the ground at time $t$ is given by the quadratic equation $h(t) = -4t^2 + 12t + 2$. Show that the solutions to the equation $h(t) = 6$ are $t = 1$ and $t = \frac{3}{2}$. You must show all work and explain your reasoning. Assume $t$ is in seconds.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "An artist is creating a painting with a series of concentric circles. The radius $r$ of each circle is related to the number of circles $n$ by the quadratic equation $r = n^2 - 2n + 1$. Find the radius of the circle when $n = 4$. Show all work and explain your reasoning.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Tip 1: Check that all quadratic equations are in the standard form $ax^2 + bx + c$.",
+       "Tip 2: Verify all solutions by plugging them back into the original equation.",
+       "Tip 3: Make sure to consider the context of each problem and use it to inform your solution."
+   ],
+   "footer": "Chef's Tips"
+}

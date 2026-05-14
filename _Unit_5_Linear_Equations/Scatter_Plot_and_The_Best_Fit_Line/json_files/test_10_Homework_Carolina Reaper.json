@@ -1,0 +1,129 @@
+{
+  "unit": "\u1F4D6 Unit 5: Linear Equations",
+   "topic": "Scatter Plot and The Best Fit Line",
+   "test_type": "Homework (Carolina Reaper)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "A music festival has a maximum capacity. If $x$ represents the number of attendees and $y$ represents the total revenue, which correlation would you expect to see in the scatter plot?",
+           "options": {
+               "A": "Positive",
+               "B": "Negative",
+               "C": "None",
+               "D": "Cannot determine",
+               "E": "Inverse"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "A painter notices that the larger the canvas size ($x$), the more time ($y$) it takes to finish a painting. What type of correlation can be expected?",
+           "options": {
+               "A": "Positive",
+               "B": "Negative",
+               "C": "None",
+               "D": "Inverse",
+               "E": "Direct"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "In a rhythm pattern, if the number of beats ($x$) increases, the time to complete the pattern ($y$) also increases. What can be said about the correlation?",
+           "options": {
+               "A": "Positive",
+               "B": "Negative",
+               "C": "None",
+               "D": "Cannot determine",
+               "E": "Inverse"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "The frequency of a musical note ($x$) and its corresponding wavelength ($y$) have a correlation. Which of the following is most likely true?",
+           "options": {
+               "A": "Positive",
+               "B": "Negative",
+               "C": "None",
+               "D": "Inverse",
+               "E": "Direct"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "A line of best fit is drawn for the data points $(1, 2), (2, 3), (3, 5)$. If the line of best fit is $y = mx + b$, what can be said about the value of $m$?",
+           "options": {
+               "A": "$m > 1$",
+               "B": "$m < 1$",
+               "C": "$m = 1$",
+               "D": "$m = 0$",
+       "E": "Cannot determine"
+   },
+           "answer": "A"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "A scatter plot shows a strong positive correlation between the number of hours ($x$) a musician practices and the number of songs ($y$) they can play. If the line of best fit is $y = 2x - 1$, what is the predicted number of songs a musician can play after practicing for 4 hours?",
+           "options": {
+               "A": "6",
+               "B": "7",
+               "C": "5",
+               "D": "4",
+       "E": "3"
+   },
+           "answer": "B"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "The data points $(2, 4), (4, 6), (6, 8)$ are plotted on a scatter plot. Which of the following lines of best fit is most suitable?",
+           "options": {
+               "A": "$y = x + 2$",
+               "B": "$y = 2x - 2$",
+               "C": "$y = x$",
+       "D": "$y = 2x$",
+       "E": "$y = x - 2$"
+   },
+           "answer": "D"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "A composer notices that the longer the duration ($x$) of a song, the more frequently ($y$) it is played on the radio. If the line of best fit is $y = 0.5x + 1$, what is the predicted frequency of a song with a duration of 10 minutes?",
+           "options": {
+               "A": "5",
+               "B": "6",
+               "C": "4",
+       "D": "3",
+       "E": "2"
+   },
+           "answer": "B"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "The table below shows the relationship between the number of art pieces ($x$) created by an artist and the total revenue ($y$) generated. Create a scatter plot and draw a line of best fit. Use the line of best fit to predict the revenue generated when the artist creates 10 pieces. \n $x$: 2, 4, 6, 8 \n $y$: 100, 200, 350, 500",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "A musician notices that the more they practice ($x$), the better they perform ($y$) in concerts. The table below shows the relationship between practice hours and performance ratings. Create a scatter plot, identify the correlation, and draw a line of best fit. Use the line of best fit to predict the performance rating when the musician practices for 12 hours. \n $x$: 1, 2, 3, 4 \n $y$: 60, 75, 80, 92",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Tip 1: Encourage students to use graph paper for scatter plots.",
+       "Tip 2: Remind students to label axes and title their graphs.",
+       "Tip 3: Suggest using technology to create and analyze scatter plots."
+   ],
+   "footer": "Chef's Tips"
+}

@@ -1,0 +1,129 @@
+{
+  "unit": "\u1F4D6 Unit 9: Data Statistical Analysis",
+   "topic": "Measures of Central Tendency",
+   "test_type": "Homework (Carolina Reaper)",
+   "questions": [
+     { 
+       "id": 1, 
+       "type": "MQ", 
+       "question": "A painter uses $5$ different brush sizes. The sizes are $10$, $15$, $20$, $25$, and $30$ mm. What is the $mean$ brush size?", 
+       "options": { 
+         "A": "$20$ mm", 
+         "B": "$21$ mm", 
+         "C": "$22$ mm", 
+         "D": "$23$ mm", 
+         "E": "$24$ mm" 
+       }, 
+       "answer": "B" 
+     },
+     { 
+       "id": 2, 
+       "type": "MQ", 
+       "question": "A music band has $7$ songs with the following lengths in minutes: $3$, $4$, $5$, $6$, $7$, $8$, $9$. What is the $median$ song length?", 
+       "options": { 
+         "A": "$4$ minutes", 
+         "B": "$5$ minutes", 
+         "C": "$6$ minutes", 
+         "D": "$7$ minutes", 
+         "E": "$8$ minutes" 
+       }, 
+       "answer": "C" 
+     },
+     { 
+       "id": 3, 
+       "type": "MQ", 
+       "question": "A sculptor creates $9$ statues with the following heights in cm: $150$, $160$, $170$, $170$, $170$, $180$, $190$, $200$, $210$. What is the $mode$ height?", 
+       "options": { 
+         "A": "$150$ cm", 
+         "B": "$160$ cm", 
+         "C": "$170$ cm", 
+         "D": "$180$ cm", 
+         "E": "$190$ cm" 
+       }, 
+       "answer": "C" 
+     },
+     { 
+       "id": 4, 
+       "type": "MQ", 
+       "question": "Two art galleries have the following number of paintings: Gallery A has $15$, $20$, $25$, $30$, $35$ paintings and Gallery B has $10$, $15$, $20$, $25$, $30$ paintings. Which gallery has a higher $mean$ number of paintings?", 
+       "options": { 
+         "A": "Gallery A", 
+         "B": "Gallery B", 
+         "C": "Both have the same mean", 
+         "D": "Not enough information", 
+         "E": "Cannot be determined" 
+       }, 
+       "answer": "A" 
+     },
+     { 
+       "id": 5, 
+       "type": "MQ", 
+       "question": "A musician practices for $4$, $5$, $6$, $7$, $8$ hours a day. What is the $range$ of practice hours?", 
+       "options": { 
+         "A": "$1$ hour", 
+         "B": "$2$ hours", 
+         "C": "$3$ hours", 
+         "D": "$4$ hours", 
+         "E": "$5$ hours" 
+       }, 
+       "answer": "D" 
+     },
+     { 
+       "id": 6, 
+       "type": "MQ", 
+       "question": "A painter has $3$ canvases with the following areas in square meters: $10$, $15$, $20$. What is the $median$ area?", 
+       "options": { 
+         "A": "$10$ m^2", 
+         "B": "$12$ m^2", 
+         "C": "$15$ m^2", 
+         "D": "$18$ m^2", 
+         "E": "$20$ m^2" 
+       }, 
+       "answer": "C" 
+     },
+     { 
+       "id": 7, 
+       "type": "MQ", 
+       "question": "A composer writes $5$ songs with the following time signatures: $3/4$, $4/4$, $4/4$, $5/4$, $6/4$. What is the $mode$ time signature?", 
+       "options": { 
+         "A": "$3/4$", 
+         "B": "$4/4$", 
+         "C": "$5/4$", 
+         "D": "$6/4$", 
+         "E": "No mode" 
+       }, 
+       "answer": "B" 
+     },
+     { 
+       "id": 8, 
+       "type": "MQ", 
+       "question": "Two music albums have the following number of tracks: Album A has $10$, $12$, $15$, $18$, $20$ tracks and Album B has $8$, $10$, $12$, $15$, $18$ tracks. Which album has a higher $median$ number of tracks?", 
+       "options": { 
+         "A": "Album A", 
+         "B": "Album B", 
+         "C": "Both have the same median", 
+         "D": "Not enough information", 
+         "E": "Cannot be determined" 
+       }, 
+       "answer": "A" 
+     },
+     { 
+       "id": 9, 
+       "type": "FRQ", 
+       "question": "A dance company has $6$ performances with the following audience sizes: $200$, $250$, $300$, $350$, $400$, $450$. Calculate the $mean$, $median$, and $mode$ audience sizes. Show all work and explain your answers.", 
+       "required_space_lines": 5 
+     },
+     { 
+       "id": 10, 
+       "type": "FRQ", 
+       "question": "A painter has $8$ paintings with the following prices in dollars: $500$, $600$, $700$, $800$, $900$, $1000$, $1100$, $1200$. Calculate the $mean$, $median$, and $range$ of the prices. Explain how these measures of central tendency help describe the data set.", 
+       "required_space_lines": 5 
+     }
+   ],
+   "teacher_rules": [
+     "Ensure students use proper mathematical notation and show work for all calculations.",
+     "Emphasize the importance of interpreting the results in context.",
+     "Encourage students to compare and contrast the different measures of central tendency."
+   ],
+   "footer": "Chef's Tips"
+}

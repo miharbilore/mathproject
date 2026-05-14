@@ -1,0 +1,150 @@
+{
+  "test_id": 3,
+  "test_type": "Foundation",
+  "topic": "Algebra 1: Polynomials",
+  "questions": [
+    {
+      "id": 1,
+      "type": "MQ",
+      "question": "Which of the following expressions is a polynomial?",
+      "options": {
+        "A": "$2x^2 + \\frac{3}{x}$",
+        "B": "$\\sqrt{x} + 5$",
+        "C": "$4x^3 - 2x + 7$",
+        "D": "$x^{-2} + 4x$",
+        "E": "$2^x + 1$"
+      },
+      "answer": "C",
+      "spicy_level": "🌶️",
+      "required_space_lines": 0
+    },
+    {
+      "id": 2,
+      "type": "MQ",
+      "question": "What is the degree of the polynomial $5x^4 - 3x^2 + 2x - 1$?",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4",
+        "E": "5"
+      },
+      "answer": "D",
+      "spicy_level": "🌶️",
+      "required_space_lines": 0
+    },
+    {
+      "id": 3,
+      "type": "MQ",
+      "question": "Simplify the expression by combining like terms: $(3x^2 + 5x) + (2x^2 - 8x)$.",
+      "options": {
+        "A": "$5x^2 - 3x$",
+        "B": "$5x^2 + 13x$",
+        "C": "$x^2 - 3x$",
+        "D": "$6x^2 - 40x$",
+        "E": "$5x^4 - 3x$"
+      },
+      "answer": "A",
+      "spicy_level": "🌶️",
+      "required_space_lines": 0
+    },
+    {
+      "id": 4,
+      "type": "MQ",
+      "question": "Subtract the polynomials: $(7x - 4) - (3x + 2)$.",
+      "options": {
+        "A": "$4x - 2$",
+        "B": "$4x - 6$",
+        "C": "$10x - 6$",
+        "D": "$4x + 6$",
+        "E": "$10x - 2$"
+      },
+      "answer": "B",
+      "spicy_level": "🌶️",
+      "required_space_lines": 0
+    },
+    {
+      "id": 5,
+      "type": "MQ",
+      "question": "Find the product: $2x(3x^2 - 4)$.",
+      "options": {
+        "A": "$6x^2 - 8x$",
+        "B": "$5x^3 - 8x$",
+        "C": "$6x^3 - 4$",
+        "D": "$6x^3 - 8x$",
+        "E": "$6x^3 - 8$"
+      },
+      "answer": "D",
+      "spicy_level": "🌶️",
+      "required_space_lines": 0
+    },
+    {
+      "id": 6,
+      "type": "MQ",
+      "question": "Multiply the binomials: $(x + 3)(x + 4)$.",
+      "options": {
+        "A": "$x^2 + 7$",
+        "B": "$x^2 + 12$",
+        "C": "$x^2 + 7x + 7$",
+        "D": "$x^2 + 12x + 7$",
+        "E": "$x^2 + 7x + 12$"
+      },
+      "answer": "E",
+      "spicy_level": "🌶️",
+      "required_space_lines": 0
+    },
+    {
+      "id": 7,
+      "type": "MQ",
+      "question": "Expand the square of the binomial: $(x - 5)^2$.",
+      "options": {
+        "A": "$x^2 - 25$",
+        "B": "$x^2 + 25$",
+        "C": "$x^2 - 10x + 25$",
+        "D": "$x^2 - 5x + 25$",
+        "E": "$x^2 + 10x + 25$"
+      },
+      "answer": "C",
+      "spicy_level": "🌶️",
+      "required_space_lines": 0
+    },
+    {
+      "id": 8,
+      "type": "MQ",
+      "question": "Identify the leading coefficient of the polynomial $-2x^3 + 5x^2 - x + 9$.",
+      "options": {
+        "A": "9",
+        "B": "5",
+        "C": "3",
+        "D": "-2",
+        "E": "-1"
+      },
+      "answer": "D",
+      "spicy_level": "🌶️",
+      "required_space_lines": 0
+    },
+    {
+      "id": 9,
+      "type": "FRQ",
+      "question": "Write the polynomial $4 - 2x + 7x^3$ in standard form. Then, identify the degree, the leading coefficient, and the constant term.",
+      "options": null,
+      "answer": "Standard form: $7x^3 - 2x + 4$. Degree: 3. Leading Coefficient: 7. Constant term: 4.",
+      "spicy_level": "🌶️",
+      "required_space_lines": 8
+    },
+    {
+      "id": 10,
+      "type": "FRQ",
+      "question": "A rectangle has a length of $(x + 6)$ and a width of $(x - 2)$. Write a polynomial in standard form that represents the area of the rectangle. Show your work using the distributive property or FOIL method.",
+      "options": null,
+      "answer": "Area = length $\\times$ width = $(x + 6)(x - 2) = x^2 - 2x + 6x - 12 = x^2 + 4x - 12$.",
+      "spicy_level": "🌶️",
+      "required_space_lines": 8
+    }
+  ],
+  "hints": [
+    "When adding or subtracting polynomials, ensure you only combine 'like terms' which have the exact same variable and exponent.",
+    "Standard form means writing the terms in descending order of their exponents, from the highest power to the lowest.",
+    "When multiplying two binomials, remember FOIL: multiply the First terms, Outer terms, Inner terms, and Last terms, then simplify."
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "unit": "\u1f4d6 Unit 6: Systems of Linear Equations and Inequalities",
+   "topic": "Applications of Systems of Inequalities",
+   "test_type": "Homework (Carolina Reaper)",
+   "questions": [
+      {
+         "id": 1,
+         "type": "MQ",
+         "question": "A music producer has $x$ hours to record a song and $y$ hours to mix it. If $x + 2y leq 10$ and $x geq 2$, what is the maximum value of $y$?",
+         "options": {
+            "A": "$2$",
+            "B": "$3$",
+            "C": "$4$",
+            "D": "$5$",
+            "E": "$6$"
+         },
+         "answer": "B"
+      },
+      {
+         "id": 2,
+         "type": "MQ",
+         "question": "An artist is creating a painting with a canvas size of $x$ feet by $y$ feet. If $x geq 3$, $y geq 2$, and $2x + y leq 12$, what is the maximum area of the painting?",
+         "options": {
+            "A": "$18$ sq ft",
+            "B": "$20$ sq ft",
+            "C": "$24$ sq ft",
+            "D": "$30$ sq ft",
+            "E": "$36$ sq ft"
+         },
+         "answer": "C"
+      },
+      {
+         "id": 3,
+         "type": "MQ",
+         "question": "A rhythm pattern has a frequency of $x$ beats per minute and a duration of $y$ minutes. If $x geq 100$, $y geq 2$, and $x cdot y leq 1200$, what is the maximum duration of the rhythm pattern?",
+         "options": {
+            "A": "$8$ min",
+            "B": "$10$ min",
+            "C": "$12$ min",
+            "D": "$15$ min",
+            "E": "$20$ min"
+         },
+         "answer": "B"
+      },
+      {
+         "id": 4,
+         "type": "MQ",
+         "question": "A music festival has $x$ stages and $y$ food vendors. If $x + y leq 15$ and $x geq 3$, what is the maximum number of food vendors?",
+         "options": {
+            "A": "$8$",
+            "B": "$10$",
+            "C": "$12$",
+            "D": "$15$",
+            "E": "$20$"
+         },
+         "answer": "B"
+      },
+      {
+         "id": 5,
+         "type": "MQ",
+         "question": "An arts center has a budget of $$x$ for a new exhibit and $$y$ for marketing. If $x + 2y leq 10000$ and $x geq 2000$, what is the maximum amount for marketing?",
+         "options": {
+            "A": "$3000$",
+            "B": "$4000$",
+            "C": "$5000$",
+            "D": "$6000$",
+            "E": "$8000$"
+         },
+         "answer": "C"
+      },
+      {
+         "id": 6,
+         "type": "MQ",
+         "question": "A graphic designer is creating a poster with a width of $x$ inches and a height of $y$ inches. If $x geq 10$, $y geq 5$, and $2x + y leq 30$, what is the maximum area of the poster?",
+         "options": {
+            "A": "$50$ sq in",
+            "B": "$60$ sq in",
+            "C": "$75$ sq in",
+            "D": "$100$ sq in",
+            "E": "$120$ sq in"
+         },
+         "answer": "C"
+      },
+      {
+         "id": 7,
+         "type": "MQ",
+         "question": "A music school has $x$ students and $y$ teachers. If $x geq 20$, $y geq 5$, and $x cdot y leq 200$, what is the maximum number of teachers?",
+         "options": {
+            "A": "$5$",
+            "B": "$8$",
+            "C": "$10$",
+            "D": "$12$",
+            "E": "$15$"
+         },
+         "answer": "B"
+      },
+      {
+         "id": 8,
+         "type": "MQ",
+         "question": "A concert has $x$ seats and $y$ concession stands. If $x + 2y leq 1000$ and $x geq 500$, what is the maximum number of concession stands?",
+         "options": {
+            "A": "$200$",
+            "B": "$250$",
+            "C": "$300$",
+            "D": "$400$",
+            "E": "$500$"
+         },
+         "answer": "B"
+      },
+      {
+         "id": 9,
+         "type": "FRQ",
+         "question": "A museum has a budget of $$x$ for a new exhibit and $$y$ for security. If $x + 2y leq 50000$ and $x geq 10000$, find the maximum amount for security and the corresponding exhibit budget.",
+         "required_space_lines": 5
+      },
+      {
+         "id": 10,
+         "type": "FRQ",
+         "question": "A recording studio has $x$ hours to record a song and $y$ hours to mix it. If $x + 2y leq 20$ and $x geq 4$, find the maximum value of $y$ and the corresponding recording time.",
+         "required_space_lines": 5
+      }
+   ],
+   "teacher_rules": [
+      "Read each question carefully",
+      "Use a pencil to fill in the answer bubbles",
+      "Show work for free-response questions"
+   ],
+   "footer_title": "Chef's Tips"
+}

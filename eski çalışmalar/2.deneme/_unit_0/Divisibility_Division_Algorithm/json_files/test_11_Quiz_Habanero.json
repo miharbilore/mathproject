@@ -1,0 +1,129 @@
+{
+  "unit": "Unit 0: Foundations of Algebra",
+   "topic": "Divisibility & Division Algorithm",
+   "test_type": "Quiz (Habanero)",
+   "questions": [
+      {
+         "id": 1,
+         "type": "MQ",
+         "question": "A water tank can hold $480$ gallons of water. If $3$ sprinklers use $15$ gallons each per day, how many days will the tank last? Use divisibility rules to find the quotient.",
+         "options": {
+            "A": "8",
+            "B": "9",
+            "C": "10",
+            "D": "12",
+            "E": "15"
+         },
+         "answer": "B"
+      },
+      {
+         "id": 2,
+         "type": "MQ",
+         "question": "What is the remainder when $53$ is divided by $5$?",
+         "options": {
+            "A": "0",
+            "B": "1",
+            "C": "2",
+            "D": "3",
+            "E": "4"
+         },
+         "answer": "D"
+      },
+      {
+         "id": 3,
+         "type": "MQ",
+         "question": "A park ranger recorded $27$ degrees Celsius at $8$ AM and $37$ degrees at $2$ PM. What is the difference in temperature? If the difference is divisible by $3$, what is the quotient?",
+         "options": {
+            "A": "8",
+            "B": "9",
+            "C": "10",
+            "D": "11",
+            "E": "12"
+         },
+         "answer": "C"
+      },
+      {
+         "id": 4,
+         "type": "MQ",
+         "question": "In an ecosystem, a tree absorbs $18$ gallons of water per day. If the tree needs to absorb $90$ gallons of water to reach its daily limit, how many days will it take? Use division with remainder to find the answer.",
+         "options": {
+            "A": "4 R 6",
+            "B": "5 R 0",
+            "C": "4 R 10",
+            "D": "5 R 2",
+            "E": "4 R 2"
+         },
+         "answer": "B"
+      },
+      {
+         "id": 5,
+         "type": "MQ",
+         "question": "What is the result of $24 \\div 3$ using the division algorithm?",
+         "options": {
+            "A": "$8$ R $0$",
+            "B": "$7$ R $1$",
+            "C": "$6$ R $2$",
+            "D": "$5$ R $3$",
+            "E": "$4$ R $4$"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 6,
+         "type": "MQ",
+         "question": "If $15$ baskets can hold $45$ apples, and $3$ apples are taken from each basket, how many apples are left in each basket? Use the divisibility rule of $3$ to find the answer.",
+         "options": {
+            "A": "0",
+            "B": "1",
+            "C": "2",
+            "D": "3",
+            "E": "4"
+         },
+         "answer": "B"
+      },
+      {
+         "id": 7,
+         "type": "MQ",
+         "question": "A weather station recorded $36$ inches of rainfall in a month. If the rainfall was evenly distributed throughout $4$ weeks, how many inches of rainfall occurred per week? Use division with remainder to find the answer.",
+         "options": {
+            "A": "9 R 0",
+            "B": "8 R 2",
+            "C": "9 R 1",
+            "D": "8 R 4",
+            "E": "7 R 3"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 8,
+         "type": "MQ",
+         "question": "What is the remainder when $75$ is divided by $9$?",
+         "options": {
+            "A": "3",
+            "B": "6",
+            "C": "0",
+            "D": "5",
+            "E": "4"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 9,
+         "type": "FRQ",
+         "question": "In a greenhouse, $48$ plants are arranged in rows. If each row can hold $8$ plants, how many rows can be made? Use long division to find the quotient and remainder, and explain your reasoning in the space provided below.",
+         "required_space_lines": 5
+      },
+      {
+         "id": 10,
+         "type": "FRQ",
+         "question": "A researcher studied the temperature changes in a region and found that the average temperature increased by $18$ degrees Fahrenheit over $6$ years. If the temperature increase is evenly distributed throughout the years, what is the temperature increase per year? Use division with remainder to find the answer and show your work in the space provided below.",
+         "required_space_lines": 5
+      }
+   ],
+   "teacher_rules": [
+      "Tip 1: Encourage students to use visual aids to solve division problems.",
+      "Tip 2: Remind students to check their remainder when using the division algorithm.",
+      "Tip 3: Emphasize the importance of explaining the reasoning behind their answers."
+   ],
+   "footer_title": "Chef's Tips"
+}

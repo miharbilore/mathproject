@@ -1,0 +1,129 @@
+{
+  "unit": "\u1F4D6 Unit 5: Linear Equations",
+   "topic": "Point-Slope Form, Slope-Intercept Form, Standard Form and Converting Forms",
+   "test_type": "Homework (Habanero)",
+   "questions": [
+     { 
+       "id": 1, 
+       "type": "MQ", 
+       "question": "What is the equation of a line that passes through the point $(2,3)$ with a slope of $4$ in point-slope form?", 
+       "options": { 
+         "A": "$y - 3 = 4(x - 2)$", 
+         "B": "$y = 4x - 5$", 
+         "C": "$x - 2 = 4(y - 3)$", 
+         "D": "$y = 3x + 1$", 
+         "E": "$y = 4x - 1$"
+       }, 
+       "answer": "A" 
+     },
+     { 
+       "id": 2, 
+       "type": "MQ", 
+       "question": "A patient's temperature $T$ in degrees Fahrenheit is related to the time $t$ in hours by the equation $T = 2t + 98.6$. What is the equation in standard form?", 
+       "options": { 
+         "A": "$2t + T = 98.6$", 
+         "B": "$t - 0.5T = -49.3$", 
+         "C": "$T - 2t = 98.6$", 
+         "D": "$2t - T = -98.6$", 
+         "E": "$-2t + T = 98.6$"
+       }, 
+       "answer": "D" 
+     },
+     { 
+       "id": 3, 
+       "type": "MQ", 
+       "question": "What is the slope-intercept form of the line $x + 2y = 5$?", 
+       "options": { 
+         "A": "$y = -0.5x + 2.5$", 
+         "B": "$y = 2x + 1$", 
+         "C": "$y = -2x + 5$", 
+         "D": "$y = 0.5x - 2.5$", 
+         "E": "$y = x - 2.5$"
+       }, 
+       "answer": "A" 
+     },
+     { 
+       "id": 4, 
+       "type": "MQ", 
+       "question": "A dosage of medicine is related to a patient's weight $w$ in pounds by the equation $d = 0.2w + 5$. What does the slope represent in this context?", 
+       "options": { 
+         "A": "dosage increase per pound", 
+         "B": "weight increase per dosage", 
+         "C": "initial dosage", 
+         "D": "weight decrease per dosage", 
+         "E": "weight at which the dosage is zero"
+       }, 
+       "answer": "A" 
+     },
+     { 
+       "id": 5, 
+       "type": "MQ", 
+       "question": "The equation of a line in slope-intercept form is $y = -3x + 2$. What is the equation in point-slope form if the line passes through $(0, 2)$?", 
+       "options": { 
+         "A": "$y - 2 = -3(x - 0)$", 
+         "B": "$y = -3x + 2$", 
+         "C": "$y + 2 = 3(x + 0)$", 
+         "D": "$y - 0 = -3(x - 2)$", 
+         "E": "$y + 3 = 2(x - 0)$"
+       }, 
+       "answer": "A" 
+     },
+     { 
+       "id": 6, 
+       "type": "MQ", 
+       "question": "What is the $y$-intercept of the equation $y = 2x - 3$?", 
+       "options": { 
+         "A": "$-3$", 
+         "B": "$2$", 
+         "C": "$3$", 
+         "D": "$-2$", 
+         "E": "$1$"
+       }, 
+       "answer": "A" 
+     },
+     { 
+       "id": 7, 
+       "type": "MQ", 
+       "question": "The growth rate of a cell culture $P$ is modeled by $P = 0.5t + 200$, where $t$ is the time in hours. What is the growth rate?", 
+       "options": { 
+         "A": "$0.5$ cells per hour", 
+         "B": "$200$ cells per hour", 
+         "C": "$0.5 \\cdot 200$ cells per hour", 
+         "D": "$t$ cells per hour", 
+         "E": "$200t$ cells per hour"
+       }, 
+       "answer": "A" 
+     },
+     { 
+       "id": 8, 
+       "type": "MQ", 
+       "question": "What is the equation of the line $y = 4$ in standard form?", 
+       "options": { 
+         "A": "$y = 4$", 
+         "B": "$4y = 1$", 
+         "C": "$0x - y = -4$", 
+         "D": "$y - 4 = 0$", 
+         "E": "$y + 0x = 4$"
+       }, 
+       "answer": "C" 
+     },
+     { 
+       "id": 9, 
+       "type": "FRQ", 
+       "question": "The dosage $d$ of a medicine is related to a patient's weight $w$ by the equation $d = 0.1w + 2$. Graph this equation and label the $y$-intercept. If a patient's weight is $120$ pounds, what dosage should be administered? Show all work and calculations.", 
+       "required_space_lines": 5 
+     },
+     { 
+       "id": 10, 
+       "type": "FRQ", 
+       "question": "The growth rate $P$ of a cell culture is modeled by $P = 0.8t + 150$, where $t$ is the time in hours. What is the growth rate? Use this information to determine the time at which the cell culture will have $500$ cells. Show all work and calculations.", 
+       "required_space_lines": 5 
+     }
+   ],
+   "teacher_rules": [
+     "Ensure students show all work for free response questions.", 
+     "Allow the use of graphing calculators for graphing.", 
+     "Remind students to label all axes and include units when graphing."
+   ],
+   "footer": "Chef's Tips"
+}

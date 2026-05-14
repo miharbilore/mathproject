@@ -1,0 +1,128 @@
+{
+  "unit": "\u1F4D6 Unit 9: Data Statistical Analysis",
+   "topic": "Two-Way Tables",
+   "test_type": "Challenge (Habanero)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "A recipe book contains $24$ recipes, with $12$ being vegetarian and $8$ having a cooking time of over $30$ minutes. If $4$ recipes are both vegetarian and take over $30$ minutes to cook, what is the probability that a randomly selected recipe is either vegetarian or takes over $30$ minutes to cook?",
+           "options": {
+               "A": "$\\frac{5}{6}$",
+               "B": "$\\frac{2}{3}$",
+               "C": "$\\frac{3}{4}$",
+               "D": "$\\frac{1}{2}$",
+               "E": "$\\frac{1}{3}$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "A construction company builds houses with either a flat or a sloping roof. The relative frequencies of houses with flat and sloping roofs in a particular neighborhood are $0.4$ and $0.6$, respectively. If $30$ houses have flat roofs, how many houses are there in the neighborhood?",
+           "options": {
+               "A": "50",
+               "B": "60",
+               "C": "70",
+               "D": "75",
+               "E": "80"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "A restaurant owner wants to analyze the association between the type of cuisine and the day of the week. The two-way table below shows the frequency of customers who order Italian, Mexican, or Indian food on Monday, Tuesday, or Wednesday. What is the relative frequency of customers who order Italian food on Monday?",
+           "options": {
+               "A": "$\\frac{1}{10}$",
+               "B": "$\\frac{1}{5}$",
+               "C": "$\\frac{1}{3}$",
+               "D": "$\\frac{2}{5}$",
+               "E": "$\\frac{3}{5}$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "A baker sells $240$ loaves of bread per day, with $120$ being whole wheat and $80$ being white bread. If $40$ customers buy both whole wheat and white bread, what is the probability that a randomly selected customer buys either whole wheat or white bread?",
+           "options": {
+               "A": "$\\frac{3}{4}$",
+               "B": "$\\frac{2}{3}$",
+               "C": "$\\frac{3}{5}$",
+               "D": "$\\frac{1}{2}$",
+               "E": "$\\frac{1}{3}$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "A chef wants to analyze the relationship between the method of cooking and the type of meat used. The two-way table below shows the frequency of chicken, beef, and pork cooked using grilling, roasting, or saut\u00e9ing. What is the relative frequency of beef cooked using roasting?",
+           "options": {
+               "A": "$\\frac{1}{6}$",
+               "B": "$\\frac{1}{4}$",
+               "C": "$\\frac{1}{3}$",
+               "D": "$\\frac{2}{5}$",
+               "E": "$\\frac{1}{2}$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "A contractor builds houses with either $2$, $3$, or $4$ bedrooms. The relative frequencies of houses with $2$, $3$, and $4$ bedrooms are $0.2$, $0.5$, and $0.3$, respectively. If $120$ houses have $3$ bedrooms, how many houses are there in total?",
+           "options": {
+               "A": "150",
+               "B": "200",
+               "C": "240",
+               "D": "250",
+               "E": "300"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "A recipe calls for $2$ cups of flour, $1$ cup of sugar, and $0.5$ cups of milk. If $1$ cup of flour weighs $120$ grams, $1$ cup of sugar weighs $200$ grams, and $1$ cup of milk weighs $240$ grams, what is the total weight of the ingredients?",
+           "options": {
+               "A": "$480$ grams",
+               "B": "$520$ grams",
+               "C": "$600$ grams",
+               "D": "$720$ grams",
+       "E": "$820$ grams"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "A builder uses either $10$mm, $15$mm, or $20$mm pipes for plumbing. The relative frequencies of $10$mm, $15$mm, and $20$mm pipes are $0.3$, $0.4$, and $0.3$, respectively. If $60$ pipes are $15$mm, how many pipes are there in total?",
+           "options": {
+               "A": "100",
+               "B": "120",
+               "C": "150",
+               "D": "180",
+               "E": "200"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "A two-way table shows the frequency of houses with $1$, $2$, or $3$ stories and the type of roofing material used (asphalt, metal, or tile). The table is as follows: \n| Stories | Asphalt | Metal | Tile | Total |\n| --- | --- | --- | --- | --- |\n| $1$ | $20$ | $10$ | $15$ | $45$ |\n| $2$ | $30$ | $20$ | $10$ | $60$ |\n| $3$ | $15$ | $25$ | $20$ | $60$ |\n| Total | $65$ | $55$ | $45$ | $165$ |\nCalculate the relative frequency of houses with $2$ stories and metal roofing.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "A chef wants to analyze the association between the type of dessert (cake, pie, or ice cream) and the day of the week (Monday, Tuesday, or Wednesday). The two-way table below shows the frequency of customers who order each type of dessert on each day. \n| Dessert | Monday | Tuesday | Wednesday | Total |\n| --- | --- | --- | --- | --- |\n| Cake | $15$ | $20$ | $10$ | $45$ |\n| Pie | $10$ | $15$ | $20$ | $45$ |\n| Ice Cream | $20$ | $10$ | $15$ | $45$ |\n| Total | $45$ | $45$ | $45$ | $135$ |\nCalculate the probability that a customer orders cake on Tuesday.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Chef's Tips: Read each question carefully and choose the correct answer.",
+       "Workings and explanations are not required for multiple-choice questions.",
+       "For free-response questions, show all workings and explanations."
+   ]
+}

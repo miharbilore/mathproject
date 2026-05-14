@@ -1,0 +1,129 @@
+{
+  "unit": "Unit 0: Foundations of Algebra",
+   "topic": "Equations",
+   "test_type": "Homework (Carolina Reaper)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "A musician is tuning her guitar. If she tightens a string to $3 \\cdot x$ Hz and then loosens it to $2 \\cdot x + 5$ Hz, what is $x$ if the resulting frequency equals $11$ Hz?",
+           "options": {
+               "A": "1",
+               "B": "2",
+               "C": "3",
+               "D": "4",
+               "E": "5"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "An artist is mixing paint on a $12 \\cdot x$ by $15 \\cdot x$ cm canvas. If the area of the canvas is $1800$ square cm, what is $x$?",
+           "options": {
+               "A": "2",
+               "B": "3",
+               "C": "4",
+               "D": "5",
+               "E": "6"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "A DJ is creating a rhythm pattern with a $2 \\cdot x + 1$ beat intro, followed by a $5 \\cdot x - 3$ beat verse. If the total duration is $23$ beats, what is $x$?",
+           "options": {
+               "A": "2",
+               "B": "3",
+               "C": "4",
+               "D": "5",
+               "E": "6"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "A sound engineer is adjusting the frequency of a speaker to $x - 2$ Hz. If the new frequency is $5$ Hz higher than the original $8$ Hz, what is $x$?",
+           "options": {
+               "A": "10",
+               "B": "11",
+               "C": "12",
+               "D": "13",
+               "E": "14"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "A music producer is creating a song with a tempo of $120 + 2 \\cdot x$ beats per minute. If the tempo increases by $10$ beats per minute, what is $x$?",
+           "options": {
+               "A": "2",
+               "B": "3",
+               "C": "4",
+               "D": "5",
+               "E": "6"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "An art gallery has a painting with a frame that is $2 \\cdot x$ cm wide and $3 \\cdot x$ cm tall. If the frame's area is $96$ square cm, what is $x$?",
+           "options": {
+               "A": "2",
+               "B": "3",
+               "C": "4",
+               "D": "5",
+               "E": "6"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "A drummer is playing a rhythm with $x + 2$ beats in the intro and $2 \\cdot x - 1$ beats in the verse. If the total number of beats is $15$, what is $x$?",
+           "options": {
+               "A": "3",
+               "B": "4",
+               "C": "5",
+               "D": "6",
+               "E": "7"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "A sound wave has a frequency of $x - 3$ Hz. If the frequency increases by $2$ Hz, what is $x$ if the new frequency is $7$ Hz?",
+           "options": {
+               "A": "6",
+               "B": "7",
+               "C": "8",
+               "D": "9",
+               "E": "10"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "Solve the equation $2 \\cdot x + 5 = 11$ and check your solution for accuracy. Show all work.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "A painter is creating a mural on a $10 \\cdot x$ by $8 \\cdot x$ foot wall. If the area of the wall is $480$ square feet, solve for $x$ and check your solution. Show all work.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Tip 1: Ensure students show all work for FRQs",
+       "Tip 2: Encourage students to check their solutions for accuracy",
+       "Tip 3: Remind students to use proper mathematical notation"
+   ],
+   "footer": "Chef's Tips"
+}

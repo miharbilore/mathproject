@@ -1,0 +1,129 @@
+{
+  "unit": "\u1F4D6 Unit 9: Data Statistical Analysis",
+   "topic": "Stem and Leaf Plots",
+   "test_type": "Foundation (Jalapeno)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "What is the purpose of a stem-and-leaf plot in sports statistics?",
+           "options": {
+               "A": "To compare team scores",
+               "B": "To display individual player scores",
+               "C": "To show the distribution of scores",
+               "D": "To rank players by distance run",
+               "E": "To calculate team averages"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "Which of the following is a benefit of using a stem-and-leaf plot to analyze marathon finishing times?",
+           "options": {
+               "A": "Easy to compare with other sports",
+               "B": "Difficult to interpret for large datasets",
+               "C": "Allows for quick identification of outliers",
+               "D": "Only useful for team sports",
+               "E": "Requires advanced mathematical knowledge"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "A basketball player scored the following points in 5 games: $12, 15, 20, 18, 22$. Which stem-and-leaf plot represents these scores?",
+           "options": {
+               "A": "1 | 2 5 8, 2 | 0 2",
+               "B": "1 | 2 5 8 0, 2 | 2",
+               "C": "1 | 2 5 8, 2 | 0",
+               "D": "1 | 2 5, 2 | 0 2",
+               "E": "1 | 2 5 8 0 2"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "The stem-and-leaf plot below represents the $100m$ dash times (in seconds) for a group of sprinters: $9 | 5 8 9, 10 | 1 2 5$. Which of the following statements is true about the data?",
+           "options": {
+               "A": "All times are above $10$ seconds",
+               "B": "Most times are below $10$ seconds",
+               "C": "The fastest time is $9.5$ seconds",
+               "D": "The slowest time is $10.5$ seconds",
+               "E": "There is an outlier at $10.2$ seconds"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "A golfer's scores for 7 rounds are: $75, 72, 80, 78, 85, 76, 82$. What is the stem of the score $82$ in a stem-and-leaf plot?",
+           "options": {
+               "A": "7",
+       "B": "8",
+       "C": "75",
+       "D": "80",
+       "E": "85"
+   },
+   "answer": "B"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "Which type of data is best represented by a stem-and-leaf plot?",
+           "options": {
+               "A": "Categorical data",
+               "B": "Ordinal data",
+               "C": "Numerical data",
+               "D": "Geographical data",
+               "E": "Time-series data"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "What does the leaf represent in a stem-and-leaf plot of tennis serve speeds (in $mph$)?",
+           "options": {
+               "A": "The ones digit of the speed",
+               "B": "The tens digit of the speed",
+               "C": "The hundreds digit of the speed",
+               "D": "The unit of measurement",
+               "E": "The player's name"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "The stem-and-leaf plot below displays the times (in minutes) it took for a group of cyclists to complete a race: $2 | 5 8, 3 | 1 4 9$. How many cyclists completed the race in under $3$ minutes?",
+           "options": {
+               "A": "1",
+               "B": "2",
+               "C": "3",
+               "D": "4",
+               "E": "5"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "Create a stem-and-leaf plot for the following basketball scores: $18, 22, 20, 25, 30, 28, 19$. Use the stem as the tens digit and the leaf as the ones digit.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "The times (in seconds) for a $400m$ dash are given below. Create a stem-and-leaf plot and interpret the distribution of the times: $48, 52, 50, 55, 58, 49, 53$. Use the stem as the tens digit and the leaf as the ones digit.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Provide a variety of real-world examples to illustrate the importance of stem-and-leaf plots in sports statistics.",
+       "Encourage students to use technology, such as graphing calculators or software, to create and analyze stem-and-leaf plots.",
+       "Emphasize the importance of accurate and precise calculations when creating and interpreting stem-and-leaf plots."
+   ],
+   "footer": "Chef's Tips"
+}

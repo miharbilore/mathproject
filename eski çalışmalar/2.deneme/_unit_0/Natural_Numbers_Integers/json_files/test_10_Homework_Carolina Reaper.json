@@ -1,0 +1,129 @@
+{
+  "unit": "Unit 0: Foundations of Algebra",
+   "topic": "Natural Numbers & Integers",
+   "test_type": "Homework (Carolina Reaper)",
+   "questions": [
+     {
+       "id": 1,
+       "type": "MQ",
+       "question": "A symphony has $3 \\cdot 4$ movements. How many movements are there in total?",
+       "options": {
+         "A": "10",
+         "B": "12",
+         "C": "14",
+         "D": "16",
+         "E": "20"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 2,
+       "type": "MQ",
+       "question": "A rhythm pattern repeats every $5$ beats. If it starts on beat $0$, on which beat will it repeat for the $4^{th}$ time?",
+       "options": {
+         "A": "15",
+         "B": "16",
+         "C": "19",
+         "D": "20",
+         "E": "21"
+       },
+       "answer": "D"
+     },
+     {
+       "id": 3,
+       "type": "MQ",
+       "question": "The frequency of a sound wave is $-2 \\cdot 10^{2}$ Hz. Is this frequency odd or even?",
+       "options": {
+         "A": "Odd",
+         "B": "Even",
+         "C": "Neither",
+         "D": "Both",
+         "E": "Cannot Determine"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 4,
+       "type": "MQ",
+       "question": "A painter uses $12$ colors to create a canvas. If she adds $-4$ more colors, how many colors does she have now?",
+       "options": {
+         "A": "8",
+         "B": "10",
+         "C": "12",
+         "D": "16",
+         "E": "20"
+       },
+       "answer": "A"
+     },
+     {
+       "id": 5,
+       "type": "MQ",
+       "question": "A musician plays a $3$-note pattern, then a $5$-note pattern. If this sequence repeats, what is the next note in the pattern after $3 + 5 = 8$ notes?",
+       "options": {
+         "A": "1^{st}$ note of the $3$-note pattern",
+         "B": "2^{nd}$ note of the $3$-note pattern",
+         "C": "3^{rd}$ note of the $3$-note pattern",
+         "D": "1^{st}$ note of the $5$-note pattern",
+         "E": "2^{nd}$ note of the $5$-note pattern"
+       },
+       "answer": "A"
+     },
+     {
+       "id": 6,
+       "type": "MQ",
+       "question": "A canvas size is given as $6 \\times -2$. What is the area of the canvas?",
+       "options": {
+         "A": "$-12$",
+         "B": "$12$",
+         "C": "$-6$",
+         "D": "$6$",
+         "E": "$0$"
+       },
+       "answer": "A"
+     },
+     {
+       "id": 7,
+       "type": "MQ",
+       "question": "The integer $-3$ represents a low pitch in music. If this pitch is increased by $2$, what is the new pitch?",
+       "options": {
+         "A": "$-1$",
+         "B": "$-2$",
+         "C": "$-3$",
+         "D": "$-4$",
+         "E": "$-5$"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 8,
+       "type": "MQ",
+       "question": "A dance has a rhythm pattern of $2, 4, 6, 8, ...$. What comes next in the pattern?",
+       "options": {
+         "A": "9",
+         "B": "10",
+         "C": "12",
+         "D": "14",
+         "E": "16"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 9,
+       "type": "FRQ",
+       "question": "A piano keyboard has $88$ keys. If a musician plays a $3$-note pattern on the first $3$ keys, and then repeats this pattern on the next $3$ keys, and so on, how many times will the musician have played the pattern after playing $264$ notes? Show your work and explain your reasoning.",
+       "required_space_lines": 5
+     },
+     {
+       "id": 10,
+       "type": "FRQ",
+       "question": "A symphony has four movements. The first movement has $120$ notes, the second movement has $-60$ notes, the third movement has $2 \\cdot 60$ notes, and the fourth movement has $-2 \\cdot 30$ notes. What is the total number of notes in the symphony? If the total is negative, what does this represent in the context of music? Show your work and explain your reasoning.",
+       "required_space_lines": 5
+     }
+   ],
+   "teacher_rules": [
+     "Encourage students to use mathematical models to solve music-related problems",
+     "Remind students to consider the context of music when interpreting negative numbers",
+     "Emphasize the importance of extending numerical patterns in music"
+   ],
+   "footer": "Chef's Tips"
+ }

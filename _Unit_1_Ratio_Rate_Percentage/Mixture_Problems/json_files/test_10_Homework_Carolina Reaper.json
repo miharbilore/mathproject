@@ -1,0 +1,129 @@
+{
+  "unit": " Unit 1: Ratio, Rate, Percentage",
+   "topic": "Mixture Problems",
+   "test_type": "Homework (Carolina Reaper)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "A music festival has two types of tickets: $45$ VIP and $30$ regular. If the ratio of VIP to regular tickets sold is $3:5$, what is the total cost of $24$ VIP tickets and $40$ regular tickets?",
+           "options": {
+               "A": "$1710$",
+               "B": "$2160$",
+               "C": "$1980$",
+               "D": "$2070$",
+               "E": "$1890$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "An artist is creating a painting with a ratio of $2$ parts blue paint to $3$ parts red paint. If she uses $18$ ounces of paint in total, how many ounces of blue paint are used?",
+           "options": {
+               "A": "$4$",
+               "B": "$6$",
+               "C": "$8$",
+               "D": "$10$",
+               "E": "$12$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "A music producer is mixing two songs with frequencies of $440$ Hz and $880$ Hz. If the ratio of the two frequencies is $1:2$, what is the total frequency of the mixed song?",
+           "options": {
+               "A": "$1320$ Hz",
+               "B": "$1100$ Hz",
+               "C": "$1232$ Hz",
+               "D": "$1540$ Hz",
+               "E": "$1760$ Hz"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "An art gallery has two types of paintings: $20$% of the paintings are abstract and $80$% are realistic. If there are $50$ paintings in total, how many are abstract?",
+           "options": {
+               "A": "$8$",
+               "B": "$10$",
+               "C": "$12$",
+               "D": "$15$",
+               "E": "$20$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "A musician is creating a rhythm pattern with a ratio of $3$ parts drum to $2$ parts guitar. If the drum plays $18$ beats, how many beats does the guitar play?",
+           "options": {
+               "A": "$8$",
+       "B": "$10$",
+       "C": "$12$",
+       "D": "$14$",
+       "E": "$16$"
+   },
+   "answer": "C"
+},
+{
+   "id": 6,
+   "type": "MQ",
+   "question": "A craftsman is making a piece of jewelry with a ratio of $2$ parts silver to $5$ parts gold. If he uses $14$ ounces of gold, how many ounces of silver are used?",
+   "options": {
+       "A": "$4$",
+       "B": "$5.6$",
+       "C": "$6$",
+       "D": "$7$",
+       "E": "$8$"
+   },
+   "answer": "B"
+},
+{
+   "id": 7,
+   "type": "MQ",
+   "question": "An artist is mixing two types of paint with concentrations of $20$% and $50$% pigment. If she mixes $10$ ounces of the $20$% paint with $x$ ounces of the $50$% paint, what is the concentration of the final mixture if it is $35$% pigment?",
+   "options": {
+       "A": "$x = 10$",
+       "B": "$x = 15$",
+       "C": "$x = 20$",
+       "D": "$x = 25$",
+       "E": "$x = 30$"
+   },
+   "answer": "B"
+},
+{
+   "id": 8,
+   "type": "MQ",
+   "question": "A music teacher is creating a playlist with a ratio of $4$ parts classical to $3$ parts jazz. If the classical music plays for $24$ minutes, how many minutes does the jazz music play?",
+   "options": {
+       "A": "$12$",
+       "B": "$14$",
+       "C": "$16$",
+       "D": "$18$",
+       "E": "$20$"
+   },
+   "answer": "C"
+},
+{
+   "id": 9,
+   "type": "FRQ",
+   "question": "A painter is mixing two types of paint with ratios of $1:3$ and $2:5$. If she mixes $x$ ounces of the first paint with $y$ ounces of the second paint, what is the ratio of the final mixture if $x = 10$ and $y = 15$? Show your work and explain your reasoning.",
+   "required_space_lines": 5
+},
+{
+   "id": 10,
+   "type": "FRQ",
+   "question": "A musician is creating a rhythm pattern with a ratio of $2$ parts drum to $3$ parts bass. If the drum plays $x$ beats and the bass plays $y$ beats, what is the total number of beats if the ratio of $x$ to $y$ is $4:6$? Show your work and explain your reasoning.",
+   "required_space_lines": 5
+}
+],
+"teacher_rules": [
+   "Tip 1: Make sure to read the questions carefully and understand what is being asked.",
+   "Tip 2: Use the given information to set up equations and solve for the unknowns.",
+   "Tip 3: Check your work and explain your reasoning for the free response questions."
+],
+"footer": "Chef's Tips"
+}

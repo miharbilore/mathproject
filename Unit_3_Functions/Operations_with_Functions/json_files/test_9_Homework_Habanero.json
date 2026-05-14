@@ -1,0 +1,129 @@
+{
+  "unit": "Unit 3: Functions",
+   "topic": "Operations with Functions",
+   "test_type": "Homework (Habanero)",
+   "questions": [
+      {
+         "id": 1,
+         "type": "MQ",
+         "question": "If $f(x) = x^2$ and $g(x) = 2x$, what is $(f+g)(x)$?",
+         "options": {
+            "A": "$x^2 + 2x$",
+            "B": "$x^2 - 2x$",
+            "C": "$2x^2$",
+            "D": "$x^2 + x$",
+            "E": "$2x + x^2$"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 2,
+         "type": "MQ",
+         "question": "What is the domain of $(f/g)(x)$ if $f(x) = x + 1$ and $g(x) = x - 2$?",
+         "options": {
+            "A": "$(-\\infty, 2) \\cup (2, \\infty)$",
+            "B": "$(-\\infty, 2)$",
+            "C": "$(2, \\infty)$",
+            "D": "$[2, \\infty)$",
+            "E": "$(-\\infty, 2]$"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 3,
+         "type": "MQ",
+         "question": "A patient's dosage of medicine is given by $f(x) = 2x$ mg and $g(x) = x^2$ mg, where $x$ is the number of hours since the first dose. What is the total dosage after $x$ hours?",
+         "options": {
+            "A": "$2x + x^2$ mg",
+            "B": "$2x - x^2$ mg",
+            "C": "$x^2 - 2x$ mg",
+            "D": "$2x^2$ mg",
+            "E": "$x^2$ mg"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 4,
+         "type": "MQ",
+         "question": "If $f(x) = x^2 - 1$ and $g(x) = x + 2$, what is $(f \\cdot g)(x)$?",
+         "options": {
+            "A": "$x^3 + x^2 - 2x - 2$",
+            "B": "$x^3 + x^2 - x - 2$",
+            "C": "$x^2 + 2x - 1$",
+            "D": "$x^2 - 2x - 2$",
+            "E": "$x^3 - x^2 - 2x + 2$"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 5,
+         "type": "MQ",
+         "question": "What is the result of $(f/g)(x)$ if $f(x) = x^2 + 1$ and $g(x) = x - 1$?",
+         "options": {
+            "A": "$\\frac{x^2 + 1}{x - 1}$",
+            "B": "$\\frac{x + 1}{x - 1}$",
+            "C": "$x + 1$",
+            "D": "$x - 1$",
+            "E": "$\\frac{x^2 - 1}{x + 1}$"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 6,
+         "type": "MQ",
+         "question": "The growth rate of a cell culture is given by $f(x) = 2x$ cells/hour and $g(x) = x^2$ cells/hour, where $x$ is the number of hours. What is the combined growth rate after $x$ hours?",
+         "options": {
+            "A": "$2x + x^2$ cells/hour",
+            "B": "$2x - x^2$ cells/hour",
+            "C": "$x^2 - 2x$ cells/hour",
+            "D": "$2x^2$ cells/hour",
+            "E": "$x^2$ cells/hour"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 7,
+         "type": "MQ",
+         "question": "If $f(x) = x + 2$ and $g(x) = x - 3$, what is $(f - g)(x)$?",
+         "options": {
+            "A": "$x + 2 - (x - 3)$",
+            "B": "$x + 2 + x - 3$",
+            "C": "$x - 3 - (x + 2)$",
+            "D": "$x + 2 + 3$",
+            "E": "$5$"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 8,
+         "type": "MQ",
+         "question": "The probability of a patient's recovery is given by $f(x) = x^2$ and $g(x) = 1 - x$, where $x$ is the number of treatments. What is the combined probability after $x$ treatments?",
+         "options": {
+            "A": "$x^2 + (1 - x)$",
+            "B": "$x^2 - (1 - x)$",
+            "C": "$x^2(1 - x)$",
+            "D": "$x^2 + x$",
+            "E": "$1 - x^2$"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 9,
+         "type": "FRQ",
+         "question": "A doctor prescribes a patient with two types of medicine. The dosage of the first medicine is given by $f(x) = x + 1$ mg, where $x$ is the number of hours since the first dose. The dosage of the second medicine is given by $g(x) = 2x$ mg. Find the total dosage after $x$ hours and simplify the resulting expression.",
+         "required_space_lines": 5
+      },
+      {
+         "id": 10,
+         "type": "FRQ",
+         "question": "In a medical study, the growth rate of a cell culture is modeled by two functions: $f(x) = x^2 + 1$ cells/hour and $g(x) = x - 1$ cells/hour. Find the combined growth rate after $x$ hours and determine the domain of the combined function.",
+         "required_space_lines": 5
+      }
+   ],
+   "teacher_rules": [
+      "Review the learning objectives for Unit 3: Functions",
+      "Emphasize the importance of simplifying resulting expressions",
+      "Provide examples of real-world applications of function operations in healthcare and biology"
+   ],
+   "footer": "Chef's Tips"
+}

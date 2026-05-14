@@ -1,0 +1,129 @@
+{
+  "unit": "\uD83D\uDCD8 Unit 8: Quadratics",
+   "topic": "Systems of Quadratic Equations",
+   "test_type": "Challenge (Habanero)",
+   "questions": [
+      {
+         "id": 1,
+         "type": "MQ",
+         "question": "A hiker is traveling through a national park. The height $h$ of a mountain in miles above sea level is given by $h = $-0.05$d^2$ + 2$d$ + 1, where $d$ is the distance from the park entrance. Another mountain's height is given by $h = $0.03$d^2$ - $d$ + 3. If the two mountains have the same height, what is their height in miles?",
+         "options": {
+            "A": "$h = 4.5$ miles",
+            "B": "$h = 5.2$ miles",
+            "C": "$h = 4.1$ miles",
+            "D": "$h = 3.8$ miles",
+            "E": "$h = 5.5$ miles"
+         },
+         "answer": "B"
+      },
+      {
+         "id": 2,
+         "type": "MQ",
+         "question": "Solve the system of equations: $x^2 + 2y^2 = 4$ and $x^2 - 2y^2 = -1$. What is the value of $x^2$?",
+         "options": {
+            "A": "$x^2 = 1.5$",
+            "B": "$x^2 = 2$",
+            "C": "$x^2 = 2.5$",
+            "D": "$x^2 = 3$",
+            "E": "$x^2 = 1$"
+         },
+         "answer": "B"
+      },
+      {
+         "id": 3,
+         "type": "MQ",
+         "question": "A park ranger tracks the population $P$ of rabbits and the population $S$ of squirrels. The equations modeling their populations are $P = $0.2$t^2$ + 3$t$ + 10 and $S = $0.1$t^2$ - $t$ + 5, where $t$ is time in months. After how many months will the rabbit and squirrel populations be equal?",
+         "options": {
+            "A": "$t = 5$ months",
+            "B": "$t = 3$ months",
+            "C": "$t = 2$ months",
+            "D": "$t = 7$ months",
+            "E": "$t = 4$ months"
+         },
+         "answer": "E"
+      },
+      {
+         "id": 4,
+         "type": "MQ",
+         "question": "The number of gallons $G$ of fuel consumed by a car is related to the speed $s$ of the car by $G = $0.01$s^2$ + 2$s$ + 10. The distance $d$ traveled is related to the speed by $d = $0.1$s^2$ - $s$ + 20. Find the speed $s$ at which $G = 25$ gallons and $d = 15$ miles.",
+         "options": {
+            "A": "$s = 30$ mph",
+            "B": "$s = 40$ mph",
+            "C": "$s = 20$ mph",
+            "D": "$s = 25$ mph",
+            "E": "$s = 50$ mph"
+         },
+         "answer": "C"
+      },
+      {
+         "id": 5,
+         "type": "MQ",
+         "question": "If $x^2 - 4y^2 = 1$ and $x^2 + 2y^2 = 9$, what is the value of $x$?",
+         "options": {
+            "A": "$x = pm 2$",
+            "B": "$x = pm 1$",
+            "C": "$x = pm 3$",
+            "D": "$x = pm 4$",
+            "E": "$x = pm 5$"
+         },
+         "answer": "C"
+      },
+      {
+         "id": 6,
+         "type": "MQ",
+         "question": "A conservation team tracks the population $B$ of bears and the population $W$ of wolves. The equations for their populations are $B = $0.3$t^2$ - $t$ + 20 and $W = $0.2$t^2$ + 2$t$ + 10. After how many months will the bear and wolf populations be equal?",
+         "options": {
+            "A": "$t = 2$ months",
+            "B": "$t = 4$ months",
+            "C": "$t = 6$ months",
+            "D": "$t = 8$ months",
+            "E": "$t = 10$ months"
+         },
+         "answer": "B"
+      },
+      {
+         "id": 7,
+         "type": "MQ",
+         "question": "The depth $D$ of water in a lake is given by $D = $0.05$x^2$ - 2$x$ + 10, where $x$ is the distance from the shore. The volume $V$ of water in the lake is $V = $0.1$x^2$ + $x$ + 5. If $V = 20$ cubic meters, find $x$.",
+         "options": {
+            "A": "$x = 5$ meters",
+            "B": "$x = 10$ meters",
+            "C": "$x = 3$ meters",
+            "D": "$x = 8$ meters",
+            "E": "$x = 2$ meters"
+         },
+         "answer": "C"
+      },
+      {
+         "id": 8,
+         "type": "MQ",
+         "question": "The height $h$ of a waterfall is $h = $-0.1$d^2$ + 3$d$ + 2, where $d$ is the distance from the viewer. The width $w$ of the waterfall is given by $w = $0.2$d^2$ - $d$ + 1. If $w = 2$ meters, what is $h$?",
+         "options": {
+            "A": "$h = 6$ meters",
+            "B": "$h = 5$ meters",
+            "C": "$h = 4$ meters",
+            "D": "$h = 7$ meters",
+            "E": "$h = 3$ meters"
+         },
+         "answer": "B"
+      },
+      {
+         "id": 9,
+         "type": "FRQ",
+         "question": "Solve the system of equations: $y = x^2 - 3x + 2$ and $y = 2x^2 + x - 1$. Find the points of intersection and explain their significance in the context of a hiking trail.",
+         "required_space_lines": 5
+      },
+      {
+         "id": 10,
+         "type": "FRQ",
+         "question": "Graph the equations $y = x^2 + 2x - 1$ and $y = -x^2 + 4x - 3$ on the same coordinate plane. Interpret the points of intersection in terms of the population of rabbits and squirrels in a forest ecosystem.",
+         "required_space_lines": 5
+      }
+   ],
+   "teacher_rules": [
+      "Always review key concepts before each test.",
+      "Emphasize the importance of showing work and explaining answers.",
+      "Provide additional support for students struggling with quadratic equations."
+   ],
+   "footer_title": "Chef's Tips"
+}

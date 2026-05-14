@@ -1,0 +1,129 @@
+{
+  "unit": "\u1f4d6 Unit 1: Ratio, Rate, Percentage",
+   "topic": "Rates & Variation",
+   "test_type": "Challenge (Habanero)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "A hiker travels $3.5$ miles in $2.5$ hours. What is the hiker's unit rate in miles per hour?",
+           "options": {
+               "A": "$1.4$ miles/hour",
+               "B": "$1.7$ miles/hour",
+               "C": "$1.2$ miles/hour",
+               "D": "$1.0$ mile/hour",
+               "E": "$0.8$ miles/hour"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "A car's fuel consumption is $25$ miles per gallon. How many gallons will it consume to travel $375$ miles?",
+           "options": {
+               "A": "$12$ gallons",
+               "B": "$15$ gallons",
+               "C": "$10$ gallons",
+               "D": "$8$ gallons",
+               "E": "$20$ gallons"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "The population of rabbits in a forest is directly proportional to the amount of food available. If $50$ rabbits require $200$ pounds of food, how many rabbits can be supported with $480$ pounds of food?",
+           "options": {
+               "A": "$80$ rabbits",
+               "B": "$100$ rabbits",
+               "C": "$120$ rabbits",
+               "D": "$150$ rabbits",
+               "E": "$240$ rabbits"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "A group of friends want to divide some trail mix equally. If they have $18$ cups of trail mix and there are $6$ friends, how many cups will each friend get?",
+           "options": {
+               "A": "$2$ cups",
+               "B": "$3$ cups",
+               "C": "$1$ cup",
+               "D": "$4$ cups",
+               "E": "$6$ cups"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "A bicycle travels at a rate of $15$ miles per hour. How many hours will it take to travel $45$ miles?",
+           "options": {
+       "A": "$1$ hour",
+       "B": "$2$ hours",
+       "C": "$3$ hours",
+       "D": "$4$ hours",
+       "E": "$5$ hours"
+   },
+   "answer": "C"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "The cost of a hike is directly proportional to the number of hikers. If a hike for $8$ people costs $$160$, how much will a hike for $12$ people cost?",
+           "options": {
+       "A": "$$240$",
+       "B": "$$260$",
+       "C": "$$280$",
+       "D": "$$300$",
+       "E": "$$320$"
+   },
+   "answer": "A"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "A car travels $250$ miles in $5$ hours. What is the unit rate in miles per hour?",
+           "options": {
+       "A": "$40$ miles/hour",
+       "B": "$50$ miles/hour",
+       "C": "$48$ miles/hour",
+       "D": "$55$ miles/hour",
+       "E": "$60$ miles/hour"
+   },
+   "answer": "B"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "The time it takes to complete a hike is inversely proportional to the number of hikers. If a hike for $4$ people takes $6$ hours, how many hours will a hike for $8$ people take?",
+           "options": {
+       "A": "$2$ hours",
+       "B": "$3$ hours",
+       "C": "$1.5$ hours",
+       "D": "$4.5$ hours",
+       "E": "$6$ hours"
+   },
+   "answer": "C"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "A park ranger is planning a hiking trip. The trip will cover a total distance of $12$ miles and the ranger wants to maintain a constant speed of $2.5$ miles per hour. How many hours will the trip take? Show your work and calculate the time it will take to complete the trip. Assume the hikers do not take any breaks.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "The population of deer in a forest is directly proportional to the amount of food available. If $80$ deer require $400$ pounds of food, how many pounds of food will be needed to support $120$ deer? Use the concept of direct variation to solve the problem and show your work.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Emphasize the importance of reading the questions carefully",
+       "Allow students to use calculators for calculations",
+       "Remind students to show their work for free response questions"
+   ],
+   "footer": "Chef's Tips"
+}

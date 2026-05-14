@@ -1,0 +1,81 @@
+{
+  "unit": "Unit 0: Foundations of Algebra",
+   "topic": "Divisibility & Division Algorithm",
+   "test_type": "Homework (Habanero)",
+   "questions": [
+       { 
+           "id": 1, 
+           "type": "MQ", 
+           "question": "A doctor prescribes $15$ pills to a patient, with $3$ pills to be taken daily. How many days will the pills last?", 
+           "options": {"A": "3 days", "B": "4 days", "C": "5 days", "D": "6 days", "E": "7 days"}, 
+           "answer": "B" 
+       },
+       { 
+           "id": 2, 
+           "type": "MQ", 
+           "question": "A biologist is studying cell growth. If a cell divides into $2$ daughter cells every $5$ hours, how many cells will there be after $15$ hours?", 
+           "options": {"A": "4 cells", "B": "6 cells", "C": "8 cells", "D": "12 cells", "E": "16 cells"}, 
+           "answer": "D" 
+       },
+       { 
+           "id": 3, 
+           "type": "MQ", 
+           "question": "What is the remainder when $27$ is divided by $9$?", 
+           "options": {"A": "0", "B": "1", "C": "2", "D": "3", "E": "6"}, 
+           "answer": "A" 
+       },
+       { 
+           "id": 4, 
+           "type": "MQ", 
+           "question": "A medical trial has $120$ participants. If they are divided into groups of $8$, how many groups can be formed?", 
+           "options": {"A": "12 groups", "B": "15 groups", "C": "16 groups", "D": "20 groups", "E": "24 groups"}, 
+           "answer": "C" 
+       },
+       { 
+           "id": 5, 
+           "type": "MQ", 
+           "question": "A pharmaceutical company produces $210$ units of a medication daily. If $5$ units are packaged in each bottle, how many bottles are filled daily?", 
+           "options": {"A": "40 bottles", "B": "41 bottles", "C": "42 bottles", "D": "45 bottles", "E": "50 bottles"}, 
+           "answer": "C" 
+       },
+       { 
+           "id": 6, 
+           "type": "MQ", 
+           "question": "What is the quotient and remainder when $48$ is divided by $7$?", 
+           "options": {"A": "6 R 6", "B": "6 R 5", "C": "7 R 1", "D": "8 R 2", "E": "9 R 3"}, 
+           "answer": "B" 
+       },
+       { 
+           "id": 7, 
+           "type": "MQ", 
+           "question": "A researcher is collecting data on the average lifespan of a species. If the data shows that the lifespan is $25$ years, and this value is $5$ more than a multiple of $4$, what is the remainder when the multiple is divided by $9$?", 
+           "options": {"A": "0", "B": "1", "C": "2", "D": "3", "E": "4"}, 
+           "answer": "C" 
+       },
+       { 
+           "id": 8, 
+           "type": "MQ", 
+           "question": "A hospital has $180$ beds. If $15$ beds are allocated to each ward, how many wards can be created?", 
+           "options": {"A": "10 wards", "B": "11 wards", "C": "12 wards", "D": "13 wards", "E": "14 wards"}, 
+           "answer": "C" 
+       },
+       { 
+           "id": 9, 
+           "type": "FRQ", 
+           "question": "A medication requires $12 \\cdot 5 + 3$ milligrams of an active ingredient per dose. If $3000$ milligrams are available, determine how many doses can be prepared, and show the remainder.", 
+           "required_space_lines": 5 
+       },
+       { 
+           "id": 10, 
+           "type": "FRQ", 
+           "question": "In a study on population growth, it is observed that the number of cells doubles every $6$ hours. If there are initially $24$ cells, calculate the number of cells after $24$ hours, expressing the answer in terms of the number of cells and the time elapsed.", 
+           "required_space_lines": 5 
+       }
+   ],
+   "teacher_rules": [
+       "Tip 1: Provide clear instructions for calculations and graphing",
+       "Tip 2: Encourage students to use examples for verification",
+       "Tip 3: Discuss divisibility rules to apply to word problems"
+   ],
+   "footer": "Chef's Tips"
+}

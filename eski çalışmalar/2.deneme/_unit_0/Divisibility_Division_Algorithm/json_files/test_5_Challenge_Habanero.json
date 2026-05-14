@@ -1,0 +1,129 @@
+{
+  "unit": "Unit 0: Foundations of Algebra",
+   "topic": "Divisibility & Division Algorithm",
+   "test_type": "Challenge (Habanero)",
+   "questions": [
+      {
+         "id": 1,
+         "type": "MQ",
+         "question": "A hiker travels $24 \\cdot 5$ miles in a day. What is the remainder when this distance is divided by $9$?",
+         "options": {
+            "A": "0",
+            "B": "3",
+            "C": "6",
+            "D": "9",
+            "E": "12"
+         },
+         "answer": "B"
+      },
+      {
+         "id": 2,
+         "type": "MQ",
+         "question": "Which number is divisible by $2$ and $5$ but not by $9$?",
+         "options": {
+            "A": "10",
+            "B": "15",
+            "C": "20",
+            "D": "25",
+            "E": "30"
+         },
+         "answer": "C"
+      },
+      {
+         "id": 3,
+         "type": "MQ",
+         "question": "A park ranger tracks the population of deer. If the population increases by $150$ deer per year, what is the remainder when the total population after $7$ years is divided by $10$?",
+         "options": {
+            "A": "0",
+            "B": "2",
+            "C": "5",
+            "D": "7",
+            "E": "9"
+         },
+         "answer": "C"
+      },
+      {
+         "id": 4,
+         "type": "MQ",
+         "question": "What is the result of $48 \\div 6$ with remainder?",
+         "options": {
+            "A": "8$ R 0",
+            "B": "7$ R 4",
+            "C": "6$ R 6",
+            "D": "8$ R 2",
+            "E": "6$ R 0"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 5,
+         "type": "MQ",
+         "question": "A fuel tank can hold $240$ gallons. If $120$ gallons are already filled, what fraction of the tank is filled?",
+         "options": {
+            "A": "$\\frac{1}{4}$",
+            "B": "$\\frac{1}{2}$",
+            "C": "$\\frac{2}{3}$",
+            "D": "$\\frac{3}{4}$",
+            "E": "$\\frac{1}{1}$"
+         },
+         "answer": "B"
+      },
+      {
+         "id": 6,
+         "type": "MQ",
+         "question": "A mountain trail is $54$ km long. What is the remainder when the length of the trail is divided by $9$?",
+         "options": {
+            "A": "0",
+            "B": "3",
+            "C": "6",
+            "D": "9",
+            "E": "12"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 7,
+         "type": "MQ",
+         "question": "If a bird sanctuary has $135$ birds and $15$ more birds arrive, what is the remainder when the new total is divided by $10$?",
+         "options": {
+            "A": "0",
+            "B": "2",
+            "C": "5",
+            "D": "7",
+            "E": "9"
+         },
+         "answer": "C"
+      },
+      {
+         "id": 8,
+         "type": "MQ",
+         "question": "A group of friends want to share some candy equally. If they have $48$ pieces of candy and there are $8$ friends, what is the remainder when the candy is divided?",
+         "options": {
+            "A": "0",
+            "B": "2",
+            "C": "4",
+            "D": "6",
+            "E": "8"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 9,
+         "type": "FRQ",
+         "question": "A car travels $225$ miles on a full tank of gas. If the gas tank holds $15$ gallons, how many gallons of gas are used per mile? Show your work and express your answer as a fraction or decimal.",
+         "required_space_lines": 5
+      },
+      {
+         "id": 10,
+         "type": "FRQ",
+         "question": "A conservationist is tracking the growth of a wolf population. If the population doubles every $5$ years and there are currently $18$ wolves, how many wolves will there be in $15$ years? Show your work and express your answer as an integer.",
+         "required_space_lines": 5
+      }
+   ],
+   "teacher_rules": [
+      "Read each question carefully",
+      "Use the back of the page for calculations if needed",
+      "Show all work for free response questions"
+   ],
+   "footer": "Chef's Tips"
+}

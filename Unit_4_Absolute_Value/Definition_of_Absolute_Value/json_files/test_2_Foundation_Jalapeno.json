@@ -1,0 +1,131 @@
+{
+  "unit": "📘 Unit 4: Absolute Value",
+  "topic": "Definition of Absolute Value",
+  "test_type": "Foundation (Jalapeno)",
+  "questions": [
+    {
+      "id": 1,
+      "type": "MQ",
+      "question": "A Martian rover is located at coordinate $-14$ on a linear survey track. What is its distance from the landing base at coordinate $0$?",
+      "options": {
+        "A": "$-14$",
+        "B": "$0$",
+        "C": "$14$",
+        "D": "$28$",
+        "E": "$-1$"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 2,
+      "type": "MQ",
+      "question": "The temperature of a sample in a vacuum chamber drops to $-78^\\circ\\text{C}$. The magnitude of this temperature is expressed as $|-78|$. Find the value.",
+      "options": {
+        "A": "$-78$",
+        "B": "$78$",
+        "C": "$0$",
+        "D": "$156$",
+        "E": "$-156$"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 3,
+      "type": "MQ",
+      "question": "In a particle accelerator, a proton is at position $x = -5$ and an electron is at $y = 5$. Which statement is true regarding their absolute values?",
+      "options": {
+        "A": "$|x| < |y|$",
+        "B": "$|x| > |y|$",
+        "C": "$|x| = |y|$",
+        "D": "$|x| + |y| = 0$",
+        "E": "$|x| = -|y|$"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 4,
+      "type": "MQ",
+      "question": "Evaluate the expression for a satellite's orbital correction: $|-25| + |12| - |-3|$.",
+      "options": {
+        "A": "$34$",
+        "B": "$40$",
+        "C": "$10$",
+        "D": "$37$",
+        "E": "$31$"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 5,
+      "type": "MQ",
+      "question": "A lens in a telescope has a focus error of $d$. If $|d| = 0.005$ mm, what are the possible values for $d$?",
+      "options": {
+        "A": "Only $0.005$",
+        "B": "Only $-0.005$",
+        "C": "$0.005$ and $-0.005$",
+        "D": "$0$ and $0.005$",
+        "E": "$0.010$ and $-0.010$"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 6,
+      "type": "MQ",
+      "question": "Which of the following measurements has the smallest absolute value?",
+      "options": {
+        "A": "$-12.5$",
+        "B": "$10.2$",
+        "C": "$|-9.8|$",
+        "D": "$-5.1$",
+        "E": "$|4.9|$"
+      },
+      "answer": "E"
+    },
+    {
+      "id": 7,
+      "type": "MQ",
+      "question": "Calculate the total energy deviation in a lab experiment: $2 \\cdot |-15| + |-4|$.",
+      "options": {
+        "A": "$26$",
+        "B": "$34$",
+        "C": "$-26$",
+        "D": "$-34$",
+        "E": "$30$"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 8,
+      "type": "MQ",
+      "question": "A probe moves from $-120$ meters to $+30$ meters relative to a moon's surface. What is the absolute distance traveled?",
+      "options": {
+        "A": "$90$ m",
+        "B": "$-90$ m",
+        "C": "$150$ m",
+        "D": "$-150$ m",
+        "E": "$0$ m"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 9,
+      "type": "FRQ",
+      "question": "A deep-space sensor records a primary reading of $-42$ units and a secondary reading of $+18$ units. Calculate the value of $|-42| - |18|$ and explain what the result represents in terms of distance from zero.",
+      "required_space_lines": 5
+    },
+    {
+      "id": 10,
+      "type": "FRQ",
+      "question": "Evaluate the complex absolute value expression found in a rocket trajectory formula: $|-10 + 4| \\cdot |2 - 8|$. Show each step of your calculation.",
+      "required_space_lines": 5
+    }
+  ],
+  "teacher_rules": [
+    "Remind students that absolute value always results in a non-negative number.",
+    "Use the number line to visualize distance from the origin (zero).",
+    "Ensure students simplify the inside of absolute value bars before removing them."
+  ],
+  "footer": {
+    "title": "Chef's Tips"
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "unit":"📘 Unit 1: Ratio, Rate, Percentage",
+   "topic":"Rates & Variation",
+   "test_type":"Foundation (Jalapeno)",
+   "questions":[
+      {
+         "id":1,
+         "type":"MQ",
+         "question":"What is the unit rate of $15 for 3 stocks?",
+         "options":{
+            "A":"$5 per stock",
+            "B":"$3 per stock",
+            "C":"$10 per stock",
+            "D":"$2 per stock",
+            "E":"$12 per stock"
+         },
+         "answer":"A"
+      },
+      {
+         "id":2,
+         "type":"MQ",
+         "question":"If a company's stock price increases by $2 every 5 minutes, what is the rate of increase per minute?",
+         "options":{
+            "A":"$0.4 per minute",
+            "B":"$0.2 per minute",
+            "C":"$0.1 per minute",
+            "D":"$0.5 per minute",
+            "E":"$0.6 per minute"
+         },
+         "answer":"A"
+      },
+      {
+         "id":3,
+         "type":"MQ",
+         "question":"A savings account earns $10 in interest for every $200 deposited. What is the rate of interest?",
+         "options":{
+            "A":"$0.05 per dollar",
+            "B":"$0.10 per dollar",
+            "C":"$0.01 per dollar",
+            "D":"$0.02 per dollar",
+            "E":"$0.07 per dollar"
+         },
+         "answer":"A"
+      },
+      {
+         "id":4,
+         "type":"MQ",
+         "question":"If the cost of a stock is directly proportional to its value, and a $50 stock is worth $200, what is the constant of proportionality?",
+         "options":{
+            "A":"$4",
+            "B":"$5",
+            "C":"$2",
+            "D":"$3",
+            "E":"$10"
+         },
+         "answer":"A"
+      },
+      {
+         "id":5,
+         "type":"MQ",
+         "question":"What is the rate at which an investor's wealth increases if their $1000 investment grows by $50 every 2 months?",
+         "options":{
+            "A":"$25 per month",
+            "B":"$50 per month",
+            "C":"$12.5 per month",
+            "D":"$10 per month",
+            "E":"$5 per month"
+         },
+         "answer":"A"
+      },
+      {
+         "id":6,
+         "type":"MQ",
+         "question":"A company's tax rate is $0.05 per dollar. If the company earns $1000, what is the total tax paid?",
+         "options":{
+            "A":"$50",
+            "B":"$100",
+            "C":"$20",
+            "D":"$10",
+            "E":"$5"
+         },
+         "answer":"A"
+      },
+      {
+         "id":7,
+         "type":"MQ",
+         "question":"The rate of a car's depreciation is inversely proportional to its value. If a car worth $10000 depreciates by $500 in a year, what is the constant of proportionality?",
+         "options":{
+            "A":"$0.05",
+            "B":"$0.1",
+            "C":"$0.01",
+            "D":"$0.02",
+            "E":"$0.005"
+         },
+         "answer":"A"
+      },
+      {
+         "id":8,
+         "type":"MQ",
+         "question":"What is the rate of interest earned on a $500 savings account that earns $25 in interest per year?",
+         "options":{
+            "A":"$0.05 per year",
+            "B":"$0.01 per year",
+            "C":"$0.02 per year",
+            "D":"$0.1 per year",
+            "E":"$0.05 per month"
+         },
+         "answer":"A"
+      },
+      {
+         "id":9,
+         "type":"FRQ",
+         "question":"A company's profits $P$ are directly proportional to its sales $S$. If the company's profits are $150 when its sales are $500, what are the profits when the sales are $1000?",
+         "required_space_lines":5
+      },
+      {
+         "id":10,
+         "type":"FRQ",
+         "question":"The cost $C$ of producing $x$ units of a product is modeled by the equation $C = 2x + 500$. What is the rate at which the cost increases per unit?",
+         "required_space_lines":5
+      }
+   ],
+   "teacher_rules":[
+      "Read the questions carefully before solving",
+      "Use the given information to solve the problems",
+      "Show all your work and explain your reasoning"
+   ],
+   "footer_title":"Chef's Tips"
+}

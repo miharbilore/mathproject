@@ -1,0 +1,129 @@
+{
+  "unit": "\u1F4D6 Unit 8: Quadratics",
+   "topic": "Solving by Quadratic Formula (Discriminant)",
+   "test_type": "Quiz (Carolina Reaper)",
+   "questions": [
+     {
+       "id": 1,
+       "type": "MQ",
+       "question": "A shipping company has a quadratic equation $x^2 + 5x + 6 = 0$ to model its delivery times. What is the discriminant?",
+       "options": {
+         "A": "$1$",
+         "B": "$13$",
+         "C": "$-11$",
+         "D": "$25$",
+         "E": "$-1$"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 2,
+       "type": "MQ",
+       "question": "For the quadratic equation $x^2 - 4x - 3 = 0$, how many solutions are there?",
+       "options": {
+         "A": "One",
+         "B": "Two",
+         "C": "None",
+         "D": "Infinite",
+         "E": "Depends on the value of $x$"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 3,
+       "type": "MQ",
+       "question": "A traffic flow model is given by $x^2 - 2x - 15 = 0$. What are the solutions?",
+       "options": {
+         "A": "$x = -3, x = 5$",
+         "B": "$x = 3, x = -5$",
+         "C": "$x = 1, x = -15$",
+         "D": "$x = -1, x = 15$",
+         "E": "$x = 0, x = -15$"
+       },
+       "answer": "A"
+     },
+     {
+       "id": 4,
+       "type": "MQ",
+       "question": "The quadratic formula for solving $ax^2 + bx + c = 0$ is $x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}$. What is the purpose of $b^2 - 4ac$?",
+       "options": {
+         "A": "To find the value of $a$",
+         "B": "To find the value of $b$",
+         "C": "To determine the number of solutions",
+         "D": "To determine the value of $c$",
+         "E": "To find the solution to the equation"
+       },
+       "answer": "C"
+     },
+     {
+       "id": 5,
+       "type": "MQ",
+       "question": "A package delivery company uses the equation $x^2 + 2x + 1 = 0$ to model its delivery route. What is the discriminant and how many solutions are there?",
+       "options": {
+         "A": "Discriminant is $0$, one solution",
+         "B": "Discriminant is $4$, two solutions",
+         "C": "Discriminant is $-4$, no solutions",
+         "D": "Discriminant is $1$, one solution",
+         "E": "Discriminant is $-1$, no solutions"
+       },
+       "answer": "A"
+     },
+     {
+       "id": 6,
+       "type": "MQ",
+       "question": "For the equation $x^2 - 9x + 20 = 0$, what is the value of the discriminant?",
+       "options": {
+         "A": "$41$",
+         "B": "$49$",
+         "C": "$1$",
+         "D": "$-11$",
+         "E": "$81$"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 7,
+       "type": "MQ",
+       "question": "The equation $x^2 + 4x + 4 = 0$ has how many solutions?",
+       "options": {
+         "A": "One",
+         "B": "Two",
+         "C": "None",
+         "D": "Infinite",
+         "E": "Depends on the value of $x$"
+       },
+       "answer": "A"
+     },
+     {
+       "id": 8,
+       "type": "MQ",
+       "question": "A logistics company uses the quadratic equation $x^2 - 7x + 12 = 0$ to model its shipping routes. What is the discriminant?",
+       "options": {
+         "A": "$1$",
+         "B": "$13$",
+         "C": "$25$",
+         "D": "$49$",
+         "E": "$-11$"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 9,
+       "type": "FRQ",
+       "question": "Solve the quadratic equation $x^2 - 6x + 8 = 0$ using the quadratic formula. Show all steps and determine the number and type of solutions.",
+       "required_space_lines": 5
+     },
+     {
+       "id": 10,
+       "type": "FRQ",
+       "question": "A transportation company uses the equation $x^2 + 3x - 10 = 0$ to model its traffic flow. Determine the discriminant, solve for $x$, and describe the solutions in the context of the problem.",
+       "required_space_lines": 5
+     }
+   ],
+   "teacher_rules": [
+     "Remind students to check their work and use the correct formula",
+     "Emphasize the importance of determining the discriminant to find the number of solutions",
+     "Encourage students to use real-world examples to illustrate their answers"
+   ],
+   "footer": "Chef's Tips"
+ }

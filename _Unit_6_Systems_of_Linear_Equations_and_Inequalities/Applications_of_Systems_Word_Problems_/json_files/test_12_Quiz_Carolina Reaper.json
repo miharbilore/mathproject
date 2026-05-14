@@ -1,0 +1,129 @@
+{
+  "unit": "\u1f4d6 Unit 6: Systems of Linear Equations and Inequalities",
+   "topic": "Applications of Systems (Word Problems)",
+   "test_type": "Quiz (Carolina Reaper)",
+   "questions": [
+     {
+       "id": 1,
+       "type": "MQ",
+       "question": "A shipping company has two types of trucks. The first type can carry $3x$ packages and travel $2y$ miles. The second type can carry $2x$ packages and travel $3y$ miles. If the company has $240$ packages to deliver and $420$ miles of road to cover, what is the value of $x$?",
+       "options": {
+         "A": "5",
+         "B": "6",
+         "C": "8",
+         "D": "10",
+         "E": "12"
+       },
+       "answer": "C"
+     },
+     {
+       "id": 2,
+       "type": "MQ",
+       "question": "A traffic management system uses $x$ cameras and $y$ sensors to monitor traffic flow. Each camera can monitor $5x$ cars and $2y$ roads, while each sensor can monitor $3x$ cars and $4y$ roads. If the system can monitor $150$ cars and $80$ roads, what is the value of $y$?",
+       "options": {
+         "A": "2",
+         "B": "4",
+         "C": "6",
+         "D": "8",
+         "E": "10"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 3,
+       "type": "MQ",
+       "question": "A delivery company uses two types of vehicles: cars and trucks. Cars travel at $x$ miles per hour and trucks travel at $y$ miles per hour. If a car travels $120$ miles and a truck travels $180$ miles in the same time, what is the ratio of $x$ to $y$?",
+       "options": {
+         "A": "1:2",
+         "B": "2:3",
+         "C": "3:4",
+         "D": "4:5",
+         "E": "5:6"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 4,
+       "type": "MQ",
+       "question": "A logistics company has $x$ warehouses and $y$ delivery trucks. Each warehouse can store $2x$ packages and each truck can carry $3y$ packages. If the company has $480$ packages to store and $720$ packages to deliver, what is the value of $y$?",
+       "options": {
+         "A": "8",
+         "B": "10",
+         "C": "12",
+         "D": "15",
+         "E": "20"
+       },
+       "answer": "C"
+     },
+     {
+       "id": 5,
+       "type": "MQ",
+       "question": "A transportation system uses $x$ buses and $y$ trains to transport people. Each bus can carry $4x$ people and each train can carry $5y$ people. If the system can transport $240$ people and the ratio of buses to trains is $3:2$, what is the value of $x$?",
+       "options": {
+         "A": "4",
+         "B": "6",
+         "C": "8",
+         "D": "10",
+         "E": "12"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 6,
+       "type": "MQ",
+       "question": "A shipping company has two types of containers: $20$-foot and $40$-foot. The company has $x$ $20$-foot containers and $y$ $40$-foot containers. If the company has $120$ feet of space and $40$ containers to ship, what is the value of $x$?",
+       "options": {
+         "A": "10",
+         "B": "15",
+         "C": "20",
+         "D": "25",
+         "E": "30"
+       },
+       "answer": "C"
+     },
+     {
+       "id": 7,
+       "type": "MQ",
+       "question": "A traffic flow system uses $x$ traffic lights and $y$ pedestrian crossings. Each traffic light can control $3x$ cars and $2y$ pedestrians, while each pedestrian crossing can control $2x$ cars and $3y$ pedestrians. If the system can control $180$ cars and $120$ pedestrians, what is the value of $y$?",
+       "options": {
+         "A": "4",
+         "B": "6",
+         "C": "8",
+         "D": "10",
+         "E": "12"
+       },
+       "answer": "A"
+     },
+     {
+       "id": 8,
+       "type": "MQ",
+       "question": "A delivery company uses $x$ vans and $y$ motorcycles to deliver packages. Each van can carry $5x$ packages and travel $2y$ miles, while each motorcycle can carry $2x$ packages and travel $3y$ miles. If the company has $300$ packages to deliver and $420$ miles of road to cover, what is the value of $y$?",
+       "options": {
+         "A": "6",
+         "B": "8",
+         "C": "10",
+         "D": "12",
+         "E": "15"
+       },
+       "answer": "C"
+     },
+     {
+       "id": 9,
+       "type": "FRQ",
+       "question": "A logistics company has $x$ warehouses and $y$ delivery trucks. Each warehouse can store $2x$ packages and each truck can carry $3y$ packages. If the company has $600$ packages to store and $900$ packages to deliver, find the values of $x$ and $y$.",
+       "required_space_lines": 5
+     },
+     {
+       "id": 10,
+       "type": "FRQ",
+       "question": "A transportation system uses $x$ buses and $y$ trains to transport people. Each bus can carry $4x$ people and each train can carry $5y$ people. If the system can transport $360$ people and the ratio of buses to trains is $2:3$, find the values of $x$ and $y$ and interpret the results in context.",
+       "required_space_lines": 5
+     }
+   ],
+   "teacher_rules": [
+     "Use a graphing calculator to check your work.",
+     "Consider the units of the variables in each problem.",
+     "Think about the real-world implications of your solutions."
+   ],
+   "footer_title": "Chef's Tips"
+}

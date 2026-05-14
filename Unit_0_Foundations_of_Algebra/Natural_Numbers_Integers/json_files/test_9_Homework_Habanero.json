@@ -1,0 +1,129 @@
+{
+  "unit": "Unit 0: Foundations of Algebra",
+   "topic": "Natural Numbers & Integers",
+   "test_type": "Homework (Habanero)",
+   "questions": [
+       { 
+           "id": 1, 
+           "type": "MQ", 
+           "question": "Classify the number $-5$ as:", 
+           "options": { 
+               "A": "Natural Number", 
+               "B": "Whole Number", 
+               "C": "Integer", 
+               "D": "Irrational Number", 
+               "E": "None of the above" 
+           }, 
+           "answer": "C" 
+       },
+       { 
+           "id": 2, 
+           "type": "MQ", 
+           "question": "A patient is prescribed $3$ pills every $4$ hours. If the patient takes the first pill at $8$ AM, at what time will the patient take the $7^{th}$ pill?", 
+           "options": { 
+               "A": "$8$ PM", 
+               "B": "$12$ AM", 
+               "C": "$4$ AM", 
+               "D": "$2$ PM", 
+               "E": "$6$ PM" 
+           }, 
+           "answer": "B" 
+       },
+       { 
+           "id": 3, 
+           "type": "MQ", 
+           "question": "Which of the following numbers is an example of an even integer?", 
+           "options": { 
+               "A": "$-3$", 
+               "B": "$0$", 
+               "C": "$-11$", 
+               "D": "$7$", 
+               "E": "$13$" 
+           }, 
+           "answer": "B" 
+       },
+       { 
+           "id": 4, 
+           "type": "MQ", 
+           "question": "A biologist observes that a cell culture grows by $2$ cells every $3$ hours. If the culture starts with $5$ cells, how many cells will it have after $12$ hours?", 
+           "options": { 
+               "A": "$13$", 
+               "B": "$17$", 
+               "C": "$15$", 
+               "D": "$11$", 
+               "E": "$9$" 
+           }, 
+           "answer": "B" 
+       },
+       { 
+           "id": 5, 
+           "type": "MQ", 
+           "question": "Which of the following patterns is an example of a numerical pattern that can be extended?", 
+           "options": { 
+               "A": "$2, 5, 8, 11, ...$", 
+               "B": "$1, 2, 4, 7, 11, ...$", 
+               "C": "$3, 6, 9, 12, ...$", 
+               "D": "$0, 1, 4, 9, 16, ...$", 
+               "E": "$2, 4, 6, 8, 10, ...$" 
+           }, 
+           "answer": "E" 
+       },
+       { 
+           "id": 6, 
+           "type": "MQ", 
+           "question": "Evaluate the expression $(-3) \\cdot (-2) + 5 - 2$", 
+           "options": { 
+               "A": "$3$", 
+               "B": "$7$", 
+               "C": "$9$", 
+               "D": "$1$", 
+               "E": "$11$" 
+           }, 
+           "answer": "B" 
+       },
+       { 
+           "id": 7, 
+           "type": "MQ", 
+           "question": "What is the value of $x$ in the equation $x + (-4) = 9$", 
+           "options": { 
+               "A": "$5$", 
+               "B": "$13$", 
+               "C": "$-5$", 
+               "D": "$-9$", 
+               "E": "$3$" 
+           }, 
+           "answer": "B" 
+       },
+       { 
+           "id": 8, 
+           "type": "MQ", 
+           "question": "A medical researcher collects data on the number of patients who respond to a new treatment. The data is as follows: $5, 8, 12, 17, ...$. Which of the following is the next number in the pattern?", 
+           "options": { 
+               "A": "$20$", 
+               "B": "$22$", 
+               "C": "$25$", 
+               "D": "$27$", 
+               "E": "$30$" 
+           }, 
+           "answer": "C" 
+       },
+       { 
+           "id": 9, 
+           "type": "FRQ", 
+           "question": "A hospital pharmacy has $15$ bottles of medication on hand. Each bottle contains $20$ pills. If the pharmacy receives a new shipment of $8$ bottles, and $3$ bottles are used, how many pills are left?", 
+           "required_space_lines": 5 
+       },
+       { 
+           "id": 10, 
+           "type": "FRQ", 
+           "question": "Evaluate the expression $(-2) \\cdot (5 - 3) + 2 \\cdot (-4)$ and simplify to get the final answer.", 
+           "required_space_lines": 5 
+       }
+   ],
+   "teacher_rules": [
+       "Tip 1: Ensure students show all work and explain their reasoning for FRQs.",
+       "Tip 2: For MQs, remind students to read each question carefully and choose the correct answer.",
+       "Tip 3: As students complete the homework, encourage them to check their work and ask questions if needed."
+   ],
+   "footer": "Chef's Tips"
+}

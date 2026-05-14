@@ -1,0 +1,129 @@
+{
+  "unit": "\u1f4d6 Unit 1: Ratio, Rate, Percentage",
+   "topic": "Mixture Problems",
+   "test_type": "Quiz (Habanero)",
+   "questions": [
+     {
+       "id": 1,
+       "type": "MQ",
+       "question": "A rain barrel contains $15$ gallons of water with $0.05$ concentration of salt. How many gallons of salt-free water should be added to achieve $0.01$ concentration?",
+       "options": {
+         "A": "5 gallons",
+         "B": "10 gallons",
+         "C": "15 gallons",
+         "D": "20 gallons",
+         "E": "25 gallons"
+       },
+       "answer": "D"
+     },
+     {
+       "id": 2,
+       "type": "MQ",
+       "question": "A pollution monitoring station measures $30$% sulfur dioxide in the air. If the air is $70$% diluted with pure oxygen, what percentage of sulfur dioxide remains?",
+       "options": {
+         "A": "9%",
+         "B": "12%",
+         "C": "18%",
+         "D": "21%",
+         "E": "28%"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 3,
+       "type": "MQ",
+       "question": "A weather station uses a mixture of $2/3$ water and $1/3$ antifreeze to prevent pipes from freezing. If the station uses $24$ gallons of the mixture, how many gallons of antifreeze are used?",
+       "options": {
+         "A": "6 gallons",
+         "B": "8 gallons",
+         "C": "10 gallons",
+         "D": "12 gallons",
+         "E": "16 gallons"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 4,
+       "type": "MQ",
+       "question": "A forest ecosystem requires a ratio of $3:5$ of nitrogen to phosphorus for healthy plant growth. If a fertilizer contains $12$% nitrogen and $20$% phosphorus, what percentage of the fertilizer should be added to achieve the required ratio?",
+       "options": {
+         "A": "10%",
+         "B": "15%",
+         "C": "20%",
+         "D": "25%",
+         "E": "30%"
+       },
+       "answer": "C"
+     },
+     {
+       "id": 5,
+       "type": "MQ",
+       "question": "A city's water supply is $80$% from a river and $20$% from a lake. If the river water contains $0.02$ concentration of pollutants and the lake water contains $0.05$ concentration of pollutants, what is the overall concentration of pollutants in the water supply?",
+       "options": {
+         "A": "0.022",
+         "B": "0.025",
+         "C": "0.028",
+         "D": "0.032",
+         "E": "0.035"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 6,
+       "type": "MQ",
+       "question": "A greenhouse maintains a temperature of $75^\\circ F$ during the day and $50^\\circ F$ at night. If the outside temperature is $40^\\circ F$, what percentage of the greenhouse's heating system is used at night?",
+       "options": {
+         "A": "25%",
+         "B": "33%",
+         "C": "40%",
+         "D": "50%",
+         "E": "60%"
+       },
+       "answer": "C"
+     },
+     {
+       "id": 7,
+       "type": "MQ",
+       "question": "A region experiences $60$% humidity on a summer day. If the humidity increases by $20$% due to a storm, what percentage of the region's atmosphere is now humid?",
+       "options": {
+         "A": "68%",
+         "B": "72%",
+         "C": "76%",
+         "D": "80%",
+         "E": "84%"
+       },
+       "answer": "D"
+     },
+     {
+       "id": 8,
+       "type": "MQ",
+       "question": "A meteorologist measures $10$ mm of rainfall in a region with $20$% chance of rain. If the region's rainfall increases by $50$%, what is the new probability of rain?",
+       "options": {
+         "A": "25%",
+         "B": "30%",
+         "C": "35%",
+         "D": "40%",
+         "E": "45%"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 9,
+       "type": "FRQ",
+       "question": "A city's water supply is a mixture of $40$% river water and $60$% lake water. The river water contains $0.01$ concentration of pollutants and the lake water contains $0.03$ concentration of pollutants. If the city wants to achieve an overall concentration of $0.025$ pollutants, how many gallons of river water should be added to $100$ gallons of lake water?",
+       "required_space_lines": 5
+     },
+     {
+       "id": 10,
+       "type": "FRQ",
+       "question": "A weather station monitors the temperature in a region, which follows a ratio of $2:3$ of daytime temperature to nighttime temperature. If the daytime temperature is $85^\\circ F$ and the nighttime temperature is $x^\\circ F$, find the value of $x$ and explain the mathematical process used to solve the problem.",
+       "required_space_lines": 5
+     }
+   ],
+   "teacher_rules": [
+     "Check calculations carefully",
+     "Watch for unit conversions",
+     "Use algebraic methods when possible"
+   ],
+   "footer": "Chef's Tips"
+ }

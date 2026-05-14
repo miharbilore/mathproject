@@ -1,0 +1,129 @@
+{
+  "unit": "\uFE35\uFE35 Unit 8: Quadratics",
+   "topic": "Converting Forms (Completing the Square)",
+   "test_type": "Homework (Jalapeno)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "The ancient Egyptians used $x^2 + 10x + 20$ to model the area of a rectangular field. What is the vertex form of this equation?",
+           "options": {
+               "A": "$(x+5)^2 - 5$",
+               "B": "$(x+10)^2 - 80$",
+               "C": "$(x+5)^2 + 5$",
+               "D": "$(x-5)^2 + 5$",
+               "E": "$(x-10)^2 + 80$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "Complete the square for $x^2 + 7x$ to find the vertex form of the equation.",
+           "options": {
+               "A": "$x^2 + 7x + \frac{49}{4}$",
+               "B": "$x^2 - 7x - \frac{49}{4}$",
+               "C": "$left(x + \frac{7}{2}\right)^2$",
+               "D": "$left(x - \frac{7}{2}\right)^2$",
+               "E": "$x^2 + 7x - \frac{49}{4}$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "The ancient Babylonians used $x^2 - 4x - 3$ to calculate the volume of a storage container. Convert this equation to vertex form.",
+           "options": {
+               "A": "$x^2 - 4x - 3$",
+               "B": "$(x - 2)^2 - 7$",
+               "C": "$(x - 2)^2 + 7$",
+               "D": "$x^2 + 4x + 3$",
+               "E": "$(x + 2)^2 - 7$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "The ancient Greeks used $x^2 + 2x + 1$ to model the trajectory of a projectile. What is the vertex form of this equation?",
+           "options": {
+               "A": "$x^2 + 2x + 1$",
+               "B": "$(x + 1)^2$",
+               "C": "$(x + 1)^2 - 1$",
+               "D": "$(x - 1)^2 + 1$",
+               "E": "$(x - 1)^2 - 1$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "The vertex form of a quadratic equation is $(x - 3)^2 + 2$. What is the standard form of this equation?",
+           "options": {
+               "A": "$x^2 - 6x + 11$",
+               "B": "$x^2 + 6x + 11$",
+               "C": "$x^2 - 6x + 9$",
+               "D": "$x^2 + 6x + 9$",
+       "E": "$x^2 - 6x + 7$"
+       },
+           "answer": "A"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "Complete the square for $x^2 - 9x$ to find the vertex form of the equation.",
+           "options": {
+               "A": "$x^2 - 9x + \frac{81}{4}$",
+               "B": "$x^2 + 9x + \frac{81}{4}$",
+               "C": "$left(x - \frac{9}{2}\right)^2$",
+               "D": "$left(x + \frac{9}{2}\right)^2$",
+       "E": "$x^2 - 9x - \frac{81}{4}$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "The ancient Chinese used $x^2 + 5x + 6$ to calculate the area of a triangular field. Convert this equation to vertex form.",
+           "options": {
+               "A": "$x^2 + 5x + 6$",
+               "B": "$(x + 2.5)^2 - 3.75$",
+               "C": "$(x + 2.5)^2 + 3.75$",
+               "D": "$(x - 2.5)^2 - 3.75$",
+       "E": "$(x - 2.5)^2 + 3.75$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "The vertex form of a quadratic equation is $(x + 2)^2 - 3$. What is the standard form of this equation?",
+           "options": {
+               "A": "$x^2 + 4x + 1$",
+               "B": "$x^2 + 4x - 1$",
+               "C": "$x^2 - 4x + 1$",
+       "D": "$x^2 - 4x - 1$",
+       "E": "$x^2 + 4x + 4$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "Complete the square to rewrite $x^2 + 12x + 4$ in vertex form. Then, interpret the transformed equation.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "The ancient Egyptians used the equation $x^2 - 8x + 15$ to model the height of a pyramid. Convert this equation to vertex form, then sketch the graph of the equation and identify the x-intercepts.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Tip 1: Use the completing the square method to convert standard form to vertex form.",
+       "Tip 2: Make sure to simplify the equation after completing the square.",
+       "Tip 3: Always identify the vertex and x-intercepts of the equation after transforming it."
+   ],
+   "footer_title": "Chef's Tips"
+}

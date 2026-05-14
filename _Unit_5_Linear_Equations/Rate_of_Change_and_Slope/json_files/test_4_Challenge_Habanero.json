@@ -1,0 +1,129 @@
+{
+  "unit": "\u1F4D6 Unit 5: Linear Equations",
+   "topic": "Rate of Change and Slope",
+   "test_type": "Challenge (Habanero)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "A recipe for cooking pasta requires $2 \\cdot x$ cups of water for every $x$ pounds of pasta. What is the rate of change of water with respect to pasta?",
+           "options": {
+               "A": "$2$",
+               "B": "$1$",
+               "C": "$0.5$",
+               "D": "$4$",
+               "E": "$0.25$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "The height of a building is $5 \\cdot t + 20$ feet after $t$ hours of construction. What is the rate of change of the building's height?",
+           "options": {
+               "A": "$20$ feet/hour",
+               "B": "$5$ feet/hour",
+               "C": "$10$ feet/hour",
+               "D": "$2$ feet/hour",
+               "E": "$1$ foot/hour"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "The cost of ingredients for a cake is $15 \\cdot x + 10$ dollars for $x$ cakes. What is the slope of the cost function?",
+           "options": {
+               "A": "$15$",
+               "B": "$10$",
+               "C": "$25$",
+               "D": "$5$",
+               "E": "$20$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "A contractor is building a road with a slope of $3$. If the road is $x$ miles long, how much higher is the end of the road than the beginning?",
+           "options": {
+               "A": "$3x$ feet",
+               "B": "$3x$ miles",
+               "C": "$3$ miles",
+       "D": "$x$ miles",
+       "E": "$3x$ yards"
+   },
+   "answer": "A"
+},
+{
+   "id": 5,
+   "type": "MQ",
+   "question": "The temperature in a kitchen is $2 \\cdot t + 70$ degrees after $t$ hours of cooking. What is the rate of change of the temperature?",
+   "options": {
+       "A": "$70$ degrees/hour",
+       "B": "$2$ degrees/hour",
+       "C": "$1$ degree/hour",
+       "D": "$0.5$ degrees/hour",
+       "E": "$5$ degrees/hour"
+   },
+   "answer": "B"
+},
+{
+   "id": 6,
+   "type": "MQ",
+   "question": "A bridge is $50$ feet long and $10$ feet high at one end. If the bridge has a uniform slope, what is the slope of the bridge?",
+   "options": {
+       "A": "$0.2$",
+       "B": "$0.5$",
+       "C": "$1$",
+       "D": "$2$",
+       "E": "$5$"
+   },
+   "answer": "A"
+},
+{
+   "id": 7,
+   "type": "MQ",
+   "question": "A water tank is being filled at a rate of $5$ gallons per minute. If the tank is $x$ gallons full after $t$ minutes, what is the equation of the tank's volume?",
+   "options": {
+       "A": "$x = 5t$",
+       "B": "$x = 5 \\cdot t + 10$",
+       "C": "$x = 10t$",
+       "D": "$x = 10 \\cdot t + 5$",
+       "E": "$x = 2t$"
+   },
+   "answer": "A"
+},
+{
+   "id": 8,
+   "type": "MQ",
+   "question": "The cost of fuel for a construction vehicle is $0.5 \\cdot x + 20$ dollars for $x$ hours of operation. What is the slope of the cost function?",
+   "options": {
+       "A": "$0.5$",
+       "B": "$1$",
+       "C": "$2$",
+       "D": "$5$",
+       "E": "$10$"
+   },
+   "answer": "A"
+},
+{
+   "id": 9,
+   "type": "FRQ",
+   "question": "A construction company is building a ramp with a uniform slope. The ramp is $20$ feet long and $5$ feet high at one end. Find the slope of the ramp and explain what it represents in the context of the problem.",
+   "required_space_lines": 5
+},
+{
+   "id": 10,
+   "type": "FRQ",
+   "question": "A recipe for making bread requires $2 \\cdot x$ cups of flour for every $x$ loaves of bread. If the cost of flour is $1.50$ dollars per cup, find the total cost of flour for $x$ loaves of bread and explain how the rate of change of the cost relates to the number of loaves.",
+   "required_space_lines": 5
+}
+],
+"teacher_rules": [
+   "Read each question carefully before answering.",
+   "Use a ruler to draw graphs and diagrams.",
+   "Show all work and explain your reasoning."
+],
+"footer_title": "Chef's Tips"
+}

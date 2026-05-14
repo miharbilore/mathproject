@@ -1,0 +1,129 @@
+{
+  "unit":" Unit 7: Factoring",
+   "topic":"Expanding Special Patterns & Perfect Square Trinomial",
+   "test_type":"Quiz (Carolina Reaper)",
+   "questions":[
+      {
+         "id":1,
+         "type":"MQ",
+         "question":"A shipping company has $x$ boxes to transport. If each truck can carry $(x + 5)$ boxes, what is the expression for the total number of boxes transported by $2$ trucks?",
+         "options":{
+            "A":"$2x + 10$",
+            "B":"$2x - 10$",
+            "C":"$x^2 + 10x$",
+            "D":"$x^2 - 10x$",
+            "E":"$2x^2 + 10x$"
+         },
+         "answer":"A"
+      },
+      {
+         "id":2,
+         "type":"MQ",
+         "question":"The time it takes to travel from City A to City B is given by the expression $t = x^2 - 4x + 4$, where $t$ is time in hours and $x$ is the speed in km/h. What type of trinomial is this expression?",
+         "options":{
+            "A":"Perfect square trinomial",
+            "B":"Difference of cubes",
+            "C":"Sum of cubes",
+            "D":"Product of two binomials",
+            "E":"None of the above"
+         },
+         "answer":"A"
+      },
+      {
+         "id":3,
+         "type":"MQ",
+         "question":"The cost of shipping a package is given by the expression $C = (x + 2)^2$, where $x$ is the weight of the package in kg. What is the expanded form of this expression?",
+         "options":{
+            "A":"$x^2 + 2x + 4$",
+            "B":"$x^2 - 2x - 4$",
+            "C":"$x^2 + 4x + 4$",
+            "D":"$x^2 - 4x + 4$",
+            "E":"$x^2 + 4x - 4$"
+         },
+         "answer":"A"
+      },
+      {
+         "id":4,
+         "type":"MQ",
+         "question":"The distance between two cities is given by the expression $d = (x - 3)^2$, where $x$ is the speed of the vehicle in km/h. What is the value of $x$ that makes $d = 16$?",
+         "options":{
+            "A":"$x = 1$",
+            "B":"$x = 3$",
+            "C":"$x = 5$",
+            "D":"$x = 7$",
+            "E":"$x = 9$"
+         },
+         "answer":"C"
+      },
+      {
+         "id":5,
+         "type":"MQ",
+         "question":"The time it takes for a package to be delivered is given by the expression $t = x^2 - 9$, where $t$ is time in days and $x$ is the distance in km. What is the factored form of this expression?",
+         "options":{
+            "A":"$(x - 3)(x + 3)$",
+            "B":"$(x - 3)^2$",
+            "C":"$(x + 3)^2$",
+            "D":"$(x - 3)(x - 3)$",
+            "E":"$(x + 3)(x + 3)$"
+         },
+         "answer":"A"
+      },
+      {
+         "id":6,
+         "type":"MQ",
+         "question":"A logistics company has $x$ packages to deliver. If each delivery truck can carry $(x - 2)$ packages, what is the expression for the total number of packages delivered by $3$ trucks?",
+         "options":{
+            "A":"$3x - 6$",
+            "B":"$3x + 6$",
+            "C":"$x^2 - 6x$",
+            "D":"$x^2 + 6x$",
+            "E":"$3x^2 - 6x$"
+         },
+         "answer":"A"
+      },
+      {
+         "id":7,
+         "type":"MQ",
+         "question":"The cost of fuel for a vehicle is given by the expression $C = (x + 1)^2$, where $x$ is the distance traveled in km. What is the expanded form of this expression?",
+         "options":{
+            "A":"$x^2 + 2x + 1$",
+            "B":"$x^2 - 2x - 1$",
+            "C":"$x^2 + 2x - 1$",
+            "D":"$x^2 - 2x + 1$",
+            "E":"$x^2 + 1$"
+         },
+         "answer":"A"
+      },
+      {
+         "id":8,
+         "type":"MQ",
+         "question":"The time it takes for a vehicle to travel from City A to City B is given by the expression $t = x^2 + 4x + 4$, where $t$ is time in hours and $x$ is the speed in km/h. What type of trinomial is this expression?",
+         "options":{
+            "A":"Perfect square trinomial",
+            "B":"Difference of cubes",
+            "C":"Sum of cubes",
+            "D":"Product of two binomials",
+            "E":"None of the above"
+         },
+         "answer":"A"
+      },
+      {
+         "id":9,
+         "type":"FRQ",
+         "question":"A shipping company has a container that can hold $x$ boxes. If each box has a weight of $(x + 2)$ kg, what is the expression for the total weight of the boxes in the container? Show all work and simplify your answer.",
+         "required_space_lines":5
+      },
+      {
+         "id":10,
+         "type":"FRQ",
+         "question":"The cost of delivering a package is given by the expression $C = x^2 - 4x + 4$, where $x$ is the distance traveled in km. Factor this expression and find the value of $x$ that makes $C = 0$. Show all work and explain your reasoning.",
+         "required_space_lines":5
+      }
+   ],
+   "teacher_rules":[
+      "Tip 1: Ensure students have a clear understanding of perfect square trinomials and how to factor them.",
+      "Tip 2: Encourage students to use real-world examples to illustrate their understanding of the concepts.",
+      "Tip 3: Remind students to show all work and explain their reasoning for each problem."
+   ],
+   "footer":"Chef's Tips"
+}

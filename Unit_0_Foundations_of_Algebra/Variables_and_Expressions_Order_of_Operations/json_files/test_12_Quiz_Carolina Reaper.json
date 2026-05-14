@@ -1,0 +1,129 @@
+{
+  "unit": "Unit 0: Foundations of Algebra",
+   "topic": "Variables and Expressions / Order of Operations",
+   "test_type": "Quiz (Carolina Reaper)",
+   "questions": [
+     {
+       "id": 1,
+       "type": "MQ",
+       "question": "A shipping company has $3 \\cdot x + 2$ trucks on the road, where $x$ is the number of delivery routes. If $x = 4$, how many trucks are on the road?",
+       "options": {
+         "A": "10",
+         "B": "12",
+         "C": "14",
+         "D": "16",
+         "E": "18"
+       },
+       "answer": "C"
+     },
+     {
+       "id": 2,
+       "type": "MQ",
+       "question": "Evaluate the expression $2^3 + 12 \\div 4 - 5$.",
+       "options": {
+         "A": "3",
+         "B": "5",
+         "C": "7",
+         "D": "9",
+         "E": "11"
+       },
+       "answer": "C"
+     },
+     {
+       "id": 3,
+       "type": "MQ",
+       "question": "A traffic flow model is given by the expression $x^2 - 4x + 4$. Simplify the expression.",
+       "options": {
+         "A": "$x^2 - 4x$",
+         "B": "$x^2 + 4$",
+         "C": "$x^2 - 4x + 4$",
+         "D": "$x^2 - 2x$",
+         "E": "$x^2 + 2x$"
+       },
+       "answer": "C"
+     },
+     {
+       "id": 4,
+       "type": "MQ",
+       "question": "The time it takes to deliver a package is given by $t = 2x + 5$, where $t$ is the time in hours and $x$ is the distance in miles. If $x = 10$, what is the delivery time?",
+       "options": {
+         "A": "15 hours",
+         "B": "20 hours",
+         "C": "25 hours",
+         "D": "30 hours",
+         "E": "35 hours"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 5,
+       "type": "MQ",
+       "question": "Evaluate the expression $(3 + 2) \\cdot (8 - 3)$.",
+       "options": {
+         "A": "20",
+         "B": "25",
+         "C": "30",
+         "D": "35",
+         "E": "40"
+       },
+       "answer": "C"
+     },
+     {
+       "id": 6,
+       "type": "MQ",
+       "question": "A logistics company has a cost function given by $C = 2x^2 + 5x + 10$, where $C$ is the cost and $x$ is the number of shipments. If $x = 3$, what is the total cost?",
+       "options": {
+         "A": "$37",
+         "B": "$43",
+         "C": "$49",
+         "D": "$55",
+         "E": "$61"
+       },
+       "answer": "C"
+     },
+     {
+       "id": 7,
+       "type": "MQ",
+       "question": "Simplify the expression $3(2x + 1) - 2(x - 3)$.",
+       "options": {
+         "A": "$4x + 7$",
+         "B": "$5x - 2$",
+         "C": "$6x + 1$",
+         "D": "$7x - 3$",
+         "E": "$8x + 2$"
+       },
+       "answer": "A"
+     },
+     {
+       "id": 8,
+       "type": "MQ",
+       "question": "Evaluate the expression $(9 - 3) \\div (2 + 1)$.",
+       "options": {
+         "A": "1",
+         "B": "2",
+         "C": "3",
+         "D": "4",
+         "E": "5"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 9,
+       "type": "FRQ",
+       "question": "A transportation company has a route that takes $t = x^2 - 4x + 5$ hours to complete, where $t$ is the time and $x$ is the distance in miles. If the company wants to deliver packages to two locations, one at $x = 5$ miles and the other at $x = 10$ miles, what is the total time taken for both deliveries? Show your work and calculate the total time.",
+       "required_space_lines": 5
+     },
+     {
+       "id": 10,
+       "type": "FRQ",
+       "question": "A shipping container has a volume given by $V = 2x^2 + 5x - 3$, where $V$ is the volume in cubic feet and $x$ is the length in feet. If the container is 8 feet long, what is the volume of the container? Show your work and calculate the volume.",
+       "required_space_lines": 5
+     }
+   ],
+   "teacher_rules": [
+     "Remind students to follow the order of operations (PEMDAS) when evaluating expressions.",
+     "Encourage students to simplify expressions by combining like terms.",
+     "Emphasize the importance of substituting given values into expressions and evaluating results."
+   ],
+   "footer": "Chef's Tips"
+}

@@ -1,0 +1,129 @@
+{
+  "unit": "\uD83D\uDCDC Unit 9: Data Statistical Analysis",
+   "topic": "Box & Whisker (Dispersion)",
+   "test_type": "Homework (Jalapeno)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "In a box-and-whisker plot, what does the line inside the box represent?",
+           "options": {
+               "A": "$Q_2$ (median)",
+               "B": "$Q_1$ (first quartile)",
+               "C": "$Q_3$ (third quartile)",
+               "D": "Interquartile range",
+               "E": "Range"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "The Rosetta Stone has $15$ ancient Greek inscriptions with the following number of lines: $20, 25, 18, 30, 22, 28, 19, 24, 26, 21, 27, 23, 29, 31, 32$. What is the lower quartile ($Q_1$)?",
+           "options": {
+               "A": "22",
+               "B": "23",
+               "C": "24",
+               "D": "25",
+               "E": "26"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "An archaeologist excavated $12$ ancient artifacts, with weights (in grams) of: $150, 120, 180, 200, 160, 140, 170, 190, 130, 110, 100, 210$. Which weight is an outlier?",
+           "options": {
+               "A": "100",
+               "B": "110",
+               "C": "120",
+               "D": "130",
+       "E": "210"
+       },
+           "answer": "A"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "What is the interquartile range (IQR) of the following dataset: $2, 4, 6, 8, 10, 12, 14, 16, 18, 20$?",
+           "options": {
+               "A": "$4$",
+               "B": "$6$",
+               "C": "$8$",
+               "D": "$10$",
+       "E": "$12$"
+       },
+           "answer": "B"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "The Great Pyramid of Giza has $35$ layers of stone, each with a different height. If the heights are: $10, 12, 15, 18, 20, 22, 25, 28, 30, 32, 35, 38, 40, 42, 45, 48, 50, 52, 55, 58, 60, 62, 65, 68, 70, 72, 75, 78, 80, 82, 85, 88, 90, 92, 95$, what is the upper quartile ($Q_3$)?",
+           "options": {
+               "A": "60",
+       "B": "62",
+       "C": "65",
+       "D": "68",
+       "E": "70"
+       },
+           "answer": "C"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "A historian recorded the number of battles won by $10$ ancient generals: $5, 8, 12, 15, 18, 20, 22, 25, 28, 30$. What is the range of the data?",
+           "options": {
+       "A": "$20$",
+       "B": "$22$",
+       "C": "$25$",
+       "D": "$28$",
+       "E": "$30$-5=25$"
+       },
+           "answer": "E"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "An ancient city has $8$ districts with the following population sizes (in thousands): $20, 25, 30, 35, 40, 45, 50, 100$. What is the median population size?",
+           "options": {
+       "A": "30",
+       "B": "32.5",
+       "C": "35",
+       "D": "37.5",
+       "E": "40"
+       },
+           "answer": "C"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "The Terracotta Army has $8000$ soldiers, each with a unique height (in cm): $160, 170, 180, 190, 200, 210, 220, 230, 240, 250$. If the first quartile ($Q_1$) is $180$, what is the third quartile ($Q_3$)?",
+           "options": {
+       "A": "200",
+       "B": "210",
+       "C": "220",
+       "D": "230",
+       "E": "240"
+       },
+           "answer": "C"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "Create a box-and-whisker plot for the following dataset: $10, 12, 15, 18, 20, 22, 25, 28, 30, 32, 35, 38, 40$. Identify the median, first quartile, and third quartile.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "A museum has $15$ artifacts from ancient civilizations, with the following weights (in grams): $100, 120, 150, 180, 200, 220, 250, 280, 300, 320, 350, 380, 400, 420, 450$. Calculate the interquartile range (IQR) and determine if there are any outliers.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Tip 1: Ensure students understand the concept of quartiles and interquartile range.",
+       "Tip 2: Encourage students to use graph paper for box-and-whisker plots.",
+       "Tip 3: Emphasize the importance of accurate calculations and labeling."
+   ],
+   "footer": "Chef's Tips"
+}

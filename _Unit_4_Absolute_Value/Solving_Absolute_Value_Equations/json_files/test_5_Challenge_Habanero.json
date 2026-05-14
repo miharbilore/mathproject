@@ -1,0 +1,129 @@
+{
+  "unit": "\u1F4D6 Unit 4: Absolute Value",
+   "topic": "Solving Absolute Value Equations",
+   "test_type": "Challenge (Habanero)",
+   "questions": [
+     {
+       "id": 1,
+       "type": "MQ",
+       "question": "If $|x + 2| = 7$, then $x$ is?",
+       "options": {
+         "A": "$-9$",
+         "B": "$5$",
+         "C": "$-5$ or $9$",
+         "D": "$3$",
+         "E": "$-3$"
+       },
+       "answer": "C"
+     },
+     {
+       "id": 2,
+       "type": "MQ",
+       "question": "A hiker's distance from the campsite after $t$ hours is given by $|t - 5|$. How far is the hiker from the campsite after $8$ hours?",
+       "options": {
+         "A": "$3$ miles",
+         "B": "$5$ miles",
+         "C": "$7$ miles",
+         "D": "$9$ miles",
+         "E": "$11$ miles"
+       },
+       "answer": "A"
+     },
+     {
+       "id": 3,
+       "type": "MQ",
+       "question": "Solve the equation $|2x - 3| = 11$.",
+       "options": {
+         "A": "$7$ or $-4$",
+         "B": "$-7$ or $4$",
+         "C": "$7$ or $2$",
+         "D": "$-2$ or $7$",
+         "E": "$3$ or $-5$"
+       },
+       "answer": "A"
+     },
+     {
+       "id": 4,
+       "type": "MQ",
+       "question": "A car's fuel consumption is given by $|x - 40| + 10$, where $x$ is the speed in miles per hour. What is the fuel consumption when the car is traveling at $50$ miles per hour?",
+       "options": {
+         "A": "$20$",
+         "B": "$15$",
+         "C": "$10$",
+         "D": "$25$",
+         "E": "$30$"
+       },
+       "answer": "D"
+     },
+     {
+       "id": 5,
+       "type": "MQ",
+       "question": "The population of a certain animal species is given by $|t - 10| + 50$, where $t$ is the number of years since the species was first observed. What is the population after $12$ years?",
+       "options": {
+         "A": "$62$",
+         "B": "$58$",
+         "C": "$52$",
+         "D": "$60$",
+         "E": "$55$"
+       },
+       "answer": "A"
+     },
+     {
+       "id": 6,
+       "type": "MQ",
+       "question": "Solve the equation $|x + 2| = |3x - 1|$.",
+       "options": {
+         "A": "$\frac{3}{2}$",
+         "B": "$-\frac{3}{2}$",
+         "C": "$\frac{1}{2}$",
+         "D": "$-\frac{1}{2}$",
+         "E": "$1$"
+       },
+       "answer": "A"
+     },
+     {
+       "id": 7,
+       "type": "MQ",
+       "question": "If $|x - 2| = |x + 2|$, then $x$ is?",
+       "options": {
+         "A": "$0$",
+         "B": "$2$",
+         "C": "$-2$",
+         "D": "$1$",
+         "E": "$-1$"
+       },
+       "answer": "A"
+     },
+     {
+       "id": 8,
+       "type": "MQ",
+       "question": "Solve the equation $|2x + 1| = |x - 3|$.",
+       "options": {
+         "A": "$-1$",
+         "B": "$1$",
+         "C": "$-2$",
+         "D": "$2$",
+         "E": "$-4$"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 9,
+       "type": "FRQ",
+       "question": "Solve the equation $|x^2 - 4| = 9$ and check for extraneous solutions.",
+       "required_space_lines": 5
+     },
+     {
+       "id": 10,
+       "type": "FRQ",
+       "question": "A group of hikers are planning a trip to a remote area. The distance from the trailhead to the campsite is given by $|x - 10| + 5$, where $x$ is the number of hours hiked. If the group wants to hike for $8$ hours, how far will they be from the campsite? Show your work and explain your reasoning.",
+       "required_space_lines": 5
+     }
+   ],
+   "teacher_rules": [
+     "Emphasize the importance of checking for extraneous solutions.",
+     "Encourage students to use graphs to visualize the solutions to absolute value equations.",
+     "Remind students to consider the context of the problem when solving absolute value equations."
+   ],
+   "footer": "Chef's Tips"
+ }

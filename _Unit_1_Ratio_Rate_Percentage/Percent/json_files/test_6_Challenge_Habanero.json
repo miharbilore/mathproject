@@ -1,0 +1,129 @@
+{
+  "unit": "\ud83d\udcda Unit 1: Ratio, Rate, Percentage",
+   "topic": "Percent",
+   "test_type": "Challenge (Habanero)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "A gamer scored $80$ points in a game, and then scored $24$ more points. What is the percent increase in the gamer's score?",
+           "options": {
+               "A": "$20%$",
+               "B": "$30%$",
+               "C": "$40%$",
+               "D": "$50%$",
+               "E": "$60%$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "A new smartphone has a $15%$ discount on its original price of $$300$. How much will you pay for the smartphone?",
+           "options": {
+               "A": "$$/span>255$",
+               "B": "$$270$",
+               "C": "$$285$",
+               "D": "$$300$",
+               "E": "$$315$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "A gaming console has a $2%$ decrease in its sales every month. If it sold $5000$ units last month, how many units will it sell this month?",
+           "options": {
+               "A": "$4900$",
+               "B": "$4950$",
+               "C": "$4901$",
+               "D": "$5000$",
+               "E": "$5050$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "What is $18%$ of $250$?",
+           "options": {
+               "A": "$40$",
+               "B": "$42$",
+               "C": "$45$",
+               "D": "$50$",
+               "E": "$52$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "A company has a profit of $$1200$ when its sales are $$6000$. What is the percent profit?",
+           "options": {
+               "A": "$15%$",
+       "B": "$18%$",
+       "C": "$20%$",
+       "D": "$22%$",
+       "E": "$25%$"
+   },
+   "answer": "C"
+},
+{
+   "id": 6,
+   "type": "MQ",
+   "question": "The score of a player increased from $80$ to $96$. What is the percent increase in the score?",
+   "options": {
+       "A": "$10%$",
+       "B": "$15%$",
+       "C": "$16%$",
+       "D": "$20%$",
+       "E": "$25%$"
+   },
+   "answer": "C"
+},
+{
+   "id": 7,
+   "type": "MQ",
+   "question": "A new update for a game increased the frame rate by $25%$. If the original frame rate was $60$ frames per second, what is the new frame rate?",
+   "options": {
+       "A": "$70$ frames/second",
+       "B": "$72$ frames/second",
+       "C": "$75$ frames/second",
+       "D": "$80$ frames/second",
+       "E": "$85$ frames/second"
+   },
+   "answer": "C"
+},
+{
+   "id": 8,
+   "type": "MQ",
+   "question": "The price of a gaming keyboard decreased from $$120$ to $$90$. What is the percent decrease in the price?",
+   "options": {
+       "A": "$15%$",
+       "B": "$20%$",
+       "C": "$25%$",
+       "D": "$30%$",
+       "E": "$35%$"
+   },
+   "answer": "C"
+},
+{
+   "id": 9,
+   "type": "FRQ",
+   "question": "A company has $120$ employees and plans to increase the number of employees by $15%$ next year. How many employees will the company have next year?",
+   "required_space_lines": 5
+},
+{
+   "id": 10,
+   "type": "FRQ",
+   "question": "The original price of a gaming console was $$450$. After a discount of $12%$, the console was sold for $$X$. What is the value of $X$?",
+   "required_space_lines": 5
+}
+],
+"teacher_rules": [
+   "Remind students to convert percentage to decimal before calculation",
+   "Encourage students to check their answers",
+   "Make sure students have the necessary materials to complete the test"
+],
+"footer_title": "Chef's Tips"
+}

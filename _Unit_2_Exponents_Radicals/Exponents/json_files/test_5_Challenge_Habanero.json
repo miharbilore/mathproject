@@ -1,0 +1,129 @@
+{
+  "unit": "\u1F4D6 Unit 2: Exponents & Radicals",
+   "topic": "Exponents",
+   "test_type": "Challenge (Habanero)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "A hiker's fuel consumption is modeled by $2^x$, where $x$ is the number of hours hiked. If she hiked for 3 hours, her fuel consumption would be",
+           "options": {
+               "A": "$2^3 = 8$",
+               "B": "$2^2 = 4$",
+               "C": "$2^4 = 16$",
+               "D": "$2^5 = 32$",
+               "E": "$2^6 = 64$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "Simplify $(3^2)^4$ to get",
+           "options": {
+               "A": "$3^4$",
+               "B": "$3^6$",
+               "C": "$3^8$",
+               "D": "$3^{2*4} = 3^8$",
+               "E": "$3^{2+4} = 3^6$"
+           },
+           "answer": "D"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "A population of rabbits grows according to $4^x$, where $x$ is the number of years. If after 2 years, the population is $4^2$, what is the population after 5 years?",
+           "options": {
+               "A": "$4^3$",
+               "B": "$4^5$",
+               "C": "$4^7$",
+               "D": "$4^{2+3} = 4^5$",
+               "E": "$4^{5-2} = 4^3$"
+           },
+           "answer": "D"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "Simplify $\\frac{2^4}{2^2}$ to get",
+           "options": {
+               "A": "$2^2$",
+               "B": "$2^4$",
+               "C": "$2^6$",
+               "D": "$2^{4-2} = 2^2$",
+               "E": "$2^{4+2} = 2^6$"
+           },
+           "answer": "D"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "If $x^3 = 64$, what is $x$?",
+           "options": {
+               "A": "$x = 2$",
+               "B": "$x = 3$",
+               "C": "$x = 4$",
+               "D": "$x = 5$",
+               "E": "$x = 6$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "The volume of a hiking backpack is $2^x$ cubic feet, where $x$ is the number of compartments. If the backpack has 4 compartments, what is its volume?",
+           "options": {
+               "A": "$2^2 = 4$",
+       "B": "$2^3 = 8$",
+       "C": "$2^4 = 16$",
+       "D": "$2^5 = 32$",
+       "E": "$2^6 = 64$"
+   },
+   "answer": "C"
+},
+{
+   "id": 7,
+   "type": "MQ",
+   "question": "Simplify $3^2 \\cdot 3^4$ to get",
+   "options": {
+       "A": "$3^4$",
+       "B": "$3^6$",
+       "C": "$3^8$",
+       "D": "$3^{2+4} = 3^6$",
+       "E": "$3^{2*4} = 3^8$"
+   },
+   "answer": "D"
+},
+{
+   "id": 8,
+   "type": "MQ",
+   "question": "A mountain's altitude increases by $2^x$ feet, where $x$ is the number of miles hiked. If after 3 miles, the altitude is $2^3 = 8$ feet, what is the altitude after 6 miles?",
+   "options": {
+       "A": "$2^4 = 16$",
+       "B": "$2^5 = 32$",
+       "C": "$2^6 = 64$",
+       "D": "$2^{3+3} = 2^6 = 64$",
+       "E": "$2^{6-3} = 2^3 = 8$"
+   },
+   "answer": "D"
+},
+{
+   "id": 9,
+   "type": "FRQ",
+   "question": "A group of friends want to go on a hiking trip. The cost of the trip is $2^{x+2}$ dollars per person, where $x$ is the number of people going. If 4 friends are going, what is the total cost of the trip?",
+   "required_space_lines": 5
+},
+{
+   "id": 10,
+   "type": "FRQ",
+   "question": "Simplify the expression $\\frac{5^2 \\cdot 5^3}{5^4}$ and explain the steps you took to simplify it.",
+   "required_space_lines": 5
+}
+],
+"teacher_rules": [
+   "Tip 1: Make sure students understand the rules of exponents before attempting the test",
+   "Tip 2: Encourage students to use the rules of exponents to simplify expressions before solving",
+   "Tip 3: Remind students that the test is timed, so they should manage their time effectively"
+],
+"footer": "Chef's Tips"
+}

@@ -1,0 +1,129 @@
+{
+  "unit": "\u1f4d6 Unit 9: Data Statistical Analysis",
+   "topic": "Two-Way Tables",
+   "test_type": "Foundation (Jalapeno)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "What is the purpose of a two-way frequency table in sports statistics?",
+           "options": {
+               "A": "To compare team scores",
+               "B": "To analyze player performance",
+               "C": "To identify associations between variables",
+               "D": "To predict game outcomes",
+               "E": "To calculate relative frequencies"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "A basketball team won $8$ games out of $12$ when their best player was on the court. What is the relative frequency of winning with the best player?",
+           "options": {
+               "A": "$\\frac{1}{3}$",
+               "B": "$\\frac{2}{3}$",
+               "C": "$\\frac{1}{2}$",
+               "D": "$\\frac{3}{4}$",
+               "E": "$\\frac{1}{4}$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "A two-way table shows the number of athletes who participated in a marathon, categorized by age group and finishing status. What can be inferred from the table?",
+           "options": {
+               "A": "The fastest finishing time",
+               "B": "The average age of participants",
+               "C": "The association between age group and finishing status",
+               "D": "The total number of participants",
+               "E": "The winning time"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "A sports analyst created a two-way table to compare the performance of two tennis players, $A$ and $B$, based on the surface they played on. Which of the following can be calculated from the table?",
+           "options": {
+               "A": "The number of games won by player $A$ on clay courts",
+               "B": "The relative frequency of player $B$ winning on hard courts",
+               "C": "The association between player performance and surface type",
+               "D": "The total number of games played by both players",
+               "E": "The probability of player $A$ winning on grass courts"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "A cycling team recorded the distance covered by their riders, categorized by the type of bike used. Which of the following is an example of a two-way table?",
+           "options": {
+               "A": "Distance covered vs. rider experience",
+               "B": "Type of bike vs. distance covered",
+               "C": "Rider speed vs. distance covered",
+               "D": "Type of bike vs. rider experience",
+               "E": "Distance covered vs. rider speed"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "A two-way table shows the number of soccer players who scored goals, categorized by their position on the field. What can be calculated from the table?",
+           "options": {
+               "A": "The total number of goals scored",
+               "B": "The relative frequency of goals scored by each position",
+               "C": "The association between position and goal-scoring ability",
+               "D": "The average number of goals scored per position",
+               "E": "The probability of a player scoring a goal"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "A swimmer competed in $15$ events, winning $9$ of them. What is the relative frequency of winning?",
+           "options": {
+               "A": "$\\frac{1}{5}$",
+               "B": "$\\frac{3}{5}$",
+               "C": "$\\frac{2}{3}$",
+               "D": "$\\frac{3}{4}$",
+               "E": "$\\frac{1}{3}$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "A two-way table shows the number of athletes who participated in a triathlon, categorized by their age group and finishing status. What is the purpose of calculating relative frequencies from the table?",
+           "options": {
+               "A": "To compare the number of participants in each age group",
+               "B": "To identify the most common finishing status",
+               "C": "To analyze the association between age group and finishing status",
+               "D": "To calculate the total number of participants",
+               "E": "To determine the winning time"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "Create a two-way table to compare the performance of two runners, $X$ and $Y$, based on the distance they ran. Calculate the relative frequencies and analyze the association between runner performance and distance.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "A volleyball team recorded the number of points scored, categorized by the type of serve used. Create a two-way table and calculate the relative frequencies to analyze the association between serve type and points scored.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Tip 1: Ensure students understand the concept of two-way tables before administering the test.",
+       "Tip 2: Remind students to read each question carefully and choose the correct answer.",
+       "Tip 3: Allow students to use calculators to calculate relative frequencies."
+   ],
+   "footer_title": "Chef's Tips"
+}

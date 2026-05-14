@@ -1,0 +1,129 @@
+{
+  "unit": "Unit 0: Foundations of Algebra",
+   "topic": "Place Value",
+   "test_type": "Foundation (Jalapeno)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "What is the value of the digit 5 in the number $5\\cdot10^3$?",
+           "options": {
+               "A": "$5\\cdot10^2$",
+               "B": "$5\\cdot10^1$",
+               "C": "$5\\cdot10^0$",
+               "D": "$5\\cdot10^3$",
+               "E": "$5\\cdot10^4$"
+           },
+           "answer": "D"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "Round $4,256$ to the nearest thousand",
+           "options": {
+               "A": "$4,000$",
+               "B": "$5,000$",
+               "C": "$3,000$",
+               "D": "$0$",
+               "E": "$10,000$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "What is $7,492$ in expanded form?",
+           "options": {
+               "A": "$7\\cdot10^3+4\\cdot10^2+9\\cdot10^1+2\\cdot10^0$",
+               "B": "$7\\cdot10^0+4\\cdot10^1+9\\cdot10^2+2\\cdot10^3$",
+               "C": "$7\\cdot10^2+4\\cdot10^1+9\\cdot10^0+2\\cdot10^3$",
+               "D": "$7\\cdot10^3+4\\cdot10^2+9\\cdot10^1+2\\cdot10^0$",
+               "E": "$7\\cdot10^1+4\\cdot10^2+9\\cdot10^3+2\\cdot10^0$"
+           },
+           "answer": "D"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "The CEO of a company has $25,934$ shares of stock. What is the value of the digit 9?",
+           "options": {
+               "A": "$9\\cdot10^0$",
+               "B": "$9\\cdot10^1$",
+               "C": "$9\\cdot10^2$",
+               "D": "$9\\cdot10^3$",
+               "E": "$9\\cdot10^4$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "A savings account has $1,234.56$ dollars. Round this number to the nearest ten",
+           "options": {
+               "A": "$1,230$",
+               "B": "$1,240$",
+               "C": "$1,200$",
+               "D": "$1,235$",
+               "E": "$1,250$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "What is the standard form of $3\\cdot10^2+4\\cdot10^1+2\\cdot10^0$?",
+           "options": {
+       "A": "$324$",
+       "B": "$342$",
+       "C": "$322$",
+       "D": "$324.2$",
+       "E": "$340$"
+   },
+   "answer": "A"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "The tax on a $10,943$ dollar investment is $10\\%$. What is the tax amount rounded to the nearest dollar?",
+           "options": {
+       "A": "$1,094$",
+       "B": "$1,000$",
+       "C": "$1,095$",
+       "D": "$1,094.30$",
+       "E": "$109$"
+   },
+   "answer": "A"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "The value of a stock increases by $5,678$ dollars. What is the value of the digit 6 in this number?",
+           "options": {
+       "A": "$6\\cdot10^3$",
+       "B": "$6\\cdot10^1$",
+       "C": "$6\\cdot10^2$",
+       "D": "$6\\cdot10^0$",
+       "E": "$6\\cdot10^4$"
+   },
+   "answer": "C"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "Write $43,219$ in expanded form and round it to the nearest hundred. Show your work and explain your reasoning.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "A company has $93,456$ shares of stock. The value of each share is $25.87$. What is the total value of the shares rounded to the nearest thousand dollars? Show your work.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Emphasize the importance of understanding place value in real-world financial applications",
+       "Use visual aids to help students understand the concept of expanded form",
+       "Encourage students to use calculators to check their work and develop problem-solving skills"
+   ],
+   "footer": "Chef's Tips"
+}

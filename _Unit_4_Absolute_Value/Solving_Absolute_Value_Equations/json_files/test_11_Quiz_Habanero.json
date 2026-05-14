@@ -1,0 +1,129 @@
+{
+  "unit": "\uD83D\uDCDC Unit 4: Absolute Value",
+   "topic": "Solving Absolute Value Equations",
+   "test_type": "Quiz (Habanero)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "If $|x| = 9$, what are the possible values of $x$?",
+           "options": {
+               "A": "$x = 9$",
+               "B": "$x = -9$",
+               "C": "$x = 9$ or $x = -9$",
+               "D": "$x = 0$",
+               "E": "$x = 18$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "Solve for $x$: $|2x| = 12$",
+           "options": {
+               "A": "$x = 5$",
+               "B": "$x = 6$",
+               "C": "$x = 5$ or $x = -6$",
+               "D": "$x = 3$",
+               "E": "$x = 4$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "What is the solution to $|x - 2| = 7$?",
+           "options": {
+               "A": "$x = 5$",
+               "B": "$x = 9$",
+               "C": "$x = 5$ or $x = -5$",
+               "D": "$x = 9$ or $x = -5$",
+               "E": "$x = 4$"
+           },
+           "answer": "D"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "The temperature in a region is expected to rise by $|3x|$ degrees over the next week. If the temperature is expected to rise by 12 degrees, what is the value of $x$?",
+           "options": {
+               "A": "$x = 2$",
+               "B": "$x = 4$",
+               "C": "$x = 2$ or $x = -4$",
+               "D": "$x = 6$",
+               "E": "$x = 8$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "A weather forecast predicts $|2x - 5|$ inches of rainfall. If the forecast predicts 11 inches of rainfall, what is the value of $x$?",
+           "options": {
+               "A": "$x = 3$",
+               "B": "$x = 8$",
+               "C": "$x = 3$ or $x = 8$",
+               "D": "$x = 2$",
+               "E": "$x = 9$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "Solve for $x$: $|x + 1| = |2x - 3|$",
+           "options": {
+               "A": "$x = 2$",
+               "B": "$x = 4$",
+               "C": "$x = 2$ or $x = -1$",
+               "D": "$x = 1$",
+               "E": "$x = 3$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "If $|x| = |2x - 1|$, what are the possible values of $x$?",
+           "options": {
+               "A": "$x = \frac{1}{2}$",
+               "B": "$x = 1$",
+               "C": "$x = 0$ or $x = 1$",
+       "D": "$x = \frac{1}{2}$ or $x = 1$",
+       "E": "$x = 0$"
+   },
+   "answer": "D"
+},
+{
+   "id": 8,
+   "type": "MQ",
+   "question": "The depth of water in a lake is $|x - 10|$ feet. If the depth of water is 5 feet, what is the value of $x$?",
+   "options": {
+       "A": "$x = 15$",
+       "B": "$x = 5$",
+       "C": "$x = 15$ or $x = 5$",
+       "D": "$x = 20$",
+       "E": "$x = 10$"
+   },
+   "answer": "C"
+},
+{
+   "id": 9,
+   "type": "FRQ",
+   "question": "A plant's growth is modeled by the equation $|2x - 5| = 11$. Solve for $x$ and explain your reasoning.",
+   "required_space_lines": 5
+},
+{
+   "id": 10,
+   "type": "FRQ",
+   "question": "The temperature difference between two cities is $|3x + 2|$ degrees. If the temperature difference is 14 degrees, solve for $x$ and check your solution for extraneous results.",
+   "required_space_lines": 5
+}
+],
+"teacher_rules": [
+   "Tip 1: Ensure students check for extraneous solutions",
+   "Tip 2: Remind students to consider both positive and negative solutions for absolute value equations",
+   "Tip 3: Encourage students to use algebraic methods to solve absolute value equations"
+],
+"footer_title": "Chef's Tips"
+}

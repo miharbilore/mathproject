@@ -1,0 +1,129 @@
+{
+  "unit": "\u1F4D6 Unit 2: Exponents & Radicals",
+   "topic": "Rationalizing Denominator",
+   "test_type": "Quiz (Habanero)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "What is the rationalized form of $\\frac{1}{\\sqrt{2} + \\sqrt{3}}$?",
+           "options": {
+               "A": "$\\frac{\\sqrt{2} - \\sqrt{3}}{-1}$",
+               "B": "$\\frac{\\sqrt{3} - \\sqrt{2}}{1}$",
+               "C": "$\\frac{\\sqrt{2} + \\sqrt{3}}{2}$",
+               "D": "$\\frac{\\sqrt{6} - \\sqrt{2}}{-1}$",
+               "E": "$\\frac{\\sqrt{6} + 1}{-1}$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "A weather monitoring station observes a temperature change of $-2\\sqrt{3}$ degrees per hour. What is the rationalized form of $\\frac{1}{\\sqrt{3} + 2}$ if the temperature changes $\\frac{1}{\\sqrt{3} + 2}$ degrees?",
+           "options": {
+               "A": "$\\frac{\\sqrt{3} - 2}{-1}$",
+               "B": "$\\frac{\\sqrt{3} + 2}{3}$",
+               "C": "$\\frac{2 - \\sqrt{3}}{1}$",
+               "D": "$\\frac{\\sqrt{3} - 2}{-1}$",
+               "E": "$\\frac{2 + \\sqrt{3}}{1}$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "A rainfall gauge measures $\\frac{1}{\\sqrt{2}}$ inches of rain in an ecosystem. What is the rationalized form of $\\frac{1}{\\sqrt{2}}$?",
+           "options": {
+               "A": "$\\frac{\\sqrt{2}}{2}$",
+               "B": "$\\frac{1}{2}$",
+               "C": "$\\sqrt{2}$",
+               "D": "$\\frac{1}{\\sqrt{2}}$",
+               "E": "$\\frac{2}{\\sqrt{2}}$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "What is the rationalized form of $\\frac{2}{\\sqrt{5} - 1}$?",
+           "options": {
+               "A": "$\\frac{2(\\sqrt{5} + 1)}{4}$",
+               "B": "$\\frac{\\sqrt{5} - 1}{2}$",
+               "C": "$\\frac{\\sqrt{5} + 1}{2}$",
+               "D": "$\\frac{2(\\sqrt{5} - 1)}{-4}$",
+               "E": "$\\frac{2(\\sqrt{5} + 1)}{2}$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "The atmospheric pressure in a certain region can be modeled by $\\frac{1}{\\sqrt{x} + 2}$, where x is the altitude. What is the rationalized form of this expression?",
+           "options": {
+       "A": "$\\frac{\\sqrt{x} - 2}{x - 4}$",
+       "B": "$\\frac{\\sqrt{x} + 2}{x + 4}$",
+       "C": "$\\frac{\\sqrt{x} - 2}{-4}$",
+       "D": "$\\frac{\\sqrt{x} - 2}{x - 4}$",
+       "E": "$\\frac{2 - \\sqrt{x}}{-4}$"
+   },
+           "answer": "A"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "What is the rationalized form of $\\frac{3}{\\sqrt{6} + \\sqrt{2}}$?",
+           "options": {
+               "A": "$\\frac{3(\\sqrt{6} - \\sqrt{2})}{4}$",
+               "B": "$\\frac{3(\\sqrt{6} + \\sqrt{2})}{6}$",
+               "C": "$\\frac{\\sqrt{6} - \\sqrt{2}}{3}$",
+               "D": "$\\frac{\\sqrt{6} + \\sqrt{2}}{4}$",
+               "E": "$\\frac{\\sqrt{6} - \\sqrt{2}}{2}$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "What is the rationalized form of $\\frac{2}{\\sqrt{3} + 1}$?",
+           "options": {
+               "A": "$\\frac{2(\\sqrt{3} - 1)}{2}$",
+               "B": "$\\frac{\\sqrt{3} + 1}{2}$",
+               "C": "$\\frac{2(\\sqrt{3} + 1)}{4}$",
+               "D": "$\\frac{2(\\sqrt{3} - 1)}{2}$",
+               "E": "$\\frac{\\sqrt{3} - 1}{2}$"
+           },
+           "answer": "D"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "What is the rationalized form of $\\frac{1}{\\sqrt{5} - \\sqrt{2}}$?",
+           "options": {
+               "A": "$\\frac{\\sqrt{5} + \\sqrt{2}}{3}$",
+               "B": "$\\frac{\\sqrt{5} - \\sqrt{2}}{1}$",
+               "C": "$\\frac{\\sqrt{5} + \\sqrt{2}}{1}$",
+               "D": "$\\frac{\\sqrt{2} - \\sqrt{5}}{3}$",
+               "E": "$\\frac{\\sqrt{5} + \\sqrt{2}}{3}$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "The water level in a certain ecosystem can be modeled by the expression $\\frac{1}{\\sqrt{x} - 1}$, where x is the amount of rainfall. Rationalize the denominator and simplify. Show all your work and give the final rationalized form of the expression.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "The temperature change in a certain environment can be modeled by $\\frac{2}{\\sqrt{x} + 2}$, where x is the number of hours. Rationalize the denominator and simplify. Show all your work and give the final rationalized form of the expression.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Always check for extraneous solutions when rationalizing denominators.",
+       "Make sure to multiply the numerator and denominator by the conjugate of the denominator.",
+       "Simplify the expression as much as possible after rationalizing the denominator."
+   ],
+   "footer": "Chef's Tips"
+}

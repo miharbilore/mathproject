@@ -1,0 +1,129 @@
+{
+  "unit": "\u1f4d6 Unit 1: Ratio, Rate, Percentage",
+   "topic": "Percent",
+   "test_type": "Homework (Jalapeno)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "The ancient Egyptians built a pyramid with an original height of $100$ meters. If it has decreased by $15%$ over time, what is its current height in meters?",
+           "options": {
+               "A": "85",
+               "B": "90",
+               "C": "95",
+               "D": "80",
+               "E": "75"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "A historical artifact's value increased from $$5000$ to $$6000$. What is the percent increase in its value?",
+           "options": {
+               "A": "10%",
+               "B": "15%",
+               "C": "20%",
+               "D": "25%",
+               "E": "30%"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "The Rosetta Stone is $45%$ of the way through its restoration process. If $630$ days have passed, what is the total number of days allocated for its restoration?",
+           "options": {
+               "A": "1200",
+               "B": "1300",
+               "C": "1400",
+               "D": "1500",
+               "E": "1600"
+           },
+           "answer": "D"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "A museum's attendance decreased by $8%$ last year. If the attendance was $1200$ people, what is the decrease in attendance?",
+           "options": {
+               "A": "80",
+               "B": "90",
+               "C": "96",
+       "D": "100",
+       "E": "110"
+   },
+   "answer": "C"
+},
+{
+   "id": 5,
+   "type": "MQ",
+   "question": "What is $18%$ of $250$?",
+   "options": {
+       "A": "35",
+       "B": "40",
+       "C": "45",
+       "D": "50",
+       "E": "55"
+   },
+   "answer": "B"
+},
+{
+   "id": 6,
+   "type": "MQ",
+   "question": "An archaeological site's excavation cost increased from $$20000$ to $$22000$. What is the percent increase?",
+   "options": {
+       "A": "5%",
+       "B": "7%",
+       "C": "9%",
+       "D": "10%",
+       "E": "12%"
+   },
+   "answer": "D"
+},
+{
+   "id": 7,
+   "type": "MQ",
+   "question": "The Terracotta Army has $1000$ soldiers, and $22%$ of them are generals. How many generals are there?",
+   "options": {
+       "A": "200",
+       "B": "210",
+       "C": "220",
+       "D": "225",
+       "E": "230"
+   },
+   "answer": "C"
+},
+{
+   "id": 8,
+   "type": "MQ",
+   "question": "The Colosseum's original seating capacity was $50000$ people. If it decreased by $12%$ over time due to renovations, what is its current seating capacity?",
+   "options": {
+       "A": "44000",
+       "B": "45000",
+       "C": "46000",
+       "D": "48000",
+       "E": "49000"
+   },
+   "answer": "B"
+},
+{
+   "id": 9,
+   "type": "FRQ",
+   "question": "The value of an ancient coin increased from $$200$ to $$280$. Calculate the percent increase in its value and show your work. Provide your answer as a percent.",
+   "required_space_lines": 5
+},
+{
+   "id": 10,
+   "type": "FRQ",
+   "question": "A historical monument's height decreased from $150$ meters to $120$ meters due to erosion. What percent decrease occurred? Show your calculation and provide the percent decrease as the final answer.",
+   "required_space_lines": 5
+}
+],
+"teacher_rules": [
+   "Remind students to read each question carefully and choose the correct units.",
+   "Emphasize the importance of calculating the percent increase or decrease accurately.",
+   "Encourage students to use different methods, such as proportions or decimals, to solve percent problems."
+],
+"footer_title": "Chef's Tips"
+}

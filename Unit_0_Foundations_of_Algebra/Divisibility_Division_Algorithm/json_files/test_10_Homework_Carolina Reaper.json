@@ -1,0 +1,129 @@
+{
+  "unit": "Unit 0: Foundations of Algebra",
+   "topic": "Divisibility & Division Algorithm",
+   "test_type": "Homework (Carolina Reaper)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "A music artist wants to arrange $48$ songs into boxes of $8$ songs each. How many boxes can be filled?",
+           "options": {
+               "A": "5",
+               "B": "6",
+               "C": "6 with 0 songs leftover",
+               "D": "6 with 0 songs leftover, because $48 \\div 8 = 6$",
+               "E": "8"
+           },
+           "answer": "D"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "A beat has a rhythm pattern that repeats every $15$ seconds. If a song is $5$ minutes long, how many times will the rhythm pattern repeat?",
+           "options": {
+               "A": "15",
+               "B": "20",
+               "C": "30",
+               "D": "32",
+               "E": "40"
+           },
+           "answer": "D"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "If a painting is $18$ inches by $24$ inches, what is the greatest common divisor of its dimensions?",
+           "options": {
+               "A": "2",
+               "B": "3",
+               "C": "6",
+               "D": "8",
+               "E": "12"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "To create a harmonic frequency, a musician needs to divide a $480$ Hz signal into $16$ equal parts. What is the resulting frequency of each part?",
+           "options": {
+               "A": "20 Hz",
+               "B": "30 Hz",
+               "C": "30 Hz, because $480 \\div 16 = 30$",
+       "D": "40 Hz",
+       "E": "60 Hz"
+   },
+   "answer": "C"
+},
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "A photographer has $54$ prints to arrange in an exhibit. If she wants to display them in rows of $9$, how many rows can she make?",
+           "options": {
+               "A": "5",
+               "B": "6",
+               "C": "6 with 0 prints leftover",
+               "D": "6 with 0 prints leftover, because $54 \\div 9 = 6$",
+               "E": "8"
+           },
+           "answer": "D"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "A composer needs to divide $36$ instrumental parts among $4$ musicians. How many parts will each musician get?",
+           "options": {
+               "A": "8",
+               "B": "9",
+               "C": "9 with 0 parts leftover",
+               "D": "9 with 0 parts leftover, because $36 \\div 4 = 9$",
+               "E": "12"
+           },
+           "answer": "D"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "A sculptor has $50$ blocks of stone to arrange into a pattern that repeats every $10$ blocks. How many times will the pattern repeat?",
+           "options": {
+               "A": "4",
+               "B": "5",
+               "C": "5 with 0 blocks leftover",
+               "D": "5 with 0 blocks leftover, because $50 \\div 10 = 5$",
+               "E": "8"
+           },
+           "answer": "D"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "An artist has $24$ colors to divide into boxes that hold $4$ colors each. How many boxes can be filled?",
+           "options": {
+               "A": "4",
+               "B": "5",
+               "C": "6",
+               "D": "6 with 0 colors leftover",
+               "E": "8"
+           },
+           "answer": "D"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "A music producer wants to create a $3$-minute song with a beat that repeats every $12$ seconds. If the song needs to have $5$-second pauses between beats, how many beats can fit in the song? Show your calculation and express your answer as a division result with a remainder, if any.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "A painter needs to divide a $60$-inch canvas into sections that are $5$ inches long. If the painter wants to add a $2$-inch border around each section, what is the total length of the canvas that will be used for the borders? Calculate the number of sections that can fit on the canvas, then find the total border length.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Tip 1: Ensure students understand the context of each problem before attempting to solve it.",
+       "Tip 2: Encourage students to use divisibility rules and long division to solve problems.",
+       "Tip 3: Remind students to express division results with remainders when applicable."
+   ],
+   "footer": "Chef's Tips"
+}

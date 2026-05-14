@@ -1,0 +1,129 @@
+{
+  "unit": "\uD83D\uDCDA Unit 4: Absolute Value",
+   "topic": "Solving Absolute Value Equations",
+   "test_type": "Challenge (Habanero)",
+   "questions": [
+      {
+         "id": 1,
+         "type": "MQ",
+         "question": "Solve $|x| = 5$.",
+         "options": {
+            "A": "$x = 5$",
+            "B": "$x = -5$",
+            "C": "$x = 5$ or $x = -5$",
+            "D": "$x = 0$",
+            "E": "$x = 10$"
+         },
+         "answer": "C"
+      },
+      {
+         "id": 2,
+         "type": "MQ",
+         "question": "A recipe requires $|2x - 3| = 7$ cups of flour. Solve for $x$.",
+         "options": {
+            "A": "$x = 2$ or $x = 5$",
+            "B": "$x = -2$ or $x = -5$",
+            "C": "$x = 2$ or $x = -5$",
+            "D": "$x = 5$ or $x = -2$",
+            "E": "$x = 0$ or $x = 10$"
+         },
+         "answer": "D"
+      },
+      {
+         "id": 3,
+         "type": "MQ",
+         "question": "Solve $|3x + 2| = 11$.",
+         "options": {
+            "A": "$x = 3$ or $x = -5$",
+            "B": "$x = -3$ or $x = 5$",
+            "C": "$x = 2$ or $x = -4$",
+            "D": "$x = 1$ or $x = -3$",
+            "E": "$x = 0$ or $x = 6$"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 4,
+         "type": "MQ",
+         "question": "A building has $|4x - 5| = 15$ meters of foundation. Solve for $x$.",
+         "options": {
+            "A": "$x = 4$ or $x = 2.5$",
+            "B": "$x = -4$ or $x = -2.5$",
+            "C": "$x = 5$ or $x = 0$",
+            "D": "$x = 2$ or $x = -3$",
+            "E": "$x = 1$ or $x = -4$"
+         },
+         "answer": "B"
+      },
+      {
+         "id": 5,
+         "type": "MQ",
+         "question": "Solve $|2x| = 12$.",
+         "options": {
+            "A": "$x = 6$",
+            "B": "$x = -6$",
+            "C": "$x = 6$ or $x = -6$",
+            "D": "$x = 0$",
+            "E": "$x = 12$"
+         },
+         "answer": "C"
+      },
+      {
+         "id": 6,
+         "type": "MQ",
+         "question": "A contractor needs $|x + 4| = 9$ blocks of concrete. Solve for $x$.",
+         "options": {
+            "A": "$x = 5$ or $x = -13$",
+            "B": "$x = -5$ or $x = 13$",
+            "C": "$x = 3$ or $x = -11$",
+            "D": "$x = 1$ or $x = -7$",
+            "E": "$x = 0$ or $x = 8$"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 7,
+         "type": "MQ",
+         "question": "Solve $|5x - 3| = 2$.",
+         "options": {
+            "A": "$x = 1$ or $x = 0.2$",
+            "B": "$x = -1$ or $x = -0.2$",
+            "C": "$x = 0.6$ or $x = 0.2$",
+            "D": "$x = 0.4$ or $x = -0.2$",
+            "E": "$x = 0.2$ or $x = -0.6$"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 8,
+         "type": "MQ",
+         "question": "A chef has $|3x - 1| = 8$ kilograms of ingredients. Solve for $x$.",
+         "options": {
+            "A": "$x = 3$ or $x = -2$",
+            "B": "$x = -3$ or $x = 2$",
+            "C": "$x = 2$ or $x = -1$",
+            "D": "$x = 1$ or $x = -3$",
+            "E": "$x = 0$ or $x = 9$"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 9,
+         "type": "FRQ",
+         "question": "Solve $|2x + 5| = |x - 2|$ and check for extraneous solutions.",
+         "required_space_lines": 5
+      },
+      {
+         "id": 10,
+         "type": "FRQ",
+         "question": "A construction team needs to measure $|x - 3| = |2x + 1|$ feet of material. Solve for $x$ and explain your reasoning.",
+         "required_space_lines": 5
+      }
+   ],
+   "teacher_rules": [
+      "Remember to check for extraneous solutions.",
+      "Use the definition of absolute value to justify your answers.",
+      "Ensure students provide clear explanations for their reasoning."
+   ],
+   "footer": "Chef's Tips"
+}

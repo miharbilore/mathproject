@@ -1,0 +1,129 @@
+{
+  "unit": "Unit 0: Foundations of Algebra",
+   "topic": "Place Value",
+   "test_type": "Quiz (Habanero)",
+   "questions": [
+     { 
+       "id": 1, 
+       "type": "MQ", 
+       "question": "In the number $456$, what is the value of the digit $5$?", 
+       "options": {
+         "A": "$5$ hundreds",
+         "B": "$5$ tens",
+         "C": "$5$ ones",
+         "D": "$5$ thousands",
+         "E": "$5$ ten-thousands"
+       },
+       "answer": "B"
+     },
+     { 
+       "id": 2, 
+       "type": "MQ", 
+       "question": "The average temperature in a region is $24.67$ degrees. What is this number rounded to the nearest tenth?", 
+       "options": {
+         "A": "$24.7$",
+         "B": "$24.6$",
+         "C": "$25.0$",
+         "D": "$24.0$",
+         "E": "$25.7$"
+       },
+       "answer": "A"
+     },
+     { 
+       "id": 3, 
+       "type": "MQ", 
+       "question": "Write the number $945$ in expanded form.", 
+       "options": {
+         "A": "$900 + 40 + 5$",
+         "B": "$900 + 50 + 5$",
+         "C": "$900 + 40 + 4$",
+         "D": "$900 + 40 + 6$",
+         "E": "$900 + 50 + 4$"
+       },
+       "answer": "B"
+     },
+     { 
+       "id": 4, 
+       "type": "MQ", 
+       "question": "A weather station recorded $117.3$ mm of rainfall. What is the value of the digit $1$ in this number?", 
+       "options": {
+         "A": "$1$ hundred",
+         "B": "$1$ ten",
+         "C": "$1$ one",
+         "D": "$1$ tenth",
+         "E": "$1$ hundredth"
+       },
+       "answer": "A"
+     },
+     { 
+       "id": 5, 
+       "type": "MQ", 
+       "question": "The ecosystem of a forest is balanced when the temperature is between $18$ and $22$ degrees. What is the range of possible temperatures in this ecosystem?", 
+       "options": {
+         "A": "$18 < x < 22$",
+         "B": "$18 \\leq x \\leq 22$",
+         "C": "$18 < x \\leq 22$",
+         "D": "$18 \\leq x < 22$",
+         "E": "$18 = x = 22$"
+       },
+       "answer": "B"
+     },
+     { 
+       "id": 6, 
+       "type": "MQ", 
+       "question": "A scientist measured the temperature of a lake to be $15.23$ degrees. What is this number in standard form?", 
+       "options": {
+         "A": "$15.23$",
+         "B": "$1.523 \\times 10^{1}$",
+         "C": "$1.523 \\times 10^{0}$",
+         "D": "$1.523 \\times 10^{-1}$",
+         "E": "$1.523 \\times 10^{-2}$"
+       },
+       "answer": "B"
+     },
+     { 
+       "id": 7, 
+       "type": "MQ", 
+       "question": "The water level in a reservoir rose by $23.45$ meters. What is the value of the digit $4$ in this number?", 
+       "options": {
+         "A": "$4$ tens",
+         "B": "$4$ ones",
+         "C": "$4$ tenths",
+         "D": "$4$ hundredths",
+         "E": "$4$ thousands"
+       },
+       "answer": "D"
+     },
+     { 
+       "id": 8, 
+       "type": "MQ", 
+       "question": "A city's average annual rainfall is $876.25$ mm. What is this number rounded to the nearest hundred?", 
+       "options": {
+         "A": "$900$",
+         "B": "$800$",
+         "C": "$870$",
+         "D": "$880$",
+         "E": "$875$"
+       },
+       "answer": "A"
+     },
+     { 
+       "id": 9, 
+       "type": "FRQ", 
+       "question": "A glacier is melting at a rate of $0.05$ meters per day. If it melts for $25$ days, what is the total distance it will have melted? Write your answer in expanded form.", 
+       "required_space_lines": 5
+     },
+     { 
+       "id": 10, 
+       "type": "FRQ", 
+       "question": "The temperature in a region is expected to drop by $12.8$ degrees over the next $5$ days. If the current temperature is $25.2$ degrees, what will the temperature be in $5$ days? Write your answer in standard form.", 
+       "required_space_lines": 5
+     }
+   ],
+   "teacher_rules": [
+     "Make sure students show their work for the free-response questions.",
+     "Encourage students to use a calculator to check their answers.",
+     "Remind students to label their answers with the correct units."
+   ],
+   "footer": "Chef's Tips"
+}

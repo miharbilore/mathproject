@@ -1,0 +1,128 @@
+{
+  "unit": "Unit 2: Exponents & Radicals",
+   "topic": "Exponents",
+   "test_type": "Intro (Level 0)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "What is $2^3$ equal to?",
+           "options": {
+               "A": "$6$",
+               "B": "$7$",
+               "C": "$8$",
+               "D": "$9$",
+               "E": "$10$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "What is $x^2$ when $x = 3$?",
+           "options": {
+               "A": "$6$",
+               "B": "$7$",
+               "C": "$8$",
+               "D": "$9$",
+               "E": "$10$"
+           },
+           "answer": "D"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "What is the value of $5^1$?",
+           "options": {
+               "A": "$1$",
+               "B": "$5$",
+               "C": "$10$",
+               "D": "$25$",
+               "E": "$50$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "What is $3^2$ equal to?",
+           "options": {
+               "A": "$6$",
+               "B": "$7$",
+               "C": "$8$",
+               "D": "$9$",
+               "E": "$10$"
+           },
+           "answer": "D"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "What is the meaning of $x^0$ when $x \\neq 0$?",
+           "options": {
+               "A": "$0$",
+               "B": "$1$",
+               "C": "$x$",
+               "D": "$-x$",
+               "E": "$\\frac{1}{x}$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "What is $2^4$ equal to?",
+           "options": {
+               "A": "$8$",
+               "B": "$12$",
+               "C": "$16$",
+               "D": "$20$",
+               "E": "$24$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "What is $1^5$ equal to?",
+           "options": {
+               "A": "$0$",
+               "B": "$1$",
+               "C": "$5$",
+               "D": "$10$",
+               "E": "$15$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "What does the term $a^m$ represent?",
+           "options": {
+               "A": "$a$ multiplied by itself $m$ times",
+               "B": "$a$ divided by itself $m$ times",
+               "C": "$a$ added to itself $m$ times",
+               "D": "$a$ subtracted from itself $m$ times",
+               "E": "$a$ raised to the power of $m-1$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "Explain what the exponent in $x^2$ represents and provide an example.",
+           "required_space_lines": 4
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "Describe a scenario where you would use exponents in real life, such as in science or finance.",
+           "required_space_lines": 4
+       }
+   ],
+   "teacher_rules": [
+       "Emphasize the concept that exponents represent repeated multiplication, as this is fundamental to understanding more complex exponent rules.",
+       "Use visual aids such as graphs or blocks to help students visualize the concept of exponents and how they grow.",
+       "Encourage students to explore real-world examples where exponents are used, such as population growth, chemical reactions, or financial calculations, to make the learning experience more engaging and relevant."
+   ]
+}

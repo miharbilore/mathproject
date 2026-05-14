@@ -1,0 +1,129 @@
+{
+  "unit": "Unit 0: Foundations of Algebra",
+   "topic": "Rational Numbers & Decimals",
+   "test_type": "Advanced (Carolina Reaper)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "A bakery sells $2.50$ dozen of donuts, which is equivalent to $\\frac{5}{2}$ dozen of muffins. How much does $\\frac{3}{4}$ dozen of muffins cost?",
+           "options": {
+               "A": "$1.88",
+               "B": "$2.25",
+               "C": "$2.50",
+               "D": "$3.13",
+               "E": "$3.75"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "Tom has been saving money for a new bike and has $\\frac{3}{5}$ of the total cost. If the bike costs $120, how much more money does Tom need to save?",
+           "options": {
+               "A": "$24",
+               "B": "$36",
+               "C": "$48",
+               "D": "$72",
+               "E": "$96"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "A water tank can hold $240$ gallons of water. If $\\frac{3}{8}$ of the tank is already filled, how many more gallons can be added?",
+           "options": {
+               "A": "180",
+               "B": "160",
+               "C": "144",
+               "D": "120",
+               "E": "100"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "A recipe for making cookies requires $2 \\frac{3}{4}$ cups of flour. If you only have $\\frac{1}{4}$ cup of flour, what fraction of the recipe can you make?",
+           "options": {
+       "A": "$\\frac{1}{11}$",
+       "B": "$\\frac{2}{11}$",
+       "C": "$\\frac{1}{12}$",
+       "D": "$\\frac{1}{10}$",
+       "E": "$\\frac{3}{11}$"
+   },
+           "answer": "A"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "A group of friends want to share some candy equally. If they have $2.5$ pounds of candy and there are $5$ friends, how much candy will each friend get?",
+           "options": {
+               "A": "$0.4$ pounds",
+               "B": "$0.5$ pounds",
+               "C": "$0.6$ pounds",
+               "D": "$0.7$ pounds",
+               "E": "$0.8$ pounds"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "A bookshelf has $5$ shelves, and each shelf can hold $8$ boxes. If $\\frac{2}{5}$ of the boxes are already filled, how many boxes are already filled?",
+           "options": {
+               "A": "16",
+               "B": "12",
+               "C": "10",
+               "D": "8",
+               "E": "6"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "A person is planning a road trip that is $240$ miles long. If they have already driven $\\frac{3}{5}$ of the distance, how many miles are left to drive?",
+           "options": {
+               "A": "96",
+               "B": "108",
+       "C": "120",
+       "D": "144",
+       "E": "160"
+   },
+           "answer": "B"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "A bakery is having a sale on bread. A loaf of bread normally costs $2.50, but it is on sale for $\\frac{4}{5}$ of the original price. How much will you pay for a loaf of bread during the sale?",
+           "options": {
+               "A": "$1.80",
+               "B": "$2.00",
+               "C": "$2.10",
+               "D": "$2.20",
+               "E": "$2.25"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "A person has $\\frac{1}{2}$ cup of oil and $\\frac{3}{4}$ cup of vinegar. They want to mix the oil and vinegar in a $2:3$ ratio. How much more oil and vinegar do they need to make the mixture? Show your work and explain your reasoning.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "A water tank can hold $1200$ gallons of water. If $\\frac{1}{3}$ of the tank is already filled, and $\\frac{1}{4}$ of the tank is filled every hour, how many hours will it take to fill the rest of the tank? Show your work and explain your reasoning.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Tip 1: Make sure to check the units of measurement in each question.",
+       "Tip 2: Encourage students to use visual aids such as number lines or graphs to help solve the problems.",
+       "Tip 3: Remind students to show their work and explain their reasoning for the free-response questions."
+   ],
+   "footer": "Chef's Tips"
+}
