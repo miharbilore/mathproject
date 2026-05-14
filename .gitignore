@@ -2,5 +2,5 @@ node_modules/
 output.log
 .DS_Store
 *.tmp
-"eski çalışmalar/"
+eski çalışmalar/
 .env
