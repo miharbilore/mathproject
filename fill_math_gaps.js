@@ -5,6 +5,7 @@ require("dotenv").config();
 
 const {
   delay,
+  TESTS_PER_SUBTOPIC,
   parseCurriculum,
   getTestMeta,
   getJsonDir,
@@ -13,6 +14,11 @@ const {
   loadApiKeys,
   ApiKeyPool,
   validateTestPayload,
+  validateQuestionUniqueness,
+  writeJsonAtomic,
+  getInvalidFilePath,
+  validateExistingTestFile,
+  collectExistingQuestionHashes,
   collectGaps
 } = require("./lib/shared");
 
@@ -31,7 +37,7 @@ function getGeminiModel(apiKey) {
 }
 
 // --- GENERATION LOGIC ---
-async function generateTest(unit, subtopic, testIndex) {
+async function generateTest(unit, subtopic, testIndex, existingHashes = new Set()) {
   const meta = getTestMeta(testIndex);
   const spiceLabel = `${meta.type} (${meta.spice})`;
   
@@ -97,7 +103,18 @@ async function generateTest(unit, subtopic, testIndex) {
   const filePath = getTestFilePath(unit.name, subtopic.name, testIndex);
   const fileName = path.basename(filePath);
 
-  if (fs.existsSync(filePath)) return false;
+  if (fs.existsSync(filePath)) {
+    const existingValidation = validateExistingTestFile(filePath);
+    if (existingValidation.ok) return false;
+    const invalidPath = getInvalidFilePath(filePath);
+    try {
+      fs.renameSync(filePath, invalidPath);
+      console.warn(`⚠️ Invalid JSON found. Moved aside: ${path.basename(invalidPath)}`);
+    } catch (error) {
+      console.error(`❌ Failed to move invalid JSON for ${fileName}: ${error.message}`);
+      return false;
+    }
+  }
 
   let attempts = Math.max(3, keyPool.size() * 2);
   while (attempts > 0) {
@@ -125,8 +142,13 @@ async function generateTest(unit, subtopic, testIndex) {
       if (!validation.ok) {
         throw new Error(`Validation failed: ${validation.errors.join("; ")}`);
       }
+      const uniqueness = validateQuestionUniqueness(parsed, existingHashes);
+      if (!uniqueness.ok) {
+        throw new Error(`Uniqueness failed: ${uniqueness.errors.join("; ")}`);
+      }
 
-      fs.writeFileSync(filePath, JSON.stringify(parsed, null, 2));
+      writeJsonAtomic(filePath, parsed);
+      uniqueness.newHashes.forEach(hash => existingHashes.add(hash));
       console.log(`✅ Success!`);
       await delay(15000);
       return true;
@@ -162,8 +184,9 @@ async function run() {
     for (const unit of curriculum) {
       console.log(`\n📂 Unit: ${unit.name}`);
       for (const subtopic of unit.subtopics) {
-        for (let i = 1; i <= 12; i++) {
-          const generated = await generateTest(unit, subtopic, i);
+        const existingHashes = collectExistingQuestionHashes(unit.name, subtopic.name);
+        for (let i = 1; i <= TESTS_PER_SUBTOPIC; i++) {
+          const generated = await generateTest(unit, subtopic, i, existingHashes);
           if (generated) progress = true;
         }
       }
