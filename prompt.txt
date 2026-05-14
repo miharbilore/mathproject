@@ -1,0 +1,30 @@
+PROJECT: MATH TEST GENERATION (US STANDARDS)
+
+Goal: Create professional 1-page mathematics tests for American Education Standards (CCSS).
+Structure:
+
+7-Test Cycle per Unit: >    * Foundation (3 levels: Level 1-2-3) - Yellow/Banana Pepper
+
+Challenge (3 levels: Level 1-2-3) - Orange/Habanero
+
+Advanced (1 level: High Complexity) - Red/Carolina Reaper
+
+Layout Requirements (Overleaf/LaTeX):
+
+Format: Single A4 page, two-column flow (multicols{2}).
+
+Content: 10 questions per page (Mixed: Multiple Choice and FRQ).
+
+Header: A tcolorbox with a tabularx table containing Topic Name, Level (with Pepper Emoji), and fields for "Name" and "Date".
+
+Body: Questions should be distributed vertically using \vfill to fill the entire page evenly. Options must be vertical (A, B, C, D).
+
+FRQ: Open-ended questions must include a gray-bordered tcolorbox for solutions (approx. height 3.5cm - 4cm).
+
+Footer: A "Chef's Tips" tcolorbox at the very bottom (using \vspace*{\fill}) with 3 pedagogical hints.
+
+Technical Stack: Use enumitem, xcolor, tcolorbox, fontawesome5, multicol, and tabularx. Ensure no horizontal overflows (no overfull boxes).
+
+Tone & Style: Academic yet engaging. Simplicity in language, but accuracy in mathematical depth.
+
+Current Progress: Unit 0 (Foundations of Algebra) - Foundation Level 1 is completed. Continue with the next requested level/test using this exact layout

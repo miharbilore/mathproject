@@ -1,0 +1,253 @@
+Unit 0: Foundations of Algebra
+Variables and Expressions / Order of Operations
+Students will be able to evaluate numerical expressions using the correct order of operations (PEMDAS).
+Students will be able to translate verbal phrases into algebraic expressions.
+Students will be able to simplify algebraic expressions by combining like terms.
+Students will be able to substitute given values into expressions and evaluate results.
+Natural Numbers & Integers
+Students will be able to classify numbers (natural, whole, integer).
+Students will be able to identify and generate even and odd numbers.
+Students will be able to recognize and extend numerical patterns.
+Students will be able to perform operations with integers, including negatives.
+Rational Numbers & Decimals
+Students will be able to convert between fractions, decimals, and percents.
+Students will be able to compare and order rational numbers.
+Students will be able to perform four operations with fractions and decimals.
+Students will be able to represent rational numbers on a number line.
+Place Value
+Students will be able to identify the value of digits in multi-digit numbers.
+Students will be able to round numbers to a specified place.
+Students will be able to write numbers in expanded and standard form.
+Divisibility & Division Algorithm
+Students will be able to apply divisibility rules (2, 3, 5, 9, 10).
+Students will be able to perform long division.
+Students will be able to express division results with remainders.
+GCF & LCM
+Students will be able to find GCF using factors or prime factorization.
+Students will be able to find LCM using multiples or prime factorization.
+Students will be able to solve real-world problems involving GCF and LCM.
+Equations
+Students will be able to solve one-step equations.
+Students will be able to solve multi-step linear equations.
+Students will be able to check solutions for accuracy.
+Isolating Variables
+Students will be able to rearrange formulas to isolate a given variable.
+Students will be able to solve literal equations.
+Inequalities
+Students will be able to solve one- and multi-step inequalities.
+Students will be able to graph solutions on a number line.
+Students will be able to write solutions in interval notation.
+
+
+
+
+📘 Unit 1: Ratio, Rate, Percentage
+Percent
+Students will be able to calculate percentages and percent increase/decrease.
+Students will be able to solve real-world percent problems.
+Ratios & Proportions
+Students will be able to represent ratios in multiple forms.
+Students will be able to solve proportions using cross multiplication.
+Students will be able to model real-world situations with proportions.
+Mixture Problems
+Students will be able to solve mixture problems using equations.
+Students will be able to interpret concentration and ratios.
+Rates & Variation
+Students will be able to calculate unit rates.
+Students will be able to convert units.
+Students will be able to model direct and inverse variation.
+Students will be able to solve rate problems (speed, work, etc.).
+
+
+
+
+📘 Unit 2: Exponents & Radicals
+Exponents
+Students will be able to apply exponent rules (product, quotient, power).
+Students will be able to simplify expressions with exponents.
+Exponential Equations
+Students will be able to solve basic exponential equations.
+Radicals
+Students will be able to simplify square and cube roots.
+Students will be able to convert between radical and rational exponent form.
+Operations with Radicals
+Students will be able to add/subtract like radicals.
+Students will be able to multiply/divide radicals.
+Rationalizing Denominator
+Students will be able to rationalize denominators involving radicals.
+
+
+
+Unit 3: Functions
+Definition of Relation and Function, Domain, Range, and Notations
+Students will be able to distinguish between relations and functions using ordered pairs, tables, graphs, and mappings.
+Students will be able to determine whether a relation is a function using the vertical line test.
+Students will be able to identify domain and range from graphs, tables, and equations.
+Students will be able to evaluate functions using proper function notation (e.g., f(x)).
+Operations with Functions
+Students will be able to perform addition, subtraction, multiplication, and division of functions.
+Students will be able to determine the domain of combined functions.
+Students will be able to simplify resulting expressions after operations.
+Composite Functions
+Students will be able to evaluate composite functions (f(g(x))).
+Students will be able to determine domain restrictions for composite functions.
+Students will be able to interpret compositions in real-world contexts.
+Function Transformations
+Students will be able to describe and apply vertical and horizontal shifts.
+Students will be able to apply reflections over x-axis and y-axis.
+Students will be able to apply stretches and compressions.
+Students will be able to compare transformed graphs to parent functions.
+Inverse Relations and Functions
+Students will be able to determine if a function has an inverse.
+Students will be able to find inverse functions algebraically.
+Students will be able to verify inverses using composition.
+Students will be able to interpret inverses in real-world contexts.
+
+
+
+📘 Unit 4: Absolute Value
+Definition of Absolute Value
+Students will be able to define absolute value as distance from zero on a number line.
+Students will be able to evaluate absolute value expressions.
+Students will be able to interpret absolute value in contextual problems.
+Solving Absolute Value Equations
+Students will be able to solve equations of the form |x| = a.
+Students will be able to solve multi-step absolute value equations.
+Students will be able to check solutions for extraneous results.
+Absolute Value Function and its Graph
+Students will be able to graph absolute value functions.
+Students will be able to identify vertex, axis of symmetry, and direction of opening.
+Students will be able to apply transformations to absolute value graphs.
+Absolute Value Inequalities and Their Applications
+Students will be able to solve inequalities involving absolute value.
+Students will be able to express solutions in interval notation.
+Students will be able to graph solution sets on a number line.
+Students will be able to model real-world problems using absolute value inequalities.
+
+
+
+📘 Unit 5: Linear Equations
+Rate of Change and Slope
+Students will be able to calculate slope from graphs, tables, and equations.
+Students will be able to interpret slope as rate of change.
+Students will be able to identify positive, negative, zero, and undefined slopes.
+Point-Slope Form, Slope-Intercept Form, Standard Form and Converting Forms
+Students will be able to write linear equations in different forms.
+Students will be able to convert between forms.
+Students will be able to graph linear equations from each form.
+Students will be able to interpret slope and intercepts in context.
+Parallel Lines
+Students will be able to identify parallel lines using slope.
+Students will be able to write equations of parallel lines.
+Students will be able to analyze relationships between parallel lines.
+Perpendicular Lines
+Students will be able to identify perpendicular lines using negative reciprocal slopes.
+Students will be able to write equations of perpendicular lines.
+Students will be able to apply perpendicular relationships in problem solving.
+Scatter Plot and The Best Fit Line
+Students will be able to create scatter plots.
+Students will be able to identify correlation (positive, negative, none).
+Students will be able to draw and interpret a line of best fit.
+Students will be able to make predictions based on data trends.
+
+
+
+📘 Unit 6: Systems of Linear Equations and Inequalities
+Solving Systems Using Elimination and Substitution
+Students will be able to solve systems using substitution.
+Students will be able to solve systems using elimination.
+Students will be able to determine if a system has one solution, no solution, or infinitely many solutions.
+Applications of Systems (Word Problems)
+Students will be able to translate real-world problems into systems of equations.
+Students will be able to interpret solutions in context.
+Students will be able to evaluate reasonableness of solutions.
+Solving Systems by Graphing
+Students will be able to graph linear systems.
+Students will be able to identify intersection points as solutions.
+Students will be able to interpret graphical solutions.
+Linear Inequalities with Two Variables
+Students will be able to graph linear inequalities in two variables.
+Students will be able to identify solution regions.
+Students will be able to distinguish between solid and dashed boundary lines.
+Systems of Linear Inequalities by Graphing
+Students will be able to graph multiple inequalities on the same coordinate plane.
+Students will be able to identify overlapping solution regions.
+Students will be able to interpret feasible regions.
+Applications of Systems of Inequalities
+Students will be able to model real-world constraints using inequalities.
+Students will be able to interpret feasible solutions in context.
+Students will be able to optimize within constraint regions (intro level).
+
+
+
+📘 Unit 7: Factoring
+Finding Common Factors
+Students will be able to factor out the greatest common factor.
+Students will be able to simplify expressions using factoring.
+Factoring by Grouping
+Students will be able to factor four-term expressions by grouping.
+Students will be able to verify factoring by multiplication.
+Difference of Squares
+Students will be able to recognize and factor expressions in the form a² − b².
+Students will be able to apply this pattern in problem solving.
+Expanding Special Patterns & Perfect Square Trinomial
+Students will be able to expand binomials using special patterns.
+Students will be able to recognize perfect square trinomials.
+Students will be able to factor perfect square trinomials.
+Factoring Trinomials
+Students will be able to factor trinomials of the form ax² + bx + c.
+Students will be able to apply different factoring methods.
+Sum and Difference of Cubes
+Students will be able to recognize cube patterns.
+Students will be able to factor expressions of the form a³ ± b³.
+
+
+
+📘 Unit 8: Quadratics
+Definition of Quadratics and Standard Form
+Students will be able to identify quadratic functions in standard form.
+Students will be able to describe key features of quadratic functions.
+Vertex Form and Intercept Form
+Students will be able to write quadratic functions in vertex form.
+Students will be able to write quadratic functions in intercept form.
+Students will be able to interpret parameters in each form.
+Graphing Quadratics and Properties of Parabolas
+Students will be able to graph parabolas.
+Students will be able to identify vertex, axis of symmetry, intercepts, and direction.
+Students will be able to analyze maximum and minimum values.
+Converting Forms (Completing the Square)
+Students will be able to convert standard form to vertex form.
+Students will be able to complete the square.
+Students will be able to interpret transformed equations.
+Solving by Factoring and Other Methods
+Students will be able to solve quadratic equations by factoring.
+Students will be able to verify solutions.
+Solving by Quadratic Formula (Discriminant)
+Students will be able to apply the quadratic formula.
+Students will be able to interpret the discriminant.
+Students will be able to determine number and type of solutions.
+Systems of Linear and Quadratic Equations
+Students will be able to solve systems involving linear and quadratic equations.
+Students will be able to interpret intersection points.
+Systems of Quadratic Equations
+Students will be able to solve systems involving two quadratic equations.
+Students will be able to interpret graphical solutions.
+
+
+
+📘 Unit 9: Data Statistical Analysis
+Measures of Central Tendency
+Students will be able to calculate mean, median, and mode.
+Students will be able to interpret central tendency in context.
+Students will be able to compare data sets using these measures.
+Stem and Leaf Plots
+Students will be able to construct stem-and-leaf plots.
+Students will be able to interpret distributions from plots.
+Box & Whisker (Dispersion)
+Students will be able to construct box-and-whisker plots.
+Students will be able to identify quartiles and interquartile range.
+Students will be able to detect outliers.
+Two-Way Tables
+Students will be able to interpret two-way frequency tables.
+Students will be able to calculate relative frequencies.
+Students will be able to analyze associations between variables.
