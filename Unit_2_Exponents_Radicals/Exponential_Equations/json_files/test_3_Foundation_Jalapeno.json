@@ -1,0 +1,129 @@
+{
+  "unit": "\uD83D\uDCDA Unit 2: Exponents & Radicals",
+   "topic": "Exponential Equations",
+   "test_type": "Foundation (Jalapeno)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "Solve for $x$: $2^x = 8$",
+           "options": {
+               "A": "$x = 2$",
+               "B": "$x = 3$",
+               "C": "$x = 4$",
+               "D": "$x = 5$",
+               "E": "$x = 6$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "If $3^x = 27$, what is $x$?",
+           "options": {
+               "A": "$x = 1$",
+               "B": "$x = 2$",
+               "C": "$x = 3$",
+               "D": "$x = 4$",
+               "E": "$x = 5$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "In a sports tournament, the number of participants doubles every round. If there are $2^5$ participants initially, how many will there be after 3 rounds?",
+           "options": {
+               "A": "$2^8$",
+               "B": "$2^{10}$",
+               "C": "$2^{12}$",
+               "D": "$2^{15}$",
+               "E": "$2^{20}$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "A basketball player scores $2^x$ points in a game. If she scores 16 points, what is $x$?",
+           "options": {
+               "A": "$x = 2$",
+               "B": "$x = 3$",
+               "C": "$x = 4$",
+               "D": "$x = 5$",
+               "E": "$x = 6$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "Solve for $x$: $4^x = 64$",
+           "options": {
+               "A": "$x = 1$",
+               "B": "$x = 2$",
+               "C": "$x = 3$",
+               "D": "$x = 4$",
+               "E": "$x = 5$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "A cyclist travels $3^x$ miles in a day. If she travels 27 miles, what is $x$?",
+           "options": {
+               "A": "$x = 1$",
+               "B": "$x = 2$",
+               "C": "$x = 3$",
+               "D": "$x = 4$",
+               "E": "$x = 5$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "Solve for $x$: $2^x = 32$",
+           "options": {
+               "A": "$x = 3$",
+               "B": "$x = 4$",
+               "C": "$x = 5$",
+               "D": "$x = 6$",
+               "E": "$x = 7$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "If $x^2 = 2^4$, what is $x$?",
+           "options": {
+               "A": "$x = 2$",
+               "B": "$x = 4$",
+               "C": "$x = 6$",
+               "D": "$x = 8$",
+               "E": "$x = 10$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "Solve for $x$: $5^x = 125$. Show your work and explain your reasoning.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "A runner completes a $2^x$ mile course in a day. If she completes 8 miles, what is $x$? Show your calculation steps.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Ensure students use the correct order of operations",
+       "Encourage students to check their work",
+       "Remind students to show their work for free response questions"
+   ],
+   "footer": "Chef's Tips"
+}

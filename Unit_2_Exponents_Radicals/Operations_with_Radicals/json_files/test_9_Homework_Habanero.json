@@ -1,0 +1,129 @@
+{
+  "unit": "\u1f4d6 Unit 2: Exponents & Radicals",
+   "topic": "Operations with Radicals",
+   "test_type": "Homework (Habanero)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "Simplify $\\sqrt{12} + \\sqrt{3}$",
+           "options": {
+               "A": "$3\\sqrt{3} + \\sqrt{3}$",
+               "B": "$4\\sqrt{3}$",
+               "C": "$\\sqrt{15}$",
+               "D": "$2\\sqrt{3}$",
+               "E": "$\\sqrt{12} + 1$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "A patient is prescribed $2\\sqrt{5}$ milligrams of medication. If the patient already took $\\sqrt{5}$ milligrams, how much more medication does the patient need?",
+           "options": {
+               "A": "$\\sqrt{5}$ milligrams",
+               "B": "$2\\sqrt{5}$ milligrams",
+               "C": "$3\\sqrt{5}$ milligrams",
+               "D": "$\\sqrt{10}$ milligrams",
+               "E": "$5$ milligrams"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "Simplify $\\sqrt{24} \\cdot \\sqrt{6}$",
+           "options": {
+               "A": "$12\\sqrt{2}$",
+               "B": "$12$",
+               "C": "$\\sqrt{144}$",
+               "D": "$6\\sqrt{2}$",
+               "E": "$\\sqrt{36}$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "The number of cells in a culture grows at a rate of $2\\sqrt{t}$ per hour, where $t$ is the time in hours. If the initial number of cells is $\\sqrt{2}$, how many cells will be present after $2$ hours?",
+           "options": {
+               "A": "$4 + \\sqrt{2}$",
+               "B": "$2 + \\sqrt{2}$",
+               "C": "$6$",
+               "D": "$4\\sqrt{2}$",
+               "E": "$8$"
+           },
+           "answer": "D"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "Simplify $\\frac{\\sqrt{18}}{\\sqrt{2}}$",
+           "options": {
+               "A": "$\\sqrt{9}$",
+       "B": "$3\\sqrt{2}$",
+       "C": "$\\sqrt{18}$",
+       "D": "$\\frac{\\sqrt{18}}{2}$",
+       "E": "$\\sqrt{8}$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "A medical researcher is analyzing data on the effectiveness of a new treatment. The data shows a correlation of $0.8$ between the treatment and patient outcomes, measured in units of $\\sqrt{5}$. If the researcher wants to calculate the correlation in terms of $\\sqrt{2}$, what would be the equivalent value?",
+           "options": {
+               "A": "$1.6$",
+       "B": "$0.4\\sqrt{10}$",
+       "C": "$1.1\\sqrt{2}$",
+       "D": "$0.8\\sqrt{2}$",
+       "E": "$1.3$"
+           },
+           "answer": "D"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "Simplify $(2\\sqrt{3} + 1)(\\sqrt{3} - 1)$",
+           "options": {
+               "A": "$5 - 2\\sqrt{3}$",
+       "B": "$5 + 2\\sqrt{3}$",
+       "C": "$1$",
+       "D": "$7$",
+       "E": "$2\\sqrt{3} - 1$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "The probability of a certain medical condition occurring is $\\frac{1}{\\sqrt{2}}$. If the probability of the condition occurring twice is $\\frac{1}{2}$, what is the probability that it will occur at least once?",
+           "options": {
+               "A": "$\\frac{1}{\\sqrt{2}}$",
+       "B": "$\\frac{1}{2}$",
+       "C": "$\\frac{3}{4}$",
+       "D": "$\\frac{1}{4}$",
+       "E": "$\\frac{2}{3}$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "In a study on the effects of a new medication, the average response time was $3\\sqrt{2}$ minutes. If the standard deviation of the response times was $\\sqrt{5}$ minutes, what percentage of patients responded within one standard deviation of the average?",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "A pharmaceutical company is developing a new drug that has a $2\\sqrt{3}$% chance of being effective. If the company wants to calculate the probability that at least $2$ out of $5$ patients will respond to the treatment, what is the probability?",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Tip 1: Make sure to simplify all radical expressions before solving the problem",
+       "Tip 2: Pay attention to units when working with word problems",
+       "Tip 3: Double-check calculations to ensure accuracy"
+   ],
+   "footer": "Chef's Tips"
+}

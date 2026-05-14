@@ -1,0 +1,129 @@
+{
+  "unit": "\u1F4D6 Unit 8: Quadratics",
+   "topic": "Vertex Form and Intercept Form",
+   "test_type": "Quiz (Habanero)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "A quadratic function models the $\\text{CO}_2$ levels in a forest ecosystem. The function is $f(x) = (x - 3)^2 + 2$, where $x$ is the number of years since 2020. What is the vertex form of this function?",
+           "options": {
+               "A": "$(h, k) = (3, 2)$",
+               "B": "$(h, k) = (2, 3)$",
+               "C": "$(h, k) = (1, 4)$",
+               "D": "$(h, k) = (4, 1)$",
+               "E": "$(h, k) = (5, 0)$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "The temperature $T$ in a region is modeled by the quadratic function $T(x) = x^2 - 4x + 4$, where $x$ is the number of hours since sunrise. Write this function in intercept form.",
+           "options": {
+               "A": "$T(x) = (x - 2)(x + 2)$",
+               "B": "$T(x) = (x - 2)(x - 2)$",
+               "C": "$T(x) = (x + 2)(x + 2)$",
+               "D": "$T(x) = (x - 1)(x - 3)$",
+               "E": "$T(x) = (x + 1)(x - 3)$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "A quadratic equation $x^2 + 5x + 6 = 0$ models the growth of a plant species in a controlled environment. What are the $x$-intercepts of this equation?",
+           "options": {
+               "A": "$(-2, 0)$ and $(3, 0)$",
+               "B": "$(-3, 0)$ and $(2, 0)$",
+               "C": "$(-1, 0)$ and $(6, 0)$",
+               "D": "$(-6, 0)$ and $(1, 0)$",
+               "E": "$(-4, 0)$ and $(5, 0)$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "A researcher is studying the $\\text{pH}$ levels in a lake ecosystem. The $\\text{pH}$ level $P$ is modeled by the quadratic function $P(x) = (x - 2)^2 + 1$, where $x$ is the amount of rainfall in inches. What is the minimum $\\text{pH}$ level?",
+           "options": {
+               "A": "$P(2) = 1$",
+               "B": "$P(1) = 2$",
+               "C": "$P(3) = 3$",
+               "D": "$P(4) = 4$",
+               "E": "$P(5) = 5$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "The quadratic function $f(x) = x^2 - 3x - 4$ models the population growth of a bird species in a forest. Write this function in vertex form.",
+           "options": {
+               "A": "$f(x) = (x - 1.5)^2 - 6.25$",
+               "B": "$f(x) = (x - 2)^2 - 5$",
+               "C": "$f(x) = (x + 1.5)^2 - 6.25$",
+               "D": "$f(x) = (x + 2)^2 - 5$",
+       "E": "$f(x) = (x - 3)^2 - 4$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "A quadratic equation $x^2 - 2x - 3 = 0$ models the wind speed in a region. What are the $x$-intercepts of this equation?",
+           "options": {
+       "A": "$(-1, 0)$ and $(3, 0)$",
+       "B": "$(-3, 0)$ and $(1, 0)$",
+       "C": "$(-2, 0)$ and $(2, 0)$",
+       "D": "$(-4, 0)$ and $(2, 0)$",
+       "E": "$(-5, 0)$ and $(1, 0)$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "A quadratic function $f(x) = (x + 1)^2 - 2$ models the water level in a lake. What is the vertex of this function?",
+           "options": {
+       "A": "$(-1, -2)$",
+       "B": "$(-2, -1)$",
+       "C": "$(-1, 2)$",
+       "D": "$(1, -2)$",
+       "E": "$(2, 1)$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "The quadratic function $f(x) = x^2 + 2x - 3$ models the temperature changes in a region. Write this function in intercept form.",
+           "options": {
+       "A": "$f(x) = (x + 3)(x - 1)$",
+       "B": "$f(x) = (x - 3)(x + 1)$",
+       "C": "$f(x) = (x + 1)(x - 3)$",
+       "D": "$f(x) = (x - 2)(x + 1)$",
+       "E": "$f(x) = (x + 2)(x - 1)$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "Suppose a quadratic function $f(x) = ax^2 + bx + c$ models the $\\text{NO}_x$ emissions in a city, where $x$ is the number of vehicles. If the vertex of the function is $(-2, 100)$, write the function in vertex form and find the value of $a$ if $f(0) = 150$.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "A researcher is studying the effect of $\\text{CO}_2$ levels on plant growth. The growth $G$ is modeled by the quadratic function $G(x) = (x - 1)^2 + 2$, where $x$ is the amount of $\\text{CO}_2$ in parts per million. Find the $x$-intercepts and the vertex of the function, and interpret the results in the context of the problem.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Tip 1: Ensure students understand the concept of vertex and intercept forms of quadratic functions.",
+       "Tip 2: Emphasize the importance of interpreting parameters in each form.",
+       "Tip 3: Provide feedback on the uniqueness and accuracy of student responses."
+   ],
+   "footer_title": "Chef's Tips"
+}

@@ -1,0 +1,129 @@
+{
+  "unit": "Unit 0: Foundations of Algebra",
+   "topic": "Inequalities",
+   "test_type": "Challenge (Habanero)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "A hiker can travel $x$ miles in $3$ hours. If she travels for $5$ hours, how many miles $d$ can she cover if $d > 2x - 5$?",
+           "options": {
+               "A": "$d > 5$",
+               "B": "$d > 10$",
+               "C": "$d > 15$",
+               "D": "$d > 20$",
+               "E": "$d > 25$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "Solve the inequality $2x - 5 > 11$ and graph the solution on a number line.",
+           "options": {
+               "A": "$x > 8$",
+               "B": "$x < 8$",
+               "C": "$x > 3$",
+               "D": "$x < 3$",
+               "E": "$x = 8$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "A fuel tank can hold $15$ gallons of gas. If $3$ gallons are already in the tank, how many more gallons $g$ can be added if $g < 2(15 - 3)$?",
+           "options": {
+               "A": "$g < 12$",
+               "B": "$g < 15$",
+               "C": "$g < 18$",
+               "D": "$g < 20$",
+               "E": "$g < 24$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "The population of rabbits in a forest is given by $P = 2x + 5$, where $x$ is the number of months since the initial count. If $P > 25$, what is the range of $x$?",
+           "options": {
+               "A": "$x > 5$",
+               "B": "$x < 5$",
+               "C": "$x > 10$",
+               "D": "$x < 10$",
+               "E": "$x = 5$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "Write the solution to the inequality $x - 2 > 7$ in interval notation.",
+           "options": {
+               "A": "$(9, \\infty)$",
+               "B": "$(-\\infty, 9)$",
+               "C": "$(7, \\infty)$",
+               "D": "$(-\\infty, 7)$",
+               "E": "$[9, \\infty)$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "A park ranger can travel $20$ miles in $4$ hours. If she travels for $6$ hours, how many miles $d$ can she cover if $d > 3(20 - 4x)$ and $x = 2$?",
+           "options": {
+               "A": "$d > 30$",
+               "B": "$d > 40$",
+               "C": "$d > 50$",
+               "D": "$d > 60$",
+       "E": "$d > 70$"
+   },
+   "answer": "B"
+},
+{
+   "id": 7,
+   "type": "MQ",
+   "question": "Solve the inequality $\\frac{2x}{3} + 2 > 8$.",
+   "options": {
+       "A": "$x > 9$",
+       "B": "$x < 9$",
+       "C": "$x > 12$",
+       "D": "$x < 12$",
+       "E": "$x = 9$"
+   },
+   "answer": "C"
+},
+{
+   "id": 8,
+   "type": "MQ",
+   "question": "A group of friends want to hike a trail that is $15$ miles long. If they have already hiked $x$ miles, how many more miles $m$ can they hike if $m < 2(15 - x)$?",
+   "options": {
+       "A": "$m < 10$",
+       "B": "$m < 15$",
+       "C": "$m < 20$",
+       "D": "$m < 25$",
+       "E": "$m < 30$"
+   },
+   "answer": "B"
+},
+{
+   "id": 9,
+   "type": "FRQ",
+   "question": "The population of a certain animal species is given by $P = 5x + 2$, where $x$ is the number of years since the initial count. If $P > 50$, find the range of $x$ and graph the solution on a number line.",
+   "required_space_lines": 5
+},
+{
+   "id": 10,
+   "type": "FRQ",
+   "question": "A car's fuel efficiency is given by $25$ miles per gallon. If the car travels $x$ miles, how many gallons of gas $g$ are needed if $g > \\frac{x}{25}$? Write the solution in interval notation.",
+   "required_space_lines": 5
+}
+],
+"teacher_rules": [
+   "Tip 1: Emphasize the importance of checking the endpoints of the solution intervals.",
+   "Tip 2: Have students use number lines to visualize the solutions to the inequalities.",
+   "Tip 3: Encourage students to use algebraic methods to solve the inequalities, rather than just graphical methods."
+],
+"footer_title": "Chef's Tips"
+}

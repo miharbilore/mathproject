@@ -1,0 +1,128 @@
+{
+  "unit": "\u1f4d6 Unit 4: Absolute Value",
+   "topic": "Absolute Value Function and its Graph",
+   "test_type": "Challenge (Habanero)",
+   "questions": [
+      {
+         "id": 1,
+         "type": "MQ",
+         "question": "What is the vertex of the graph of $y = |x - 2| + 1$?",
+         "options": {
+            "A": "(2, 1)",
+            "B": "(2, -1)",
+            "C": "(1, 2)",
+            "D": "(-2, 1)",
+            "E": "(0, 0)"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 2,
+         "type": "MQ",
+         "question": "A recipe for cookies requires $x$ cups of sugar, where $x$ satisfies $|x - 3| leq 1$. What values of $x$ are acceptable?",
+         "options": {
+            "A": "$2 leq x leq 4$",
+            "B": "$2 < x < 4$",
+            "C": "$1 leq x leq 3$",
+            "D": "$1 < x < 3$",
+            "E": "$0 leq x leq 2$"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 3,
+         "type": "MQ",
+         "question": "The graph of $y = |x|$ is reflected across the $y$-axis. What is the equation of the resulting graph?",
+         "options": {
+            "A": "$y = |x|$",
+            "B": "$y = -|x|$",
+            "C": "$y = |x| + 1$",
+            "D": "$y = -x$",
+            "E": "$y = x$"
+         },
+         "answer": "B"
+      },
+      {
+         "id": 4,
+         "type": "MQ",
+         "question": "A building is designed with a symmetrical roof, where the height $y$ above the ground is given by $y = |x - 5|$. What is the $x$-coordinate of the vertex of the roof?",
+         "options": {
+            "A": "$x = 0$",
+            "B": "$x = 2$",
+            "C": "$x = 5$",
+            "D": "$x = 7$",
+            "E": "$x = 10$"
+         },
+         "answer": "C"
+      },
+      {
+         "id": 5,
+         "type": "MQ",
+         "question": "The graph of $y = |x - 2|$ is shifted $3$ units to the right. What is the equation of the resulting graph?",
+         "options": {
+            "A": "$y = |x - 5|$",
+            "B": "$y = |x + 1|$",
+            "C": "$y = |x - 1|$",
+            "D": "$y = |x + 3|$",
+            "E": "$y = x - 2$"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 6,
+         "type": "MQ",
+         "question": "A cake recipe requires $|x - 4|$ cups of flour, where $x$ is the number of servings. If $x = 6$, how many cups of flour are needed?",
+         "options": {
+            "A": "$2$ cups",
+            "B": "$4$ cups",
+            "C": "$6$ cups",
+            "D": "$8$ cups",
+            "E": "$10$ cups"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 7,
+         "type": "MQ",
+         "question": "The graph of $y = |2x|$ is compressed vertically by a factor of $\frac{1}{2}$. What is the equation of the resulting graph?",
+         "options": {
+            "A": "$y = |x|$",
+            "B": "$y = |2x|$",
+            "C": "$y = \frac{1}{2}|2x|$",
+            "D": "$y = 2|x|$",
+            "E": "$y = \frac{1}{2}x$"
+         },
+         "answer": "C"
+      },
+      {
+         "id": 8,
+         "type": "MQ",
+         "question": "A bridge is designed with a symmetrical arch, where the height $y$ above the water is given by $y = |x| - 2$. What is the $y$-intercept of the arch?",
+         "options": {
+            "A": "$y = -2$",
+            "B": "$y = 0$",
+            "C": "$y = 2$",
+            "D": "$y = 4$",
+            "E": "$y = 6$"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 9,
+         "type": "FRQ",
+         "question": "Graph the function $y = |x + 1| - 3$ and identify the vertex, axis of symmetry, and direction of opening. Show all work.",
+         "required_space_lines": 5
+      },
+      {
+         "id": 10,
+         "type": "FRQ",
+         "question": "A construction company is building a new skyscraper with a unique design. The height $y$ of the building above the ground is given by $y = |x - 10| + 5$, where $x$ is the distance from the center of the building. Find the $x$-coordinate of the vertex of the building and the maximum height of the building. Show all work and explain your answer.",
+         "required_space_lines": 5
+      }
+   ],
+   "teacher_rules": [
+      "Chef's Tips: Remember to use the definition of absolute value to solve equations and inequalities.",
+      "Chef's Tips: When graphing absolute value functions, identify the vertex and axis of symmetry.",
+      "Chef's Tips: Pay attention to the direction of opening of the graph."
+   ]
+}

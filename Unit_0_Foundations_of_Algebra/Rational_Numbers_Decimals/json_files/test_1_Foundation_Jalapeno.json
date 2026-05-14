@@ -1,0 +1,129 @@
+{
+  "unit": "Unit 0: Foundations of Algebra",
+   "topic": "Rational Numbers & Decimals",
+   "test_type": "Foundation (Jalapeno)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "What is the decimal equivalent of the fraction $\\frac{3}{4}$?",
+           "options": {
+               "A": "0.25",
+               "B": "0.5",
+               "C": "0.75",
+               "D": "0.8",
+               "E": "0.9"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "A stock price increased from $25 to $30. What is the percent increase?",
+           "options": {
+               "A": "10%",
+               "B": "15%",
+               "C": "20%",
+               "D": "25%",
+               "E": "30%"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "Which of the following rational numbers is greater: $\\frac{2}{3}$ or $\\frac{3}{5}$?",
+           "options": {
+               "A": "$\\frac{2}{3}$",
+               "B": "$\\frac{3}{5}$",
+               "C": "They are equal",
+               "D": "Cannot be determined",
+               "E": "None of the above"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "A savings account earns a $4.5\\%$ annual interest rate. If you deposit $500, how much will you have after one year?",
+           "options": {
+               "A": "$500",
+               "B": "$522.50",
+               "C": "$525",
+               "D": "$527.50",
+               "E": "$530"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "What is the fraction equivalent of the decimal $0.6$?",
+           "options": {
+               "A": "$\\frac{1}{10}$",
+               "B": "$\\frac{3}{5}$",
+               "C": "$\\frac{2}{3}$",
+               "D": "$\\frac{6}{10}$",
+               "E": "$\\frac{3}{10}$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "A tax rate of $8.25\\%$ is applied to a purchase of $120. How much tax is paid?",
+           "options": {
+               "A": "$9.90",
+               "B": "$10",
+               "C": "$10.50",
+               "D": "$10.80",
+               "E": "$11"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "Which of the following is a rational number: $\\sqrt{2}$, $0.5$, or $\\pi$?",
+           "options": {
+       "A": "$\\sqrt{2}$",
+       "B": "0.5",
+       "C": "$\\pi$",
+       "D": "Both A and C",
+       "E": "Both B and C"
+   },
+           "answer": "B"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "What is the decimal equivalent of the fraction $\\frac{9}{16}$?",
+           "options": {
+               "A": "0.45",
+               "B": "0.5",
+               "C": "0.55",
+               "D": "0.5625",
+       "E": "0.6"
+           },
+           "answer": "D"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "A company's stock price increased from $15 to $20. What is the percent increase? Show your work and explain your reasoning.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "A person invests $1000 in a savings account that earns a $3\\%$ annual interest rate. How much will they have after 2 years? Show your work and explain your reasoning.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Check calculations carefully",
+       "Ensure students show their work",
+       "Encourage students to use number lines to visualize rational numbers"
+   ],
+   "footer": "Chef's Tips"
+}

@@ -1,0 +1,131 @@
+[
+{
+  "unit": "\u1F4D6 Unit 7: Factoring",
+   "topic": "Expanding Special Patterns & Perfect Square Trinomial",
+   "test_type": "Homework (Carolina Reaper)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "What is the expansion of $(x + 5)^2$?",
+           "options": {
+               "A": "$x^2 + 10x + 25$",
+               "B": "$x^2 + 5x + 25$",
+               "C": "$x^2 - 10x + 25$",
+               "D": "$x^2 - 5x + 25$",
+               "E": "$x^2 + 25$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "A rhythm pattern has a frequency of $x^2 + 4x + 4$. What is the factored form?",
+           "options": {
+               "A": "$(x + 2)^2$",
+               "B": "$(x - 2)^2$",
+               "C": "$(x + 1)^2$",
+               "D": "$(x - 1)^2$",
+               "E": "$x^2 + 4$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "A painter has a canvas with a size of $x^2 - 6x + 9$. What is the factored form?",
+           "options": {
+               "A": "$(x - 3)^2$",
+               "B": "$(x + 3)^2$",
+               "C": "$(x - 2)^2$",
+               "D": "$(x + 2)^2$",
+               "E": "$x^2 - 9$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "What is the expansion of $(x - 3)^2$?",
+           "options": {
+               "A": "$x^2 - 6x + 9$",
+               "B": "$x^2 + 6x + 9$",
+               "C": "$x^2 - 9$",
+               "D": "$x^2 + 9$",
+               "E": "$x^2 - 3x + 9$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "A music producer has a sound frequency of $x^2 + 2x + 1$. What is the factored form?",
+           "options": {
+               "A": "$(x + 1)^2$",
+               "B": "$(x - 1)^2$",
+               "C": "$(x + 2)^2$",
+               "D": "$(x - 2)^2$",
+       "E": "$x^2 + 1$"
+   },
+   "answer": "A"
+},
+{
+   "id": 6,
+   "type": "MQ",
+   "question": "A photographer has a frame size of $x^2 - 10x + 25$. What is the factored form?",
+   "options": {
+       "A": "$(x - 5)^2$",
+       "B": "$(x + 5)^2$",
+       "C": "$(x - 2)^2$",
+       "D": "$(x + 2)^2$",
+       "E": "$x^2 - 25$"
+   },
+   "answer": "A"
+},
+{
+   "id": 7,
+   "type": "MQ",
+   "question": "What is the expansion of $(x + 2)^2$?",
+   "options": {
+       "A": "$x^2 + 4x + 4$",
+       "B": "$x^2 - 4x + 4$",
+       "C": "$x^2 + 2x + 4$",
+       "D": "$x^2 - 2x + 4$",
+       "E": "$x^2 + 4$"
+   },
+   "answer": "A"
+},
+{
+   "id": 8,
+   "type": "MQ",
+   "question": "A DJ has a beat pattern with a frequency of $x^2 - 4x + 4$. What is the factored form?",
+   "options": {
+       "A": "$(x - 2)^2$",
+       "B": "$(x + 2)^2$",
+       "C": "$(x - 1)^2$",
+       "D": "$(x + 1)^2$",
+       "E": "$x^2 - 4$"
+   },
+   "answer": "A"
+},
+{
+   "id": 9,
+   "type": "FRQ",
+   "question": "A painter has a rectangular canvas with a length of $x^2 + 6x + 9$ and a width of $x^2 - 6x + 9$. Find the factored form of the area of the canvas and show your work.",
+   "required_space_lines": 5
+},
+{
+   "id": 10,
+   "type": "FRQ",
+   "question": "A sound engineer has a sound wave with a frequency of $x^2 + 8x + 16$. Find the factored form of the frequency and explain how it relates to the sound wave's rhythm pattern. Show your work and provide a brief explanation.",
+   "required_space_lines": 5}
+   ]
+},
+"teacher_rules",":", [
+   "Read all questions carefully.",
+   "Use the provided space for free response answers.",
+   "Show all work for free response answers."
+],
+"footer_title",":", "Chef's Tips"
+
+]

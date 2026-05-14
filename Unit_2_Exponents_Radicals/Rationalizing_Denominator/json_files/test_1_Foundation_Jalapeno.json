@@ -1,0 +1,19 @@
+{
+  "unit": "\u1F4D6 Unit 2: Exponents & Radicals",
+   "topic": "Rationalizing Denominator",
+   "test_type": "Foundation (Jalapeno)",
+   "questions": [
+       { "id": 1, "type": "MQ", "question": "Rationalize the denominator of $\\frac{1}{\\sqrt{2}}$.", "options": {"A": "$\\frac{\\sqrt{2}}{2}$", "B": "$\\frac{1}{2\\sqrt{2}}$", "C": "$\\frac{2}{\\sqrt{2}}$", "D": "$\\sqrt{2}$", "E": "$\\frac{1}{2}$"}, "answer": "A" },
+       { "id": 2, "type": "MQ", "question": "Which expression has a rationalized denominator? ", "options": {"A": "$\\frac{1}{\\sqrt{3}}$", "B": "$\\frac{1}{2\\sqrt{3}}$", "C": "$\\frac{\\sqrt{3}}{3}$", "D": "$\\frac{\\sqrt{3}}{2\\sqrt{3}}$", "E": "$\\frac{1}{\\sqrt{3}} \\cdot \\frac{\\sqrt{3}}{\\sqrt{3}}$"}, "answer": "E" },
+       { "id": 3, "type": "MQ", "question": "A stock's price is $25 - \\sqrt{11}$. What is the price with a rationalized denominator? ", "options": {"A": "$25 - \\sqrt{11}$", "B": "$25 - \\frac{\\sqrt{11}}{1}$", "C": "$25 - \\frac{\\sqrt{11}\\sqrt{11}}{\\sqrt{11}}$", "D": "$25 - \\frac{11}{\\sqrt{11}}$", "E": "$25 - \\frac{\\sqrt{11}}{1} \\cdot \\frac{\\sqrt{11}}{\\sqrt{11}}$"}, "answer": "E" },
+       { "id": 4, "type": "MQ", "question": "If $x = \\frac{2}{\\sqrt{5}}$, what is $x$ with a rationalized denominator? ", "options": {"A": "$\\frac{2}{\\sqrt{5}}$", "B": "$\\frac{2}{5}$", "C": "$\\frac{\\sqrt{5}}{5}$", "D": "$\\frac{2\\sqrt{5}}{5}$", "E": "$2\\sqrt{5}$"}, "answer": "D" },
+       { "id": 5, "type": "MQ", "question": "A tax is calculated as $\\frac{1}{\\sqrt{7}}$ of the total income. What is the tax with a rationalized denominator? ", "options": {"A": "$\\frac{1}{\\sqrt{7}}$", "B": "$\\frac{\\sqrt{7}}{7}$", "C": "$\\frac{1}{7\\sqrt{7}}$", "D": "$\\frac{7}{\\sqrt{7}}$", "E": "$\\frac{\\sqrt{7}}{7}$"}, "answer": "B" },
+       { "id": 6, "type": "MQ", "question": "Rationalize the denominator of $\\frac{1 + \\sqrt{6}}{\\sqrt{6}}$. ", "options": {"A": "$\\frac{1}{\\sqrt{6}} + \\frac{\\sqrt{6}}{\\sqrt{6}}$", "B": "$\\frac{1}{\\sqrt{6}} + \\frac{\\sqrt{6}}{6}$", "C": "$\\frac{\\sqrt{6} + 6}{6}$", "D": "$\\frac{6 + \\sqrt{6}}{6}$", "E": "$\\frac{1 + \\sqrt{6}}{6}$"}, "answer": "E" },
+       { "id": 7, "type": "MQ", "question": "A savings account earns $\\frac{1}{\\sqrt{3}}$ interest. What is the interest with a rationalized denominator? ", "options": {"A": "$\\frac{1}{\\sqrt{3}}$", "B": "$\\frac{\\sqrt{3}}{3}$", "C": "$\\frac{1}{3\\sqrt{3}}$", "D": "$\\frac{3}{\\sqrt{3}}$", "E": "$\\frac{\\sqrt{3}}{3}$"}, "answer": "B" },
+       { "id": 8, "type": "MQ", "question": "The value of a stock option is $\\frac{10}{\\sqrt{8}}$. What is the value with a rationalized denominator? ", "options": {"A": "$\\frac{10}{2\\sqrt{2}}$", "B": "$\\frac{5}{\\sqrt{2}}$", "C": "$\\frac{5\\sqrt{2}}{4}$", "D": "$\\frac{5\\sqrt{2}}{2}$", "E": "$\\frac{10\\sqrt{2}}{8}$"}, "answer": "D" },
+       { "id": 9, "type": "FRQ", "question": "Rationalize the denominator of $\\frac{2 + \\sqrt{5}}{\\sqrt{5} - 1}$ and simplify. ", "required_space_lines": 5 },
+       { "id": 10, "type": "FRQ", "question": "The cost of a company's stock can be calculated using the formula $C = \\frac{250}{\\sqrt{t} + 2}$, where t is the time in months. Rationalize the denominator and simplify. ", "required_space_lines": 5 }
+   ],
+   "teacher_rules": ["Read the instructions carefully.", "Use a calculator only when necessary.", "Show all work and explain your reasoning."],
+   "footer": "Chef's Tips"
+}

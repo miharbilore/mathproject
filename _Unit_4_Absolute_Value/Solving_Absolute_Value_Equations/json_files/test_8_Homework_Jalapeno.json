@@ -1,0 +1,129 @@
+{
+  "unit": "\u1F4D6 Unit 4: Absolute Value",
+   "topic": "Solving Absolute Value Equations",
+   "test_type": "Homework (Jalapeno)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "Solve for $x$: $|x| = 5$",
+           "options": {
+               "A": "$x = 5$",
+               "B": "$x = -5$",
+               "C": "$x = 5$ or $x = -5$",
+               "D": "$x = 0$",
+               "E": "$x = 10$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "The ancient Egyptians built the Great Pyramid with a base perimeter of $|x + 10| = 20$ meters. What could $x$ be?",
+           "options": {
+               "A": "$x = 10$",
+               "B": "$x = -10$",
+               "C": "$x = 10$ or $x = -30$",
+               "D": "$x = 0$",
+               "E": "$x = 5$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "Solve the equation $|2x - 3| = 7$",
+           "options": {
+               "A": "$x = 2$ or $x = 5$",
+               "B": "$x = -2$ or $x = -5$",
+               "C": "$x = 2$ or $x = -5$",
+               "D": "$x = -2$ or $x = 5$",
+               "E": "$x = 0$"
+           },
+           "answer": "D"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "Archaeologists discovered an ancient artifact with an inscription indicating a distance of $|x - 2| = 9$ miles. What are the possible values for $x$?",
+           "options": {
+               "A": "$x = 11$",
+               "B": "$x = -7$",
+               "C": "$x = 11$ or $x = -7$",
+               "D": "$x = 0$",
+               "E": "$x = 5$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "The absolute value equation $|x + 4| = 2$ has solutions of",
+           "options": {
+               "A": "$x = -2$",
+               "B": "$x = -6$",
+               "C": "$x = -2$ or $x = -6$",
+               "D": "$x = 0$",
+               "E": "$x = 2$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "An ancient Greek mathematician solved the equation $|3x - 1| = 11$. What are the possible values for $x$?",
+           "options": {
+               "A": "$x = 4$",
+               "B": "$x = -4$",
+               "C": "$x = 4$ or $x = -10/3$",
+               "D": "$x = 0$",
+               "E": "$x = 2$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "Solve the equation $|x/2 + 1| = 3$",
+           "options": {
+               "A": "$x = 4$",
+               "B": "$x = -8$",
+               "C": "$x = 4$ or $x = -8$",
+               "D": "$x = 0$",
+               "E": "$x = 2$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "Historians found an ancient scroll indicating the height of a building to be $|x - 5| = 3$ meters. What are the possible values for $x$?",
+           "options": {
+               "A": "$x = 8$",
+               "B": "$x = 2$",
+               "C": "$x = 8$ or $x = 2$",
+               "D": "$x = 0$",
+               "E": "$x = 5$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "Solve the equation $|2x + 5| = |x - 3|$ and show all steps. Check your solutions for extraneous results.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "The equation $|x - 2| = |3x + 1|$ represents the distance between two ancient monuments. Solve the equation and explain the meaning of your solutions in the context of the problem.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Check for extraneous solutions",
+       "Use the definition of absolute value to solve equations",
+       "Consider the historical context of the problems"
+   ],
+   "footer": "Chef's Tips"
+}

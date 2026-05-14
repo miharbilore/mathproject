@@ -1,0 +1,129 @@
+{
+  "unit": "\u1F4D6 Unit 2: Exponents & Radicals",
+   "topic": "Exponential Equations",
+   "test_type": "Homework (Jalapeno)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "The ancient Egyptians used $2^3$ to represent the number of sides of a triangle. What is $2^3$?",
+           "options": {
+               "A": "6",
+               "B": "8",
+               "C": "4",
+               "D": "5",
+               "E": "7"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "If $x = 2^4$, then $x$ is equal to",
+           "options": {
+               "A": "4",
+               "B": "8",
+               "C": "12",
+               "D": "16",
+               "E": "20"
+           },
+           "answer": "D"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "The Mayans used the number $3^2$ to represent the number of dimensions. What is $3^2$?",
+           "options": {
+               "A": "6",
+               "B": "8",
+               "C": "9",
+               "D": "10",
+               "E": "12"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "If $y = 5^2$, then $y$ is equal to",
+           "options": {
+               "A": "20",
+               "B": "24",
+               "C": "25",
+               "D": "30",
+               "E": "35"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "The ancient Greeks used $4^2$ to represent the number of wheels on a chariot. What is $4^2$?",
+           "options": {
+               "A": "12",
+               "B": "14",
+               "C": "16",
+               "D": "18",
+               "E": "20"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "If $z = 2^5$, then $z$ is equal to",
+           "options": {
+               "A": "28",
+       "B": "30",
+       "C": "32",
+       "D": "35",
+       "E": "40"
+   },
+   "answer": "C"
+},
+{
+   "id": 7,
+   "type": "MQ",
+   "question": "The Babylonians used $6^2$ to represent the number of sides of a hexagon. What is $6^2$?",
+   "options": {
+       "A": "30",
+       "B": "32",
+       "C": "36",
+       "D": "40",
+       "E": "42"
+   },
+   "answer": "C"
+},
+{
+   "id": 8,
+   "type": "MQ",
+   "question": "If $a = 3^3$, then $a$ is equal to",
+   "options": {
+       "A": "20",
+       "B": "24",
+       "C": "27",
+       "D": "30",
+       "E": "35"
+   },
+   "answer": "C"
+},
+{
+   "id": 9,
+   "type": "FRQ",
+   "question": "Solve the equation $2^x = 16$. Show your work and find the value of $x$.",
+   "required_space_lines": 5
+},
+{
+   "id": 10,
+   "type": "FRQ",
+   "question": "If $y = 4^x$ and $y = 64$, then find the value of $x$. Explain your reasoning.",
+   "required_space_lines": 5
+}
+   ],
+   "teacher_rules": [
+       "Read each question carefully",
+       "Use a pencil to write your answers",
+       "Check your work before submitting"
+   ],
+   "footer_title": "Chef's Tips"
+}

@@ -1,0 +1,129 @@
+{
+  "unit": "Unit 0: Foundations of Algebra",
+   "topic": "Place Value",
+   "test_type": "Homework (Habanero)",
+   "questions": [
+       { 
+           "id": 1, 
+           "type": "MQ", 
+           "question": "In a medical study, the dosage of a new drug is $243$ milligrams. What is the value of the digit $4$?", 
+           "options": { 
+               "A": "$400$", 
+               "B": "$40$", 
+               "C": "$4$", 
+               "D": "$4000$", 
+               "E": "$0.4$"
+           }, 
+           "answer": "A" 
+       },
+       { 
+           "id": 2, 
+           "type": "MQ", 
+           "question": "A biologist counts $4567$ cells in a sample. Rounded to the nearest hundred, how many cells are there?", 
+           "options": { 
+               "A": "$4500$", 
+               "B": "$4600$", 
+               "C": "$5000$", 
+               "D": "$4000$", 
+               "E": "$46000$"
+           }, 
+           "answer": "A" 
+       },
+       { 
+           "id": 3, 
+           "type": "MQ", 
+           "question": "What is the expanded form of $945$?", 
+           "options": { 
+               "A": "$900 + 40 + 5$", 
+               "B": "$900 + 40 + 50$", 
+               "C": "$900 + 4 + 5$", 
+               "D": "$900 + 45$", 
+               "E": "$900 + 9 + 5$"
+           }, 
+           "answer": "A" 
+       },
+       { 
+           "id": 4, 
+           "type": "MQ", 
+           "question": "A pharmaceutical company produces $1200$ pills per hour. What is the standard form of this number?", 
+           "options": { 
+               "A": "$1.2 \\times 10^3$", 
+               "B": "$1.2 \\times 10^2$", 
+               "C": "$12 \\times 10^2$", 
+               "D": "$12 \\times 10^3$", 
+               "E": "$0.12 \\times 10^3$"
+           }, 
+           "answer": "A" 
+       },
+       { 
+           "id": 5, 
+           "type": "MQ", 
+           "question": "In a medical trial, the success rate is $87.34\\%$. Rounded to the nearest tenth, what is this percentage?", 
+           "options": { 
+               "A": "$87.3\\%$", 
+               "B": "$87.4\\%$", 
+               "C": "$87\\%$", 
+               "D": "$88\\%$", 
+               "E": "$0.8734\\%$"
+           }, 
+           "answer": "B" 
+       },
+       { 
+           "id": 6, 
+           "type": "MQ", 
+           "question": "A doctor prescribes a $0.542$-gram dose of medication. What is this value rounded to the nearest hundredth?", 
+           "options": { 
+               "A": "$0.54$", 
+               "B": "$0.55$", 
+               "C": "$0.5$", 
+               "D": "$0.56$", 
+               "E": "$0.57$"
+           }, 
+           "answer": "A" 
+       },
+       { 
+           "id": 7, 
+           "type": "MQ", 
+           "question": "The average height of a population is $175.8$ centimeters. Rounded to the nearest whole number, what is this height?", 
+           "options": { 
+               "A": "$175$", 
+               "B": "$176$", 
+               "C": "$178$", 
+               "D": "$180$", 
+               "E": "$185$"
+           }, 
+           "answer": "B" 
+       },
+       { 
+           "id": 8, 
+           "type": "MQ", 
+           "question": "A medical device measures blood pressure in $125.2$ millimeters of mercury. What is the value of the digit $5$?", 
+           "options": { 
+               "A": "$50$", 
+               "B": "$500$", 
+               "C": "$5$", 
+               "D": "$0.5$", 
+               "E": "$5000$"
+           }, 
+           "answer": "A" 
+       },
+       { 
+           "id": 9, 
+           "type": "FRQ", 
+           "question": "A hospital has $354$ beds. If the hospital is currently at $87\\%$ capacity, how many beds are occupied? Show your work and explain your reasoning.", 
+           "required_space_lines": 5
+       },
+       { 
+           "id": 10, 
+           "type": "FRQ", 
+           "question": "The number of patients in a hospital's emergency room can be modeled by the equation $y = 25x + 150$, where $y$ is the number of patients and $x$ is the number of hours after the hospital opens. If the hospital opens at $8$ AM, how many patients will there be at $2$ PM? Use place value to help you solve the problem.", 
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Tip 1: Encourage students to read each question carefully and identify the place value concept being tested.", 
+       "Tip 2: Remind students to show their work and explain their reasoning for free-response questions.", 
+       "Tip 3: Consider providing additional support for students who struggle with place value concepts, such as visual aids or extra practice problems."
+   ],
+   "footer": "Chef's Tips"
+}

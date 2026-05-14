@@ -1,0 +1,129 @@
+{
+  "unit": "Unit 0: Foundations of Algebra",
+   "topic": "Variables and Expressions / Order of Operations",
+   "test_type": "Challenge (Habanero)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "A recipe for making cookies calls for $2 \\cdot x + 5$ cups of flour, where $x$ is the number of batches. If $x = 3$, how many cups of flour are needed?",
+           "options": {
+               "A": "11",
+               "B": "15",
+               "C": "16",
+               "D": "20",
+               "E": "21"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "A building has $5$ floors, and each floor has $3 \\cdot x - 2$ rooms, where $x$ is the floor number. How many rooms are on the third floor?",
+           "options": {
+               "A": "5",
+               "B": "6",
+               "C": "7",
+               "D": "8",
+               "E": "9"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "A chef needs to package $18$ ingredients, with $x$ ingredients per box. The equation for the number of boxes needed is $\\frac{18}{x}$. If the chef wants to use $3$ boxes, how many ingredients should each box contain?",
+           "options": {
+               "A": "5",
+               "B": "6",
+               "C": "7",
+               "D": "8",
+               "E": "9"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "Simplify the expression: $2(x + 3) + 5(x - 2)$",
+           "options": {
+               "A": "$7x + 1$",
+               "B": "$7x - 1$",
+               "C": "$7x - 6$",
+               "D": "$7x + 6$",
+               "E": "$7x - 4$"
+           },
+           "answer": "D"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "A carpenter is building a bookshelf with $5$ shelves, and each shelf can hold $2x + 1$ books, where $x$ is the shelf number. How many books can the second shelf hold?",
+           "options": {
+       "A": "5",
+       "B": "6",
+       "C": "7",
+       "D": "8",
+       "E": "9"
+   },
+   "answer": "B"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "Evaluate the expression: $3 \\cdot 2 + 12 \\div 4$",
+           "options": {
+               "A": "7",
+               "B": "8",
+               "C": "9",
+               "D": "10",
+               "E": "11"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "A recipe for making bread calls for $x + 2$ cups of flour, where $x$ is the number of loaves. If the recipe makes $4$ loaves, how many cups of flour are needed?",
+           "options": {
+               "A": "5",
+               "B": "6",
+               "C": "7",
+               "D": "8",
+       "E": "9"
+   },
+   "answer": "B"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "Simplify the expression: $(2x + 1) + (3x - 2)$",
+           "options": {
+               "A": "$5x + 1$",
+               "B": "$5x - 1$",
+               "C": "$5x - 3$",
+               "D": "$5x + 3$",
+       "E": "$4x + 2$"
+   },
+   "answer": "B"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "The length of a rectangular garden is given by the expression $2x + 5$, and the width is given by $x - 2$. Find the area of the garden when $x = 4$. Show your work and provide the final answer.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "The cost of building a house is given by the expression $3000 + 500x + 200y$, where $x$ is the number of bedrooms and $y$ is the number of bathrooms. Find the cost of building a house with $3$ bedrooms and $2$ bathrooms. Show your work and provide the final answer.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Tip 1: Make sure students understand the order of operations (PEMDAS)",
+       "Tip 2: Encourage students to read the questions carefully and identify the variables and constants",
+       "Tip 3: Remind students to show their work and provide explanations for free-response questions"
+   ],
+   "footer_title": "Chef's Tips"
+}

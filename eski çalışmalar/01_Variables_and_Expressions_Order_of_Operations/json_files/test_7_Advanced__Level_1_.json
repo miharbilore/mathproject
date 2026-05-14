@@ -1,0 +1,102 @@
+{
+  "test_id": 7,
+   "test_type": "Advanced (Level 1)",
+   "topic": "Variables and Expressions / Order of Operations",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "What is the variable in the expression $2x + 3$?",
+           "options": { "A": "2", "B": "x", "C": "3", "D": "2x", "E": "+ " },
+           "answer": "B",
+           "spicy_level": "",
+           "required_space_lines": 0
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "Identify the coefficient in the term $4y$?",
+           "options": { "A": "y", "B": "4", "C": "4y", "D": "1", "E": "None" },
+           "answer": "B",
+           "spicy_level": "",
+           "required_space_lines": 0
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "What operation is represented by the symbol $+$ in $2 + 5$?",
+           "options": { "A": "Subtraction", "B": "Addition", "C": "Multiplication", "D": "Division", "E": "Exponentiation" },
+           "answer": "B",
+           "spicy_level": "",
+           "required_space_lines": 0
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "In the expression $3(2x - 1)$, what is the term inside the parentheses?",
+           "options": { "A": "3", "B": "2x", "C": "2x - 1", "D": "3(2x)", "E": "None" },
+           "answer": "C",
+           "spicy_level": "",
+           "required_space_lines": 0
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "What is the constant term in $2x^2 + 3x - 4$?",
+           "options": { "A": "2", "B": "3", "C": "-4", "D": "2x", "E": "3x" },
+           "answer": "C",
+           "spicy_level": "",
+           "required_space_lines": 0
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "Identify the operator in $7 - 2$?",
+           "options": { "A": "+", "B": "-", "C": "*", "D": "/", "E": "^" },
+           "answer": "B",
+           "spicy_level": "",
+           "required_space_lines": 0
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "What is the exponent in $x^3$?",
+           "options": { "A": "x", "B": "3", "C": "x^3", "D": "1", "E": "None" },
+           "answer": "B",
+           "spicy_level": "",
+           "required_space_lines": 0
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "In the expression $5(2x + 1)$, what is the factor?",
+           "options": { "A": "2x + 1", "B": "5", "C": "5(2x)", "D": "2x", "E": "None" },
+           "answer": "B",
+           "spicy_level": "",
+           "required_space_lines": 0
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "Draw a diagram to illustrate the concept of the order of operations in the expression $3 + 4 \\times 2$. Explain your reasoning.",
+           "options": {},
+           "answer": "Model Solution: A diagram showing the steps of the order of operations, with explanations.",
+           "spicy_level": "",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "Explain in words the difference between a variable and a constant in an algebraic expression. Provide an example of each.",
+           "options": {},
+           "answer": "Model Solution: A clear explanation of variables and constants, with examples such as $x$ and $5$ in $2x + 5$.",
+           "spicy_level": "",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Emphasize the importance of identifying and understanding the basic components of expressions, such as variables, constants, and operators.",
+       "Use simple, one-step examples to reinforce the definitions and concepts, ensuring students grasp the foundational elements before progressing to more complex problems.",
+       "Encourage students to visualize and explain their reasoning, especially for free-response questions, to ensure a deep understanding of the concepts rather than just memorization."
+   ]
+}

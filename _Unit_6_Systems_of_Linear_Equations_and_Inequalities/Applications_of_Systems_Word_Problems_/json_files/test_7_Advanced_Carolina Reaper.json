@@ -1,0 +1,124 @@
+{
+  "unit": "\u1f4d6 Unit 6: Systems of Linear Equations and Inequalities",
+   "topic": "Applications of Systems (Word Problems)",
+   "test_type": "Advanced (Carolina Reaper)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "Ashley has $120 to spend on music lessons and instruments. If lessons cost $15 per hour and instruments cost $25, and she wants to buy 2 instruments, how many hours of lessons can she afford?",
+           "options": {
+               "A": "4 hours",
+               "B": "6 hours",
+               "C": "8 hours",
+               "D": "10 hours",
+               "E": "12 hours"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "A bakery sells a total of 480 muffins and cakes per day. If the muffins are sold for $2 each and the cakes are sold for $5 each, and the total revenue is $2000, how many muffins are sold?",
+           "options": {
+               "A": "100",
+               "B": "120",
+               "C": "150",
+               "D": "200",
+               "E": "250"
+           },
+           "answer": "D"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "Tom has been saving money for a new bike and has $120 in his savings account. He wants to buy a bike that costs $180. If he earns $10 per hour by walking dogs, how many hours does he need to work to afford the bike?",
+           "options": {
+               "A": "5 hours",
+               "B": "6 hours",
+               "C": "8 hours",
+       "D": "10 hours",
+       "E": "12 hours"
+   },
+   "answer": "B"
+},
+{
+   "id": 4,
+   "type": "MQ",
+   "question": "A bookshelf has 5 shelves, and each shelf can hold $x$ books. If the bookshelf is currently empty and 120 books are added, and each shelf is now filled to capacity, what is the value of $x$?",
+   "options": {
+       "A": "4",
+       "B": "6",
+       "C": "8",
+       "D": "10",
+       "E": "12"
+   },
+   "answer": "D"
+},
+{
+   "id": 5,
+   "type": "MQ",
+   "question": "The cost of a movie ticket is $x$ dollars for adults and $0.5x$ dollars for children. If 100 adults and 50 children attended a movie, and the total revenue was $2000, what is the cost of an adult ticket?",
+   "options": {
+       "A": "$10",
+       "B": "$12",
+       "C": "$15",
+       "D": "$18",
+       "E": "$20"
+   },
+   "answer": "C"
+},
+{
+   "id": 6,
+   "type": "MQ",
+   "question": "A car rental company charges a base fee of $40 plus an additional $0.25 per mile driven. If a customer rented a car for a day and drove $x$ miles, and the total cost was $70, how many miles did the customer drive?",
+   "options": {
+       "A": "80 miles",
+       "B": "100 miles",
+       "C": "120 miles",
+       "D": "140 miles",
+       "E": "160 miles"
+   },
+   "answer": "C"
+},
+{
+   "id": 7,
+   "type": "MQ",
+   "question": "A group of friends want to split a bill evenly. If the total bill is $120 and there are $x$ friends, and each friend pays $15, how many friends are there?",
+   "options": {
+       "A": "4",
+       "B": "6",
+       "C": "8",
+       "D": "10",
+       "E": "12"
+   },
+   "answer": "B"
+},
+{
+   "id": 8,
+   "type": "MQ",
+   "question": "A person invests $x$ dollars in a savings account that earns a $5\\%$ annual interest rate. If the interest earned after one year is $25, what is the initial investment?",
+   "options": {
+       "A": "$200",
+       "B": "$400",
+       "C": "$500",
+       "D": "$600",
+       "E": "$800"
+   },
+   "answer": "C"
+},
+{
+   "id": 9,
+   "type": "FRQ",
+   "question": "Solve the system of equations: $2x + 3y = 12$ and $x - 2y = -3$. What is the value of $x$ and $y$?",
+   "required_space_lines": 5
+},
+{
+   "id": 10,
+   "type": "FRQ",
+   "question": "A bakery sells a combination of bread and pastries. The baker can make $x$ loaves of bread and $y$ pastries per hour. The profit from bread is $2x$ dollars and the profit from pastries is $3y$ dollars. If the baker works for 4 hours and makes a total profit of $240, and the ratio of bread to pastries is $3:2$, what is the value of $x$ and $y$?",
+   "required_space_lines": 5
+}
+],
+"teacher_rules": ["Tip 1: Review the instructions carefully", "Tip 2: Use the given equations to solve for the unknowns", "Tip 3: Check your answers for reasonableness"]
+}

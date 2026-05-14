@@ -1,0 +1,129 @@
+{
+  "unit": "\u1f4d6 Unit 1: Ratio, Rate, Percentage",
+   "topic": "Mixture Problems",
+   "test_type": "Challenge (Habanero)",
+   "questions": [
+     {
+       "id": 1,
+       "type": "MQ",
+       "question": "A coder mixes $2$ parts of Java with $3$ parts of Python to create a new programming language. What is the ratio of Java to the total mixture?",
+       "options": {
+         "A": "$2:5$",
+         "B": "$3:5$",
+         "C": "$1:3$",
+         "D": "$2:3$",
+         "E": "$1:2$"
+       },
+       "answer": "A"
+     },
+     {
+       "id": 2,
+       "type": "MQ",
+       "question": "A gamer has $12$ hours of gameplay data, with $3$ hours of multiplayer and $9$ hours of single-player. What percentage of the data is single-player?",
+       "options": {
+         "A": "$25%$",
+         "B": "$50%$",
+         "C": "$67%$",
+         "D": "$75%$",
+         "E": "$90%$"
+       },
+       "answer": "C"
+     },
+     {
+       "id": 3,
+       "type": "MQ",
+       "question": "A company mixes $4$ parts of fiber optic cable with $1$ part of copper wire to create a new network cable. What is the ratio of fiber optic cable to copper wire?",
+       "options": {
+         "A": "$1:4$",
+         "B": "$4:1$",
+         "C": "$3:1$",
+         "D": "$2:1$",
+         "E": "$1:1$"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 4,
+       "type": "MQ",
+       "question": "A data analyst has a dataset with $15$ columns, $8$ of which are numeric and $7$ of which are categorical. What percentage of the columns are numeric?",
+       "options": {
+         "A": "$40%$",
+         "B": "$50%$",
+         "C": "$53.33%$",
+         "D": "$60%$",
+         "E": "$66.67%$"
+       },
+       "answer": "C"
+     },
+     {
+       "id": 5,
+       "type": "MQ",
+       "question": "A software developer has $18$ hours of coding time, with $6$ hours spent on debugging and $12$ hours spent on writing new code. What is the ratio of debugging time to total coding time?",
+       "options": {
+         "A": "$1:2$",
+         "B": "$1:3$",
+         "C": "$2:3$",
+         "D": "$1:4$",
+         "E": "$2:5$"
+       },
+       "answer": "A"
+     },
+     {
+       "id": 6,
+       "type": "MQ",
+       "question": "A tech company has $20$ employees, $12$ of whom are developers and $8$ of whom are designers. What percentage of the employees are designers?",
+       "options": {
+         "A": "$30%$",
+         "B": "$40%$",
+         "C": "$50%$",
+         "D": "$60%$",
+         "E": "$40%$"
+       },
+       "answer": "A"
+     },
+     {
+       "id": 7,
+       "type": "MQ",
+       "question": "A gamer has a scoreboard with $25$ points, $15$ of which are from multiplayer games and $10$ of which are from single-player games. What is the ratio of single-player points to total points?",
+       "options": {
+         "A": "$2:5$",
+         "B": "$3:5$",
+         "C": "$1:3$",
+         "D": "$2:3$",
+         "E": "$3:8$"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 8,
+       "type": "MQ",
+       "question": "A coding challenge has $30$ participants, $18$ of whom are beginners and $12$ of whom are advanced. What percentage of the participants are advanced?",
+       "options": {
+         "A": "$40%$",
+         "B": "$50%$",
+         "C": "$60%$",
+         "D": "$30%$",
+         "E": "$50%$"
+       },
+       "answer": "D"
+     },
+     {
+       "id": 9,
+       "type": "FRQ",
+       "question": "A company mixes $x$ parts of coffee with $y$ parts of tea to create a new beverage. If the ratio of coffee to tea is $3:2$, and the total mixture is $20$ parts, find the values of $x$ and $y$. Show your work and explain your reasoning.",
+       "required_space_lines": 5
+     },
+     {
+       "id": 10,
+       "type": "FRQ",
+       "question": "A gamer has $z$ hours of gameplay data, with $p$ hours of multiplayer and $s$ hours of single-player. If the ratio of multiplayer to single-player is $2:3$, and the total gameplay time is $16$ hours, find the values of $p$ and $s$. Show your work and explain your reasoning.",
+       "required_space_lines": 5
+     }
+   ],
+   "teacher_rules": [
+     "Check for proper units and labeling",
+     "Ensure students provide clear explanations for their reasoning",
+     "Remind students to show all work and calculations"
+   ],
+   "footer": "Chef's Tips"
+ }

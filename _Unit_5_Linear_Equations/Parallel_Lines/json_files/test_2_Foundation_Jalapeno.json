@@ -1,0 +1,128 @@
+{
+  "unit": "\u270d Unit 5: Linear Equations",
+   "topic": "Parallel Lines",
+   "test_type": "Foundation (Jalapeno)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "Which lines are parallel if they have the same $m$ in $y = mx + b$?",
+           "options": {
+               "A": "Slopes of 2 and 2",
+               "B": "Slopes of 3 and -3",
+               "C": "Slopes of 1 and 1",
+               "D": "Y-intercepts of 4 and 4",
+               "E": "Y-intercepts of 5 and -5"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "Which of the following line equations has a slope of $2$?",
+           "options": {
+               "A": "$y = x + 1$",
+               "B": "$y = 2x - 3$",
+               "C": "$y = x - 4$",
+               "D": "$y = -2x + 1$",
+               "E": "$y = 3x + 2$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "If two lines have slopes of $m_1$ and $m_2$, they are parallel if $m_1 = $",
+           "options": {
+               "A": "$m_2 - 1$",
+               "B": "$m_2$",
+               "C": "$m_2 + 1$",
+               "D": "$-m_2$",
+               "E": "$m_2^2$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "What is the equation of a line parallel to $y = 3x - 2$ that passes through $(1, 4)$?",
+           "options": {
+               "A": "$y = 3x + 1$",
+               "B": "$y = 2x - 1$",
+               "C": "$y = 3x - 1$",
+               "D": "$y = 4x - 3$",
+               "E": "$y = 3x + 2$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "In a space mission, a spaceship travels at a slope of $2$. If a parallel spaceship has the equation $y = 2x + 5$, the first spaceship's equation is",
+           "options": {
+       "A": "$y = 2x - 3$",
+       "B": "$y = x + 2$",
+       "C": "$y = 2x - 1$",
+       "D": "$y = x - 4$",
+       "E": "$y = 3x + 1$"
+   },
+           "answer": "A"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "If two lines are parallel and have equations $y = mx + b_1$ and $y = mx + b_2$, then $b_1$ must equal",
+           "options": {
+       "A": "$b_2 - 1$",
+       "B": "$b_2$",
+       "C": "$b_2 + 1$",
+       "D": "$-b_2$",
+       "E": "$b_2^2$"
+   },
+           "answer": "B"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "What is the relationship between the slopes of parallel lines in the context of planetary orbits?",
+           "options": {
+       "A": "They are always equal to the gravitational constant",
+       "B": "They are always less than the speed of light",
+       "C": "They are always equal",
+       "D": "They are always perpendicular",
+       "E": "They are always unequal"
+   },
+           "answer": "C"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "Which of the following is an example of parallel lines in a lab experiment?",
+           "options": {
+       "A": "A microscope and a telescope",
+       "B": "A test tube and a beaker",
+       "C": "Two rows of petri dishes",
+       "D": "A Bunsen burner and a hot plate",
+       "E": "A thermometer and a barometer"
+   },
+           "answer": "C"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "A space probe is traveling at a slope of $4$. If a parallel probe has the equation $y = 4x - 2$, write the equation of the first probe's path in the format $y = mx + b$. Assume the first probe passes through $(0, 1)$.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "In a physics experiment, two lines are parallel and have equations $y = 2x + 1$ and $y = 2x - 3$. Show that these lines have the same slope and find the $y$-intercept of a third parallel line that passes through $(2, 5)$. Use $y = mx + b$ format.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Tip 1: Ensure students understand the concept of parallel lines and slopes before administering this test.",
+       "Tip 2: Emphasize the importance of accurate calculations and units in space and science applications.",
+       "Tip 3: Allow students to use graph paper and calculators to help visualize and solve problems."
+   ]
+}

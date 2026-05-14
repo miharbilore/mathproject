@@ -1,0 +1,129 @@
+{
+  "unit": "Unit 3: Functions",
+   "topic": "Operations with Functions",
+   "test_type": "Advanced (Carolina Reaper)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "If $f(x) = x^2$ and $g(x) = 2x + 1$, what is $(f + g)(x)$?",
+           "options": {
+               "A": "$x^2 + 2x + 1$",
+               "B": "$x^2 - 2x - 1$",
+               "C": "$x^2 + 2x - 1$",
+               "D": "$x^2 - 2x + 1$",
+               "E": "$x^2 + 1$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "What is the domain of $f(x) = \\frac{1}{x}$ and $g(x) = \\frac{1}{x-2}$ when combined as $(f \\cdot g)(x)$?",
+           "options": {
+               "A": "$(-\\infty, 0) \\cup (0, 2) \\cup (2, \\infty)$",
+               "B": "$(-\\infty, 0) \\cup (0, \\infty)$",
+               "C": "$(-\\infty, 2) \\cup (2, \\infty)$",
+               "D": "$(-\\infty, 0) \\cup (2, \\infty)$",
+               "E": "$(-\\infty, \\infty)$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "Simplify $(2f)(x)$ if $f(x) = x^2 - 3x + 1$.",
+           "options": {
+               "A": "$2x^2 - 6x + 2$",
+               "B": "$2x^2 - 3x + 1$",
+               "C": "$2x^2 + 6x - 2$",
+               "D": "$x^2 - 3x + 1$",
+               "E": "$2x^2 - 3x - 1$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "Given $f(x) = x + 2$ and $g(x) = x - 2$, what is $(f - g)(x)$?",
+           "options": {
+               "A": "$4$",
+               "B": "$2x$",
+               "C": "$-4$",
+               "D": "$x + 4$",
+               "E": "$x - 4$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "If $h(x) = \\frac{f(x)}{g(x)}$ where $f(x) = 2x + 1$ and $g(x) = x + 1$, what is $h(x)$?",
+           "options": {
+               "A": "$2$",
+               "B": "$\\frac{2x + 1}{x + 1}$",
+               "C": "$\\frac{x + 1}{2x + 1}$",
+               "D": "$2x + 1$",
+               "E": "$x + 1$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "What is the domain of $(f \\div g)(x)$ where $f(x) = x^2 - 4$ and $g(x) = x - 2$?",
+           "options": {
+               "A": "$(-\\infty, 2) \\cup (2, \\infty)$",
+               "B": "$(-\\infty, -2) \\cup (2, \\infty)$",
+               "C": "$(-2, 2)$",
+               "D": "$(-\\infty, -2) \\cup (-2, 2) \\cup (2, \\infty)$",
+               "E": "$(-\\infty, \\infty)$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "If $m(x) = x^2$ and $n(x) = 3x - 1$, what is $(m \\cdot n)(x)$?",
+           "options": {
+               "A": "$3x^3 - x^2$",
+               "B": "$3x^2 - x$",
+               "C": "$3x^3 - x$",
+               "D": "$3x^2 - x^3$",
+               "E": "$x^2 + 3x - 1$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "Given $f(x) = x^2 + 1$ and $g(x) = x - 1$, what is $(f + g)(2)$?",
+           "options": {
+               "A": "$4 + 1$",
+               "B": "$2^2 + 1 + 2 - 1$",
+       "C": "$2^2 + 2 - 1$",
+       "D": "$2^2 - 2 + 1$",
+       "E": "$5$"
+   },
+   "answer": "B"
+},
+{
+   "id": 9,
+   "type": "FRQ",
+   "question": "Given $f(x) = x - 2$ and $g(x) = x + 3$, determine the domain of $(f \\cdot g)(x)$ and simplify the expression.",
+   "required_space_lines": 5
+},
+{
+   "id": 10,
+   "type": "FRQ",
+   "question": "If $h(x) = \\frac{f(x)}{g(x)}$ where $f(x) = 2x^2 - 3x + 1$ and $g(x) = x^2 + 1$, find $h(x)$ and state any restrictions on its domain.",
+   "required_space_lines": 5
+}
+],
+"teacher_rules": [
+   "Ensure students have a clear understanding of function operations",
+   "Remind students to simplify expressions after performing operations",
+   "Emphasize the importance of identifying the domain of combined functions"
+],
+"footer": "Chef's Tips"
+}

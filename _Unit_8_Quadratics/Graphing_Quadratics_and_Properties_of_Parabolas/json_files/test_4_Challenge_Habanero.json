@@ -1,0 +1,129 @@
+{
+  "unit": "\u1F4D6 Unit 8: Quadratics",
+   "topic": "Graphing Quadratics and Properties of Parabolas",
+   "test_type": "Challenge (Habanero)",
+   "questions": [
+     {
+       "id": 1,
+       "type": "MQ",
+       "question": "A chef is designing a parabolic roof for a kitchen. The equation of the parabola is $y = x^2 + 4x + 4$. What is the vertex of the parabola?",
+       "options": {
+         "A": "$(0, 0)$",
+         "B": "$(-2, 0)$",
+         "C": "$(-2, -4)$",
+         "D": "$(-2, 4)$",
+         "E": "$(0, 4)$"
+       },
+       "answer": "D"
+     },
+     {
+       "id": 2,
+       "type": "MQ",
+       "question": "A construction worker is building a bridge with a parabolic shape. The equation of the parabola is $y = -x^2 + 6x - 8$. What is the axis of symmetry of the parabola?",
+       "options": {
+         "A": "$x = -1$",
+         "B": "$x = 1$",
+         "C": "$x = 2$",
+         "D": "$x = 3$",
+         "E": "$x = 4$"
+       },
+       "answer": "D"
+     },
+     {
+       "id": 3,
+       "type": "MQ",
+       "question": "A recipe for a cake calls for $x$ cups of flour, where $x$ satisfies the equation $y = x^2 - 4x + 4$. What is the minimum value of $y$?",
+       "options": {
+         "A": "$0$",
+         "B": "$1$",
+         "C": "$2$",
+         "D": "$4$",
+         "E": "$8$"
+       },
+       "answer": "A"
+     },
+     {
+       "id": 4,
+       "type": "MQ",
+       "question": "An architect is designing a parabolic dome for a building. The equation of the parabola is $y = 2x^2 - 4x + 1$. What is the $y$-intercept of the parabola?",
+       "options": {
+         "A": "$(0, 0)$",
+         "B": "$(0, 1)$",
+         "C": "$(0, 2)$",
+         "D": "$(0, 3)$",
+         "E": "$(0, 4)$"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 5,
+       "type": "MQ",
+       "question": "A construction company is building a parabolic tunnel. The equation of the parabola is $y = -2x^2 + 8x - 7$. What is the maximum value of $y$?",
+       "options": {
+         "A": "$1$",
+         "B": "$2$",
+         "C": "$3$",
+         "D": "$4$",
+         "E": "$5$"
+       },
+       "answer": "C"
+     },
+     {
+       "id": 6,
+       "type": "MQ",
+       "question": "A chef is making a parabolic sauce dispenser. The equation of the parabola is $y = x^2 + 2x - 6$. What is the $x$-intercept of the parabola?",
+       "options": {
+         "A": "$(-3, 0)$",
+         "B": "$(-2, 0)$",
+         "C": "$(-1, 0)$",
+         "D": "$(1, 0)$",
+         "E": "$(2, 0)$"
+       },
+       "answer": "D"
+     },
+     {
+       "id": 7,
+       "type": "MQ",
+       "question": "An engineer is designing a parabolic antenna. The equation of the parabola is $y = -x^2 + 2x + 5$. What is the direction of the parabola?",
+       "options": {
+         "A": "Up",
+         "B": "Down",
+         "C": "Left",
+         "D": "Right",
+         "E": "Horizontal"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 8,
+       "type": "MQ",
+       "question": "A contractor is building a parabolic staircase. The equation of the parabola is $y = 2x^2 - 8x + 9$. What is the vertex form of the parabola?",
+       "options": {
+         "A": "$y = 2(x - 2)^2 + 1$",
+         "B": "$y = 2(x + 2)^2 - 1$",
+         "C": "$y = 2(x - 1)^2 + 2$",
+         "D": "$y = 2(x + 1)^2 - 2$",
+         "E": "$y = 2(x - 3)^2 + 3$"
+       },
+       "answer": "A"
+     },
+     {
+       "id": 9,
+       "type": "FRQ",
+       "question": "A chef is designing a parabolic kitchen counter. The equation of the parabola is $y = x^2 - 6x + 9$. Find the vertex, axis of symmetry, and $y$-intercept of the parabola. Show all work and explain your answers.",
+       "required_space_lines": 5
+     },
+     {
+       "id": 10,
+       "type": "FRQ",
+       "question": "An architect is designing a parabolic roof for a building. The equation of the parabola is $y = -x^2 + 4x - 3$. Find the maximum value of $y$ and the $x$-intercepts of the parabola. Show all work and explain your answers.",
+       "required_space_lines": 5
+     }
+   ],
+   "teacher_rules": [
+     "Tip 1: Make sure to check the units of the answers.",
+     "Tip 2: Use the vertex form of a parabola to find the vertex and axis of symmetry.",
+     "Tip 3: Use the quadratic formula to find the $x$-intercepts of a parabola."
+   ],
+   "footer_title": "Chef's Tips"
+}

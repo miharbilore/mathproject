@@ -1,0 +1,129 @@
+{
+  "unit": "Unit 0: Foundations of Algebra",
+   "topic": "Natural Numbers & Integers",
+   "test_type": "Advanced (Carolina Reaper)",
+   "questions": [
+      {
+         "id": 1,
+         "type": "MQ",
+         "question": "A bookshelf has $5$ shelves, and each shelf can hold $3$ rows of books. If the bookshelf is currently empty, what is the total number of books it can hold?",
+         "options": {
+            "A": "15",
+            "B": "20",
+            "C": "30",
+            "D": "40",
+            "E": "50"
+         },
+         "answer": "C"
+      },
+      {
+         "id": 2,
+         "type": "MQ",
+         "question": "A water tank can hold $240$ gallons of water. If $1/3$ of the tank is already filled, how many more gallons can be added?",
+         "options": {
+            "A": "120",
+            "B": "160",
+            "C": "180",
+            "D": "200",
+            "E": "220"
+         },
+         "answer": "C"
+      },
+      {
+         "id": 3,
+         "type": "MQ",
+         "question": "A bakery sells a total of $250$ loaves of bread per day. They sell a combination of whole wheat and white bread. If they sell $30$ more whole wheat loaves than white bread loaves, what is the number of whole wheat loaves sold?",
+         "options": {
+            "A": "125",
+            "B": "130",
+            "C": "135",
+            "D": "140",
+            "E": "145"
+         },
+         "answer": "C"
+      },
+      {
+         "id": 4,
+         "type": "MQ",
+         "question": "What is the value of $x$ in the equation $2x + 5 = 11$?",
+         "options": {
+            "A": "2",
+            "B": "3",
+            "C": "4",
+            "D": "5",
+            "E": "6"
+         },
+         "answer": "B"
+      },
+      {
+         "id": 5,
+         "type": "MQ",
+         "question": "A group of friends want to share some candy equally. If they have $48$ pieces of candy and there are $8$ friends, how many pieces will each friend get?",
+         "options": {
+            "A": "4",
+            "B": "5",
+            "C": "6",
+            "D": "7",
+            "E": "8"
+         },
+         "answer": "C"
+      },
+      {
+         "id": 6,
+         "type": "MQ",
+         "question": "A bicycle travels $25$ miles in $2$ hours. How many miles will it travel in $5$ hours?",
+         "options": {
+            "A": "50",
+            "B": "60",
+            "C": "62.5",
+            "D": "70",
+            "E": "75"
+         },
+         "answer": "C"
+      },
+      {
+         "id": 7,
+         "type": "MQ",
+         "question": "What is the value of $y$ in the equation $y - 3 = 7$?",
+         "options": {
+            "A": "5",
+            "B": "6",
+            "C": "8",
+            "D": "10",
+            "E": "12"
+         },
+         "answer": "C"
+      },
+      {
+         "id": 8,
+         "type": "MQ",
+         "question": "A clock shows $9$:$45$. What is the next hour and minute that the clock will show the same number of minutes past the hour?",
+         "options": {
+            "A": "10:45",
+            "B": "11:45",
+            "C": "12:45",
+            "D": "1:45",
+            "E": "2:45"
+         },
+         "answer": "B"
+      },
+      {
+         "id": 9,
+         "type": "FRQ",
+         "question": "Tom has been saving money for a new bike and has $\\$$120$ in his piggy bank. He wants to buy a bike that costs $\\$$180$. If he saves $\\$$5$ per week from his allowance, how many weeks will it take him to have enough money to buy the bike?",
+         "required_space_lines": 5
+      },
+      {
+         "id": 10,
+         "type": "FRQ",
+         "question": "A company is making a new product that requires $3$ parts to be assembled. The parts are made on two different machines: Machine A and Machine B. Machine A makes $2$ parts in $5$ minutes, and Machine B makes $1$ part in $3$ minutes. If the company needs to make $24$ parts for the new product, what is the minimum amount of time required to make all the parts?",
+         "required_space_lines": 5
+      }
+   ],
+   "teacher_rules": [
+      "Ensure students understand the difference between natural, whole, and integer numbers.",
+      "Make sure students can identify and generate even and odd numbers.",
+      "Encourage students to recognize and extend numerical patterns in real-life scenarios."
+   ],
+   "footer": "Chef's Tips"
+}

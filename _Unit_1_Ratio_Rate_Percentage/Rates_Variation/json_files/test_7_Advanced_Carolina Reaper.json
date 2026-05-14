@@ -1,0 +1,129 @@
+{
+  "unit": "\u1F4D6 Unit 1: Ratio, Rate, Percentage",
+   "topic": "Rates & Variation",
+   "test_type": "Advanced (Carolina Reaper)",
+   "questions": [
+       { 
+           "id": 1, 
+           "type": "MQ", 
+           "question": "Tom can paint $2$ rooms in $5$ hours. How many rooms can he paint in $15$ hours?", 
+           "options": { 
+               "A": "$3$ rooms", 
+               "B": "$4$ rooms", 
+               "C": "$5$ rooms", 
+               "D": "$6$ rooms", 
+               "E": "$8$ rooms" 
+           }, 
+           "answer": "D" 
+       },
+       { 
+           "id": 2, 
+           "type": "MQ", 
+           "question": "A bakery sells $250$ loaves of bread per day. If they make a profit of $$1.50$ per loaf, what is their total daily profit?", 
+           "options": { 
+               "A": "$$300$", 
+               "B": "$$325$", 
+               "C": "$$375$", 
+               "D": "$$400$", 
+               "E": "$$425$" 
+           }, 
+           "answer": "C" 
+       },
+       { 
+           "id": 3, 
+           "type": "MQ", 
+           "question": "A car travels $180$ miles in $3$ hours. What is its average speed in miles per hour?", 
+           "options": { 
+               "A": "$55$ mph", 
+               "B": "$60$ mph", 
+               "C": "$65$ mph", 
+               "D": "$60$ mph", 
+               "E": "$70$ mph" 
+           }, 
+           "answer": "B" 
+       },
+       { 
+           "id": 4, 
+           "type": "MQ", 
+           "question": "The cost of $x$ kilograms of apples is directly proportional to $x$. If $5$ kilograms cost $$25$, what is the cost of $8$ kilograms?", 
+           "options": { 
+               "A": "$$30$", 
+               "B": "$$40$", 
+               "C": "$$48$", 
+               "D": "$$50$", 
+               "E": "$$60$" 
+           }, 
+           "answer": "C" 
+       },
+       { 
+           "id": 5, 
+           "type": "MQ", 
+           "question": "A water tank can hold $1200$ gallons of water. If $3$ gallons of water are added to the tank every minute, how many minutes will it take to fill the tank?", 
+           "options": { 
+               "A": "$300$ minutes", 
+               "B": "$360$ minutes", 
+               "C": "$400$ minutes", 
+               "D": "$420$ minutes", 
+               "E": "$480$ minutes" 
+           }, 
+           "answer": "C" 
+       },
+       { 
+           "id": 6, 
+           "type": "MQ", 
+           "question": "The distance $d$ that a car travels is directly proportional to the time $t$ that it travels. If the car travels $250$ miles in $5$ hours, what is the distance it travels in $8$ hours?", 
+           "options": { 
+               "A": "$320$ miles", 
+               "B": "$350$ miles", 
+               "C": "$400$ miles", 
+               "D": "$450$ miles", 
+               "E": "$500$ miles" 
+           }, 
+           "answer": "C" 
+       },
+       { 
+           "id": 7, 
+           "type": "MQ", 
+           "question": "A group of friends want to share some candy equally. If they have $48$ pieces of candy and there are $8$ friends, how many pieces will each friend get?", 
+           "options": { 
+               "A": "$4$ pieces", 
+               "B": "$5$ pieces", 
+               "C": "$6$ pieces", 
+               "D": "$7$ pieces", 
+               "E": "$8$ pieces" 
+           }, 
+           "answer": "C" 
+       },
+       { 
+           "id": 8, 
+           "type": "MQ", 
+           "question": "The price $p$ of a product is inversely proportional to the number of items $n$ purchased. If $5$ items cost $$30$, what is the cost of $10$ items?", 
+           "options": { 
+               "A": "$$10$", 
+               "B": "$$12$", 
+               "C": "$$15$", 
+               "D": "$$18$", 
+               "E": "$$20$" 
+           }, 
+           "answer": "C" 
+       },
+       { 
+           "id": 9, 
+           "type": "FRQ", 
+           "question": "A bike ride takes $2$ hours to travel $20$ miles. If the rider increases the speed by $25\\%$, how many miles can the rider travel in $3$ hours?", 
+           "required_space_lines": 5 
+       },
+       { 
+           "id": 10, 
+           "type": "FRQ", 
+           "question": "The cost of renting a boat is $$20$ per hour plus an additional $$10$ per hour for gas. If $4$ people rent the boat for $6$ hours, what is the total cost per person?", 
+           "required_space_lines": 5 
+       }
+   ],
+   "teacher_rules": [
+       "Always read the questions carefully before answering",
+       "Use scrap paper to work out problems",
+       "Check your work before submitting your answers"
+   ],
+   "footer": "Chef's Tips"
+}

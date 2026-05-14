@@ -1,0 +1,129 @@
+{
+  "unit": "Unit 0: Foundations of Algebra",
+   "topic": "Variables and Expressions / Order of Operations",
+   "test_type": "Homework (Jalapeno)",
+   "questions": [
+      {
+         "id": 1,
+         "type": "MQ",
+         "question": "Evaluate the expression $2 \\cdot 3 + 12 \\div 4$.",
+         "options": {
+            "A": "9",
+            "B": "10",
+            "C": "11",
+            "D": "12",
+            "E": "13"
+         },
+         "answer": "B"
+      },
+      {
+         "id": 2,
+         "type": "MQ",
+         "question": "Which of the following expressions represents the phrase '5 more than 3 times a number'? Let $x$ be the number.",
+         "options": {
+            "A": "$3x + 5$",
+            "B": "$3x - 5$",
+            "C": "$5x + 3$",
+            "D": "$5x - 3$",
+            "E": "$x + 3$"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 3,
+         "type": "MQ",
+         "question": "Simplify the expression $2x + 5x$.",
+         "options": {
+            "A": "$7x$",
+            "B": "$7x + 1$",
+            "C": "$7x - 1$",
+            "D": "$x + 1$",
+            "E": "$x - 1$"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 4,
+         "type": "MQ",
+         "question": "In ancient Egypt, a rectangle's area is $A = 2x^2 + 5x$. If $x = 3$, what is the area?",
+         "options": {
+            "A": "$27$",
+            "B": "$31$",
+            "C": "$36$",
+            "D": "$41$",
+            "E": "$46$"
+         },
+         "answer": "D"
+      },
+      {
+         "id": 5,
+         "type": "MQ",
+         "question": "What is the value of $x$ in the equation $x + 2 = 7$?",
+         "options": {
+            "A": "$3$",
+            "B": "$5$",
+            "C": "$7$",
+            "D": "$9$",
+            "E": "$11$"
+         },
+         "answer": "B"
+      },
+      {
+         "id": 6,
+         "type": "MQ",
+         "question": "The ancient Babylonians used the expression $3 \\cdot x - 2$ to calculate the area of a triangle. If the area is $7$, what is $x$?",
+         "options": {
+            "A": "$3$",
+            "B": "$5$",
+            "C": "$7$",
+            "D": "$9$",
+            "E": "$11$"
+         },
+         "answer": "B"
+      },
+      {
+         "id": 7,
+         "type": "MQ",
+         "question": "The ancient Greeks used the expression $2x^2 + x$ to model the growth of a population. If $x = 2$, what is the population?",
+         "options": {
+            "A": "$10$",
+            "B": "$12$",
+            "C": "$14$",
+            "D": "$16$",
+            "E": "$18$"
+         },
+         "answer": "B"
+      },
+      {
+         "id": 8,
+         "type": "MQ",
+         "question": "Evaluate the expression $(2 + 3) \\cdot (4 - 1)$.",
+         "options": {
+            "A": "$10$",
+            "B": "$12$",
+            "C": "$14$",
+            "D": "$15$",
+            "E": "$18$"
+         },
+         "answer": "C"
+      },
+      {
+         "id": 9,
+         "type": "FRQ",
+         "question": "The ancient Egyptians built a rectangular temple with an area of $A = 2x^2 + 5x$. If the length of the temple is $x + 2$, find the width of the temple in terms of $x$. Provide your answer in the space below.",
+         "required_space_lines": 5
+      },
+      {
+         "id": 10,
+         "type": "FRQ",
+         "question": "The ancient Greeks used the expression $3 \\cdot x - 2$ to calculate the area of a triangle. If the area is $7$, find the value of $x$ and use it to calculate the perimeter of the triangle if the base is $x + 1$ and the height is $x - 1$. Provide your answer in the space below.",
+         "required_space_lines": 5
+      }
+   ],
+   "teacher_rules": [
+      "Tip 1: Ensure students understand the order of operations (PEMDAS).",
+      "Tip 2: Encourage students to simplify expressions before evaluating them.",
+      "Tip 3: Remind students to check their units and ensure they are consistent throughout the problem."
+   ],
+   "footer": "Chef's Tips"
+}

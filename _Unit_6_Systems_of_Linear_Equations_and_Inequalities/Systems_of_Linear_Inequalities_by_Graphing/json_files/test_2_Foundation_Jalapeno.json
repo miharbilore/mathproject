@@ -1,0 +1,129 @@
+{
+  "unit": "\u1F4D6 Unit 6: Systems of Linear Equations and Inequalities",
+   "topic": "Systems of Linear Inequalities by Graphing",
+   "test_type": "Foundation (Jalapeno)",
+   "questions": [
+     { 
+       "id": 1, 
+       "type": "MQ", 
+       "question": "Which system of linear inequalities has the solution region shown?", 
+       "options": {
+         "A": "$x + y \\geq 2$ and $x - y \\leq 1$",
+         "B": "$x + y \\leq 2$ and $x - y \\geq 1$",
+         "C": "$x + y \\geq 2$ and $x - y \\geq 1$",
+         "D": "$x + y \\leq 2$ and $x - y \\leq 1$",
+         "E": "$x + y \\geq 1$ and $x - y \\leq 2$"
+       },
+       "answer": "A"
+     },
+     { 
+       "id": 2, 
+       "type": "MQ", 
+       "question": "In a space lab, the temperature $T$ and humidity $H$ must satisfy $T \\geq 20$ and $H \\leq 60$. What is the feasible region?", 
+       "options": {
+         "A": "upper left corner of the coordinate plane",
+         "B": "lower right corner of the coordinate plane",
+         "C": "upper right corner of the coordinate plane",
+         "D": "lower left corner of the coordinate plane",
+         "E": "all four corners of the coordinate plane"
+       },
+       "answer": "C"
+     },
+     { 
+       "id": 3, 
+       "type": "MQ", 
+       "question": "What is the solution to the system $2x + 3y \\geq 12$ and $x - 2y \\leq -3$?", 
+       "options": {
+         "A": "all points on the line $2x + 3y = 12$",
+         "B": "all points on the line $x - 2y = -3$",
+         "C": "all points above the line $2x + 3y = 12$",
+         "D": "all points below the line $x - 2y = -3$",
+         "E": "all points above the line $2x + 3y = 12$ and below the line $x - 2y = -3$"
+       },
+       "answer": "E"
+     },
+     { 
+       "id": 4, 
+       "type": "MQ", 
+       "question": "A spacecraft requires $x \\geq 5$ and $y \\leq 10$ to navigate safely. Which point satisfies these conditions?", 
+       "options": {
+         "A": "$(3, 12)$",
+         "B": "$(5, 10)$",
+         "C": "$(3, 8)$",
+         "D": "$(7, 12)$",
+         "E": "$(5, 5)$"
+       },
+       "answer": "B"
+     },
+     { 
+       "id": 5, 
+       "type": "MQ", 
+       "question": "The gravitational force $F$ between two objects is given by $F \\leq \\frac{Gm_1m_2}{r^2}$. If $G = 6.674 \\times 10^{-11}$, $m_1 = 5.972 \\times 10^{24}$, and $m_2 = 7.348 \\times 10^{22}$, what is the maximum gravitational force?", 
+       "options": {
+         "A": "$F \\leq 1.99 \\times 10^{16}$",
+         "B": "$F \\leq 1.99 \\times 10^{20}$",
+         "C": "$F \\leq 1.99 \\times 10^{22}$",
+         "D": "$F \\leq 1.99 \\times 10^{24}$",
+         "E": "$F \\leq 1.99 \\times 10^{26}$"
+       },
+       "answer": "B"
+     },
+     { 
+       "id": 6, 
+       "type": "MQ", 
+       "question": "What is the equation of the boundary line for the inequality $3x - 2y \\geq 5$?", 
+       "options": {
+         "A": "$3x - 2y = 5$",
+         "B": "$3x + 2y = 5$",
+         "C": "$2x - 3y = 5$",
+         "D": "$2x + 3y = 5$",
+         "E": "$x - y = 5$"
+       },
+       "answer": "A"
+     },
+     { 
+       "id": 7, 
+       "type": "MQ", 
+       "question": "A physicist is modeling the trajectory of a projectile with the inequalities $y \\geq x - 2$ and $y \\leq -x + 4$. What is the solution region?", 
+       "options": {
+         "A": "the region above the line $y = x - 2$",
+         "B": "the region below the line $y = -x + 4$",
+         "C": "the region between the lines $y = x - 2$ and $y = -x + 4$",
+         "D": "the region outside the lines $y = x - 2$ and $y = -x + 4$",
+         "E": "the region below the line $y = x - 2$ and above the line $y = -x + 4$"
+       },
+       "answer": "C"
+     },
+     { 
+       "id": 8, 
+       "type": "MQ", 
+       "question": "Which inequality represents the region below the line $y = 2x - 3$?", 
+       "options": {
+         "A": "$y \\geq 2x - 3$",
+         "B": "$y \\leq 2x - 3$",
+         "C": "$y = 2x - 3$",
+         "D": "$y > 2x - 3$",
+         "E": "$y < 2x - 3$"
+       },
+       "answer": "B"
+     },
+     { 
+       "id": 9, 
+       "type": "FRQ", 
+       "question": "Graph the system of linear inequalities $x \\geq 2$ and $y \\leq -x + 3$. Identify the feasible region and provide the coordinates of the vertices.", 
+       "required_space_lines": 5
+     },
+     { 
+       "id": 10, 
+       "type": "FRQ", 
+       "question": "Solve the system $x + 2y \\geq 4$ and $3x - 2y \\leq 5$. Provide the solution region and the equations of the boundary lines.", 
+       "required_space_lines": 5
+     }
+   ],
+   "teacher_rules": [
+     "Tip 1: Ensure students understand the concept of feasible regions.",
+     "Tip 2: Encourage students to visualize the solution regions.",
+     "Tip 3: Remind students to check their work by graphing the inequalities."
+   ],
+   "footer": "Chef's Tips"
+}

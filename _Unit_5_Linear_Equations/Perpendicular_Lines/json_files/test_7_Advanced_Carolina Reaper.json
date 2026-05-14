@@ -1,0 +1,129 @@
+{
+  "unit": "\u1f4d6 Unit 5: Linear Equations",
+   "topic": "Perpendicular Lines",
+   "test_type": "Advanced (Carolina Reaper)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "What is the slope of a line perpendicular to $y = 2x + 1$?",
+           "options": {
+               "A": "$-\\frac{1}{2}$",
+               "B": "$\\frac{1}{2}$",
+               "C": "$2$",
+               "D": "$-2$",
+               "E": "$0$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "If two lines have slopes $m_1$ and $m_2$, what is the condition for the lines to be perpendicular?",
+           "options": {
+               "A": "$m_1 = m_2$",
+               "B": "$m_1 = -m_2$",
+               "C": "$m_1 \\cdot m_2 = -1$",
+               "D": "$m_1 + m_2 = 0$",
+               "E": "$m_1 - m_2 = 1$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "A line passes through $(1, 2)$ and is perpendicular to $y = 3x - 1$. What is the equation of this line?",
+           "options": {
+               "A": "$y = -\\frac{1}{3}x + \\frac{7}{3}$",
+               "B": "$y = \\frac{1}{3}x + \\frac{5}{3}$",
+               "C": "$y = 3x - 1$",
+               "D": "$y = -3x + 5$",
+               "E": "$y = \\frac{1}{3}x - \\frac{1}{3}$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "In a city, the main street has a slope of $-2$. What is the slope of a street perpendicular to it?",
+           "options": {
+               "A": "$\\frac{1}{2}$",
+               "B": "$-\\frac{1}{2}$",
+               "C": "$2$",
+               "D": "$-2$",
+       "E": "$\\frac{1}{4}$"
+   },
+           "answer": "A"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "A hiker is walking on a trail that has a slope of $\\frac{3}{4}$. What is the slope of a trail perpendicular to it?",
+           "options": {
+               "A": "$-\\frac{4}{3}$",
+               "B": "$\\frac{4}{3}$",
+               "C": "$\\frac{3}{4}$",
+               "D": "$-\\frac{3}{4}$",
+       "E": "$1$"
+   },
+           "answer": "A"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "A bookshelf has a support beam with a slope of $-1$. What is the slope of a beam perpendicular to it?",
+           "options": {
+               "A": "$1$",
+               "B": "$-1$",
+               "C": "$0$",
+               "D": "$\\frac{1}{2}$",
+       "E": "$2$"
+   },
+           "answer": "A"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "A clock has hour and minute hands that form an angle. If the minute hand has a slope of $2$, what is the slope of the hour hand if it is perpendicular to the minute hand?",
+           "options": {
+               "A": "$-\\frac{1}{2}$",
+               "B": "$\\frac{1}{2}$",
+               "C": "$2$",
+               "D": "$-2$",
+       "E": "$0$"
+   },
+           "answer": "A"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "A bike trail has a slope of $\\frac{2}{5}$. What is the slope of a trail perpendicular to it?",
+           "options": {
+               "A": "$-\\frac{5}{2}$",
+               "B": "$\\frac{5}{2}$",
+               "C": "$\\frac{2}{5}$",
+               "D": "$-\\frac{2}{5}$",
+       "E": "$1$"
+   },
+           "answer": "A"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "A skateboard ramp has a slope of $-3$. If a skateboarder wants to design a perpendicular ramp, what is the equation of the new ramp if it passes through $(2, 1)$? Show your work and provide the equation in slope-intercept form $y = mx + b$.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "A city planner wants to design a new road that is perpendicular to an existing road with a slope of $\\frac{1}{4}$. If the new road passes through $(1, 3)$, what is the equation of the new road? Show your work and provide the equation in slope-intercept form $y = mx + b$.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Provide clear instructions for each question",
+       "Ensure students have the necessary materials and equipment",
+       "Encourage students to show their work and provide explanations for their answers"
+   ],
+   "footer_title": "Chef's Tips"
+}

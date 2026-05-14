@@ -1,0 +1,128 @@
+{
+  "unit": "\u1F4D6 Unit 1: Ratio, Rate, Percentage",
+   "topic": "Rates & Variation",
+   "test_type": "Homework (Habanero)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "What is the unit rate of $\\frac{250 \\text{ milligrams}}{5 \\text{ milliliters}}$?",
+           "options": {
+               "A": "$50 \\frac{\\text{milligrams}}{\\text{milliliter}}$",
+               "B": "$50 \\frac{\\text{milliliters}}{\\text{milligram}}$",
+               "C": "$5 \\frac{\\text{milligrams}}{\\text{milliliter}}$",
+               "D": "$5 \\frac{\\text{milliliters}}{\\text{milligram}}$",
+               "E": "$25 \\frac{\\text{milligrams}}{\\text{milliliter}}$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "If a patient needs $3$ units of insulin per $20$ hours, what is the rate of insulin per hour?",
+           "options": {
+               "A": "$\\frac{3}{20}$ units/hour",
+               "B": "$\\frac{1}{6}$ units/hour",
+               "C": "$\\frac{3}{4}$ units/hour",
+               "D": "$\\frac{1}{5}$ units/hour",
+               "E": "$1$ unit/hour"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "The volume $V$ of a tumor is directly proportional to the cube of its radius $r$. If $V = 64$ cubic centimeters when $r = 4$ centimeters, what is the constant of proportionality $k$?",
+           "options": {
+               "A": "$2$",
+               "B": "$1$",
+               "C": "$4$",
+               "D": "$\\frac{1}{2}$",
+               "E": "$\\frac{1}{4}$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "A lab technician can prepare $12$ units of a solution in $4$ minutes. At this rate, how many minutes will it take to prepare $30$ units?",
+           "options": {
+               "A": "$5$ minutes",
+               "B": "$10$ minutes",
+               "C": "$8$ minutes",
+               "D": "$12$ minutes",
+               "E": "$15$ minutes"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "The growth rate of a cell culture is inversely proportional to the concentration of a nutrient. If the culture grows at a rate of $2$ cells per minute when the nutrient concentration is $6$ milligrams per liter, what is the rate when the concentration is $12$ milligrams per liter?",
+           "options": {
+               "A": "$1$ cell/minute",
+               "B": "$2$ cells/minute",
+               "C": "$4$ cells/minute",
+               "D": "$6$ cells/minute",
+               "E": "$8$ cells/minute"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "A pharmaceutical company produces tablets with $200$ milligrams of active ingredient per tablet. How many tablets are needed to obtain $4.8$ grams of the active ingredient?",
+           "options": {
+               "A": "$12$",
+               "B": "$16$",
+               "C": "$20$",
+               "D": "$24$",
+       "E": "$8$"
+       },
+       "answer": "C"
+   },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "A patient is given $250$ milliliters of a solution that contains $12.5$ milligrams of a medication per $100$ milliliters. How much of the medication does the patient receive?",
+           "options": {
+               "A": "$25$ milligrams",
+               "B": "$31.25$ milligrams",
+               "C": "$12.5$ milligrams",
+               "D": "$50$ milligrams",
+               "E": "$62.5$ milligrams"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "The volume $V$ of a spherical cell is directly proportional to the cube of its radius $r$, given by $V = \\frac{4}{3} \\pi r^3$. If $V = 216 \\pi$ cubic micrometers, what is $r$?",
+           "options": {
+               "A": "$6$",
+       "B": "$3$",
+       "C": "$4$",
+       "D": "$2$",
+       "E": "$1$"
+       },
+       "answer": "B"
+   },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "A bacterial culture grows at a rate that is inversely proportional to the concentration of a certain chemical. If the culture grows at $10$ cells per hour when the concentration is $4$ milligrams per liter, find the rate when the concentration is $2$ milligrams per liter. Show all work and explain your solution.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "A hospital is planning to purchase a new machine that can perform $20$ tests per hour. The machine operates $8$ hours per day and $5$ days per week. If each test requires $2$ milliliters of a certain chemical and the chemical costs $$5$ per $100$ milliliters, what is the weekly cost of the chemical?",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Chef's Tips: Make sure to read each question carefully.",
+       "Chef's Tips: Use the given information and apply the concepts of rates and variation.",
+       "Chef's Tips: Show all work and explain your reasoning for free response questions."
+   ]
+}

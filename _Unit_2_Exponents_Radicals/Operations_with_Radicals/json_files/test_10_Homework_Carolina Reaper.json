@@ -1,0 +1,129 @@
+{
+  "unit": "\ud83d\udcda Unit 2: Exponents & Radicals",
+   "topic": "Operations with Radicals",
+   "test_type": "Homework (Carolina Reaper)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "A music producer wants to mix two audio frequencies: $3sqrt{2}$ Hz and $2sqrt{2}$ Hz. What is the sum of these frequencies?",
+           "options": {
+               "A": "$5sqrt{2}$ Hz",
+               "B": "$sqrt{2}$ Hz",
+               "C": "$6sqrt{2}$ Hz",
+               "D": "$4sqrt{2}$ Hz",
+               "E": "$7sqrt{2}$ Hz"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "A canvas has a width of $4sqrt{3}$ inches and a length of $2sqrt{3}$ inches. What is the difference between the width and length?",
+           "options": {
+               "A": "$2sqrt{3}$ inches",
+               "B": "$6sqrt{3}$ inches",
+               "C": "$3sqrt{3}$ inches",
+               "D": "$5sqrt{3}$ inches",
+               "E": "$sqrt{3}$ inch"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "If a guitarist plays a note with a frequency of $2sqrt{5}$ Hz and then plays another note with a frequency of $3sqrt{5}$ Hz, what is the product of these frequencies?",
+           "options": {
+               "A": "$6cdot5$ Hz$^2$",
+               "B": "$5cdot6$ Hz$^2$",
+               "C": "$10cdot5$ Hz$^2$",
+               "D": "$15cdot5$ Hz$^2$",
+               "E": "$30cdot5$ Hz$^2$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "A DJ wants to create a rhythm pattern with a duration of $6sqrt{2}$ seconds and another pattern with a duration of $3sqrt{2}$ seconds. What is the ratio of these durations?",
+           "options": {
+       "A": "$\frac{1}{2}$",
+       "B": "$2$",
+       "C": "$\frac{2}{3}$",
+       "D": "$\frac{3}{2}$",
+       "E": "$\frac{1}{3}$"
+   },
+           "answer": "B"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "A painter has two sets of brushes with lengths $9sqrt{3}$ inches and $3sqrt{3}$ inches. What is the ratio of the lengths of these brushes?",
+           "options": {
+       "A": "$\frac{1}{3}$",
+       "B": "$3$",
+       "C": "$\frac{3}{2}$",
+       "D": "$2$",
+       "E": "$1$"
+   },
+           "answer": "B"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "A drummer plays a rhythm with a frequency of $4sqrt{5}$ Hz. If the drummer wants to play a harmony with a frequency that is $\frac{3}{2}$ times the original frequency, what is the new frequency?",
+           "options": {
+       "A": "$6sqrt{5}$ Hz",
+       "B": "$5cdot2$ Hz",
+       "C": "$8cdotsqrt{5}$ Hz",
+       "D": "$3cdot2cdotsqrt{5}$ Hz",
+       "E": "$10cdotsqrt{5}$ Hz"
+   },
+           "answer": "A"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "A music teacher has two students who play guitar with frequencies $2sqrt{2}$ Hz and $3sqrt{2}$ Hz. What is the product of these frequencies?",
+           "options": {
+       "A": "$6cdot2$ Hz$^2$",
+       "B": "$4cdot3$ Hz$^2$",
+       "C": "$5cdot2$ Hz$^2$",
+       "D": "$6cdot2$ Hz$^2$",
+       "E": "$12$ Hz$^2$"
+   },
+           "answer": "A"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "An artist creates a painting with dimensions $6sqrt{3}$ inches by $2sqrt{3}$ inches. What is the ratio of the width to the length?",
+           "options": {
+       "A": "$\frac{1}{3}$",
+       "B": "$3$",
+       "C": "$2$",
+       "D": "$\frac{2}{3}$",
+       "E": "$\frac{1}{2}$"
+   },
+           "answer": "C"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "A composer writes a piece of music with a tempo of $3sqrt{2}$ beats per minute. If the composer wants to increase the tempo by a factor of $\frac{4}{3}$, what is the new tempo? Show your work and explain your reasoning.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "A sculptor creates a sculpture with a height of $9sqrt{5}$ inches and a base of $3sqrt{5}$ inches. If the sculptor wants to create a smaller version with a height that is $\frac{2}{3}$ times the original height, what is the new base dimension? Show your work and explain your reasoning.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Make sure to check the units of the answers.",
+       "Encourage students to show their work and explain their reasoning.",
+       "Remind students to use the properties of radicals to simplify their answers."
+   ],
+   "footer": "Chef's Tips"
+}

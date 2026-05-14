@@ -1,0 +1,129 @@
+{
+  "unit": "\u1F4D6 Unit 2: Exponents & Radicals",
+   "topic": "Radicals",
+   "test_type": "Homework (Habanero)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "Simplify $\\sqrt{64}$",
+           "options": {
+               "A": "8",
+               "B": "16",
+               "C": "$\\sqrt{16}$",
+               "D": "4",
+               "E": "$\\sqrt{8}$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "Simplify $\\sqrt[3]{27}$",
+           "options": {
+               "A": "3",
+               "B": "9",
+               "C": "27",
+               "D": "$\\sqrt[3]{9}$",
+               "E": "$\\sqrt{3}$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "A patient needs a dosage of $\\sqrt{36}$ milligrams of medication. How many milligrams should the patient take?",
+           "options": {
+               "A": "6",
+               "B": "8",
+               "C": "12",
+               "D": "18",
+               "E": "24"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "Convert $\\sqrt[4]{x}$ into rational exponent form",
+           "options": {
+               "A": "$x^{1/4}$",
+               "B": "$x^{1/2}$",
+               "C": "$x^{3/4}$",
+               "D": "$x^{2/3}$",
+               "E": "$x^{3/2}$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "A biologist is studying cell growth. The cells are doubling in size $\\sqrt{2}$ times per hour. How many times will the cells have doubled in size after 4 hours?",
+           "options": {
+               "A": "8",
+       "B": "16",
+       "C": "32",
+       "D": "4",
+       "E": "2"
+   },
+           "answer": "A"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "Simplify $\\sqrt{144}$",
+           "options": {
+               "A": "8",
+               "B": "12",
+               "C": "16",
+               "D": "20",
+               "E": "24"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "Convert $x^{3/2}$ into radical form",
+           "options": {
+               "A": "$\\sqrt[3]{x}$",
+               "B": "$\\sqrt{x^3}$",
+               "C": "$x\\sqrt{x}$",
+               "D": "$x\\sqrt[3]{x}$",
+       "E": "$\\sqrt{x^2}$"
+   },
+           "answer": "B"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "A medical researcher is analyzing data on the spread of a disease. The data shows that the number of cases is increasing by a factor of $\\sqrt{2}$ per day. How many times will the number of cases have increased after 6 days?",
+           "options": {
+               "A": "8",
+       "B": "16",
+       "C": "32",
+       "D": "64",
+       "E": "128"
+   },
+           "answer": "D"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "A patient needs a dosage of $\\sqrt[3]{343}$ milligrams of medication. Show all work to simplify the radical and determine the dosage the patient should take.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "Convert the radical expression $\\sqrt[4]{x^5}$ into rational exponent form and simplify. Show all work and explain your reasoning.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Tip 1: Remind students to simplify radicals and rational exponents carefully and show all work.",
+       "Tip 2: Encourage students to use real-world examples, such as medicine dosage and cell growth, to make the concepts more relatable and interesting.",
+       "Tip 3: Emphasize the importance of converting between radical and rational exponent form to solve problems in different contexts."
+   ],
+   "footer": "Chef's Tips"
+}

@@ -1,0 +1,129 @@
+{
+  "unit": "\u1F4D6 Unit 1: Ratio, Rate, Percentage",
+   "topic": "Mixture Problems",
+   "test_type": "Foundation (Jalapeno)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "A planetary lab mixes $2$ parts of helium with $3$ parts of oxygen to create a gas mixture for a space mission. What is the ratio of helium to the total mixture?",
+           "options": {
+               "A": "$2:5$",
+               "B": "$3:5$",
+               "C": "$1:3$",
+               "D": "$2:3$",
+               "E": "$3:2$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "A spaceship has $120$ liters of a $20%$ oxygen mixture. How many liters of pure oxygen are in the mixture?",
+           "options": {
+               "A": "$20$ liters",
+               "B": "$24$ liters",
+               "C": "$30$ liters",
+               "D": "$40$ liters",
+               "E": "$60$ liters"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "A scientist mixes $x$ liters of a $15%$ acid solution with $y$ liters of a $30%$ acid solution to create a $20%$ acid mixture. If $x = 2y$, what is the ratio of $x$ to $y$?",
+           "options": {
+               "A": "$1:2$",
+               "B": "$2:1$",
+               "C": "$3:2$",
+               "D": "$2:3$",
+               "E": "$1:1$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "A space station requires a $40%$ nitrogen mixture. If $60$ liters of nitrogen are mixed with $x$ liters of oxygen, what is the value of $x$?",
+           "options": {
+               "A": "$60$ liters",
+               "B": "$90$ liters",
+               "C": "$100$ liters",
+               "D": "$120$ liters",
+               "E": "$150$ liters"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "A mixture of $30%$ water and $70%$ methane is created for a science experiment. If $x$ liters of water are mixed with $y$ liters of methane, what is the ratio of water to the total mixture?",
+           "options": {
+               "A": "$3:10$",
+       "B": "$7:10$",
+       "C": "$3:7$",
+       "D": "$1:3$",
+       "E": "$2:7$"
+   },
+   "answer": "A"
+},
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "A spaceship's fuel tank contains $180$ liters of a fuel mixture that is $25%$ gasoline and $75%$ diesel. How many liters of gasoline are in the tank?",
+           "options": {
+               "A": "$30$ liters",
+               "B": "$45$ liters",
+               "C": "$60$ liters",
+               "D": "$90$ liters",
+       "E": "$120$ liters"
+   },
+   "answer": "B"
+},
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "A scientist creates a mixture of $x$ liters of a $50%$ salt solution and $y$ liters of a $25%$ salt solution. If the resulting mixture is $37.5%$ salt, what is the ratio of $x$ to $y$?",
+           "options": {
+               "A": "$1:2$",
+               "B": "$2:1$",
+               "C": "$3:1$",
+               "D": "$1:3$",
+       "E": "$2:3$"
+   },
+   "answer": "B"
+},
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "A space laboratory mixes $x$ grams of a metal that is $80%$ copper with $y$ grams of a metal that is $40%$ copper. If the resulting mixture is $60%$ copper, what is the ratio of $x$ to $y$?",
+           "options": {
+               "A": "$1:2$",
+               "B": "$2:1$",
+               "C": "$3:1$",
+               "D": "$1:1$",
+       "E": "$4:1$"
+   },
+   "answer": "B"
+},
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "A planetary exploration team needs a $20%$ oxygen mixture for a space mission. They have two oxygen sources: Source A contains $30%$ oxygen and Source B contains $10%$ oxygen. If $x$ liters of Source A are mixed with $y$ liters of Source B, write an equation to represent the mixture and solve for $x$ and $y$ if the resulting mixture is $20%$ oxygen and $x = 2y$.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "A space station's life support system requires a $50%$ nitrogen mixture. The station has two nitrogen sources: Source A contains $40%$ nitrogen and Source B contains $60%$ nitrogen. If $x$ liters of Source A are mixed with $y$ liters of Source B, write an equation to represent the mixture and solve for $x$ and $y$ if the resulting mixture is $50%$ nitrogen and $x + y = 100$.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Ensure students show all work and calculations for free response questions.",
+       "Remind students to label their answers with the correct units.",
+       "Encourage students to use diagrams or visual aids to help solve mixture problems."
+   ],
+   "footer": "Chef's Tips"
+}

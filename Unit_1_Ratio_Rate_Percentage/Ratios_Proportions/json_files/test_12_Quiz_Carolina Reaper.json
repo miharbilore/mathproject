@@ -1,0 +1,129 @@
+{
+  "unit": "\uD83D\uDCD8 Unit 1: Ratio, Rate, Percentage",
+   "topic": "Ratios & Proportions",
+   "test_type": "Quiz (Carolina Reaper)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "A shipping company has $3 \\cdot 10^2$ trucks and $4 \\cdot 10^2$ vans. What is the ratio of trucks to vans?",
+           "options": {
+               "A": "3:4",
+               "B": "3:2",
+               "C": "2:3",
+               "D": "4:3",
+               "E": "1:1"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "If $15$ packages are delivered in $3$ hours, what is the rate of delivery per hour?",
+           "options": {
+               "A": "5 packages/hour",
+               "B": "3 packages/hour",
+               "C": "1 package/hour",
+               "D": "2 packages/hour",
+               "E": "4 packages/hour"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "A traffic signal has a ratio of red to green of $2:3$. If the signal is red for $6$ minutes, how many minutes is it green?",
+           "options": {
+               "A": "6 minutes",
+               "B": "8 minutes",
+               "C": "9 minutes",
+               "D": "7 minutes",
+               "E": "5 minutes"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "A logistics company has $12$ warehouses and $8$ distribution centers. What is the ratio of warehouses to distribution centers?",
+           "options": {
+               "A": "3:2",
+               "B": "2:1",
+               "C": "1:1",
+               "D": "3:1",
+               "E": "2:3"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "If a delivery truck travels $250$ miles in $5$ hours, what is its average rate of travel?",
+           "options": {
+               "A": "50 miles/hour",
+               "B": "25 miles/hour",
+               "C": "40 miles/hour",
+               "D": "60 miles/hour",
+               "E": "30 miles/hour"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "A transportation company has a ratio of cars to buses of $5:2$. If there are $10$ buses, how many cars are there?",
+           "options": {
+               "A": "20 cars",
+               "B": "25 cars",
+               "C": "12 cars",
+               "D": "15 cars",
+               "E": "10 cars"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "If $18$ boxes are packed into $3$ containers, what is the ratio of boxes to containers?",
+           "options": {
+               "A": "6:1",
+               "B": "3:1",
+               "C": "2:1",
+               "D": "1:1",
+               "E": "9:1"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "A shipping container can hold $24$ crates. If $2/3$ of the container is filled, how many crates are in the container?",
+           "options": {
+       "A": "16 crates",
+       "B": "12 crates",
+       "C": "8 crates",
+       "D": "20 crates",
+       "E": "18 crates"
+   },
+   "answer": "A"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "A delivery company has $5$ drivers and $8$ trucks. If the ratio of drivers to trucks is $3:4$, how many more trucks should be purchased to meet this ratio? Show your work and explain your reasoning.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "A logistics company has a ratio of $2:5$ for the number of packages delivered to the number of packages received. If $150$ packages are received, how many packages should be delivered to maintain this ratio? Use proportions to solve the problem and explain your answer.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Tip 1: Encourage students to use proportions to solve ratio problems",
+       "Tip 2: Remind students to simplify their answers to the simplest form",
+       "Tip 3: Emphasize the importance of labeling units in rate and ratio problems"
+   ],
+   "footer": "Chef's Tips"
+}

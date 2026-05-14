@@ -1,0 +1,129 @@
+{
+  "unit": "\u1F4D6 Unit 9: Data Statistical Analysis",
+   "topic": "Box & Whisker (Dispersion)",
+   "test_type": "Challenge (Habanero)",
+   "questions": [
+      {
+         "id": 1,
+         "type": "MQ",
+         "question": "A hiking group recorded the following distances: $15$, $18$, $22$, $25$, $30$. What is the median?",
+         "options": {
+            "A": "20",
+            "B": "22",
+            "C": "25",
+            "D": "28",
+            "E": "30"
+         },
+         "answer": "B"
+      },
+      {
+         "id": 2,
+         "type": "MQ",
+         "question": "A set of fuel consumption data has a lower quartile of $8$ and an upper quartile of $12$. What is the interquartile range?",
+         "options": {
+            "A": "2",
+            "B": "4",
+            "C": "6",
+            "D": "8",
+            "E": "10"
+         },
+         "answer": "B"
+      },
+      {
+         "id": 3,
+         "type": "MQ",
+         "question": "A box-and-whisker plot shows a minimum value of $5$, a maximum value of $25$, and a median of $15$. If the lower quartile is $10$, what is the interquartile range?",
+         "options": {
+            "A": "5",
+            "B": "10",
+            "C": "15",
+            "D": "20",
+            "E": "25"
+         },
+         "answer": "B"
+      },
+      {
+         "id": 4,
+         "type": "MQ",
+         "question": "The following data represents the number of birds spotted during a nature walk: $2$, $4$, $6$, $8$, $10$, $20$. Which value is an outlier?",
+         "options": {
+            "A": "2",
+            "B": "4",
+            "C": "6",
+            "D": "8",
+            "E": "20"
+         },
+         "answer": "E"
+      },
+      {
+         "id": 5,
+         "type": "MQ",
+         "question": "A set of data has the following five-number summary: $min=5$, $Q_1=10$, $median=15$, $Q_3=20$, $max=30$. What percentage of the data is between $10$ and $20$?",
+         "options": {
+            "A": "25%",
+            "B": "50%",
+            "C": "75%",
+            "D": "90%",
+            "E": "100%"
+         },
+         "answer": "B"
+      },
+      {
+         "id": 6,
+         "type": "MQ",
+         "question": "The box-and-whisker plot below represents the fuel efficiency of a car in miles per gallon. If the lower quartile is $20$ and the upper quartile is $30$, what can be inferred about the fuel efficiency?",
+         "options": {
+            "A": "Most of the data points are below $20$",
+            "B": "Most of the data points are between $20$ and $30$",
+            "C": "Most of the data points are above $30$",
+            "D": "The data is symmetric",
+            "E": "The data is skewed to the right"
+         },
+         "answer": "B"
+      },
+      {
+         "id": 7,
+         "type": "MQ",
+         "question": "A hiker recorded the following times to complete a trail: $2$, $3$, $4$, $5$, $6$, $7$, $8$, $9$. If the times are represented in a box-and-whisker plot, which of the following is true?",
+         "options": {
+            "A": "The median is $4.5$",
+            "B": "The lower quartile is $3$",
+    "C": "The upper quartile is $6$",
+    "D": "The interquartile range is $3$",
+    "E": "All of the above"
+         },
+         "answer": "E"
+      },
+      {
+         "id": 8,
+         "type": "MQ",
+         "question": "A nature reserve has the following number of animals: $10$, $12$, $15$, $18$, $20$, $25$. What is the $Q_3$?",
+         "options": {
+            "A": "15",
+            "B": "17",
+            "C": "18",
+            "D": "20",
+            "E": "22"
+         },
+         "answer": "C"
+      },
+      {
+         "id": 9,
+         "type": "FRQ",
+         "question": "A group of friends went on a road trip and recorded their fuel consumption. The data is as follows: $15$, $18$, $20$, $22$, $25$, $30$, $35$. Create a box-and-whisker plot and identify any outliers.",
+         "required_space_lines": 5
+      },
+      {
+         "id": 10,
+         "type": "FRQ",
+         "question": "The number of hikers on a trail for the past week is as follows: $20$, $25$, $30$, $35$, $40$, $45$, $50$. Calculate the median, lower quartile, and upper quartile. Then, create a box-and-whisker plot and comment on the dispersion.",
+         "required_space_lines": 5
+      }
+   ],
+   "teacher_rules": [
+      "Tip 1: Ensure students understand the concept of quartiles and interquartile range",
+      "Tip 2: Provide examples of real-world applications of box-and-whisker plots",
+      "Tip 3: Emphasize the importance of identifying outliers in a dataset"
+   ],
+   "footer_title": "Chef's Tips"
+}

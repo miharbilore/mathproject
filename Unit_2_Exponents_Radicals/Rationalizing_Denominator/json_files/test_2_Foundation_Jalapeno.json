@@ -1,0 +1,129 @@
+{
+  "unit": "\u1F4D6 Unit 2: Exponents & Radicals",
+   "topic": "Rationalizing Denominator",
+   "test_type": "Foundation (Jalapeno)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "To rationalize the denominator of $\\frac{1}{\\sqrt{3}}$, we multiply by:",
+           "options": {
+               "A": "$\\frac{\\sqrt{3}}{\\sqrt{3}}$",
+               "B": "$\\frac{2}{2}$",
+               "C": "$\\frac{\\sqrt{2}}{\\sqrt{2}}$",
+               "D": "$\\frac{1}{\\sqrt{2}}$",
+               "E": "$\\frac{\\sqrt{6}}{\\sqrt{6}}$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "What is the rationalized form of $\\frac{2}{\\sqrt{5}}$?",
+           "options": {
+               "A": "$\\frac{2\\sqrt{5}}{5}$",
+               "B": "$\\frac{2}{5}$",
+               "C": "$\\frac{\\sqrt{5}}{2}$",
+               "D": "$\\frac{2\\sqrt{2}}{5}$",
+               "E": "$\\frac{5}{2\\sqrt{5}}$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "A spacecraft is traveling at $\\frac{2}{\\sqrt{3}}$ times the speed of light. What is the rationalized form of this speed?",
+           "options": {
+               "A": "$\\frac{2\\sqrt{3}}{3}$",
+               "B": "$\\frac{2}{3}$",
+               "C": "$\\frac{\\sqrt{3}}{2}$",
+               "D": "$\\frac{2\\sqrt{2}}{3}$",
+               "E": "$\\frac{3}{2\\sqrt{3}}$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "The mass of a planet is $\\frac{1}{\\sqrt{2}}$ times the mass of Earth. What is the rationalized form of this mass?",
+           "options": {
+               "A": "$\\frac{\\sqrt{2}}{2}$",
+               "B": "$\\frac{1}{2}$",
+               "C": "$\\frac{2}{\\sqrt{2}}$",
+       "D": "$\\frac{\\sqrt{2}}{\\sqrt{2}}$",
+       "E": "$\\frac{1}{\\sqrt{2}}$"
+   },
+   "answer": "A"
+},
+{
+   "id": 5,
+   "type": "MQ",
+   "question": "The time it takes for a spaceship to travel to Mars is $\\frac{3}{\\sqrt{6}}$ years. What is the rationalized form of this time?",
+   "options": {
+       "A": "$\\frac{\\sqrt{6}}{2}$",
+       "B": "$\\frac{3\\sqrt{6}}{6}$",
+       "C": "$\\frac{\\sqrt{3}}{2}$",
+       "D": "$\\frac{3}{2\\sqrt{2}}$",
+       "E": "$\\frac{\\sqrt{2}}{3}$"
+   },
+   "answer": "B"
+},
+{
+   "id": 6,
+   "type": "MQ",
+   "question": "The distance between two planets is $\\frac{2}{\\sqrt{8}}$ light-years. What is the rationalized form of this distance?",
+   "options": {
+       "A": "$\\frac{\\sqrt{2}}{2}$",
+       "B": "$\\frac{2\\sqrt{2}}{4}$",
+       "C": "$\\frac{\\sqrt{8}}{2}$",
+       "D": "$\\frac{2}{2\\sqrt{2}}$",
+       "E": "$\\frac{2\\sqrt{8}}{8}$"
+   },
+   "answer": "B"
+},
+{
+   "id": 7,
+   "type": "MQ",
+   "question": "A lab experiment involves a chemical reaction with a rate of $\\frac{1}{\\sqrt{5}}$ moles per second. What is the rationalized form of this rate?",
+   "options": {
+       "A": "$\\frac{\\sqrt{5}}{5}$",
+       "B": "$\\frac{1}{5}$",
+       "C": "$\\frac{\\sqrt{2}}{5}$",
+       "D": "$\\frac{1}{\\sqrt{2}}$",
+       "E": "$\\frac{5}{\\sqrt{5}}$"
+   },
+   "answer": "A"
+},
+{
+   "id": 8,
+   "type": "MQ",
+   "question": "The energy released by a star is $\\frac{2}{\\sqrt{3}}$ times the energy released by the Sun. What is the rationalized form of this energy?",
+   "options": {
+       "A": "$\\frac{2\\sqrt{3}}{3}$",
+       "B": "$\\frac{2}{3}$",
+       "C": "$\\frac{\\sqrt{3}}{2}$",
+       "D": "$\\frac{2\\sqrt{2}}{3}$",
+       "E": "$\\frac{3}{2\\sqrt{3}}$"
+   },
+   "answer": "A"
+},
+{
+   "id": 9,
+   "type": "FRQ",
+   "question": "Rationalize the denominator of $\\frac{2x}{\\sqrt{3x}}$ and simplify. Show all work and explain each step.",
+   "required_space_lines": 5
+},
+{
+   "id": 10,
+   "type": "FRQ",
+   "question": "A space probe is traveling at $\\frac{3}{\\sqrt{2}}$ times the speed of a satellite. Rationalize the denominator and simplify to find the speed of the space probe in terms of the satellite's speed.",
+   "required_space_lines": 5
+}
+],
+"teacher_rules": [
+   "Emphasize the importance of rationalizing denominators in scientific calculations.",
+   "Remind students to simplify their answers after rationalizing the denominator.",
+   "Encourage students to use real-world examples, such as space exploration, to illustrate the concept of rationalizing denominators."
+],
+"footer": "Chef's Tips"
+}

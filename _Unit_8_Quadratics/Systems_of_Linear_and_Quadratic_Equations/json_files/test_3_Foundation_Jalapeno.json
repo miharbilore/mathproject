@@ -1,0 +1,129 @@
+{
+  "unit":"📘 Unit 8: Quadratics",
+   "topic":"Systems of Linear and Quadratic Equations",
+   "test_type":"Foundation (Jalapeno)",
+   "questions":[
+      {
+         "id":1,
+         "type":"MQ",
+         "question":"A basketball player scores $x$ points in a game, and her average score for the season is $x - 2$. If she has played $5$ games, what system of equations represents this situation?",
+         "options":{
+            "A":"$x + 5 = 25$, $x - 2 = 5$",
+            "B":"$5x = 25$, $x - 2 = 5$",
+            "C":"$x + 2 = 5$, $5x = 25$",
+            "D":"$5x = 25$, $x = 5$",
+            "E":"$x - 2 = 5$, $5x = 25$"
+         },
+         "answer":"B"
+      },
+      {
+         "id":2,
+         "type":"MQ",
+         "question":"The number of fans $y$ at a soccer game is related to the number of goals $x$ scored by the home team. The relationship can be modeled by $y = 2x + 100$ and $y = x^2 - 4x + 50$. What is the point of intersection between the two graphs?",
+         "options":{
+            "A":"$(0, 100)$",
+            "B":"$(2, 100)$",
+            "C":"$(4, 50)$",
+            "D":"$(6, 80)$",
+            "E":"$(8, 100)$"
+         },
+         "answer":"C"
+      },
+      {
+         "id":3,
+         "type":"MQ",
+         "question":"A cyclist travels $x$ miles in $y$ hours. Her speed can be represented by $y = x - 2$ and $y = \frac{x^2}{4} - 3$. What is the cyclist's speed when $x = 4$?",
+         "options":{
+            "A":"$0$ mph",
+            "B":"$1$ mph",
+            "C":"$2$ mph",
+            "D":"$3$ mph",
+            "E":"$4$ mph"
+         },
+         "answer":"B"
+      },
+      {
+         "id":4,
+         "type":"MQ",
+         "question":"A sports equipment company produces $x$ units of a product per day. The cost $y$ of producing $x$ units is given by $y = 2x + 50$ and $y = x^2 + 20x - 100$. What is the minimum number of units that must be produced to break even?",
+         "options":{
+            "A":"$0$ units",
+            "B":"$5$ units",
+            "C":"$10$ units",
+            "D":"$15$ units",
+            "E":"$20$ units"
+         },
+         "answer":"C"
+      },
+      {
+         "id":5,
+         "type":"MQ",
+         "question":"A swimmer's time $y$ in seconds to complete $x$ laps can be represented by $y = 2x + 10$ and $y = x^2 + 4x$. What is the point of intersection between the two graphs?",
+         "options":{
+            "A":"$(0, 10)$",
+            "B":"$(2, 14)$",
+            "C":"$(-2, 0)$",
+            "D":"$(4, 22)$",
+    "E":"$(-4, -2)$"
+         },
+         "answer":"B"
+      },
+      {
+         "id":6,
+         "type":"MQ",
+         "question":"A runner's heart rate $y$ in beats per minute is related to the distance $x$ she runs in miles. The relationship can be modeled by $y = x + 60$ and $y = x^2 - 2x + 40$. What is the point of intersection between the two graphs?",
+         "options":{
+            "A":"$(0, 60)$",
+            "B":"$(2, 40)$",
+            "C":"$(4, 60)$",
+            "D":"$(6, 70)$",
+            "E":"$(8, 80)$"
+         },
+         "answer":"B"
+      },
+      {
+         "id":7,
+         "type":"MQ",
+         "question":"A golfer's score $y$ is related to the number of strokes $x$ she takes. The relationship can be modeled by $y = 2x - 10$ and $y = x^2 - 4x$. What is the point of intersection between the two graphs?",
+         "options":{
+            "A":"$(0, -10)$",
+            "B":"$(2, -6)$",
+            "C":"$(4, 0)$",
+            "D":"$(6, 10)$",
+            "E":"$(8, 20)$"
+         },
+         "answer":"C"
+      },
+      {
+         "id":8,
+         "type":"MQ",
+         "question":"A tennis player's serve speed $y$ in miles per hour is related to the force $x$ she applies. The relationship can be modeled by $y = x + 20$ and $y = x^2 - 4x + 10$. What is the point of intersection between the two graphs?",
+         "options":{
+            "A":"$(0, 20)$",
+            "B":"$(2, 10)$",
+            "C":"$(4, 20)$",
+            "D":"$(6, 30)$",
+            "E":"$(8, 40)$"
+         },
+         "answer":"B"
+      },
+      {
+         "id":9,
+         "type":"FRQ",
+         "question":"A cyclist travels $x$ miles in $y$ hours. Her speed can be represented by $y = x - 2$ and $y = \frac{x^2}{4} - 3$. Find the point of intersection between the two graphs and interpret its meaning in the context of the situation. Show all work and explain your answer.",
+         "required_space_lines":5
+      },
+      {
+         "id":10,
+         "type":"FRQ",
+         "question":"A sports team's winning percentage $y$ is related to the number of games $x$ they win. The relationship can be modeled by $y = 0.2x + 0.4$ and $y = 0.01x^2 + 0.1x + 0.2$. Find the point of intersection between the two graphs and interpret its meaning in the context of the situation. Show all work and explain your answer.",
+         "required_space_lines":5
+      }
+   ],
+   "teacher_rules":[
+      "Tip 1: Remind students to read each question carefully and identify the key elements of the problem.",
+      "Tip 2: Encourage students to use graphing tools or algebraic methods to find the point of intersection between the two graphs.",
+      "Tip 3: Emphasize the importance of interpreting the results in the context of the situation and explaining their answer clearly."
+   ],
+   "footer_title":"Chef's Tips"
+}

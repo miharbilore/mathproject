@@ -1,0 +1,131 @@
+{
+  "unit": "📘 Unit 4: Absolute Value",
+  "topic": "Definition of Absolute Value",
+  "test_type": "Homework (Jalapeno)",
+  "questions": [
+    {
+      "id": 1,
+      "type": "MQ",
+      "question": "An archaeologist finds a coin from year $400$ BC (represented as $-400$ on a timeline). What is the absolute value $|-400|$ representing its distance from year zero?",
+      "options": {
+        "A": "$-400$",
+        "B": "$0$",
+        "C": "$400$",
+        "D": "$1$",
+        "E": "$-1$"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 2,
+      "type": "MQ",
+      "question": "A Roman scroll is found $12$ meters below ground level ($-12$). Which expression correctly shows the distance from the scroll to the surface ($0$)?",
+      "options": {
+        "A": "$-|12|$",
+        "B": "$|-12|$",
+        "C": "$-(-12)$",
+        "D": "$|0 - 12|$",
+        "E": "$|12|$"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 3,
+      "type": "MQ",
+      "question": "Evaluate the expression representing the total distance from zero of two artifacts located at $15$ and $-15$: $|15| + |-15|$.",
+      "options": {
+        "A": "$0$",
+        "B": "$15$",
+        "C": "$30$",
+        "D": "$-30$",
+        "E": "$1$"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 4,
+      "type": "MQ",
+      "question": "If the age of a Pharaoh's reign is represented by $|x| = 45$ on a historical timeline relative to a major war, which values could $x$ be?",
+      "options": {
+        "A": "Only $45$",
+        "B": "Only $-45$",
+        "C": "$0$ and $45$",
+        "D": "$45$ and $-45$",
+        "E": "No solution"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 5,
+      "type": "MQ",
+      "question": "Which of the following ancient ruins is the furthest distance from the timeline center ($0$)?",
+      "options": {
+        "A": "$|-250|$",
+        "B": "$|100|$",
+        "C": "$|-300|$",
+        "D": "$|50|$",
+        "E": "$|-150|$"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 6,
+      "type": "MQ",
+      "question": "Simplify the distance between a statue at $-8$ meters and a pillar at $0$ meters using absolute value notation.",
+      "options": {
+        "A": "$|-8| = 8$",
+        "B": "$-|8| = -8$",
+        "C": "$|8| = -8$",
+        "D": "$|-8| = -8$",
+        "E": "$-|-8| = 8$"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 7,
+      "type": "MQ",
+      "question": "Which statement about the absolute value of a year in the BC era (negative numbers) is always true?",
+      "options": {
+        "A": "It is always negative.",
+        "B": "It is always zero.",
+        "C": "It is always positive.",
+        "D": "It depends on the century.",
+        "E": "It equals the year itself."
+      },
+      "answer": "C"
+    },
+    {
+      "id": 8,
+      "type": "MQ",
+      "question": "An ancient map marks two treasures. Treasure A is at $|-20|$ and Treasure B is at $|18|$. Which is closer to the origin ($0$)?",
+      "options": {
+        "A": "Treasure A",
+        "B": "Treasure B",
+        "C": "They are equal distance",
+        "D": "Cannot be determined",
+        "E": "The origin itself"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 9,
+      "type": "FRQ",
+      "question": "An artifact from the Stone Age is found at $-2500$ on a timeline, and a Bronze Age tool is at $-1200$. Calculate the sum of their absolute values: $|-2500| + |-1200|$.",
+      "required_space_lines": 5
+    },
+    {
+      "id": 10,
+      "type": "FRQ",
+      "question": "Explain using the definition of distance why $|-50|$ and $|50|$ both equal $50$ in the context of a ship sailing $50$ leagues East vs $50$ leagues West from a port ($0$).",
+      "required_space_lines": 5
+    }
+  ],
+  "teacher_rules": [
+    "Emphasize that absolute value measures magnitude, not direction.",
+    "Use the timeline as a visual aid for negative values in BC eras.",
+    "Verify students understand that absolute value can never result in a negative number."
+  ],
+  "footer": {
+    "title": "Chef's Tips"
+  }
+}

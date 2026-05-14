@@ -1,0 +1,129 @@
+{
+  "unit": "\uD83D\uDCD8 Unit 2: Exponents & Radicals",
+   "topic": "Exponents",
+   "test_type": "Quiz (Habanero)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "If the temperature of a city is expected to increase by a factor of $2^3$ over the next 5 years, and it is currently $15^{circ}$C, what will the temperature be in 5 years?",
+           "options": {
+               "A": "$30^{circ}$C",
+               "B": "$40^{circ}$C",
+               "C": "$60^{circ}$C",
+               "D": "$80^{circ}$C",
+               "E": "$120^{circ}$C"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "A certain type of plant can grow at a rate of $3^2$ times its original size when exposed to optimal rainfall conditions. If the plant is initially 5cm tall, how tall will it be after optimal rainfall?",
+           "options": {
+               "A": "$5$ cm",
+               "B": "$15$ cm",
+               "C": "$30$ cm",
+               "D": "$45$ cm",
+               "E": "$60$ cm"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "Simplify the expression $x^2 \\cdot x^4$",
+           "options": {
+               "A": "$x^6$",
+               "B": "$x^8$",
+               "C": "$x^{10}$",
+               "D": "$x^{12}$",
+               "E": "$x^{14}$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "A researcher measures the growth of a particular species of ecosystem, finding that its population grows by a factor of $(2^2)^3$ per year. What is the annual growth factor?",
+           "options": {
+       "A": "$2^6$",
+       "B": "$2^8$",
+       "C": "$2^{10}$",
+       "D": "$2^{12}$",
+       "E": "$2^{14}$"
+   },
+           "answer": "A"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "The volume of a cloud can be calculated using the formula $V = l^3$, where $l$ is the length of the cloud in kilometers. If the length is $2^2$ km, what is the volume?",
+           "options": {
+               "A": "$8$ km$^3$",
+               "B": "$16$ km$^3$",
+               "C": "$32$ km$^3$",
+               "D": "$64$ km$^3$",
+               "E": "$128$ km$^3$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "The rate of rainfall in a certain region can be modeled by the equation $R = 3^t$, where $R$ is the rate of rainfall and $t$ is time in hours. What is the rate of rainfall after 2 hours?",
+           "options": {
+               "A": "$3$ mm/h",
+               "B": "$9$ mm/h",
+               "C": "$18$ mm/h",
+               "D": "$27$ mm/h",
+       "E": "$81$ mm/h"
+   },
+           "answer": "B"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "A group of scientists study the effects of climate change, finding that the level of greenhouse gases in the atmosphere increases by a factor of $2^3$ every decade. What is the increase after 3 decades?",
+           "options": {
+       "A": "$2^6$",
+       "B": "$2^9$",
+       "C": "$2^{12}$",
+       "D": "$2^{15}$",
+       "E": "$2^{18}$"
+   },
+           "answer": "B"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "The amount of solar radiation that hits the Earth's surface can be calculated using the formula $S = 4^t$, where $S$ is the amount of solar radiation and $t$ is time in hours. What is the amount of solar radiation after 1 hour?",
+           "options": {
+               "A": "$4$ J/m$^2$",
+               "B": "$8$ J/m$^2$",
+               "C": "$16$ J/m$^2$",
+               "D": "$32$ J/m$^2$",
+       "E": "$64$ J/m$^2$"
+   },
+           "answer": "C"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "A certain type of ecosystem is sensitive to temperature changes, with its population decreasing by a factor of $3^2$ for every $2^{circ}$C increase in temperature. If the temperature is expected to increase by $2^3$ degrees over the next 10 years, and the current population is 1000, what will the population be in 10 years? Show your work and explain your reasoning.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "The level of oxygen in a lake can be modeled by the equation $O = 2^{t-2}$, where $O$ is the level of oxygen and $t$ is time in months. If the current level of oxygen is 16, what will the level be after 5 months? Show your work and explain your reasoning.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "When evaluating expressions with exponents, simplify the exponents first before performing any other operations",
+       "Use the order of operations (PEMDAS) when simplifying expressions with exponents",
+       "Make sure to consider the units when working with real-world applications of exponents"
+   ],
+   "footer_title": "Chef's Tips"
+}

@@ -1,0 +1,128 @@
+{
+  "unit": "\u1F4D6 Unit 7: Factoring",
+   "topic": "Finding Common Factors",
+   "test_type": "Quiz (Habanero)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "What is the greatest common factor of $12x$ and $18y$?",
+           "options": {
+               "A": "$2xy$",
+               "B": "$6$",
+               "C": "$3x$",
+               "D": "$6x$",
+               "E": "$6y$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "factor out the GCF from $9x^2 + 12x$",
+           "options": {
+               "A": "$3x^2 + 4x$",
+               "B": "$3x(x + 4/3)$",
+               "C": "$3x(3x + 4)$",
+               "D": "$3x(x + 4)$",
+               "E": "$3x(3x - 4)$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "The temperature in a city dropped by $8$ degrees in the morning and $12$ degrees at night. What is the greatest common factor of the temperature changes?",
+           "options": {
+               "A": "$2$",
+               "B": "$4$",
+               "C": "$8$",
+               "D": "$12$",
+       "E": "$16$"
+       },
+       "answer": "B"
+   },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "A farmer harvests $15x$ kilograms of wheat and $25x$ kilograms of rice. What is the greatest common factor of the harvested crops?",
+           "options": {
+               "A": "$5x$",
+               "B": "$5$",
+               "C": "$15x$",
+               "D": "$25x$",
+               "E": "$5xy$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "What is the simplified expression of $24x^2y + 36x^2z$ after factoring out the greatest common factor?",
+           "options": {
+               "A": "$12x^2(2y + 3z)$",
+               "B": "$12x^2y + 12x^2z$",
+               "C": "$12x^2(2y - 3z)$",
+               "D": "$12x^2(2y - z)$",
+               "E": "$8x(3x + 4y)$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "The rainfall in a forest increased by $16$ inches in spring and $24$ inches in autumn. What is the greatest common factor of the rainfall increase?",
+           "options": {
+               "A": "$8$",
+       "B": "$4$",
+       "C": "$2$",
+       "D": "$12$",
+       "E": "$16$"
+       },
+       "answer": "B"
+   },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "The atmospheric pressure decreased by $20$ pascals and $30$ pascals. What is the greatest common factor of the pressure decrease?",
+           "options": {
+               "A": "$5$",
+       "B": "$10$",
+       "C": "$2$",
+       "D": "$15$",
+       "E": "$25$"
+       },
+       "answer": "B"
+   },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "What is the greatest common factor of $48$ and $64$ in the context of ecosystem populations?",
+           "options": {
+               "A": "$16$",
+       "B": "$8$",
+       "C": "$4$",
+       "D": "$2$",
+       "E": "$32$"
+       },
+       "answer": "A"
+   },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "Factor out the greatest common factor of $50x^3y + 30x^3z - 10x^3w$",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "A river's water level rises by $18$ inches during the day and $24$ inches at night due to tides. If the rise and fall follow the same pattern the next day, what is the simplified expression of the total water level change after two days?",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Chef's Tips: Use factoring to simplify expressions and identify common factors.",
+       "Provide clear work and explanations for free response questions.",
+       "Emphasize the importance of precise calculations in factoring and simplifying expressions."
+   ]
+}

@@ -1,0 +1,131 @@
+{
+  "unit": "\u1F4D6 Unit 5: Linear Equations",
+   "topic": "Parallel Lines",
+   "test_type": "Homework (Jalapeno)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "The ancient Egyptians used $2x + 3y = 7$ to design the Great Pyramid's slope. Which line is parallel to this?",
+           "options": {
+               "A": "$2x + 3y = 10$",
+               "B": "$2x - 3y = 7$",
+               "C": "$x - 2y = 3$",
+               "D": "$4x + 6y = 14$",
+               "E": "$x + y = 2$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "In the ancient city of Babylon, the slope of a line was $\\frac{3}{4}$. What is the slope of a parallel line?",
+           "options": {
+               "A": "$\\frac{3}{4}$",
+               "B": "$-\\frac{3}{4}$",
+               "C": "$\\frac{4}{3}$",
+               "D": "$-\\frac{4}{3}$",
+               "E": "$\\frac{1}{2}$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "The ancient Greek philosopher, Euclid, wrote an equation of a line as $y = 2x - 1$. Which of the following lines is parallel to this?",
+           "options": {
+               "A": "$y = 2x + 1$",
+               "B": "$y = -2x + 1$",
+               "C": "$y = 2x - 2$",
+               "D": "$x = 2y - 1$",
+               "E": "$y = x + 1$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "The Mayans used $y = -\\frac{1}{2}x + 3$ to record astronomical events. What is the slope of a line parallel to this?",
+           "options": {
+               "A": "$-\\frac{1}{2}$",
+               "B": "$\\frac{1}{2}$",
+               "C": "$-2$",
+               "D": "$2$",
+               "E": "$-\\frac{1}{3}$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "The ancient Romans built roads with a slope of $\\frac{1}{3}$. Which line has the same slope?",
+           "options": {
+               "A": "$y = \\frac{1}{3}x + 2$",
+               "B": "$y = -\\frac{1}{3}x + 2$",
+               "C": "$y = \\frac{1}{2}x + 1$",
+               "D": "$y = \\frac{2}{3}x - 1$",
+       "E": "$y = -\\frac{2}{3}x + 1$"
+   },
+           "answer": "A"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "The ancient Chinese used $3x - 4y = 12$ to design the Great Wall's foundation. Which of the following is parallel to this line?",
+           "options": {
+               "A": "$3x - 4y = 10$",
+               "B": "$3x + 4y = 12$",
+               "C": "$4x - 3y = 12$",
+               "D": "$-3x + 4y = 12$",
+       "E": "$-3x - 4y = 10$"
+   },
+           "answer": "A"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "Archaeologists discovered an ancient artifact with the equation $y = \\frac{2}{5}x - 1$. Which line is parallel to this?",
+           "options": {
+               "A": "$y = \\frac{2}{5}x + 2$",
+               "B": "$y = -\\frac{2}{5}x + 1$",
+               "C": "$y = \\frac{5}{2}x - 1$",
+               "D": "$y = -\\frac{5}{2}x - 1$",
+       "E": "$y = \\frac{3}{5}x + 1$"
+   },
+           "answer": "A"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "The ancient Egyptians built temples using $x - 2y = 5$. Which line has the same slope?",
+           "options": {
+               "A": "$x - 2y = 3$",
+               "B": "$x + 2y = 5$",
+               "C": "$2x - y = 5$",
+               "D": "$-x + 2y = 5$",
+       "E": "$2x + y = 3$"
+   },
+           "answer": "A"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "Write the equation of a line parallel to $y = 3x - 2$ that passes through the point $(1, 4)$. Show your work and explain your reasoning.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "The ancient Greeks used parallel lines to design the Parthenon's structure. If two lines are parallel, what can be said about their slopes? Use an example to illustrate your answer. Be sure to include a diagram or graph.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Tip 1: Review the concept of slope and parallel lines before attempting the test.",
+       "Tip 2: Use graph paper to help visualize the lines and their relationships.",
+       "Tip 3: Check your work carefully and show all steps for the free-response questions."
+   ],
+   "footers": {
+       "title": "Chef's Tips"
+   }
+}

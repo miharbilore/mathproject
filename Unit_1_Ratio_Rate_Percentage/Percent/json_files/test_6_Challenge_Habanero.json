@@ -1,0 +1,129 @@
+{
+  "unit": "\u1F4D6 Unit 1: Ratio, Rate, Percentage",
+   "topic": "Percent",
+   "test_type": "Challenge (Habanero)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "A gamer scored $85$ points in a game, but then lost $15\\%$ of them. How many points did the gamer lose?",
+           "options": {
+               "A": "$12$",
+               "B": "$12.75$",
+               "C": "$13$",
+               "D": "$14.25$",
+               "E": "$15$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "A new smartphone model has a $25\\%$ increase in battery life compared to the previous model. If the previous model had a battery life of $12$ hours, what is the battery life of the new model?",
+           "options": {
+               "A": "$12$ hours",
+               "B": "$13.5$ hours",
+               "C": "$15$ hours",
+               "D": "$15.5$ hours",
+               "E": "$16$ hours"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "A gamer's high score is $10,000$ points. If the high score is reduced by $20\\%$, what is the new high score?",
+           "options": {
+               "A": "$7,000$",
+               "B": "$7,500$",
+               "C": "$8,000$",
+               "D": "$8,500$",
+               "E": "$9,000$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "The price of a gaming console increases by $8\\%$ due to tariffs. If the original price was $$400$, what is the new price?",
+           "options": {
+               "A": "$$408$",
+               "B": "$$416$",
+               "C": "$$420$",
+               "D": "$$424$",
+               "E": "$$432$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "A data plan has a $15\\%$ discount for students. If the original price is $$50$ per month, how much will a student pay?",
+           "options": {
+               "A": "$$40$",
+               "B": "$$41.25$",
+               "C": "$$42.50$",
+               "D": "$$45$",
+       "E": "$$47.50$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "A gamer's favorite game has a $30\\%$ off sale. If the original price was $$60$, how much will the gamer pay during the sale?",
+           "options": {
+               "A": "$$36$",
+               "B": "$$39$",
+               "C": "$$40$",
+               "D": "$$42$",
+       "E": "$$45$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "The number of players in an online game decreased by $18\\%$ last month. If there were originally $500$ players, how many players are left?",
+           "options": {
+               "A": "$392$",
+               "B": "$405$",
+       "C": "$410$",
+       "D": "$412$",
+       "E": "$418$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "The price of a gaming headset increased by $22\\%$. If the original price was $$80$, what is the new price?",
+           "options": {
+               "A": "$$90$",
+       "B": "$$95$",
+       "C": "$$98$",
+       "D": "$$98.40$",
+       "E": "$$100$"
+           },
+           "answer": "D"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "A tech company has $480$ employees. If the company plans to increase its staff by $12\\%$, how many new employees will be hired?",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "A gamer scored $75$ points in the first round and $90$ points in the second round. What is the percent increase in points from round 1 to round 2?",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Tip 1: Make sure to calculate percentages carefully",
+       "Tip 2: Read each question thoroughly before answering",
+       "Tip 3: Use the given information to solve problems"
+   ],
+   "footer": "Chef's Tips"
+}

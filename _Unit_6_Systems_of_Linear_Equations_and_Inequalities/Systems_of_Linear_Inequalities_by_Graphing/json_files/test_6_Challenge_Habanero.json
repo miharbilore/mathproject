@@ -1,0 +1,129 @@
+{
+  "unit": "\u1F4D6 Unit 6: Systems of Linear Equations and Inequalities",
+   "topic": "Systems of Linear Inequalities by Graphing",
+   "test_type": "Challenge (Habanero)",
+   "questions": [
+      {
+         "id": 1,
+         "type": "MQ",
+         "question": "What is the overlap region for $x + y geq 4$ and $2x - y leq 3$?",
+         "options": {
+            "A": "Triangle",
+            "B": "Quadrilateral",
+            "C": "Pentagon",
+            "D": "Parallelogram",
+            "E": "Hexagon"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 2,
+         "type": "MQ",
+         "question": "A gamer's score $s$ and time $t$ are related by $s geq 2t - 5$ and $s leq 3t + 2$. What is the feasible region?",
+         "options": {
+            "A": "Below the line $s = 2t - 5$",
+            "B": "Between $s = 2t - 5$ and $s = 3t + 2$",
+            "C": "Above the line $s = 3t + 2$",
+            "D": "Left of the line $t = 2$",
+            "E": "Right of the line $t = 5$"
+         },
+         "answer": "B"
+      },
+      {
+         "id": 3,
+         "type": "MQ",
+         "question": "For the system $x - 2y < 3$ and $x + 2y > 5$, which quadrant has no solution?",
+         "options": {
+            "A": "I",
+            "B": "II",
+            "C": "III",
+            "D": "IV",
+            "E": "All quadrants have solutions"
+         },
+         "answer": "D"
+      },
+      {
+         "id": 4,
+         "type": "MQ",
+         "question": "A coding tournament has two events: $x$ hours of individual coding and $y$ hours of team coding, with $x + y leq 8$ and $x geq 2$. What is the lower bound for $y$?",
+         "options": {
+            "A": "0 hours",
+            "B": "2 hours",
+            "C": "4 hours",
+            "D": "6 hours",
+            "E": "8 hours"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 5,
+         "type": "MQ",
+         "question": "In the game $Galactic Conquest$, the number of spaceships $s$ and the budget $b$ are related by $s leq 2b - 10$ and $s geq b - 5$. What is the least budget for 10 spaceships?",
+         "options": {
+            "A": "$10",
+            "B": "$12",
+            "C": "$15",
+            "D": "$20",
+            "E": "$25"
+         },
+         "answer": "C"
+      },
+      {
+         "id": 6,
+         "type": "MQ",
+         "question": "The region defined by $x + y geq 2$ and $x - 2y leq 1$ is a",
+         "options": {
+            "A": "Triangle",
+            "B": "Quadrilateral",
+            "C": "Parallelogram",
+            "D": "Rectangle",
+            "E": "Hexagon"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 7,
+         "type": "MQ",
+         "question": "A data analyst's time $t$ and data points $d$ are related by $t geq d - 3$ and $t leq 2d + 1$. What is the overlap region?",
+         "options": {
+            "A": "$d geq 2$ and $t geq d - 3$",
+            "B": "$d leq 2$ and $t leq 2d + 1$",
+            "C": "$t geq d - 3$ and $t leq 2d + 1$",
+            "D": "$d geq 1$ and $t geq 2$",
+            "E": "$d leq 3$ and $t leq 5$"
+         },
+         "answer": "C"
+      },
+      {
+         "id": 8,
+         "type": "MQ",
+         "question": "A gaming console's processing power $p$ and memory $m$ are related by $p leq 3m - 2$ and $p geq 2m + 1$. What is the constraint on $m$?",
+         "options": {
+            "A": "$m geq 1$",
+            "B": "$m leq 2$",
+            "C": "$m geq 3$",
+            "D": "$m leq 4$",
+            "E": "$m geq 5$"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 9,
+         "type": "FRQ",
+         "question": "Graph the system $x + 2y geq 4$ and $x - y leq 2$, and identify the feasible region. Show all work.",
+         "required_space_lines": 5
+      },
+      {
+         "id": 10,
+         "type": "FRQ",
+         "question": "A programmer's coding time $t$ and lines of code $l$ are related by $t geq 2l - 10$ and $t leq 3l + 5$. Find the feasible region and interpret the results in the context of coding. Show all work.",
+         "required_space_lines": 5
+      }
+   ],
+   "teacher_rules": [
+      "Tip 1: Ensure students understand the concept of overlapping regions",
+      "Tip 2: Emphasize the importance of interpreting results in context",
+      "Tip 3: Encourage students to show all work and justify their answers"
+   ],
+   "footer": "Chef's Tips"
+}

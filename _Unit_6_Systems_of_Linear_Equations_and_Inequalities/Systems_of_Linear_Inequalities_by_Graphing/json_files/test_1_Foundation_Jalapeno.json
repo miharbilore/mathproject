@@ -1,0 +1,23 @@
+{
+  "unit": "\u1F4D6 Unit 6: Systems of Linear Equations and Inequalities",
+   "topic": "Systems of Linear Inequalities by Graphing",
+   "test_type": "Foundation (Jalapeno)",
+   "questions": [
+     { "id": 1, "type": "MQ", "question": "What is the $x$-intercept of the inequality $2x + 3y < 12$?", "options": {"A": "-6", "B": "-4", "C": "-3", "D": "0", "E": "4"}, "answer": "B" },
+     { "id": 2, "type": "MQ", "question": "A company has a budget of $1200 for advertising. The cost of a TV ad is $x$ and the cost of a radio ad is $y$. The inequality $x + 2y < 1200$ represents the budget constraint. What is the maximum number of radio ads if $x = 300$?", "options": {"A": "450", "B": "480", "C": "450", "D": "400", "E": "350"}, "answer": "C" },
+     { "id": 3, "type": "MQ", "question": "Graph the system of inequalities $x > 2$ and $y < 3$. What is the intersection point of the two boundary lines?", "options": {"A": "(2, 3)", "B": "(2, -3)", "C": "(-2, 3)", "D": "(0, 0)", "E": "(2, 0)", "F": "(3,2)" }, "answer": "A" },
+     { "id": 4, "type": "MQ", "question": "Solve the system of inequalities $x + y > 4$ and $x - y < 2$. What is the solution region?", "options": {"A": "$x > 3$ and $y > 1$", "B": "$x < 3$ and $y < 1$", "C": "$x > 1$ and $y > 3$", "D": "$x > 0$ and $y > 0$", "E": "$x < 0$ and $y < 0$"}, "answer": "A" },
+     { "id": 5, "type": "MQ", "question": "A stock portfolio has two investments: $x$ shares of Stock A and $y$ shares of Stock B. The value of the portfolio is $5x + 3y$. If the total value is greater than $1500, what is the inequality that represents this situation?", "options": {"A": "$5x + 3y > 1500$", "B": "$5x - 3y > 1500$", "C": "$3x + 5y > 1500$", "D": "$3x - 5y > 1500$", "E": "$2x + 4y > 1500$"}, "answer": "A" },
+     { "id": 6, "type": "MQ", "question": "A company produces two products: Product A and Product B. The profit from Product A is $2x$ and the profit from Product B is $3y$. The total profit is greater than $1000. What is the inequality that represents this situation?", "options": {"A": "$2x + 3y > 1000$", "B": "$2x - 3y > 1000$", "C": "$3x + 2y > 1000$", "D": "$3x - 2y > 1000$", "E": "$x + y > 1000$"}, "answer": "A" },
+     { "id": 7, "type": "MQ", "question": "A savings account has an initial deposit of $500. The interest rate is $5\\%$ per year. The inequality $500(1 + 0.05t) > 1000$ represents the situation. What is the minimum number of years $t$ for the account balance to exceed $1000$?", "options": {"A": "10", "B": "15", "C": "20", "D": "10", "E": "5"}, "answer": "B" },
+     { "id": 8, "type": "MQ", "question": "A tax consultant has two clients: Client A and Client B. The tax due for Client A is $x$ and the tax due for Client B is $y$. The total tax due is less than $10000. What is the inequality that represents this situation?", "options": {"A": "$x + y < 10000$", "B": "$x - y < 10000$", "C": "$y - x < 10000$", "D": "$xy < 10000$", "E": "$x/y < 10000$"}, "answer": "A" },
+     { "id": 9, "type": "FRQ", "question": "Graph the system of inequalities $y > x - 2$ and $y < -x + 4$. Shade the solution region. What is the area of the solution region?", "required_space_lines": 5 },
+     { "id": 10, "type": "FRQ", "question": "A company produces two products: Product A and Product B. The profit from Product A is $3x$ and the profit from Product B is $2y$. The total profit is greater than $2000. Graph the system of inequalities $3x + 2y > 2000$ and $x + y < 100$. Shade the solution region. What is the maximum profit?", "required_space_lines": 5 }
+   ],
+   "teacher_rules": [
+     "Tip 1: Ensure students understand the concept of graphing inequalities on the same coordinate plane",
+     "Tip 2: Emphasize the importance of identifying overlapping solution regions",
+     "Tip 3: Remind students to interpret feasible regions in the context of the problem"
+   ],
+   "footer_title": "Chef's Tips"
+}

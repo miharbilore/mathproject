@@ -1,0 +1,129 @@
+{
+  "unit": "\uD83D\uDCD8 Unit 2: Exponents & Radicals",
+   "topic": "Radicals",
+   "test_type": "Challenge (Habanero)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "Simplify the expression $\\sqrt{64x^3}$.",
+           "options": {
+               "A": "$8x\\sqrt{x}$",
+               "B": "$4x\\sqrt{x}$",
+               "C": "$8x\\sqrt{3}$",
+               "D": "$4\\sqrt{x}$",
+               "E": "$8\\sqrt{x}$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "The data usage of a gaming console is measured as $\\sqrt{2t^2 + 5t}$, where t is the time in hours. Simplify the expression.",
+           "options": {
+               "A": "$\\sqrt{2t}(t + 2.5)$",
+               "B": "$\\sqrt{t}(2t + 5)$",
+               "C": "$t\\sqrt{2t + 5}$",
+               "D": "$\\sqrt{2t^2 + 5}$",
+               "E": "$\\sqrt{t}(2t + 2.5)$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "The score of a gamer in a competition is given by $\\sqrt[3]{s^2}$, where s is the number of points. Simplify the expression.",
+           "options": {
+               "A": "$s^{\\frac{2}{3}}$",
+               "B": "$s^{\\frac{1}{3}}$",
+               "C": "$s^2$",
+               "D": "$s^{\\frac{4}{3}}$",
+               "E": "$s^{\\frac{3}{2}}$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "The coding logic for a game involves the expression $\\sqrt{3p^2 - 2p + 1}$. Simplify the expression.",
+           "options": {
+               "A": "$\\sqrt{3p^2 - 2p + 1}$",
+               "B": "$p\\sqrt{3 - \\frac{2}{p} + \\frac{1}{p^2}}$",
+               "C": "$\\sqrt{3}p - 1$",
+               "D": "$p\\sqrt{3 - 2 + 1}$",
+               "E": "$\\sqrt{p^2}$"
+       },
+       "answer": "B"
+   },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "The data storage of a gaming laptop is measured as $\\sqrt[3]{d^2}$, where d is the storage capacity. Convert the expression to rational exponent form.",
+           "options": {
+               "A": "$d^{\\frac{1}{3}}$",
+               "B": "$d^{\\frac{2}{3}}$",
+               "C": "$d^{\\frac{3}{2}}$",
+               "D": "$d^{\\frac{2}{3}}$",
+               "E": "$d^{\\frac{4}{3}}$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "The logic of a game involves the expression $\\sqrt{x^2 + 2x + 1}$. Simplify the expression.",
+           "options": {
+               "A": "$x^2 + 2x + 1$",
+               "B": "$x + 1$",
+               "C": "$x^2 - 2x + 1$",
+               "D": "$x^2 + x$",
+               "E": "$x - 1$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "The score of a gamer in a tournament is given by $\\sqrt[3]{g^2 + 2g + 1}$, where g is the number of points. Convert the expression to rational exponent form.",
+           "options": {
+               "A": "$g^{\\frac{2}{3}} + 2g^{\\frac{1}{3}} + 1$",
+               "B": "$g^{\\frac{2}{3}} + g^{\\frac{1}{3}}$",
+               "C": "$g^{\\frac{1}{3}} + g^{\\frac{2}{3}}$",
+       "D": "$g^{\\frac{1}{3}}$",
+       "E": "$g^{\\frac{2}{3}}$"
+   },
+   "answer": "A"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "The coding logic of a game involves the expression $\\sqrt{x^2 - 4x + 4}$. Simplify the expression.",
+           "options": {
+               "A": "$x - 2$",
+               "B": "$x + 2$",
+               "C": "$x^2 - 4x + 4$",
+               "D": "$x^2 + 4x$",
+               "E": "$2x$"
+       },
+           "answer": "A"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "A gaming console has a data storage capacity of $d$ terabytes. If the data is stored in a $\\sqrt{d}$ terabyte folder, and the folder is further divided into $\\sqrt[3]{d}$ smaller folders, determine the expression for the total number of smaller folders.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "The scoreboard of a gaming tournament displays the top 5 scores. If the scores are $s_1$, $s_2$, $s_3$, $s_4$, and $s_5$, and the expression $\\sqrt{s_1^2 + s_2^2 + s_3^2 + s_4^2 + s_5^2}$ represents the total score, simplify the expression and determine the value of $s_1$ if the total score is 100.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Use concise language and provide step-by-step explanations",
+       "Check for simplification and rationalization of radicals",
+       "Emphasize the importance of accuracy and precision"
+   ],
+   "footer_title": "Chef's Tips"
+}

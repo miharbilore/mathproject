@@ -1,0 +1,129 @@
+{
+  "unit": "\uD83D\uDCD8 Unit 9: Data Statistical Analysis",
+   "topic": "Measures of Central Tendency",
+   "test_type": "Quiz (Habanero)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "The average temperature in a city over 5 days was $25\\degree C$. If the temperatures were $22\\degree C$, $24\\degree C$, $26\\degree C$, $28\\degree C$, and $x$, what is the value of $x$?",
+           "options": {
+               "A": "$20\\degree C$",
+               "B": "$22\\degree C$",
+               "C": "$24\\degree C$",
+               "D": "$26\\degree C$",
+               "E": "$30\\degree C$"
+           },
+           "answer": "E"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "A researcher recorded the amount of rainfall in a region over 7 days: $12mm$, $15mm$, $18mm$, $12mm$, $15mm$, $20mm$, $x$. The mode of the data set is $15mm$. What is the value of $x$?",
+           "options": {
+               "A": "$10mm$",
+               "B": "$12mm$",
+               "C": "$15mm$",
+               "D": "$18mm$",
+               "E": "$20mm$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "The median of the data set $2, 4, 6, 8, 10$ is)",
+           "options": {
+               "A": "$4$",
+               "B": "$5$",
+               "C": "$6$",
+               "D": "$7$",
+               "E": "$8$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "A city's temperature readings for a week were $10\\degree C$, $12\\degree C$, $15\\degree C$, $18\\degree C$, $20\\degree C$, $22\\degree C$, $25\\degree C$. What is the median temperature?",
+           "options": {
+               "A": "$15\\degree C$",
+               "B": "$16\\degree C$",
+               "C": "$17\\degree C$",
+               "D": "$18\\degree C$",
+               "E": "$20\\degree C$"
+           },
+           "answer": "D"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "The average daily rainfall in a region over 10 days was $20mm$. If it rained $15mm$ on the 1st day, $25mm$ on the 2nd day, $30mm$ on the 3rd day, $20mm$ on the 4th day, $15mm$ on the 5th day, $10mm$ on the 6th day, $25mm$ on the 7th day, $30mm$ on the 8th day, and $x$ on the 9th and 10th days, what is the total rainfall on the 9th and 10th days?",
+           "options": {
+       "A": "$10mm$",
+       "B": "$20mm$",
+       "C": "$30mm$",
+       "D": "$40mm$",
+       "E": "$50mm$"
+   },
+   "answer": "D"
+},
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "In a data set, the mean is $10$, the median is $12$, and the mode is $15$. Which of the following statements is true?",
+           "options": {
+               "A": "The data set is skewed to the left",
+               "B": "The data set is skewed to the right",
+               "C": "The data set is symmetric",
+               "D": "The mean is equal to the median",
+               "E": "The mode is equal to the mean"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "The amount of carbon dioxide emissions in a city over 5 years were $1000$, $1200$, $1500$, $1800$, $2000$. The median of the data set is",
+           "options": {
+               "A": "$1200$",
+               "B": "$1300$",
+               "C": "$1400$",
+               "D": "$1500$",
+               "E": "$1600$"
+           },
+           "answer": "D"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "A researcher recorded the pH levels of a lake over 6 days: $6.5$, $7.0$, $7.5$, $8.0$, $8.5$, $x$. The mean pH level is $7.5$. What is the value of $x$?",
+           "options": {
+               "A": "$6.0$",
+               "B": "$6.5$",
+               "C": "$7.0$",
+               "D": "$8.0$",
+               "E": "$9.0$"
+           },
+           "answer": "E"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "The average temperature in a city over the summer months was $28\\degree C$. If the temperature readings for each month were $25\\degree C$, $30\\degree C$, $x$, what is the value of $x$? Show your work and explain your reasoning.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "A data set has the following values: $2$, $4$, $6$, $8$, $10$, $12$, $x$. Find the median and mode of the data set if $x = 8$. Explain your reasoning and show your work.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Read the questions carefully before answering",
+       "Use a calculator if necessary",
+       "Show your work for free response questions"
+   ],
+   "footer_title": "Chef's Tips"
+}

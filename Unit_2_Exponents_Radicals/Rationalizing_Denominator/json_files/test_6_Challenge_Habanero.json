@@ -1,0 +1,131 @@
+{
+  "unit": "\u1F4D6 Unit 2: Exponents & Radicals",
+   "topic": "Rationalizing Denominator",
+   "test_type": "Challenge (Habanero)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "A gamer's score is $\\frac{1}{\\sqrt{2}}$ times their opponent's score. If the opponent's score is 16, what is the gamer's score after rationalizing the denominator?",
+           "options": {
+               "A": "$4\\sqrt{2}$",
+               "B": "$8\\sqrt{2}$",
+               "C": "$4$",
+               "D": "$8$",
+               "E": "$2\\sqrt{2}$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "A CPU uses $\\frac{1}{\\sqrt{3}}$ times the power of a GPU to process data. If the GPU uses 12 watts, what is the power used by the CPU after rationalizing the denominator?",
+           "options": {
+               "A": "$2\\sqrt{3}$ watts",
+               "B": "$4\\sqrt{3}$ watts",
+               "C": "$6\\sqrt{3}$ watts",
+               "D": "$2$ watts",
+               "E": "$4$ watts"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "A gamer's data usage is $\\frac{1}{\\sqrt{5}}$ times their average data usage. If the average data usage is 20 GB, what is the gamer's data usage after rationalizing the denominator?",
+           "options": {
+               "A": "$2\\sqrt{5}$ GB",
+               "B": "$4\\sqrt{5}$ GB",
+               "C": "$2$ GB",
+               "D": "$4$ GB",
+       "E": "$\\sqrt{5}$ GB"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "A coding logic uses $\\frac{1}{\\sqrt{6}}$ times the number of loops as a similar code. If the similar code has 18 loops, what is the number of loops in the coding logic after rationalizing the denominator?",
+           "options": {
+               "A": "$3\\sqrt{6}$",
+               "B": "$3\\sqrt{2}$",
+               "C": "$3$",
+       "D": "$\\sqrt{6}$",
+       "E": "$\\sqrt{2}$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "A scoreboard displays $\\frac{1}{\\sqrt{8}}$ times the score of a player. If the player's score is 24, what is the score displayed on the scoreboard after rationalizing the denominator?",
+           "options": {
+       "A": "$3\\sqrt{2}$",
+       "B": "$6\\sqrt{2}$",
+       "C": "$3$",
+       "D": "$6$",
+       "E": "$\\sqrt{2}$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "A tech company uses $\\frac{1}{\\sqrt{10}}$ times the number of employees as a similar company. If the similar company has 30 employees, what is the number of employees in the tech company after rationalizing the denominator?",
+           "options": {
+       "A": "$3\\sqrt{10}$",
+       "B": "$\\sqrt{10}$",
+       "C": "$3$",
+       "D": "$\\sqrt{10}$",
+       "E": "$3$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "A gamer's reaction time is $\\frac{1}{\\sqrt{12}}$ times their opponent's reaction time. If the opponent's reaction time is 10 seconds, what is the gamer's reaction time after rationalizing the denominator?",
+           "options": {
+       "A": "$\\frac{5}{\\sqrt{3}}$ seconds",
+       "B": "$\\frac{10}{\\sqrt{3}}$ seconds",
+       "C": "$\\frac{5}{\\sqrt{6}}$ seconds",
+       "D": "$\\frac{10}{\\sqrt{6}}$ seconds",
+       "E": "$\\frac{5}{\\sqrt{2}}$ seconds"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "A CPU processes $\\frac{1}{\\sqrt{15}}$ times the data of a GPU. If the GPU processes 25 bytes, what is the data processed by the CPU after rationalizing the denominator?",
+           "options": {
+       "A": "$\\frac{5}{\\sqrt{15}}$ bytes",
+       "B": "$\\frac{5}{\\sqrt{3}}$ bytes",
+       "C": "$\\frac{5}{\\sqrt{5}}$ bytes",
+       "D": "$5\\sqrt{3}$ bytes",
+       "E": "$5\\sqrt{15}$ bytes"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "A coding logic uses $\\frac{2}{\\sqrt{3}}$ times the number of loops as a similar code. If the similar code has $x$ loops, what is the number of loops in the coding logic after rationalizing the denominator? Show your work and simplify your answer.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "A tech company uses $\\frac{3}{\\sqrt{5}}$ times the number of employees as a similar company. If the similar company has $y$ employees, what is the number of employees in the tech company after rationalizing the denominator? Show your work and simplify your answer.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Ensure students rationalize denominators correctly.",
+       "Check for simplification of answers.",
+       "Watch for common mistakes with radicals."
+   ],
+   "footer": {
+       "title": "Chef's Tips"
+   }
+}

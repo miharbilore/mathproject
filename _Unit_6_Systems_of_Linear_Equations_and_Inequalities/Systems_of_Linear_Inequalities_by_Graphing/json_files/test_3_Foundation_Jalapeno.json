@@ -1,0 +1,129 @@
+{
+  "unit": "\u2693 Unit 6: Systems of Linear Equations and Inequalities",
+   "topic": "Systems of Linear Inequalities by Graphing",
+   "test_type": "Foundation (Jalapeno)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "What is the solution region for the inequality $x + 2y \\geq 4$?",
+           "options": {
+               "A": "The region below the line",
+               "B": "The region above the line",
+               "C": "The region to the left of the line",
+               "D": "The region to the right of the line",
+               "E": "The line itself"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "A soccer player scores $x$ goals in a game, and his teammate scores $y$ goals. If $x + y \\geq 3$, what is the minimum number of goals they must score together?",
+           "options": {
+               "A": "2",
+               "B": "3",
+               "C": "4",
+               "D": "5",
+               "E": "6"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "The inequality $2x - 3y \\leq 5$ can be rewritten as $y \\geq $",
+           "options": {
+               "A": "$\\frac{2}{3}x - \\frac{5}{3}$",
+               "B": "$\\frac{2}{3}x + \\frac{5}{3}$",
+               "C": "$\\frac{3}{2}x - \\frac{5}{2}$",
+               "D": "$\\frac{3}{2}x + \\frac{5}{2}$",
+               "E": "$\\frac{2}{5}x - \\frac{3}{5}$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "A basketball team has $x$ points from 2-pointers and $y$ points from 3-pointers. If $2x + 3y \\geq 20$, what is the minimum number of points they must score?",
+           "options": {
+               "A": "10",
+               "B": "12",
+               "C": "14",
+               "D": "16",
+               "E": "20"
+           },
+           "answer": "E"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "The system of inequalities $x + y \\geq 2$ and $x - y \\leq 1$ has a solution region that is",
+           "options": {
+               "A": "Unbounded",
+               "B": "Bounded",
+               "C": "Empty",
+               "D": "Infinite",
+               "E": "Undefined"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "A cyclist travels $x$ miles in a hour, and her competitor travels $y$ miles in an hour. If $x + y \\geq 25$, what is the minimum combined speed they must have?",
+           "options": {
+               "A": "20 mph",
+               "B": "22 mph",
+       "C": "25 mph",
+       "D": "28 mph",
+       "E": "30 mph"
+   },
+   "answer": "C"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "The inequality $x - 2y \\leq 4$ can be graphed on a coordinate plane as",
+           "options": {
+               "A": "A solid line with a slope of $\\frac{1}{2}$",
+               "B": "A dashed line with a slope of $\\frac{1}{2}$",
+               "C": "A solid line with a slope of $-\\frac{1}{2}$",
+               "D": "A dashed line with a slope of $-\\frac{1}{2}$",
+               "E": "A vertical line"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "A swimmer swims $x$ laps in a pool, and his teammate swims $y$ laps. If $x + y \\geq 8$, what is the minimum number of laps they must swim together?",
+           "options": {
+               "A": "6",
+               "B": "7",
+               "C": "8",
+               "D": "9",
+               "E": "10"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "Graph the system of inequalities $x + y \\geq 3$ and $x - y \\leq 2$ on a coordinate plane. Identify the solution region and provide the coordinates of the vertices.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "A football player runs $x$ yards in a game, and his opponent runs $y$ yards. If $x + y \\geq 15$ and $x - y \\leq 5$, find the minimum and maximum number of yards they can run together. Provide a brief explanation for your answer.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Tip 1: Ensure students understand the concept of graphing inequalities on a coordinate plane.",
+       "Tip 2: Emphasize the importance of identifying the solution region and its boundaries.",
+       "Tip 3: Encourage students to use real-world examples, such as sports statistics, to apply the concepts of systems of linear inequalities."
+   ],
+   "footer": "Chef's Tips"
+}

@@ -1,0 +1,129 @@
+{
+  "unit": "Unit 3: Functions",
+   "topic": "Function Transformations",
+   "test_type": "Foundation (Jalapeno)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "The function $f(x) = x^2$ is vertically shifted $2$ units down. What is the new function?",
+           "options": {
+               "A": "$f(x) = x^2 - 2$",
+               "B": "$f(x) = x^2 + 2$",
+               "C": "$f(x) = x^2 + 1$",
+               "D": "$f(x) = (x - 2)^2$",
+               "E": "$f(x) = (x + 2)^2$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "A company's stock price is modeled by $f(x)$, where $x$ is the number of days. If $f(x)$ is reflected over the $y$-axis, what does this represent?",
+           "options": {
+               "A": "The company's stock price increasing",
+               "B": "The company's stock price decreasing",
+               "C": "The company's stock price over time in reverse order",
+               "D": "The company's stock price over a different time period",
+               "E": "The company's stock price over the same time period with no change"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "The function $f(x) = x^2$ is horizontally shifted $3$ units to the left. What is the new function?",
+           "options": {
+               "A": "$f(x) = (x + 3)^2$",
+               "B": "$f(x) = (x - 3)^2$",
+               "C": "$f(x) = (x - 2)^2$",
+               "D": "$f(x) = x^2 + 2$",
+               "E": "$f(x) = x^2 - 2$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "A savings account earns interest according to the function $f(x) = 2x$, where $x$ is the amount of money deposited. If the interest rate is doubled, what is the new function?",
+           "options": {
+               "A": "$f(x) = x^2$",
+               "B": "$f(x) = 4x$",
+               "C": "$f(x) = x + 2$",
+               "D": "$f(x) = 2x + 1$",
+               "E": "$f(x) = x - 2$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "The function $f(x) = x^2$ is stretched vertically by a factor of $2$. What is the new function?",
+           "options": {
+               "A": "$f(x) = 2x^2$",
+               "B": "$f(x) = (2x)^2$",
+               "C": "$f(x) = x^2 + 2$",
+               "D": "$f(x) = x^2 - 2$",
+       "E": "$f(x) = x^2 / 2$"
+   },
+           "answer": "A"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "A tax rate is modeled by the function $f(x)$, where $x$ is the amount of income. If $f(x)$ is compressed horizontally by a factor of $2$, what does this represent?",
+           "options": {
+               "A": "The tax rate increasing",
+               "B": "The tax rate decreasing",
+               "C": "The tax rate applying to twice the amount of income",
+       "D": "The tax rate applying to half the amount of income",
+       "E": "The tax rate remaining the same"
+   },
+           "answer": "D"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "The function $f(x) = x^2$ is reflected over the $x$-axis. What is the new function?",
+           "options": {
+               "A": "$f(x) = -x^2$",
+               "B": "$f(x) = x^2$",
+               "C": "$f(x) = -x$",
+       "D": "$f(x) = x$",
+       "E": "$f(x) = x^3$"
+   },
+           "answer": "A"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "A company's profit is modeled by the function $f(x)$, where $x$ is the number of units sold. If $f(x)$ is shifted $2$ units up, what does this represent?",
+           "options": {
+               "A": "The company's profit increasing by $2$ for each unit sold",
+               "B": "The company's profit decreasing by $2$ for each unit sold",
+       "C": "The company's profit remaining the same",
+       "D": "The company's profit increasing by $2$ regardless of the number of units sold",
+       "E": "The company's profit decreasing by $2$ regardless of the number of units sold"
+   },
+           "answer": "D"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "Describe how the function $f(x) = x^2$ would change if it were stretched vertically by a factor of $3$ and then shifted $1$ unit to the right. Show the new function and provide a brief explanation.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "Suppose a stock's price is modeled by the function $f(x) = 2x$. If the function is reflected over the $y$-axis and then compressed horizontally by a factor of $2$, describe the new function and its implications for the stock's price. Show the new function and provide a brief explanation.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Emphasize the importance of understanding function transformations and their real-world applications.",
+       "Use visual aids to help students visualize the transformations.",
+       "Encourage students to check their work by graphing the original and transformed functions."
+   ],
+   "footer": "Chef's Tips"
+}

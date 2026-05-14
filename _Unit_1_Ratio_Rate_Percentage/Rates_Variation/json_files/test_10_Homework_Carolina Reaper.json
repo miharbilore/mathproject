@@ -1,0 +1,129 @@
+{
+  "unit": "\uD83D\uDCD8 Unit 1: Ratio, Rate, Percentage",
+   "topic": "Rates & Variation",
+   "test_type": "Homework (Carolina Reaper)",
+   "questions": [
+     { 
+       "id": 1, 
+       "type": "MQ", 
+       "question": "A rhythm pattern has $3$ repeats in $12$ beats. What is the rate of repeats per beat?", 
+       "options": { 
+         "A": "$\\frac{1}{4}$", 
+         "B": "$\\frac{1}{3}$", 
+         "C": "$\\frac{1}{2}$", 
+         "D": "$\\frac{1}{6}$", 
+         "E": "$\\frac{1}{12}$" 
+       }, 
+       "answer": "A" 
+     },
+     { 
+       "id": 2, 
+       "type": "MQ", 
+       "question": "If a painter can finish a $16$ ft by $20$ ft canvas in $8$ hours, how many hours to finish a $12$ ft by $15$ ft canvas at the same rate?", 
+       "options": { 
+         "A": "$3$ hours", 
+         "B": "$4.5$ hours", 
+         "C": "$6$ hours", 
+         "D": "$7.2$ hours", 
+         "E": "$9$ hours" 
+       }, 
+       "answer": "B" 
+     },
+     { 
+       "id": 3, 
+       "type": "MQ", 
+       "question": "The frequency of a sound wave is $250$ Hz. How many cycles per second is this sound wave?", 
+       "options": { 
+         "A": "$100$ cycles", 
+         "B": "$125$ cycles", 
+         "C": "$200$ cycles", 
+         "D": "$250$ cycles", 
+         "E": "$500$ cycles" 
+       }, 
+       "answer": "D" 
+     },
+     { 
+       "id": 4, 
+       "type": "MQ", 
+       "question": "A music school has $18$ teachers. If the student-to-teacher ratio is $12:1$, how many students are there in total?", 
+       "options": { 
+         "A": "$108$ students", 
+         "B": "$144$ students", 
+         "C": "$180$ students", 
+         "D": "$216$ students", 
+         "E": "$288$ students" 
+       }, 
+       "answer": "C" 
+     },
+     { 
+       "id": 5, 
+       "type": "MQ", 
+       "question": "The length of a song is $4$ minutes and $15$ seconds. If this song is played $3$ times in a row, what is the total time in seconds?", 
+       "options": { 
+         "A": "$765$ seconds", 
+         "B": "$780$ seconds", 
+         "C": "$795$ seconds", 
+         "D": "$810$ seconds", 
+         "E": "$825$ seconds" 
+       }, 
+       "answer": "C" 
+     },
+     { 
+       "id": 6, 
+       "type": "MQ", 
+       "question": "An art piece has a width that is $2$ times its height. If the width is $12$ ft, what is the area of the art piece in square feet?", 
+       "options": { 
+         "A": "$24$ sq ft", 
+         "B": "$36$ sq ft", 
+         "C": "$48$ sq ft", 
+         "D": "$72$ sq ft", 
+         "E": "$96$ sq ft" 
+       }, 
+       "answer": "B" 
+     },
+     { 
+       "id": 7, 
+       "type": "MQ", 
+       "question": "If $x$ is inversely proportional to $y$, and $y = 4$ when $x = 3$, what is the value of $y$ when $x = 2$?", 
+       "options": { 
+         "A": "$4$", 
+         "B": "$5$", 
+         "C": "$6$", 
+         "D": "$8$", 
+         "E": "$12$" 
+       }, 
+       "answer": "C" 
+     },
+     { 
+       "id": 8, 
+       "type": "MQ", 
+       "question": "A painter works at a rate of $2$ walls per $5$ hours. How many hours will it take to paint $12$ walls at this rate?", 
+       "options": { 
+         "A": "$15$ hours", 
+         "B": "$20$ hours", 
+         "C": "$25$ hours", 
+         "D": "$30$ hours", 
+         "E": "$35$ hours" 
+       }, 
+       "answer": "C" 
+     },
+     { 
+       "id": 9, 
+       "type": "FRQ", 
+       "question": "A sound wave has a frequency of $x$ Hz. If the time period is $2$ seconds, find the value of $x$ and explain the relationship between frequency and time period.", 
+       "required_space_lines": 5
+     },
+     { 
+       "id": 10, 
+       "type": "FRQ", 
+       "question": "The cost of recording a song is $$200$ plus $$50$ per hour of studio time. If $x$ is the number of hours of studio time, write an equation to represent the total cost and graph the equation with $x$ on the horizontal axis and cost on the vertical axis.", 
+       "required_space_lines": 5
+     }
+   ],
+   "teacher_rules": [
+     "Please ensure students have the necessary calculators and tools for the test.",
+     "Remind students that they must show all work for free response questions.",
+     "Emphasize that all answers should be clearly labeled and easy to read."
+   ],
+   "footer": "Chef's Tips"
+}

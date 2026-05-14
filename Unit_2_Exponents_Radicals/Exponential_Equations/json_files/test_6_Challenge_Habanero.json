@@ -1,0 +1,129 @@
+{
+  "unit": "\uD83D\uDCD6 Unit 2: Exponents & Radicals",
+   "topic": "Exponential Equations",
+   "test_type": "Challenge (Habanero)",
+   "questions": [
+     { 
+       "id": 1, 
+       "type": "MQ", 
+       "question": "Solve for $x$: $2^x = 32$",
+       "options": { 
+         "A": "$x = 3$", 
+         "B": "$x = 4$", 
+         "C": "$x = 5$", 
+         "D": "$x = 6$", 
+         "E": "$x = 7$"
+       }, 
+       "answer": "C" 
+     },
+     { 
+       "id": 2, 
+       "type": "MQ", 
+       "question": "A gamer's score doubles every level. If the score is $2^5$ at level 5, what is the score at level 7?",
+       "options": { 
+         "A": "$2^5$", 
+         "B": "$2^6$", 
+         "C": "$2^7$", 
+         "D": "$2^8$", 
+         "E": "$2^9$"
+       }, 
+       "answer": "D" 
+     },
+     { 
+       "id": 3, 
+       "type": "MQ", 
+       "question": "If $3^x = 81$, then $x =$",
+       "options": { 
+         "A": "$3$", 
+         "B": "$4$", 
+         "C": "$5$", 
+         "D": "$6$", 
+         "E": "$7$"
+       }, 
+       "answer": "B" 
+     },
+     { 
+       "id": 4, 
+       "type": "MQ", 
+       "question": "Solve for $y$: $4^y = 256$",
+       "options": { 
+         "A": "$y = 2$", 
+         "B": "$y = 3$", 
+         "C": "$y = 4$", 
+         "D": "$y = 5$", 
+         "E": "$y = 6$"
+       }, 
+       "answer": "C" 
+     },
+     { 
+       "id": 5, 
+       "type": "MQ", 
+       "question": "A coding error causes a program to use $2^x$ times more data. If $x = 3$, how many times more data is used?",
+       "options": { 
+         "A": "$2$ times", 
+         "B": "$4$ times", 
+         "C": "$6$ times", 
+         "D": "$8$ times", 
+         "E": "$10$ times"
+       }, 
+       "answer": "D" 
+     },
+     { 
+       "id": 6, 
+       "type": "MQ", 
+       "question": "If $5^x = 125$, then $x =$",
+       "options": { 
+         "A": "$2$", 
+         "B": "$3$", 
+         "C": "$4$", 
+         "D": "$5$", 
+         "E": "$6$"
+       }, 
+       "answer": "B" 
+     },
+     { 
+       "id": 7, 
+       "type": "MQ", 
+       "question": "Solve for $z$: $2^z = 16$",
+       "options": { 
+         "A": "$z = 2$", 
+         "B": "$z = 3$", 
+         "C": "$z = 4$", 
+         "D": "$z = 5$", 
+         "E": "$z = 6$"
+       }, 
+       "answer": "C" 
+     },
+     { 
+       "id": 8, 
+       "type": "MQ", 
+       "question": "A scoreboard's points are calculated by $3^x$. If $x = 2$, how many points are scored?",
+       "options": { 
+         "A": "$6$ points", 
+         "B": "$8$ points", 
+         "C": "$9$ points", 
+         "D": "$12$ points", 
+         "E": "$15$ points"
+       }, 
+       "answer": "C" 
+     },
+     { 
+       "id": 9, 
+       "type": "FRQ", 
+       "question": "Solve for $x$: $x^2 + 2^x = 10$",
+       "required_space_lines": 5
+     },
+     { 
+       "id": 10, 
+       "type": "FRQ", 
+       "question": "A gamer's score increases by $2^x$ each level. If the score at level 3 is 12, find the score at level 5.",
+       "required_space_lines": 5
+     }
+   ],
+   "teacher_rules": [
+     "Provide feedback on calculations, not just answers",
+     "Encourage logical reasoning and explanations",
+     "Use the scoreboard theme to create real-world connections"
+   ],
+   "footer_title": "Chef's Tips"
+}

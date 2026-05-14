@@ -1,0 +1,131 @@
+{
+  "unit": "📘 Unit 4: Absolute Value",
+  "topic": "Definition of Absolute Value",
+  "test_type": "Foundation (Jalapeno)",
+  "questions": [
+    {
+      "id": 1,
+      "type": "MQ",
+      "question": "A swimmer is training $15$ meters below the surface ($-15$). What is the absolute value of the swimmer's depth?",
+      "options": {
+        "A": "$-15$",
+        "B": "$0$",
+        "C": "$15$",
+        "D": "$-30$",
+        "E": "$30$"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 2,
+      "type": "MQ",
+      "question": "In a golf tournament, a score of $5$ under par is written as $-5$. Which expression represents the distance of this score from par ($0$)?",
+      "options": {
+        "A": "$|-5|$",
+        "B": "$-|5|$",
+        "C": "$-(-5)$",
+        "D": "$|5 - 5|$",
+        "E": "$|0 - (-5)|$"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 3,
+      "type": "MQ",
+      "question": "Calculate the total magnitude of yardage change for a football team that had a play of $-12$ yards followed by a play of $+12$ yards: $|-12| + |12|$.",
+      "options": {
+        "A": "$0$",
+        "B": "$12$",
+        "C": "$-24$",
+        "D": "$24$",
+        "E": "$144$"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 4,
+      "type": "MQ",
+      "question": "Which of the following athletes has the greatest absolute deviation from their target weight if their differences are: Athlete A ($-4$ lbs), Athlete B ($+3$ lbs), Athlete C ($-2$ lbs), Athlete D ($+1$ lb)?",
+      "options": {
+        "A": "Athlete D",
+        "B": "Athlete C",
+        "C": "Athlete B",
+        "D": "Athlete A",
+        "E": "All are equal"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 5,
+      "type": "MQ",
+      "question": "Evaluate the expression: $- | -25 |$ representing a mountain climber's descent.",
+      "options": {
+        "A": "$25$",
+        "B": "$-25$",
+        "C": "$0$",
+        "D": "$50$",
+        "E": "$-50$"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 6,
+      "type": "MQ",
+      "question": "A coach uses a number line to track sprints. If a player is at position $x$ and $|x| = 9$, which two positions could the player be at?",
+      "options": {
+        "A": "$0$ and $9$",
+        "B": "$-9$ and $0$",
+        "C": "$9$ and $-9$",
+        "D": "$4.5$ and $-4.5$",
+        "E": "$18$ and $-18$"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 7,
+      "type": "MQ",
+      "question": "Simplify the fitness score expression: $| -8 + 3 |$.",
+      "options": {
+        "A": "$11$",
+        "B": "$-11$",
+        "C": "$-5$",
+        "D": "$5$",
+        "E": "$0$"
+      },
+      "answer": "D"
+    },
+    {
+      "id": 8,
+      "type": "MQ",
+      "question": "Compare the intensity levels of two workouts: Workout X ($|-20|$) and Workout Y ($|18|$). Which statement is true?",
+      "options": {
+        "A": "$|-20| < |18|$",
+        "B": "$|-20| = |18|$",
+        "C": "$|-20| > |18|$",
+        "D": "$-20 > 18$",
+        "E": "$|18| = -20$"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 9,
+      "type": "FRQ",
+      "question": "A referee stands at the $0$-yard line. A player runs to the $-22$ yard line. Write an absolute value expression to represent the distance the referee must walk to reach the player and solve it.",
+      "required_space_lines": 5
+    },
+    {
+      "id": 10,
+      "type": "FRQ",
+      "question": "During a fitness test, a heart rate monitor shows a deviation of $d$ from the resting rate. If $|d| = 14$, what are the two possible actual deviations? Explain what the absolute value represents in this context.",
+      "required_space_lines": 5
+    }
+  ],
+  "teacher_rules": [
+    "Remind students that absolute value always results in a non-negative distance.",
+    "Use the 'distance from zero' visualization on a physical number line in the gym.",
+    "Ensure students distinguish between $-|x|$ and $|-x|$."
+  ],
+  "footer": {
+    "title": "Chef's Tips"
+  }
+}

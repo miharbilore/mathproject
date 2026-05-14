@@ -1,0 +1,129 @@
+{
+  "unit": "\u1f4d6 Unit 1: Ratio, Rate, Percentage",
+   "topic": "Rates & Variation",
+   "test_type": "Challenge (Habanero)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "A recipe for baking bread requires $2 \\cdot 3.75$ cups of flour to make $15$ loaves. What is the unit rate of flour per loaf of bread?",
+           "options": {
+               "A": "$0.5$ cups",
+               "B": "$0.75$ cups",
+               "C": "$1$ cup",
+               "D": "$1.25$ cups",
+               "E": "$1.5$ cups"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "If a water tank is being filled at a rate of $4.2 \\cdot 10^2$ liters per minute, how many liters will it hold after $15$ minutes?",
+           "options": {
+               "A": "$6.3 \\cdot 10^3$ liters",
+               "B": "$6.5 \\cdot 10^3$ liters",
+               "C": "$7.2 \\cdot 10^3$ liters",
+               "D": "$8.1 \\cdot 10^3$ liters",
+               "E": "$9.0 \\cdot 10^3$ liters"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "The cost of a construction project varies directly with the number of workers. If a project that requires $18$ workers costs $$ 36000$, what is the cost per worker?",
+           "options": {
+               "A": "$1500$",
+               "B": "$2000$",
+               "C": "$2500$",
+               "D": "$3000$",
+               "E": "$3500$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "A cake recipe calls for $2 \\frac{1}{4}$ cups of sugar for every $2$ cakes. What is the unit rate of sugar per cake?",
+           "options": {
+       "A": "$1 \\frac{1}{8}$ cups",
+       "B": "$1 \\frac{1}{4}$ cups",
+       "C": "$1.125$ cups",
+       "D": "$1.25$ cups",
+       "E": "$1.5$ cups"
+   },
+           "answer": "C"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "The volume of a rectangular prism varies directly with its length. If a prism with a length of $8$ feet has a volume of $48$ cubic feet, what is the volume of a prism with a length of $12$ feet?",
+           "options": {
+               "A": "$48$ cubic feet",
+               "B": "$72$ cubic feet",
+               "C": "$90$ cubic feet",
+               "D": "$108$ cubic feet",
+               "E": "$120$ cubic feet"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "The speed of a car is $45 \\cdot 10^3$ meters per $4$ hours. What is the unit rate of distance per hour?",
+           "options": {
+               "A": "$5.625 \\cdot 10^3$ meters",
+               "B": "$6.25 \\cdot 10^3$ meters",
+       "C": "$7.5 \\cdot 10^3$ meters",
+       "D": "$8.75 \\cdot 10^3$ meters",
+       "E": "$11.25 \\cdot 10^3$ meters"
+   },
+           "answer": "D"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "A bakery sells $480$ loaves of bread per day. If each loaf requires $0.75$ cups of flour, how many cups of flour are used in a day?",
+           "options": {
+               "A": "$240$ cups",
+               "B": "$288$ cups",
+               "C": "$320$ cups",
+               "D": "$360$ cups",
+               "E": "$4320$ cups"
+           },
+           "answer": "D"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "A pipe can fill a tank at a rate of $12$ cubic feet per minute. If the tank has a capacity of $2.4 \\cdot 10^3$ cubic feet, how many minutes will it take to fill the tank?",
+           "options": {
+               "A": "$150$ minutes",
+               "B": "$180$ minutes",
+               "C": "$200$ minutes",
+               "D": "$220$ minutes",
+               "E": "$240$ minutes"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "A construction project requires $15$ workers to complete $3$ units of work in $8$ hours. If the number of workers is increased to $20$, how many hours will it take to complete $5$ units of work? Show all work and explain your reasoning.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "A chef is making a sauce that requires a ratio of $2:3$ of two ingredients. If the chef has $12$ cups of one ingredient, how many cups of the other ingredient are needed? If the amount of one ingredient is increased to $18$ cups, how will the amount of the other ingredient change? Use mathematical models to support your answer.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Read each question carefully before answering.",
+       "Use a pencil to fill in the answer circles.",
+       "Check your work before submitting your test."
+   ],
+   "footer_title": "Chef's Tips"
+}

@@ -1,0 +1,129 @@
+{
+  "unit": "\u1F4D6 Unit 6: Systems of Linear Equations and Inequalities",
+   "topic": "Solving Systems by Graphing",
+   "test_type": "Challenge (Habanero)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "The system of linear equations $x + 2y = 4$ and $3x - 2y = 5$ is graphed. What is the $x$-coordinate of the intersection point?",
+           "options": {
+               "A": "-1",
+               "B": "2",
+               "C": "3",
+               "D": "1",
+               "E": "0"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "A construction company uses $2x + 3y = 12$ to represent the cost of materials and $x - 2y = -3$ to represent the cost of labor. What is the $y$-coordinate of the point where these lines intersect?",
+           "options": {
+               "A": "3",
+               "B": "2",
+               "C": "1",
+               "D": "-1",
+               "E": "-2"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "A recipe calls for $x$ cups of flour and $y$ cups of sugar. The system of equations $2x + y = 5$ and $x - 2y = -3$ represents the ingredients needed. How many cups of flour are required?",
+           "options": {
+               "A": "4",
+               "B": "3",
+               "C": "2",
+       "D": "1",
+       "E": "0"
+   },
+   "answer": "B"
+},
+{
+   "id": 4,
+   "type": "MQ",
+   "question": "In a blueprint, the system $x + y = 6$ and $2x - 2y = 4$ is used to find the dimensions of a room. What is the sum of $x$ and $y$ at the point of intersection?",
+   "options": {
+       "A": "6",
+       "B": "4",
+       "C": "8",
+       "D": "10",
+       "E": "12"
+   },
+   "answer": "A"
+},
+{
+   "id": 5,
+   "type": "MQ",
+   "question": "A carpenter uses the system $y = 2x - 1$ and $y = -x + 5$ to determine the length of a beam. What is the $x$-coordinate of the intersection point?",
+   "options": {
+       "A": "3",
+       "B": "2",
+       "C": "1",
+       "D": "0",
+       "E": "-1"
+   },
+   "answer": "B"
+},
+{
+   "id": 6,
+   "type": "MQ",
+   "question": "A chef uses $y = \frac{1}{2}x + 2$ and $y = -2x - 1$ to plan a new menu. What is the $y$-coordinate of the point where these lines intersect?",
+   "options": {
+       "A": "1",
+       "B": "0",
+       "C": "-1",
+       "D": "-2",
+       "E": "-3"
+   },
+   "answer": "B"
+},
+{
+   "id": 7,
+   "type": "MQ",
+   "question": "An architect uses $x - 3y = -2$ and $2x + 3y = 7$ to design a new building. What is the $y$-coordinate of the intersection point?",
+   "options": {
+       "A": "3",
+       "B": "2",
+       "C": "1",
+       "D": "0",
+       "E": "-1"
+   },
+   "answer": "C"
+},
+{
+   "id": 8,
+   "type": "MQ",
+   "question": "A contractor uses $y = x + 1$ and $y = -x + 3$ to plan a construction project. What is the $x$-coordinate of the point where these lines intersect?",
+   "options": {
+       "A": "1",
+       "B": "0",
+       "C": "-1",
+       "D": "-2",
+       "E": "-3"
+   },
+   "answer": "B"
+},
+{
+   "id": 9,
+   "type": "FRQ",
+   "question": "Solve the system $x + 2y = 7$ and $3x - 2y = 1$ by graphing. Find the intersection point and interpret the solution in the context of a recipe.",
+   "required_space_lines": 5
+},
+{
+   "id": 10,
+   "type": "FRQ",
+   "question": "The system $2x + y = 9$ and $x - 2y = -4$ represents the cost of materials and labor for a construction project. Graph the system and find the point of intersection. Interpret the solution in the context of the project.",
+   "required_space_lines": 5
+}
+   ],
+   "teacher_rules": [
+       "Emphasize the importance of accurate graphing",
+       "Encourage students to check their solutions",
+       "Remind students to interpret their answers in context"
+   ],
+   "footer": "Chef's Tips"
+}

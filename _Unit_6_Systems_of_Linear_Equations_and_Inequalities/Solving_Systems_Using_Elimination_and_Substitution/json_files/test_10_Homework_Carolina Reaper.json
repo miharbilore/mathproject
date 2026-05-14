@@ -1,0 +1,129 @@
+{
+  "unit": "\u1F4D6 Unit 6: Systems of Linear Equations and Inequalities",
+   "topic": "Solving Systems Using Elimination and Substitution",
+   "test_type": "Homework (Carolina Reaper)",
+   "questions": [
+     { 
+       "id": 1, 
+       "type": "MQ", 
+       "question": "Solve the system: $x + 2y = 7$, $3x - 2y = 5$. What is $x$?", 
+       "options": { 
+         "A": "1", 
+         "B": "2", 
+         "C": "3", 
+         "D": "4", 
+         "E": "5" 
+       }, 
+       "answer": "C" 
+     },
+     { 
+       "id": 2, 
+       "type": "MQ", 
+       "question": "A music festival has two stages. Stage 1 has $x$ attendees and Stage 2 has $y$ attendees, where $x + y = 1000$ and $2x - y = 600$. What is $y$?", 
+       "options": { 
+         "A": "200", 
+         "B": "250", 
+         "C": "300", 
+         "D": "400", 
+         "E": "500" 
+       }, 
+       "answer": "B" 
+     },
+     { 
+       "id": 3, 
+       "type": "MQ", 
+       "question": "Solve the system using elimination: $2x + 3y = 12$, $x - 2y = -3$. What is $y$?", 
+       "options": { 
+         "A": "1", 
+         "B": "2", 
+         "C": "3", 
+         "D": "4", 
+         "E": "5" 
+       }, 
+       "answer": "C" 
+     },
+     { 
+       "id": 4, 
+       "type": "MQ", 
+       "question": "A painter has $x$ hours to paint a mural and $y$ hours to paint a canvas, where $x + 2y = 10$ and $x - y = 2$. What is $x$?", 
+       "options": { 
+         "A": "2", 
+         "B": "4", 
+         "C": "6", 
+         "D": "8", 
+         "E": "10" 
+       }, 
+       "answer": "B" 
+     },
+     { 
+       "id": 5, 
+       "type": "MQ", 
+       "question": "The rhythm pattern of a song has $x$ beats in the first measure and $y$ beats in the second measure, where $x + y = 16$ and $2x - 3y = -4$. What is $y$?", 
+       "options": { 
+         "A": "4", 
+         "B": "6", 
+         "C": "8", 
+         "D": "10", 
+         "E": "12" 
+       }, 
+       "answer": "C" 
+     },
+     { 
+       "id": 6, 
+       "type": "MQ", 
+       "question": "Solve the system: $x - 2y = 3$, $3x + 2y = 15$. What is $x$?", 
+       "options": { 
+         "A": "3", 
+         "B": "5", 
+         "C": "6", 
+         "D": "9", 
+         "E": "12" 
+       }, 
+       "answer": "B" 
+     },
+     { 
+       "id": 7, 
+       "type": "MQ", 
+       "question": "Determine the number of solutions to the system: $x + y = 5$, $2x + 2y = 8$. What is the number of solutions?", 
+       "options": { 
+         "A": "0", 
+         "B": "1", 
+         "C": "Infinitely many", 
+         "D": "No solution", 
+         "E": "Two solutions" 
+       }, 
+       "answer": "C" 
+     },
+     { 
+       "id": 8, 
+       "type": "MQ", 
+       "question": "Solve the system using substitution: $x - 3y = 2$, $2x + 2y = 12$. What is $y$?", 
+       "options": { 
+         "A": "1", 
+         "B": "2", 
+         "C": "3", 
+         "D": "4", 
+         "E": "5" 
+       }, 
+       "answer": "B" 
+     },
+     { 
+       "id": 9, 
+       "type": "FRQ", 
+       "question": "A frequency analyzer has two frequencies, $x$ and $y$, where $x + 2y = 20$ and $3x - y = 15$. Solve for $x$ and $y$ and determine the number of solutions to the system.", 
+       "required_space_lines": 5 
+     },
+     { 
+       "id": 10, 
+       "type": "FRQ", 
+       "question": "A canvas has a width of $x$ inches and a height of $y$ inches, where $2x + 3y = 50$ and $x - 2y = -10$. Solve for $x$ and $y$ using elimination and determine the area of the canvas.", 
+       "required_space_lines": 5 
+     }
+   ],
+   "teacher_rules": [
+     "Tip 1: Check for infinitely many solutions or no solution.",
+     "Tip 2: Use substitution or elimination to solve the system.",
+     "Tip 3: Verify the solution by plugging it back into the original equations."
+   ],
+   "footer": "Chef's Tips"
+}

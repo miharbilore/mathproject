@@ -1,0 +1,129 @@
+{
+  "unit": "Unit 3: Functions",
+   "topic": "Definition of Relation and Function, Domain, Range, and Notations",
+   "test_type": "Homework (Habanero)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "A doctor prescribes $2$ pills per $10$ pounds of body weight. If $f(x)$ represents the number of pills prescribed for a patient weighing $x$ pounds, what is the value of $f(30)$?",
+           "options": {
+               "A": "$3$",
+               "B": "$4$",
+               "C": "$6$",
+               "D": "$8$",
+               "E": "$12$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "Which relation is a function?",
+           "options": {
+               "A": "A relation with two outputs for one input",
+               "B": "A relation where each input has a unique output",
+               "C": "A relation where each output has a unique input",
+               "D": "A relation with no inputs",
+               "E": "A relation with no outputs"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "What is the domain of the function $f(x) = \\frac{1}{x}$?",
+           "options": {
+               "A": "All real numbers",
+               "B": "All integers",
+               "C": "All rational numbers except $0$",
+               "D": "All real numbers except $0$",
+               "E": "All complex numbers"
+           },
+           "answer": "D"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "A researcher studies the growth of bacteria in a controlled environment. The population $P$ after $t$ hours is modeled by $P(t) = 200 \\cdot 2^{0.5t}$. What is $P(4)$?",
+           "options": {
+               "A": "$800$",
+               "B": "$1000$",
+               "C": "$1200$",
+               "D": "$1600$",
+               "E": "$2000$"
+           },
+           "answer": "D"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "The vertical line test is used to determine if a relation is a",
+           "options": {
+               "A": "Function or not",
+               "B": "Domain or range",
+               "C": "Graph or table",
+               "D": "Mapping or relation",
+               "E": "Statistic or probability"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "If $g(x) = x^2 - 2x + 1$, what is $g(3)$?",
+           "options": {
+               "A": "$1$",
+               "B": "$2$",
+               "C": "$3$",
+               "D": "$4$",
+       "E": "$6$"
+   },
+   "answer": "C"
+},
+{
+   "id": 7,
+   "type": "MQ",
+   "question": "The range of the function $f(x) = |x|$ is",
+   "options": {
+       "A": "All real numbers",
+       "B": "All non-negative real numbers",
+       "C": "All integers",
+       "D": "All rational numbers",
+       "E": "All complex numbers"
+   },
+   "answer": "B"
+},
+{
+   "id": 8,
+   "type": "MQ",
+   "question": "A patient's temperature $T$ is modeled by $T(t) = 98.6 + 2 \\sin(\\frac{\\pi t}{12})$, where $t$ is the time in hours. What is $T(6)$?",
+   "options": {
+       "A": "$98.6$",
+       "B": "$100.6$",
+       "C": "$100$",
+       "D": "$98$",
+       "E": "$96$"
+   },
+   "answer": "B"
+},
+{
+   "id": 9,
+   "type": "FRQ",
+   "question": "A hospital uses the function $C(x) = 2x + 5$ to calculate the cost of $x$ doses of a medication. Find the domain and range of this function and explain the practical meaning of these values in the context of the hospital's medication costs.",
+   "required_space_lines": 5
+},
+{
+   "id": 10,
+   "type": "FRQ",
+   "question": "A medical researcher collects data on the effect of a new medication on blood pressure. The data is modeled by the function $f(x) = 120 - 10 \\cdot 2^{-x}$, where $x$ is the number of hours after the medication is taken. Evaluate $f(2)$ and explain the practical meaning of this value in the context of the research.",
+   "required_space_lines": 5
+}
+],
+"teacher_rules": [
+   "Tip 1: Ensure students can identify the domain and range from various representations",
+   "Tip 2: Emphasize the importance of the vertical line test in determining functions",
+   "Tip 3: Provide real-world applications to help students understand the practical significance of functions in healthcare and biology"
+],
+"footer_title": "Chef's Tips"
+}

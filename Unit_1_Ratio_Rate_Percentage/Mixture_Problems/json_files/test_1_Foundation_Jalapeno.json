@@ -1,0 +1,128 @@
+{
+  "unit": "\u2756 Unit 1: Ratio, Rate, Percentage",
+   "topic": "Mixture Problems",
+   "test_type": "Foundation (Jalapeno)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "A company has $1000 to invest in stocks. They decide to invest $\\frac{3}{5}$ of it in Tech Stocks and the rest in Retail Stocks. How much will they invest in Retail Stocks?",
+           "options": {
+               "A": "$400",
+               "B": "$600",
+               "C": "$200",
+               "D": "$800",
+               "E": "$100"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "If a $10 stock has a $\\frac{1}{10}$ chance of increasing in value, what is the expected increase in value?",
+           "options": {
+               "A": "$0.50",
+               "B": "$1.00",
+               "C": "$0.10",
+               "D": "$5.00",
+               "E": "$0.01"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "A broker charges a $\\frac{1}{25}$ fee for each trade. If a client makes $5000 worth of trades, how much will they pay in fees?",
+           "options": {
+               "A": "$200",
+               "B": "$50",
+               "C": "$20",
+       "D": "$2000",
+       "E": "$1000"
+   },
+   "answer": "B"
+},
+{
+   "id": 4,
+   "type": "MQ",
+   "question": "A portfolio has a 30% annual return. If the initial investment was $1000, what is the value of the portfolio after one year?",
+   "options": {
+       "A": "$1300",
+       "B": "$1000",
+       "C": "$1200",
+       "D": "$1100",
+       "E": "$1400"
+   },
+   "answer": "A"
+},
+{
+   "id": 5,
+   "type": "MQ",
+   "question": "A company is offering a $\\frac{1}{5}$ discount for bulk purchases. If the original price of a product is $200, how much will a customer pay for it?",
+   "options": {
+       "A": "$150",
+       "B": "$160",
+       "C": "$180",
+       "D": "$200",
+       "E": "$220"
+   },
+   "answer": "B"
+},
+{
+   "id": 6,
+   "type": "MQ",
+   "question": "A tax consultant found that the average tax rate is $25\\%$. If a client's income is $50000, how much will they pay in taxes?",
+   "options": {
+       "A": "$12500",
+       "B": "$10000",
+       "C": "$11000",
+       "D": "$12000",
+       "E": "$15000"
+   },
+   "answer": "A"
+},
+{
+   "id": 7,
+   "type": "MQ",
+   "question": "If a savings account has an annual interest rate of $4\\%$, how much will $1000 grow to after 2 years?",
+   "options": {
+       "A": "$1080",
+       "B": "$1100",
+       "C": "$1120",
+       "D": "$1081.60",
+       "E": "$1200"
+   },
+   "answer": "D"
+},
+{
+   "id": 8,
+   "type": "MQ",
+   "question": "A mutual fund has a $\\frac{2}{5}$ chance of a $10\\%$ loss. What is the expected loss?",
+   "options": {
+       "A": "$4.00",
+       "B": "$2.00",
+       "C": "$0.40",
+       "D": "$1.00",
+       "E": "$0.20"
+   },
+   "answer": "A"
+},
+{
+   "id": 9,
+   "type": "FRQ",
+   "question": "A company has $20000 to invest in two projects. The expected rate of return for Project A is $12\\%$ and for Project B is $15\\%$. If the company decides to invest $\\frac{2}{3}$ of its budget in Project A, how much will they expect to gain in total after one year? Show your work and calculate the expected gain.",
+   "required_space_lines": 5
+},
+{
+   "id": 10,
+   "type": "FRQ",
+   "question": "A bank offers two savings accounts. Account A has an annual interest rate of $3\\%$ and Account B has an annual interest rate of $5\\%$. If a customer deposits $1000 into Account A and $2000 into Account B, how much will they have in total after 3 years? Assume the interest is compounded annually and calculate the final amount.",
+   "required_space_lines": 5
+}
+   ],
+   "teacher_rules": [
+       "Chef's Tips: Always check the units of the answer.",
+       "Chef's Tips: Make sure to read each question carefully and identify the key elements.",
+       "Chef's Tips: Use the given information to set up equations and solve for the unknown."
+   ]
+}

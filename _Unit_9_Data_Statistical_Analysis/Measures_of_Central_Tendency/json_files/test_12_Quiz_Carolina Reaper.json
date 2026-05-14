@@ -1,0 +1,129 @@
+{
+  "unit": "\u1F4D6 Unit 9: Data Statistical Analysis",
+   "topic": "Measures of Central Tendency",
+   "test_type": "Quiz (Carolina Reaper)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "A logistics company has $5$ delivery trucks with the following travel times (in hours) to a warehouse: $2$, $3$, $4$, $5$, $6$. What is the $\\median$ travel time?",
+           "options": {
+               "A": "3",
+               "B": "4",
+               "C": "5",
+               "D": "3.5",
+               "E": "4.5"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "A shipping company has the following package delivery times (in minutes): $10$, $12$, $15$, $18$, $20$. What is the $\\mode$ delivery time?",
+           "options": {
+               "A": "10",
+               "B": "12",
+               "C": "15",
+               "D": "No mode",
+               "E": "20"
+           },
+           "answer": "D"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "The average speed of $7$ cars on the highway is $60$ miles per hour. If one more car with a speed of $70$ miles per hour is added, what is the new average speed?",
+           "options": {
+               "A": "60",
+               "B": "61",
+       "C": "62",
+       "D": "63",
+       "E": "65"
+   },
+   "answer": "B"
+},
+{
+   "id": 4,
+   "type": "MQ",
+   "question": "A traffic flow study records the following number of cars passing through an intersection per hour: $50$, $60$, $70$, $50$, $60$. What is the $\\mean$ number of cars per hour?",
+   "options": {
+       "A": "55",
+       "B": "56",
+       "C": "58",
+       "D": "60",
+       "E": "58"
+   },
+   "answer": "E"
+},
+{
+   "id": 5,
+   "type": "MQ",
+   "question": "The times (in minutes) for $9$ flights to arrive at an airport are: $20$, $25$, $30$, $20$, $25$, $30$, $20$, $25$, $35$. What is the $\\mode$ arrival time?",
+   "options": {
+       "A": "20",
+       "B": "25",
+       "C": "30",
+       "D": "20 and 25",
+       "E": "No mode"
+   },
+   "answer": "A"
+},
+{
+   "id": 6,
+   "type": "MQ",
+   "question": "The average weight (in pounds) of $8$ packages is $40$. If two more packages with weights $30$ and $50$ pounds are added, what is the new average weight?",
+   "options": {
+       "A": "38",
+       "B": "39",
+       "C": "40",
+       "D": "41",
+       "E": "42"
+   },
+   "answer": "B"
+},
+{
+   "id": 7,
+   "type": "MQ",
+   "question": "A transportation company has $6$ buses with the following capacities: $30$, $40$, $50$, $30$, $40$, $60$. What is the $\\median$ capacity?",
+   "options": {
+       "A": "35",
+       "B": "40",
+       "C": "45",
+       "D": "40",
+       "E": "42"
+   },
+   "answer": "B"
+},
+{
+   "id": 8,
+   "type": "MQ",
+   "question": "The following data set represents the number of passengers on $10$ buses: $20$, $25$, $30$, $20$, $25$, $30$, $35$, $20$, $25$, $30$. Which measure of central tendency is most appropriate for this data set?",
+   "options": {
+       "A": "$\\mean$",
+       "B": "$\\median$",
+       "C": "$\\mode$",
+       "D": "Range",
+       "E": "None of the above"
+   },
+   "answer": "C"
+},
+{
+   "id": 9,
+   "type": "FRQ",
+   "question": "The average delivery time for $8$ packages is $4$ hours. If $2$ more packages with delivery times $3$ and $5$ hours are added, calculate the new average delivery time and compare it with the original average delivery time. Show all your work and explain your reasoning.",
+   "required_space_lines": 5
+},
+{
+   "id": 10,
+   "type": "FRQ",
+   "question": "A logistics company has two branches with the following delivery times (in hours) for $5$ packages: Branch A: $2$, $3$, $4$, $5$, $6$ and Branch B: $1$, $2$, $3$, $4$, $7$. Calculate and compare the $\\mean$, $\\median$, and $\\mode$ for the two branches. Show all your work and explain your reasoning.",
+   "required_space_lines": 5
+}
+   ],
+   "teacher_rules": [
+       "Tip 1: Review the concept of central tendency and the differences between mean, median, and mode.",
+       "Tip 2: Make sure to read the questions carefully and choose the correct answer based on the context.",
+       "Tip 3: For free response questions, show all work and explain reasoning to receive full credit."
+   ],
+   "footer": "Chef's Tips"
+}

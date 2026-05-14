@@ -1,0 +1,129 @@
+{
+  "unit": "\u1F4D6 Unit 8: Quadratics",
+   "topic": "Graphing Quadratics and Properties of Parabolas",
+   "test_type": "Challenge (Habanero)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "A hiker's elevation $h$ in meters above sea level after $t$ hours is given by $h(t) = -2t^2 + 12t + 10$. What is the vertex of this parabola?",
+           "options": {
+               "A": "$(3, 28)$",
+               "B": "$(3, 16)$",
+               "C": "$(6, 10)$",
+               "D": "$(2, 22)$",
+               "E": "$(4, 18)$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "A park ranger tracks the population $P$ of deer after $x$ years using the equation $P(x) = 50x^2 - 200x + 400$. What is the axis of symmetry?",
+           "options": {
+               "A": "$x = -2$",
+               "B": "$x = 0$",
+               "C": "$x = 2$",
+               "D": "$x = 4$",
+               "E": "$x = 6$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "The cost $C$ in dollars to transport $x$ tons of cargo is given by $C(x) = 2x^2 + 5x + 100$. What is the minimum cost?",
+           "options": {
+               "A": "$$100$",
+               "B": "$$105$",
+               "C": "$$110$",
+               "D": "$$120$",
+               "E": "$$125$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "The height $h$ in meters of a projectile after $t$ seconds is $h(t) = -5t^2 + 20t + 1$. What is the maximum height?",
+           "options": {
+               "A": "$21 \\text{ m}$",
+               "B": "$26 \\text{ m}$",
+               "C": "$31 \\text{ m}$",
+               "D": "$36 \\text{ m}$",
+               "E": "$41 \\text{ m}$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "A fuel-efficient car's gas mileage $M$ in miles per gallon after $x$ years is modeled by $M(x) = -3x^2 + 15x + 20$. What is the vertex of this parabola?",
+           "options": {
+               "A": "$(2.5, 32.5)$",
+               "B": "$(3, 30)$",
+               "C": "$(4, 28)$",
+       "D": "$(2, 29)$",
+       "E": "$(1.5, 31.75)$"
+   },
+           "answer": "A"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "The population $P$ of a certain animal species after $x$ years is given by $P(x) = 15x^2 - 30x + 50$. What are the $x$-intercepts?",
+           "options": {
+               "A": "$x = -1, x = 5$",
+               "B": "$x = 0, x = 2$",
+               "C": "$x = 1, x = 3$",
+               "D": "$x = 2, x = 4$",
+               "E": "$x = 1, x = 1$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "The depth $D$ in meters of water in a lake after $x$ months is $D(x) = -4x^2 + 12x + 5$. What is the axis of symmetry?",
+           "options": {
+               "A": "$x = 0.5$",
+               "B": "$x = 1$",
+               "C": "$x = 1.5$",
+               "D": "$x = 2$",
+       "E": "$x = 2.5$"
+   },
+           "answer": "C"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "A mountain's elevation $E$ in meters above sea level after $x$ kilometers is given by $E(x) = x^2 - 4x + 10$. What is the minimum elevation?",
+           "options": {
+               "A": "$6 \\text{ m}$",
+               "B": "$8 \\text{ m}$",
+               "C": "$10 \\text{ m}$",
+               "D": "$12 \\text{ m}$",
+               "E": "$14 \\text{ m}$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "A boat's speed $S$ in kilometers per hour after $t$ hours is given by $S(t) = -t^2 + 6t + 2$. Find the maximum speed and when it occurs.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "The growth $G$ of a tree in inches after $x$ years is modeled by $G(x) = 2x^2 + 5x + 1$. Determine the vertex of this parabola and explain its significance in the context of tree growth.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Remind students to show their work and explain their reasoning for FRQs.",
+       "Encourage students to use graphing calculators or software to visualize parabolas.",
+       "Emphasize the importance of labeling axes and providing units when graphing."
+   ],
+   "footer_title": "Chef's Tips"
+}

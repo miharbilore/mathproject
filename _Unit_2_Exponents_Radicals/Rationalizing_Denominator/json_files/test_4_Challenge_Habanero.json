@@ -1,0 +1,129 @@
+{
+  "unit": "\u1F4D6 Unit 2: Exponents & Radicals",
+   "topic": "Rationalizing Denominator",
+   "test_type": "Challenge (Habanero)",
+   "questions": [
+      {
+         "id": 1,
+         "type": "MQ",
+         "question": "To rationalize the denominator of $\\frac{1}{\\sqrt{3}}$, we multiply by:",
+         "options": {
+            "A": "$\\frac{\\sqrt{3}}{\\sqrt{3}}$",
+            "B": "$\\frac{2}{2}$",
+            "C": "$\\frac{3}{3}$",
+            "D": "$\\frac{\\sqrt{2}}{\\sqrt{2}}$",
+            "E": "$\\frac{\\sqrt{6}}{\\sqrt{6}}$"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 2,
+         "type": "MQ",
+         "question": "A chef needs $\\frac{1}{\\sqrt{2}}$ cups of flour for a recipe. To rationalize the denominator, the chef should multiply by:",
+         "options": {
+            "A": "$\\frac{\\sqrt{2}}{\\sqrt{2}}$",
+            "B": "$\\frac{2}{2}$",
+            "C": "$\\frac{3}{3}$",
+            "D": "$\\frac{\\sqrt{3}}{\\sqrt{3}}$",
+            "E": "$\\frac{\\sqrt{6}}{\\sqrt{6}}$"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 3,
+         "type": "MQ",
+         "question": "A builder needs to rationalize the denominator of $\\frac{2}{\\sqrt{5}}$ to calculate the length of a beam. The rationalized form is:",
+         "options": {
+            "A": "$\\frac{2\\sqrt{5}}{5}$",
+            "B": "$\\frac{2\\sqrt{3}}{5}$",
+            "C": "$\\frac{4}{\\sqrt{5}}$",
+            "D": "$\\frac{2}{5}$",
+            "E": "$\\frac{\\sqrt{5}}{2}$"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 4,
+         "type": "MQ",
+         "question": "A recipe calls for $\\frac{3}{\\sqrt{6}}$ teaspoons of spice. To rationalize the denominator, we get:",
+         "options": {
+            "A": "$\\frac{3\\sqrt{6}}{6}$",
+            "B": "$\\frac{3\\sqrt{2}}{2}$",
+            "C": "$\\frac{3\\sqrt{3}}{3}$",
+            "D": "$\\frac{3}{6}$",
+            "E": "$\\frac{\\sqrt{6}}{3}$"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 5,
+         "type": "MQ",
+         "question": "The height of a building is $\\frac{10}{\\sqrt{2}}$ meters. The rationalized form of this height is:",
+         "options": {
+            "A": "$\\frac{10\\sqrt{2}}{2}$",
+            "B": "$\\frac{10}{2}$",
+            "C": "$\\frac{10\\sqrt{3}}{3}$",
+            "D": "$\\frac{5}{\\sqrt{2}}$",
+            "E": "$\\frac{5\\sqrt{2}}{2}$"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 6,
+         "type": "MQ",
+         "question": "To rationalize the denominator of $\\frac{2\\sqrt{3}}{\\sqrt{6}}$, we multiply by:",
+         "options": {
+            "A": "$\\frac{\\sqrt{6}}{\\sqrt{6}}$",
+            "B": "$\\frac{\\sqrt{2}}{\\sqrt{2}}$",
+            "C": "$\\frac{\\sqrt{3}}{\\sqrt{3}}$",
+            "D": "$\\frac{2}{2}$",
+            "E": "$\\frac{3}{3}$"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 7,
+         "type": "MQ",
+         "question": "The volume of a rectangular prism is $\\frac{12}{\\sqrt{3}}$ cubic meters. The rationalized form of this volume is:",
+         "options": {
+            "A": "$\\frac{12\\sqrt{3}}{3}$",
+            "B": "$\\frac{12}{3}$",
+            "C": "$\\frac{12\\sqrt{2}}{2}$",
+            "D": "$\\frac{4}{\\sqrt{3}}$",
+            "E": "$\\frac{4\\sqrt{3}}{3}$"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 8,
+         "type": "MQ",
+         "question": "A recipe for a cake calls for $\\frac{2}{\\sqrt{8}}$ cups of sugar. To rationalize the denominator, we get:",
+         "options": {
+            "A": "$\\frac{2\\sqrt{8}}{8}$",
+            "B": "$\\frac{2\\sqrt{2}}{4}$",
+            "C": "$\\frac{\\sqrt{2}}{2}$",
+            "D": "$\\frac{1}{\\sqrt{2}}$",
+            "E": "$\\frac{1}{2}$"
+         },
+         "answer": "B"
+      },
+      {
+         "id": 9,
+         "type": "FRQ",
+         "question": "Rationalize the denominator of $\\frac{3\\sqrt{2}}{\\sqrt{6}}$ and simplify. Show all steps.",
+         "required_space_lines": 5
+      },
+      {
+         "id": 10,
+         "type": "FRQ",
+         "question": "A construction company needs to rationalize the denominator of $\\frac{5}{\\sqrt{10}}$ to calculate the length of a bridge. Rationalize the denominator and simplify. Show all steps.",
+         "required_space_lines": 5
+      }
+   ],
+   "teacher_rules": [
+      "Read each question carefully before answering.",
+      "Show all work and simplify answers when necessary.",
+      "Use a calculator only when instructed to do so."
+   ],
+   "footer": "Chef's Tips"
+}

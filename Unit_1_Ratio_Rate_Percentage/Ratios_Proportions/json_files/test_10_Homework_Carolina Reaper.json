@@ -1,0 +1,129 @@
+{
+  "unit": "\u2b6d\uFE0F Unit 1: Ratio, Rate, Percentage",
+   "topic": "Ratios & Proportions",
+   "test_type": "Homework (Carolina Reaper)",
+   "questions": [
+     {
+       "id": 1,
+       "type": "MQ",
+       "question": "A music track has a rhythm pattern of $3:4$ between the guitar and drums. If the guitar plays $12$ notes, how many notes will the drums play?",
+       "options": {
+         "A": "12",
+         "B": "16",
+         "C": "20",
+         "D": "24",
+         "E": "28"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 2,
+       "type": "MQ",
+       "question": "An artist mixes paints in a ratio of $2:5$ for a specific shade. If she uses $10$ mL of the first paint, how much of the second paint should she use?",
+       "options": {
+         "A": "20 mL",
+         "B": "25 mL",
+         "C": "30 mL",
+         "D": "35 mL",
+         "E": "40 mL"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 3,
+       "type": "MQ",
+       "question": "A sound wave has a frequency ratio of $1:2$ between two notes. If the first note has a frequency of $20$ Hz, what is the frequency of the second note?",
+       "options": {
+         "A": "20 Hz",
+         "B": "40 Hz",
+         "C": "60 Hz",
+         "D": "80 Hz",
+         "E": "100 Hz"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 4,
+       "type": "MQ",
+       "question": "A canvas has a width to length ratio of $3:5$. If the width is $9$ inches, what is the length of the canvas?",
+       "options": {
+         "A": "12 inches",
+         "B": "15 inches",
+         "C": "18 inches",
+         "D": "21 inches",
+         "E": "24 inches"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 5,
+       "type": "MQ",
+       "question": "A musician plays a rhythm with a $2:3$ ratio between quarter notes and eighth notes. If she plays $8$ quarter notes, how many eighth notes will she play?",
+       "options": {
+         "A": "8",
+         "B": "12",
+         "C": "16",
+         "D": "20",
+         "E": "24"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 6,
+       "type": "MQ",
+       "question": "An art piece has a color ratio of $4:7$ between two shades. If $16$ parts of the first shade are used, how many parts of the second shade should be used?",
+       "options": {
+         "A": "20",
+         "B": "24",
+         "C": "28",
+         "D": "32",
+         "E": "36"
+       },
+       "answer": "C"
+     },
+     {
+       "id": 7,
+       "type": "MQ",
+       "question": "A sound system has a volume ratio of $2:3$ between two speakers. If the first speaker is set to $6$, what should the second speaker be set to?",
+       "options": {
+         "A": "8",
+         "B": "9",
+         "C": "10",
+         "D": "12",
+         "E": "15"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 8,
+       "type": "MQ",
+       "question": "A painter uses a $3:2$ ratio of paint to thinner. If she uses $6$ mL of paint, how much thinner should she use?",
+       "options": {
+         "A": "2 mL",
+         "B": "3 mL",
+         "C": "4 mL",
+         "D": "6 mL",
+         "E": "8 mL"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 9,
+       "type": "FRQ",
+       "question": "A musician is creating a song with a ratio of $5:6$ between the duration of the intro and the outro. If the intro lasts $15$ seconds, how many seconds will the outro last? Show your work and explain your reasoning.",
+       "required_space_lines": 5
+     },
+     {
+       "id": 10,
+       "type": "FRQ",
+       "question": "An artist is designing a mural with a ratio of $4:9$ between the width and length. If the width is $12$ feet, what will be the length of the mural? Use cross multiplication to solve the proportion and explain your answer.",
+       "required_space_lines": 5
+     }
+   ],
+   "teacher_rules": [
+     "Check for unit conversions",
+     "Look for correct proportion setup",
+     "Verify student explanations"
+   ],
+   "footer_title": "Chef's Tips"
+ }

@@ -1,0 +1,129 @@
+{
+  "unit": "Unit 0: Foundations of Algebra",
+   "topic": "GCF & LCM",
+   "test_type": "Foundation (Jalapeno)",
+   "questions": [
+     { 
+       "id": 1, 
+       "type": "MQ", 
+       "question": "Find the GCF of $12$ and $18$ using factors.", 
+       "options": { 
+         "A": "$1$", 
+         "B": "$2$", 
+         "C": "$3$", 
+         "D": "$6$", 
+         "E": "$9$"
+       }, 
+       "answer": "D" 
+     },
+     { 
+       "id": 2, 
+       "type": "MQ", 
+       "question": "What is the LCM of $4$ and $6$ using multiples?", 
+       "options": { 
+         "A": "$4$", 
+         "B": "$6$", 
+         "C": "$8$", 
+         "D": "$12$", 
+         "E": "$24$"
+       }, 
+       "answer": "D" 
+     },
+     { 
+       "id": 3, 
+       "type": "MQ", 
+       "question": "Find the prime factorization of $45$ to determine its GCF with $15$.", 
+       "options": { 
+         "A": "$3 \\cdot 5$", 
+         "B": "$3 \\cdot 3 \\cdot 5$", 
+         "C": "$3^2 \\cdot 5$", 
+         "D": "$3 \\cdot 5^2$", 
+         "E": "$3^2 \\cdot 5^2$"
+       }, 
+       "answer": "B" 
+     },
+     { 
+       "id": 4, 
+       "type": "MQ", 
+       "question": "A business has stocks priced at $12$ and $18$ per share. What is the LCM of these prices?", 
+       "options": { 
+         "A": "$12$", 
+         "B": "$18$", 
+         "C": "$36$", 
+         "D": "$54$", 
+         "E": "$108$"
+       }, 
+       "answer": "C" 
+     },
+     { 
+       "id": 5, 
+       "type": "MQ", 
+       "question": "Determine the GCF of $24$ and $30$ using prime factorization.", 
+       "options": { 
+         "A": "$1$", 
+         "B": "$2$", 
+         "C": "$3$", 
+         "D": "$6$", 
+         "E": "$12$"
+       }, 
+       "answer": "D" 
+     },
+     { 
+       "id": 6, 
+       "type": "MQ", 
+       "question": "A savings account earns $3\\%$ and $6\\%$ interest on two separate investments. Find the GCF of these interest rates.", 
+       "options": { 
+         "A": "$1\\%$", 
+         "B": "$2\\%$", 
+         "C": "$3\\%$", 
+         "D": "$6\\%$", 
+         "E": "$9\\%$"
+       }, 
+       "answer": "C" 
+     },
+     { 
+       "id": 7, 
+       "type": "MQ", 
+       "question": "What is the LCM of $8$ and $10$ using prime factorization?", 
+       "options": { 
+         "A": "$8$", 
+         "B": "$10$", 
+         "C": "$20$", 
+         "D": "$40$", 
+         "E": "$80$"
+       }, 
+       "answer": "D" 
+     },
+     { 
+       "id": 8, 
+       "type": "MQ", 
+       "question": "Determine the LCM of $9$ and $12$ to calculate the total amount of tax owed.", 
+       "options": { 
+         "A": "$9$", 
+         "B": "$12$", 
+         "C": "$18$", 
+         "D": "$27$", 
+         "E": "$36$"
+       }, 
+       "answer": "E" 
+     },
+     { 
+       "id": 9, 
+       "type": "FRQ", 
+       "question": "A company has two investments, one with a $5\\%$ annual return and another with a $10\\%$ annual return. Find the LCM of these interest rates and explain how it can be used to calculate the total return on investment over a $2$-year period.", 
+       "required_space_lines": 5 
+     },
+     { 
+       "id": 10, 
+       "type": "FRQ", 
+       "question": "In a stock market, two stocks have prices of $15$ and $25$ per share. Find the GCF and LCM of these prices and discuss how they can be used to make informed investment decisions. Show your calculations and provide a brief explanation.", 
+       "required_space_lines": 5 
+     }
+   ],
+   "teacher_rules": [
+     "Tip 1: Encourage students to use prime factorization to find GCF and LCM.",
+     "Tip 2: Emphasize the importance of understanding the concept of GCF and LCM in real-world applications.",
+     "Tip 3: Provide feedback on the free-response questions to help students improve their problem-solving skills."
+   ],
+   "footer": "Chef's Tips"
+ }

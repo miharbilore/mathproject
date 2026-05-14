@@ -1,0 +1,129 @@
+{
+  "unit": "Unit 0: Foundations of Algebra",
+   "topic": "Place Value",
+   "test_type": "Challenge (Habanero)",
+   "questions": [
+      {
+         "id": 1,
+         "type": "MQ",
+         "question": "In a gaming scoreboard, a player's score is $4321$. What is the value of the digit $4$?",
+         "options": {
+            "A": "Ones place",
+            "B": "Tens place",
+            "C": "Hundreds place",
+            "D": "Thousands place",
+            "E": "Ten thousands place"
+         },
+         "answer": "D"
+      },
+      {
+         "id": 2,
+         "type": "MQ",
+         "question": "A coder used $658$ MB of data. Rounded to the nearest ten, how much data was used?",
+         "options": {
+            "A": "650",
+            "B": "660",
+            "C": "700",
+            "D": "600",
+            "E": "500"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 3,
+         "type": "MQ",
+         "question": "In a coding logic problem, the number $945$ is given. What is the value of the digit $9$?",
+         "options": {
+            "A": "Ones place",
+            "B": "Tens place",
+            "C": "Hundreds place",
+            "D": "Thousands place",
+            "E": "None of the above"
+         },
+         "answer": "C"
+      },
+      {
+         "id": 4,
+         "type": "MQ",
+         "question": "A gamer's score is $1200$. What is the expanded form of this number?",
+         "options": {
+            "A": "$1000 + 200$",
+            "B": "$1000 + 200 + 0$",
+            "C": "$1000 + 20 + 0$",
+            "D": "$1000 + 2 + 0$",
+            "E": "$100 + 20 + 0$"
+         },
+         "answer": "B"
+      },
+      {
+         "id": 5,
+         "type": "MQ",
+         "question": "A coding challenge requires a data usage of $753$ GB. Rounded to the nearest hundred, how much data is required?",
+         "options": {
+            "A": "700",
+            "B": "800",
+            "C": "750",
+            "D": "500",
+            "E": "600"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 6,
+         "type": "MQ",
+         "question": "In a tech review, a smartphone's storage is $8192$ MB. What is the standard form of this number?",
+         "options": {
+            "A": "$8 \\times 10^3$",
+            "B": "$8 \\times 10^2$",
+            "C": "$8 \\times 10^1$",
+            "D": "$8 \\times 10^4$",
+            "E": "$8 \\times 10^0$"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 7,
+         "type": "MQ",
+         "question": "A programmer used $279$ hours of coding time. Rounded to the nearest ten, how many hours were used?",
+         "options": {
+            "A": "280",
+            "B": "270",
+            "C": "290",
+            "D": "300",
+            "E": "200"
+         },
+         "answer": "B"
+      },
+      {
+         "id": 8,
+         "type": "MQ",
+         "question": "In a gaming tournament, a team's score is $4632$. What is the value of the digit $6$?",
+         "options": {
+            "A": "Ones place",
+            "B": "Tens place",
+            "C": "Hundreds place",
+            "D": "Thousands place",
+            "E": "None of the above"
+         },
+         "answer": "B"
+      },
+      {
+         "id": 9,
+         "type": "FRQ",
+         "question": "Write the number $9432$ in expanded form. Show your work and explain your reasoning.",
+         "required_space_lines": 5
+      },
+      {
+         "id": 10,
+         "type": "FRQ",
+         "question": "Round the number $6589$ to the nearest hundred. Explain why you chose to round up or down.",
+         "required_space_lines": 5
+      }
+   ],
+   "teacher_rules": [
+      "Tip 1: Emphasize the importance of place value in coding and data analysis.",
+      "Tip 2: Encourage students to use real-world examples to illustrate their understanding of place value.",
+      "Tip 3: Remind students to show their work and explain their reasoning in free-response questions."
+   ],
+   "footer": "Chef's Tips"
+}

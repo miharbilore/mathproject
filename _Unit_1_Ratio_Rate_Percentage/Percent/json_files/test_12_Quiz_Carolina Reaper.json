@@ -1,0 +1,129 @@
+{
+  "unit": "\u1f4d6 Unit 1: Ratio, Rate, Percentage",
+   "topic": "Percent",
+   "test_type": "Quiz (Carolina Reaper)",
+   "questions": [
+       { 
+           "id": 1, 
+           "type": "MQ", 
+           "question": "A shipping company increased its delivery rate by $15\\%$. If the original rate was $240$ packages per day, what is the new rate?", 
+           "options": { 
+               "A": "$240 + 15$", 
+               "B": "$240 + 24$", 
+               "C": "$240 + 36$", 
+               "D": "$276$", 
+               "E": "$300$"
+           }, 
+           "answer": "D" 
+       },
+       { 
+           "id": 2, 
+           "type": "MQ", 
+           "question": "A traffic congestion reduced the average speed of a highway by $12\\%$. If the original speed was $60$ miles per hour, what is the reduced speed?", 
+           "options": { 
+               "A": "$48$", 
+               "B": "$50$", 
+               "C": "$52$", 
+               "D": "$53$", 
+               "E": "$55$"
+           }, 
+           "answer": "D" 
+       },
+       { 
+           "id": 3, 
+           "type": "MQ", 
+           "question": "The cost of fuel for a logistic company increased from $$2.50$ to $$3.15$ per gallon. What is the percent increase?", 
+           "options": { 
+               "A": "$20\\%$", 
+               "B": "$25\\%$", 
+               "C": "$26\\%$", 
+               "D": "$30\\%$", 
+               "E": "$35\\%$"
+           }, 
+           "answer": "C" 
+       },
+       { 
+           "id": 4, 
+           "type": "MQ", 
+           "question": "A transportation company has $480$ buses. If $15\\%$ of the buses are currently under maintenance, how many buses are operational?", 
+           "options": { 
+               "A": "$384$", 
+               "B": "$408$", 
+               "C": "$416$", 
+               "D": "$424$", 
+               "E": "$432$"
+           }, 
+           "answer": "B" 
+       },
+       { 
+           "id": 5, 
+           "type": "MQ", 
+           "question": "A new traffic management system reduced congestion by $8\\%$ on a major highway. If the original number of congested hours was $48$ per day, what is the new number of congested hours?", 
+           "options": { 
+               "A": "$36$", 
+               "B": "$40$", 
+               "C": "$41.6$", 
+               "D": "$44$", 
+               "E": "$46$"
+           }, 
+           "answer": "C" 
+       },
+       { 
+           "id": 6, 
+           "type": "MQ", 
+           "question": "A delivery service promises to deliver $95\\%$ of its packages within two days. If the service handles $1000$ packages per day, how many packages will be delivered within two days?", 
+           "options": { 
+               "A": "$900$", 
+               "B": "$925$", 
+               "C": "$950$", 
+               "D": "$975$", 
+               "E": "$1000$"
+           }, 
+           "answer": "C" 
+       },
+       { 
+           "id": 7, 
+           "type": "MQ", 
+           "question": "A transportation company reduced its carbon footprint by $22\\%$. If the original footprint was $550$ tons per year, what is the new carbon footprint?", 
+           "options": { 
+               "A": "$350$", 
+               "B": "$381$", 
+               "C": "$415$", 
+               "D": "$429$", 
+               "E": "$450$"
+           }, 
+           "answer": "D" 
+       },
+       { 
+           "id": 8, 
+           "type": "MQ", 
+           "question": "A shipping container can hold $2500$ packages. If it is currently $80\\%$ full, how many more packages can be added?", 
+           "options": { 
+               "A": "$200$", 
+               "B": "$250$", 
+               "C": "$300$", 
+               "D": "$400$", 
+               "E": "$500$"
+           }, 
+           "answer": "D" 
+       },
+       { 
+           "id": 9, 
+           "type": "FRQ", 
+           "question": "A traffic flow study found that $62\\%$ of the cars on the road during rush hour were single-occupant vehicles. If there were $1500$ cars on the road during rush hour, how many were single-occupant vehicles? Show your work and calculate the number of single-occupant vehicles.", 
+           "required_space_lines": 5 
+       },
+       { 
+           "id": 10, 
+           "type": "FRQ", 
+           "question": "A logistics company wants to reduce its delivery time by $18\\%$. If the current average delivery time is $36$ hours, what should be the new average delivery time? Explain your reasoning and show your calculations.", 
+           "required_space_lines": 5 
+       }
+   ],
+   "teacher_rules": [
+       "Emphasize the importance of reading questions carefully and understanding the context of the problem.", 
+       "Remind students to show their work and explain their reasoning, especially for free response questions.", 
+       "Encourage students to use real-world examples to illustrate their understanding of percent increase and decrease."
+   ],
+   "footer": "Chef's Tips"
+}

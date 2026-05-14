@@ -1,0 +1,129 @@
+{
+  "unit":"📘 Unit 9: Data Statistical Analysis",
+   "topic":"Box & Whisker (Dispersion)",
+   "test_type":"Foundation (Jalapeno)",
+   "questions":[
+      {
+         "id":1,
+         "type":"MQ",
+         "question":"What does the box in a box-and-whisker plot represent?",
+         "options":{
+            "A":"$1^{st}$ and $3^{rd}$ quartiles",
+            "B":"Mean and median",
+            "C":"Minimum and maximum values",
+            "D":"Outliers and extremes",
+            "E":"Range and interquartile range"
+         },
+         "answer":"A"
+      },
+      {
+         "id":2,
+         "type":"MQ",
+         "question":"A stock's daily prices are: $23, 25, 26, 27, 28, 30, 32$. What is the median?",
+         "options":{
+            "A":"$26$",
+            "B":"$27$",
+            "C":"$28$",
+            "D":"$29$",
+            "E":"$30$"
+         },
+         "answer":"B"
+      },
+      {
+         "id":3,
+         "type":"MQ",
+         "question":"What is the interquartile range (IQR) of the dataset: $12, 15, 18, 20, 22, 25, 30$?",
+         "options":{
+            "A":"$5$",
+            "B":"$6$",
+            "C":"$7$",
+            "D":"$8$",
+            "E":"$10$"
+         },
+         "answer":"C"
+      },
+      {
+         "id":4,
+         "type":"MQ",
+         "question":"Identify the outlier in the dataset: $2, 4, 6, 8, 10, 100$",
+         "options":{
+            "A":"$2$",
+            "B":"$4$",
+            "C":"$6$",
+            "D":"$8$",
+            "E":"$100$"
+         },
+         "answer":"E"
+      },
+      {
+         "id":5,
+         "type":"MQ",
+         "question":"What is the first quartile (Q1) of the dataset: $10, 12, 15, 18, 20, 22, 25$?",
+         "options":{
+            "A":"$12$",
+            "B":"$13$",
+            "C":"$14$",
+            "D":"$15$",
+            "E":"$16$"
+         },
+         "answer":"D"
+      },
+      {
+         "id":6,
+         "type":"MQ",
+         "question":"A company's monthly expenses are: $500, 600, 700, 800, 900, 1000, 1200$. What is the third quartile (Q3)?",
+         "options":{
+            "A":"$800$",
+            "B":"$850$",
+            "C":"$900$",
+            "D":"$950$",
+            "E":"$1000$"
+         },
+         "answer":"C"
+      },
+      {
+         "id":7,
+         "type":"MQ",
+         "question":"Which of the following is NOT a characteristic of a box-and-whisker plot?",
+         "options":{
+            "A":"Displays the five-number summary",
+            "B":"Identifies outliers",
+            "C":"Compares multiple datasets",
+            "D":"Shows the mode",
+            "E":"All of the above"
+         },
+         "answer":"D"
+      },
+      {
+         "id":8,
+         "type":"MQ",
+         "question":"What is the purpose of the whiskers in a box-and-whisker plot?",
+         "options":{
+            "A":"To display the mean and median",
+            "B":"To show the range and interquartile range",
+            "C":"To identify outliers and extremes",
+            "D":"To compare multiple datasets",
+            "E":"To display the five-number summary"
+         },
+         "answer":"C"
+      },
+      {
+         "id":9,
+         "type":"FRQ",
+         "question":"Construct a box-and-whisker plot for the dataset: $15, 20, 22, 25, 28, 30, 32$ and identify the quartiles and interquartile range. Show your work and calculations.",
+         "required_space_lines":5
+      },
+      {
+         "id":10,
+         "type":"FRQ",
+         "question":"A investor's monthly returns are: $-5%, 2%, 5%, 8%, 10%, 12%, 15%$. Calculate the first quartile, third quartile, and interquartile range. Identify any outliers and explain their significance in the context of the investor's returns.",
+         "required_space_lines":5
+      }
+   ],
+   "teacher_rules":[
+      "Tip 1: Emphasize the importance of accurately calculating quartiles and the interquartile range.",
+      "Tip 2: Remind students to properly label their box-and-whisker plots.",
+      "Tip 3: Encourage students to interpret the results in the context of the given scenario."
+   ],
+   "footer_title":"Chef's Tips"
+}

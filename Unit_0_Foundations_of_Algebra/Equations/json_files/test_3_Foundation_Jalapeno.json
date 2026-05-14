@@ -1,0 +1,129 @@
+{
+  "unit": "Unit 0: Foundations of Algebra",
+   "topic": "Equations",
+   "test_type": "Foundation (Jalapeno)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "If $x + 2 = 7$, what is the value of $x$?",
+           "options": {
+               "A": "3",
+               "B": "5",
+               "C": "2",
+               "D": "9",
+               "E": "1"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "A football team scored $3x - 2$ points in a game. If they scored 10 points, what is the value of $x$?",
+           "options": {
+               "A": "2",
+               "B": "3",
+               "C": "4",
+               "D": "6",
+               "E": "8"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "Solve for $y$: $y - 4 = 11$",
+           "options": {
+               "A": "7",
+               "B": "11",
+               "C": "15",
+               "D": "20",
+               "E": "25"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "A basketball player scored $2x + 5$ points in the first half. If she scored 11 points, what is the value of $x$?",
+           "options": {
+               "A": "2",
+               "B": "3",
+               "C": "4",
+               "D": "5",
+               "E": "6"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "Solve for $z$: $z/3 = 9$",
+           "options": {
+               "A": "3",
+               "B": "6",
+               "C": "9",
+               "D": "12",
+               "E": "27"
+           },
+           "answer": "E"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "A cyclist rode $5x - 2$ miles in the morning. If she rode 23 miles, what is the value of $x$?",
+           "options": {
+               "A": "3",
+               "B": "4",
+               "C": "5",
+               "D": "6",
+               "E": "7"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "Solve for $w$: $2w + 2 = 10$",
+           "options": {
+               "A": "2",
+               "B": "3",
+               "C": "4",
+               "D": "6",
+               "E": "8"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "A swimmer completed $4x - 1$ laps in a competition. If she completed 15 laps, what is the value of $x$?",
+           "options": {
+               "A": "3",
+               "B": "4",
+               "C": "5",
+               "D": "6",
+               "E": "7"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "Solve for $x$: $x/2 + 3 = 7$. Show your work and check your solution.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "A tennis player served $3x - 2$ aces in a match. If she served 10 aces, what is the value of $x$? Show your work and check your solution.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Check for accuracy and completeness",
+       "Encourage students to show their work",
+       "Provide feedback and guidance as needed"
+   ],
+   "footer": "Chef's Tips"
+}

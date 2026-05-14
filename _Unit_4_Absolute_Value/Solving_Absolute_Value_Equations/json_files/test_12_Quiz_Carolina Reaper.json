@@ -1,0 +1,129 @@
+{
+  "unit": "\u1F4D6 Unit 4: Absolute Value",
+   "topic": "Solving Absolute Value Equations",
+   "test_type": "Quiz (Carolina Reaper)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "Solve for $x$: $|x| = 9$",
+           "options": {
+               "A": "$x = 9$",
+               "B": "$x = -9$",
+               "C": "$x = 9$ or $x = -9$",
+               "D": "$x = 0$",
+               "E": "$x = 18$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "Solve for $x$: $|2x - 5| = 11$",
+           "options": {
+               "A": "$x = 2$ or $x = 8$",
+               "B": "$x = -2$ or $x = -8$",
+               "C": "$x = 2$ or $x = -8$",
+               "D": "$x = 8$ or $x = -2$",
+               "E": "$x = 0$"
+           },
+           "answer": "D"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "A delivery truck travels $|x - 20|$ miles in $2$ hours. If the truck's speed is $10$ mph, what is $x$?",
+           "options": {
+               "A": "$x = 10$",
+               "B": "$x = 20$",
+               "C": "$x = 30$",
+               "D": "$x = 40$",
+               "E": "$x = 50$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "Solve for $x$: $|x + 2| = |3x - 1|$",
+           "options": {
+               "A": "$x = 1$ or $x = -1$",
+               "B": "$x = 1$ or $x = 3$",
+               "C": "$x = -1$ or $x = 3$",
+               "D": "$x = 0$",
+               "E": "$x = 2$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "A shipment of packages must travel $|x + 15|$ miles to reach its destination. If the shipment has already traveled $10$ miles, what is $x$?",
+           "options": {
+       "A": "$x = -5$",
+       "B": "$x = -10$",
+       "C": "$x = -15$",
+       "D": "$x = -20$",
+       "E": "$x = -25$"
+   },
+   "answer": "B"
+},
+{
+   "id": 6,
+   "type": "MQ",
+   "question": "Solve for $x$: $|x| = |2x - 3|$",
+   "options": {
+       "A": "$x = 1$ or $x = 3$",
+       "B": "$x = 1$ or $x = -3$",
+       "C": "$x = -1$ or $x = 3$",
+       "D": "$x = 0$",
+       "E": "$x = 2$"
+   },
+   "answer": "A"
+},
+{
+   "id": 7,
+   "type": "MQ",
+   "question": "The time it takes for a package to be delivered is given by $|x - 5| + 2$ hours. If the package is delivered in $4$ hours, what is $x$?",
+   "options": {
+       "A": "$x = 1$",
+       "B": "$x = 3$",
+       "C": "$x = 5$",
+       "D": "$x = 7$",
+       "E": "$x = 9$"
+   },
+   "answer": "D"
+},
+{
+   "id": 8,
+   "type": "MQ",
+   "question": "Solve for $x$: $|x + 1| = |x - 4|$",
+   "options": {
+       "A": "$x = 1.5$",
+       "B": "$x = 2.5$",
+       "C": "$x = 3$",
+       "D": "$x = 3.5$",
+       "E": "$x = 4$"
+   },
+   "answer": "B"
+},
+{
+   "id": 9,
+   "type": "FRQ",
+   "question": "A traffic flow model is given by the equation $|2x - 10| + 5 = |x + 2| + 11$. Solve for $x$ and show all work.",
+   "required_space_lines": 5
+},
+{
+   "id": 10,
+   "type": "FRQ",
+   "question": "A logistics company has a shipping route that is $|x + 20|$ miles long. The company wants to add a new warehouse that is $|x - 5|$ miles from the current route. If the new warehouse is $15$ miles from the current route, what is $x$? Show all work and explain your reasoning.",
+   "required_space_lines": 5
+}
+   ],
+   "teacher_rules": [
+       "Emphasize the importance of checking solutions for extraneous results",
+       "Encourage students to use different methods to solve absolute value equations",
+       "Remind students to consider the context of the problem when solving absolute value equations"
+   ],
+   "footer": "Chef's Tips"
+}

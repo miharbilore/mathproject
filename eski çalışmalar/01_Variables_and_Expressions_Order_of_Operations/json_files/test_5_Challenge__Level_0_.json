@@ -1,0 +1,150 @@
+{
+  "test_id": 5,
+   "test_type": "Challenge (Level 0)",
+   "topic": "Variables and Expressions / Order of Operations",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "What is the variable in the expression $2x + 3$?",
+           "options": {
+               "A": "2",
+               "B": "3",
+               "C": "x",
+               "D": "2x",
+               "E": "3x"
+           },
+           "answer": "C",
+           "spicy_level": "",
+           "required_space_lines": 0
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "Identify the constant term in the expression $4y - 2$.",
+           "options": {
+               "A": "4y",
+               "B": "4",
+               "C": "-2",
+               "D": "y",
+               "E": "2y"
+           },
+           "answer": "C",
+           "spicy_level": "",
+           "required_space_lines": 0
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "What is the coefficient of $x$ in the expression $5x - 1$?",
+           "options": {
+               "A": "1",
+               "B": "-1",
+               "C": "5",
+               "D": "x",
+               "E": "-5"
+           },
+           "answer": "C",
+           "spicy_level": "",
+           "required_space_lines": 0
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "Which of the following is an example of a simple expression?",
+           "options": {
+               "A": "$2x + 3 = 5$",
+               "B": "$4y - 2$",
+               "C": "$x^2 + 3x - 2$",
+               "D": "$\frac{2}{3}x + 1$",
+               "E": "$x = 2$"
+           },
+           "answer": "B",
+           "spicy_level": "",
+           "required_space_lines": 0
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "What operation is represented by the symbol $+$?",
+           "options": {
+               "A": "Subtraction",
+               "B": "Addition",
+               "C": "Multiplication",
+               "D": "Division",
+               "E": "Exponentiation"
+           },
+           "answer": "B",
+           "spicy_level": "",
+           "required_space_lines": 0
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "Identify the operator in the expression $7 - 2$.",
+           "options": {
+               "A": "7",
+               "B": "2",
+               "C": "-",
+               "D": "+",
+               "E": "*"
+           },
+           "answer": "C",
+           "spicy_level": "",
+           "required_space_lines": 0
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "What is the term $3x$ an example of in an algebraic expression?",
+           "options": {
+               "A": "Constant",
+               "B": "Variable",
+               "C": "Coefficient",
+               "D": "Term",
+               "E": "Expression"
+           },
+           "answer": "D",
+           "spicy_level": "",
+           "required_space_lines": 0
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "Which part of the expression $2x + 5$ is the constant term?",
+           "options": {
+               "A": "$2x$",
+               "B": "5",
+               "C": "2",
+               "D": "x",
+               "E": "+"
+           },
+           "answer": "B",
+           "spicy_level": "",
+           "required_space_lines": 0
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "Draw a diagram to represent the expression $x + 2$ and explain what each part of the expression represents.",
+           "options": {},
+           "answer": "Model diagram with $x$ as a variable and 2 as a constant, and a explanation of the parts.",
+           "spicy_level": "",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "Explain in your own words the difference between a variable and a constant in an algebraic expression, providing examples of each.",
+           "options": {},
+           "answer": "Model explanation that correctly identifies and explains variables and constants.",
+           "spicy_level": "",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Emphasize the distinction between variables, constants, and coefficients in expressions.",
+       "Use simple, real-world examples to illustrate the concepts of variables and expressions.",
+       "Encourage students to identify and explain the components of basic algebraic expressions."
+   ]
+}

@@ -1,0 +1,129 @@
+{
+  "unit": "\u1F4D6 Unit 2: Exponents & Radicals",
+   "topic": "Rationalizing Denominator",
+   "test_type": "Homework (Carolina Reaper)",
+   "questions":[
+      {
+         "id":1,
+         "type":"MQ",
+         "question":"A painter mixes $2 \\cdot \\sqrt{3}$ liters of blue paint with $5 \\cdot \\sqrt{2}$ liters of white paint. What is the ratio of blue paint to total paint, with a rationalized denominator?",
+         "options":{
+            "A":"$\\frac{2 \\cdot \\sqrt{3}}{5 \\cdot \\sqrt{2} + 2 \\cdot \\sqrt{3}}$",
+            "B":"$\\frac{2 \\cdot \\sqrt{3} \\cdot \\sqrt{2}}{5 \\cdot 2 + 2 \\cdot \\sqrt{3} \\cdot \\sqrt{2}}$",
+            "C":"$\\frac{4 \\cdot \\sqrt{6}}{10 + 4 \\cdot \\sqrt{6}}$",
+            "D":"$\\frac{4 \\cdot \\sqrt{6}}{10 + 4 \\cdot \\sqrt{6}} \\cdot \\frac{10 - 4 \\cdot \\sqrt{6}}{10 - 4 \\cdot \\sqrt{6}}$",
+            "E":"$\\frac{2 \\cdot \\sqrt{3} \\cdot \\sqrt{2}}{5 \\cdot \\sqrt{2} + 2 \\cdot \\sqrt{3} \\cdot \\sqrt{2}}$"
+         },
+         "answer":"D"
+      },
+      {
+         "id":2,
+         "type":"MQ",
+         "question":"A musician plays a rhythm with a frequency of $\\frac{1}{\\sqrt{5}}$ Hz. What is this frequency with a rationalized denominator?",
+         "options":{
+            "A":"$\\frac{1}{\\sqrt{5}}$",
+            "B":"$\\frac{\\sqrt{5}}{5}$",
+            "C":"$\\frac{1}{5}$",
+            "D":"$\\frac{\\sqrt{5}}{25}$",
+            "E":"$\\frac{1}{25}$"
+         },
+         "answer":"B"
+      },
+      {
+         "id":3,
+         "type":"MQ",
+         "question":"The area of a rectangular canvas is $4 \\cdot \\sqrt{3}$ square meters. If its length is $2 \\cdot \\sqrt{2}$ meters, what is its width with a rationalized denominator?",
+         "options":{
+            "A":"$\\frac{4 \\cdot \\sqrt{3}}{2 \\cdot \\sqrt{2}}$",
+            "B":"$\\frac{2 \\cdot \\sqrt{3} \\cdot \\sqrt{2}}{2}$",
+            "C":"$\\frac{4 \\cdot \\sqrt{6}}{4}$",
+            "D":"$\\frac{4 \\cdot \\sqrt{3}}{2 \\cdot \\sqrt{2}} \\cdot \\frac{\\sqrt{2}}{\\sqrt{2}}$",
+            "E":"$\\sqrt{6}$"
+         },
+         "answer":"D"
+      },
+      {
+         "id":4,
+         "type":"MQ",
+         "question":"A sound wave has a frequency of $\\frac{1}{2 \\cdot \\sqrt{7}}$ Hz. What is this frequency with a rationalized denominator?",
+         "options":{
+            "A":"$\\frac{1}{2 \\cdot \\sqrt{7}}$",
+            "B":"$\\frac{\\sqrt{7}}{14}$",
+            "C":"$\\frac{1}{14}$",
+            "D":"$\\frac{\\sqrt{7}}{28}$",
+            "E":"$\\frac{1}{28}$"
+         },
+         "answer":"B"
+      },
+      {
+         "id":5,
+         "type":"MQ",
+         "question":"A painter needs $\\frac{3}{\\sqrt{11}}$ liters of paint to cover a wall. What is the amount of paint needed with a rationalized denominator?",
+         "options":{
+            "A":"$\\frac{3}{\\sqrt{11}}$",
+            "B":"$\\frac{3 \\cdot \\sqrt{11}}{11}$",
+            "C":"$\\frac{3 \\cdot \\sqrt{11}}{121}$",
+            "D":"$\\frac{3}{11}$",
+            "E":"$\\frac{3 \\cdot \\sqrt{11}}{11}$"
+         },
+         "answer":"B"
+      },
+      {
+         "id":6,
+         "type":"MQ",
+         "question":"The length of a string is $5 \\cdot \\sqrt{2}$ meters. If it is divided into $\\frac{1}{\\sqrt{3}}$ parts, what is the length of each part with a rationalized denominator?",
+         "options":{
+            "A":"$\\frac{5 \\cdot \\sqrt{2}}{\\sqrt{3}}$",
+            "B":"$\\frac{5 \\cdot \\sqrt{2} \\cdot \\sqrt{3}}{3}$",
+            "C":"$\\frac{5 \\cdot \\sqrt{6}}{3}$",
+            "D":"$\\frac{5 \\cdot \\sqrt{2}}{\\sqrt{3}} \\cdot \\frac{\\sqrt{3}}{\\sqrt{3}}$",
+            "E":"$\\frac{5 \\cdot \\sqrt{6}}{3}$"
+         },
+         "answer":"D"
+      },
+      {
+         "id":7,
+         "type":"MQ",
+         "question":"A musician plays a song with a rhythm pattern of $\\frac{2}{\\sqrt{5}}$ beats per minute. What is this rhythm pattern with a rationalized denominator?",
+         "options":{
+            "A":"$\\frac{2}{\\sqrt{5}}$",
+            "B":"$\\frac{2 \\cdot \\sqrt{5}}{5}$",
+            "C":"$\\frac{2}{5}$",
+            "D":"$\\frac{2 \\cdot \\sqrt{5}}{25}$",
+            "E":"$\\frac{2}{25}$"
+         },
+         "answer":"B"
+      },
+      {
+         "id":8,
+         "type":"MQ",
+         "question":"The area of a triangular canvas is $6 \\cdot \\sqrt{3}$ square meters. If its base is $2 \\cdot \\sqrt{2}$ meters, what is its height with a rationalized denominator?",
+         "options":{
+            "A":"$\\frac{6 \\cdot \\sqrt{3}}{2 \\cdot \\sqrt{2}}$",
+            "B":"$\\frac{3 \\cdot \\sqrt{3} \\cdot \\sqrt{2}}{2}$",
+            "C":"$\\frac{3 \\cdot \\sqrt{6}}{2}$",
+            "D":"$\\frac{6 \\cdot \\sqrt{3}}{2 \\cdot \\sqrt{2}} \\cdot \\frac{\\sqrt{2}}{\\sqrt{2}}$",
+            "E":"$\\frac{3 \\cdot \\sqrt{6}}{2}$"
+         },
+         "answer":"D"
+      },
+      {
+         "id":9,
+         "type":"FRQ",
+         "question":"The length and width of a rectangular canvas are $3 \\cdot \\sqrt{5}$ meters and $2 \\cdot \\sqrt{7}$ meters respectively. Find the area of the canvas with a rationalized denominator.",
+         "required_space_lines":5
+      },
+      {
+         "id":10,
+         "type":"FRQ",
+         "question":"A musician plays a song with a rhythm pattern of $\\frac{3}{\\sqrt{11}}$ beats per minute. What is this rhythm pattern with a rationalized denominator? Show all steps.",
+         "required_space_lines":5
+      }
+   ],
+   "teacher_rules":[
+      "Tip 1: Emphasize the importance of rationalizing denominators in real-world applications.",
+      "Tip 2: Encourage students to use the conjugate to rationalize denominators.",
+      "Tip 3: Remind students to simplify their answers after rationalizing denominators."
+   ],
+   "footer_title":"Chef's Tips"
+}

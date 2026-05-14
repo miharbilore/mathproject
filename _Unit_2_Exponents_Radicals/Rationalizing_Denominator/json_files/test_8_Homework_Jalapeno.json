@@ -1,0 +1,129 @@
+{
+  "unit": "\u1f4d6 Unit 2: Exponents & Radicals",
+   "topic": "Rationalizing Denominator",
+   "test_type": "Homework (Jalapeno)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "The ancient Egyptians used $\\sqrt{2}$ to represent the diagonal of a square. Rationalize the denominator of $\\frac{1}{\\sqrt{2}}$.",
+           "options": {
+               "A": "$\\frac{\\sqrt{2}}{2}$",
+               "B": "$\\frac{2}{\\sqrt{2}}$",
+               "C": "$\\frac{1}{2}$",
+               "D": "$\\sqrt{2}$",
+               "E": "$2$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "The ancient Babylonians used $\\sqrt{3}$ to represent the diagonal of a rectangle. Rationalize the denominator of $\\frac{2}{\\sqrt{3}}$.",
+           "options": {
+               "A": "$\\frac{2\\sqrt{3}}{3}$",
+               "B": "$\\frac{\\sqrt{3}}{2}$",
+               "C": "$\\frac{2}{3}$",
+               "D": "$\\sqrt{3}$",
+               "E": "$2$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "The ancient Greeks used $\\sqrt{5}$ to represent the golden ratio. Rationalize the denominator of $\\frac{1}{\\sqrt{5}}$.",
+           "options": {
+               "A": "$\\frac{\\sqrt{5}}{5}$",
+               "B": "$\\frac{5}{\\sqrt{5}}$",
+               "C": "$\\frac{1}{5}$",
+               "D": "$\\sqrt{5}$",
+               "E": "$5$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "The Mayans used $\\sqrt{6}$ to represent the length of a bridge. Rationalize the denominator of $\\frac{3}{\\sqrt{6}}$.",
+           "options": {
+       "A": "$\\frac{3\\sqrt{6}}{6}$",
+       "B": "$\\frac{\\sqrt{6}}{3}$",
+       "C": "$\\frac{3}{6}$",
+       "D": "$\\sqrt{6}$",
+       "E": "$6$"
+   },
+           "answer": "A"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "Archimedes used $\\sqrt{7}$ to calculate the area of a circle. Rationalize the denominator of $\\frac{2}{\\sqrt{7}}$.",
+           "options": {
+               "A": "$\\frac{2\\sqrt{7}}{7}$",
+               "B": "$\\frac{\\sqrt{7}}{2}$",
+               "C": "$\\frac{2}{7}$",
+               "D": "$\\sqrt{7}$",
+               "E": "$7$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "Euclid used $\\sqrt{8}$ to represent the length of a rectangle. Rationalize the denominator of $\\frac{1}{\\sqrt{8}}$.",
+           "options": {
+               "A": "$\\frac{\\sqrt{8}}{8}$",
+               "B": "$\\frac{\\sqrt{2}}{4}$",
+               "C": "$\\frac{1}{8}$",
+               "D": "$\\sqrt{8}$",
+               "E": "$8$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "The ancient Chinese used $\\sqrt{9}$ to represent the area of a square. Rationalize the denominator of $\\frac{3}{\\sqrt{9}}$.",
+           "options": {
+               "A": "$\\frac{3}{3}$",
+               "B": "$\\frac{\\sqrt{9}}{3}$",
+               "C": "$\\frac{3}{9}$",
+               "D": "$\\sqrt{9}$",
+       "E": "$9$"
+   },
+           "answer": "A"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "The ancient Indians used $\\sqrt{10}$ to represent the length of a bridge. Rationalize the denominator of $\\frac{2}{\\sqrt{10}}$.",
+           "options": {
+               "A": "$\\frac{2\\sqrt{10}}{10}$",
+               "B": "$\\frac{\\sqrt{10}}{2}$",
+               "C": "$\\frac{2}{10}$",
+               "D": "$\\sqrt{10}$",
+               "E": "$10$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "Rationalize the denominator of $\\frac{5}{\\sqrt{12}}$ and simplify. Show your work.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "Rationalize the denominator of $\\frac{4}{\\sqrt{15}}$ and simplify. Show your work.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Tip 1: Remind students to simplify after rationalizing the denominator.",
+       "Tip 2: Encourage students to check their work.",
+       "Tip 3: Provide extra support for students who struggle with radicals."
+   ],
+   "footer_title": "Chef's Tips"
+}

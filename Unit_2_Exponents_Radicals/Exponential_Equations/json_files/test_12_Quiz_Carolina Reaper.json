@@ -1,0 +1,129 @@
+{
+  "unit": "\u1F4D6 Unit 2: Exponents & Radicals",
+   "topic": "Exponential Equations",
+   "test_type": "Quiz (Carolina Reaper)",
+   "questions": [
+     {
+       "id": 1,
+       "type": "MQ",
+       "question": "A shipping company's revenue $R$ is modeled by the equation $R = 2^t$, where $t$ is the number of years. If $R = 32$, what is the value of $t$?",
+       "options": {
+         "A": "2",
+         "B": "3",
+         "C": "4",
+         "D": "5",
+         "E": "6"
+       },
+       "answer": "C"
+     },
+     {
+       "id": 2,
+       "type": "MQ",
+       "question": "The population $P$ of a city is growing according to the equation $P = 3 cdot 2^{0.1t}$, where $t$ is the number of years. If $P = 12$, what is the value of $t$?",
+       "options": {
+         "A": "1",
+         "B": "2",
+         "C": "3",
+         "D": "4",
+         "E": "5"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 3,
+       "type": "MQ",
+       "question": "The time $T$ it takes for a package to be delivered is given by the equation $T = 2^{-d}$, where $d$ is the distance in miles. If $T = \frac{1}{4}$, what is the value of $d$?",
+       "options": {
+         "A": "1",
+         "B": "2",
+         "C": "3",
+         "D": "4",
+         "E": "5"
+       },
+       "answer": "D"
+     },
+     {
+       "id": 4,
+       "type": "MQ",
+       "question": "The cost $C$ of shipping a package is modeled by the equation $C = 2^{n-1}$, where $n$ is the number of packages. If $C = 16$, what is the value of $n$?",
+       "options": {
+         "A": "3",
+         "B": "4",
+         "C": "5",
+         "D": "6",
+         "E": "7"
+       },
+       "answer": "C"
+     },
+     {
+       "id": 5,
+       "type": "MQ",
+       "question": "The speed $S$ of a truck is given by the equation $S = 3 cdot 2^{0.2t}$, where $t$ is the number of hours. If $S = 12$, what is the value of $t$?",
+       "options": {
+         "A": "1",
+         "B": "2",
+         "C": "3",
+         "D": "4",
+         "E": "5"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 6,
+       "type": "MQ",
+       "question": "The distance $D$ a truck travels is modeled by the equation $D = 2^{t+1}$, where $t$ is the number of hours. If $D = 16$, what is the value of $t$?",
+       "options": {
+         "A": "1",
+         "B": "2",
+         "C": "3",
+         "D": "4",
+         "E": "5"
+       },
+       "answer": "C"
+     },
+     {
+       "id": 7,
+       "type": "MQ",
+       "question": "The time $T$ it takes for a train to arrive is given by the equation $T = 2^{-x}$, where $x$ is the distance in miles. If $T = \frac{1}{8}$, what is the value of $x$?",
+       "options": {
+         "A": "2",
+         "B": "3",
+         "C": "4",
+         "D": "5",
+         "E": "6"
+       },
+       "answer": "C"
+     },
+     {
+       "id": 8,
+       "type": "MQ",
+       "question": "The cost $C$ of fuel for a truck is modeled by the equation $C = 3 cdot 2^{n}$, where $n$ is the number of miles driven. If $C = 24$, what is the value of $n$?",
+       "options": {
+         "A": "1",
+         "B": "2",
+         "C": "3",
+         "D": "4",
+         "E": "5"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 9,
+       "type": "FRQ",
+       "question": "A logistics company's profit $P$ is given by the equation $P = 2^{x-1}$, where $x$ is the number of shipments. Find the value of $x$ when $P = 8$ and show your work.",
+       "required_space_lines": 5
+     },
+     {
+       "id": 10,
+       "type": "FRQ",
+       "question": "The number of packages $N$ delivered by a courier service is modeled by the equation $N = 3 cdot 2^{0.5t}$, where $t$ is the number of hours. Find the value of $t$ when $N = 12$ and show your work.",
+       "required_space_lines": 5
+     }
+   ],
+   "teacher_rules": [
+     "Use a calculator to check your work",
+     "Show all work and explanations",
+     "Check for units and reasonableness of answers"
+   ],
+   "footer": "Chef's Tips"
+ }

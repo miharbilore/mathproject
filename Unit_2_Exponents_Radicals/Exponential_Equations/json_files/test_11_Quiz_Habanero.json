@@ -1,0 +1,129 @@
+{
+  "unit": "\ud83d\udcda Unit 2: Exponents & Radicals",
+   "topic": "Exponential Equations",
+   "test_type": "Quiz (Habanero)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "Solve for $x$: $2^x = 32$",
+           "options": {
+               "A": "$x = 3$",
+               "B": "$x = 4$",
+               "C": "$x = 5$",
+               "D": "$x = 6$",
+               "E": "$x = 7$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "If $3^{x+1} = 81$, then $x =$",
+           "options": {
+               "A": "$x = 1$",
+               "B": "$x = 2$",
+               "C": "$x = 3$",
+               "D": "$x = 4$",
+               "E": "$x = 5$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "A population of bacteria grows according to the equation $P(t) = 200 cdot 2^{0.5t}$, where $t$ is time in hours. If $P(t) = 800$, then $t =$",
+           "options": {
+               "A": "$t = 2$",
+               "B": "$t = 3$",
+               "C": "$t = 4$",
+               "D": "$t = 5$",
+               "E": "$t = 6$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "Solve for $y$: $4^y = 2^{2y} cdot 2^3$",
+           "options": {
+               "A": "$y = 1$",
+               "B": "$y = 2$",
+               "C": "$y = 3$",
+               "D": "$y = 4$",
+               "E": "$y = 5$"
+           },
+           "answer": "D"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "The temperature of a cup of coffee decreases according to the equation $T(t) = 95 cdot (0.8)^t$, where $t$ is time in minutes. If $T(t) = 65$, then $t =$",
+           "options": {
+               "A": "$t = 5$",
+       "B": "$t = 6$",
+       "C": "$t = 7$",
+       "D": "$t = 8$",
+       "E": "$t = 9$"
+   },
+   "answer": "C"
+},
+{
+   "id": 6,
+   "type": "MQ",
+   "question": "Solve for $x$: $x^2 cdot 2^x = 64$",
+   "options": {
+       "A": "$x = 2$",
+       "B": "$x = 3$",
+       "C": "$x = 4$",
+       "D": "$x = 5$",
+       "E": "$x = 6$"
+   },
+   "answer": "B"
+},
+{
+   "id": 7,
+   "type": "MQ",
+   "question": "The depth of water in a lake decreases according to the equation $D(t) = 50 cdot (0.9)^t$, where $t$ is time in days. If $D(t) = 35$, then $t =$",
+   "options": {
+       "A": "$t = 3$",
+       "B": "$t = 4$",
+       "C": "$t = 5$",
+       "D": "$t = 6$",
+       "E": "$t = 7$"
+   },
+   "answer": "C"
+},
+{
+   "id": 8,
+   "type": "MQ",
+   "question": "Solve for $y$: $3^{y+1} = 27 cdot 3^2$",
+   "options": {
+       "A": "$y = 1$",
+       "B": "$y = 2$",
+       "C": "$y = 3$",
+       "D": "$y = 4$",
+       "E": "$y = 5$"
+   },
+   "answer": "B"
+},
+{
+   "id": 9,
+   "type": "FRQ",
+   "question": "A hurricane's wind speed decreases according to the equation $W(t) = 120 cdot (0.8)^t$, where $t$ is time in hours. Find the time when the wind speed is 80 mph, and show your work.",
+   "required_space_lines": 5
+},
+{
+   "id": 10,
+   "type": "FRQ",
+   "question": "The population of a city grows according to the equation $P(t) = 100 cdot 2^{0.2t}$, where $t$ is time in years. Find the time when the population is 250, and show your work.",
+   "required_space_lines": 5
+}
+],
+"teacher_rules": [
+   "Tip 1: Use logarithms to solve exponential equations",
+   "Tip 2: Check your units and dimensions",
+   "Tip 3: Simplify your expressions before solving"
+],
+"footer": "Chef's Tips"
+}

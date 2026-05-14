@@ -1,0 +1,129 @@
+{
+  "unit": "\u1F4D6 Unit 1: Ratio, Rate, Percentage",
+   "topic": "Ratios & Proportions",
+   "test_type": "Homework (Jalapeno)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "In ancient Egypt, the ratio of a pyramid's base to its height was $3:5$. If the height of the pyramid is $150$ meters, what is the length of its base?",
+           "options": {
+               "A": "$50$ meters",
+               "B": "$90$ meters",
+               "C": "$100$ meters",
+               "D": "$120$ meters",
+               "E": "$150$ meters"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "A recipe for ancient Greek ambrosia requires a ratio of $2:3$ of honey to olive oil. If $240$ units of olive oil are used, how many units of honey are needed?",
+           "options": {
+               "A": "$120$ units",
+               "B": "$160$ units",
+               "C": "$180$ units",
+               "D": "$200$ units",
+               "E": "$240$ units"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "The ancient Babylonians used a sexagesimal number system with a ratio of $6:10$ for the number of degrees in a circle to the number of fingers on two hands. If a circle has $360$ degrees, what is the ratio of degrees to fingers?",
+           "options": {
+               "A": "$6:5$",
+               "B": "$6:10$",
+               "C": "$12:10$",
+               "D": "$18:10$",
+           "E": "$36:10$"
+       },
+           "answer": "B"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "In the construction of the ancient Roman Colosseum, the ratio of the length to the width of the arena was $3:2$. If the length of the arena was $180$ meters, what was the width?",
+           "options": {
+               "A": "$100$ meters",
+       "B": "$120$ meters",
+       "C": "$140$ meters",
+       "D": "$160$ meters",
+       "E": "$180$ meters"
+   },
+           "answer": "B"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "A museum has a collection of ancient artifacts with a ratio of $5:8$ of pottery to sculptures. If there are $80$ sculptures, how many pieces of pottery are there?",
+           "options": {
+       "A": "$30$ pieces",
+       "B": "$40$ pieces",
+       "C": "$50$ pieces",
+       "D": "$60$ pieces",
+       "E": "$70$ pieces"
+   },
+           "answer": "C"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "The ancient Chinese used a ratio of $4:5$ for the number of strings on a guqin to the number of elements in the universe. If a guqin has $25$ strings, what is the number of elements?",
+           "options": {
+       "A": "$20$ elements",
+       "B": "$25$ elements",
+       "C": "$30$ elements",
+       "D": "$31.25$ elements",
+       "E": "$40$ elements"
+   },
+           "answer": "D"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "In ancient Mesopotamia, the ratio of the area of a sheep's pasture to the area of a goat's pasture was $3:4$. If the area of the sheep's pasture is $240$ square kilometers, what is the area of the goat's pasture?",
+           "options": {
+       "A": "$240$ square kilometers",
+       "B": "$320$ square kilometers",
+       "C": "$360$ square kilometers",
+       "D": "$400$ square kilometers",
+       "E": "$480$ square kilometers"
+   },
+           "answer": "B"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "The ancient Egyptians used a ratio of $1:1.618$ for the construction of the golden rectangle. If the length of the rectangle is $100$ meters, what is the width?",
+           "options": {
+       "A": "$50$ meters",
+       "B": "$61.8$ meters",
+       "C": "$80$ meters",
+       "D": "$100$ meters",
+       "E": "$120$ meters"
+   },
+           "answer": "B"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "The ancient Greeks used a ratio of $1:1:\\sqrt{2}$ for the construction of the icosahedron. If the length of one side of the icosahedron is $10$ meters, find the length of the other side and show your work.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "A historian is studying the ratio of the number of soldiers to the number of civilians in ancient armies. If the ratio of soldiers to civilians in the ancient Roman army was $3:7$ and there were $21000$ soldiers, find the number of civilians and show your work.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Tip 1: Make sure students understand the concept of equivalent ratios",
+       "Tip 2: Emphasize the importance of using cross-multiplication to solve proportions",
+       "Tip 3: Encourage students to use real-world examples to model proportions"
+   ],
+   "footer": "Chef's Tips"
+}

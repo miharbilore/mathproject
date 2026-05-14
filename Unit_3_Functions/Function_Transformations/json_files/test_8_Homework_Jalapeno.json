@@ -1,0 +1,129 @@
+{
+  "unit": "Unit 3: Functions",
+   "topic": "Function Transformations",
+   "test_type": "Homework (Jalapeno)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "The function $f(x) = x^2$ is shifted 3 units to the right. What is the new equation?",
+           "options": {
+               "A": "$f(x) = (x-3)^2$",
+               "B": "$f(x) = (x+3)^2$",
+               "C": "$f(x) = x^2 + 3$",
+               "D": "$f(x) = x^2 - 3$",
+               "E": "$f(x) = (x-3)^2 + 3$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "The ancient Egyptians built the Great Pyramid around $2580$ BC. If we model the height of the pyramid over time $t$ (in years) using the function $h(t) = -0.1t + 150$, what is the vertical shift of this function?",
+           "options": {
+               "A": "150",
+               "B": "0.1",
+               "C": "-0.1",
+               "D": "100",
+               "E": "200"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "A horizontal reflection over the $y$-axis is applied to the function $f(x) = x^3$. What is the equation of the reflected function?",
+           "options": {
+               "A": "$f(x) = -x^3$",
+               "B": "$f(x) = x^3$",
+               "C": "$f(x) = (-x)^3$",
+               "D": "$f(x) = -(-x)^3$",
+               "E": "$f(x) = x^2$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "The Rosetta Stone was carved in $196$ BC. If the function $p(t) = 2t + 10$ models the number of people $p$ visiting the stone $t$ years after it was carved, what is the $y$-intercept of this function?",
+           "options": {
+               "A": "10",
+               "B": "20",
+               "C": "5",
+               "D": "-10",
+               "E": "0"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "A vertical stretch by a factor of $2$ is applied to the function $f(x) = x^2$. What is the equation of the stretched function?",
+           "options": {
+       "A": "$f(x) = 2x^2$",
+       "B": "$f(x) = x^2 + 2$",
+       "C": "$f(x) = x^2 - 2$",
+       "D": "$f(x) = (2x)^2$",
+       "E": "$f(x) = (x/2)^2$"
+   },
+   "answer": "A"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "The Hanging Gardens of Babylon were one of the Seven Wonders of the Ancient World. If a vertical compression by a factor of $0.5$ is applied to the function $f(x) = x^3$, what is the equation of the compressed function?",
+           "options": {
+       "A": "$f(x) = 0.5x^3$",
+       "B": "$f(x) = x^3 + 0.5$",
+       "C": "$f(x) = x^3 - 0.5$",
+       "D": "$f(x) = (0.5x)^3$",
+       "E": "$f(x) = (x/0.5)^3$"
+   },
+   "answer": "A"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "The ancient Greeks used the function $d(t) = 2t$ to model the distance $d$ (in meters) a runner could cover $t$ minutes after the start of a race. What is the horizontal shift of the function $d(t) = 2(t - 5)$?",
+           "options": {
+       "A": "5 minutes",
+       "B": "10 minutes",
+       "C": "2 minutes",
+       "D": "0 minutes",
+       "E": "20 minutes"
+   },
+   "answer": "A"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "The Great Wall of China was built to protect the Chinese Empire from invaders. If a reflection over the $x$-axis is applied to the function $f(x) = -x^2$, what is the equation of the reflected function?",
+           "options": {
+       "A": "$f(x) = x^2$",
+       "B": "$f(x) = -x^2$",
+       "C": "$f(x) = x^2 + 1$",
+       "D": "$f(x) = -x^2 + 1$",
+       "E": "$f(x) = x^2 - 1$"
+   },
+   "answer": "A"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "The function $f(x) = x^2 - 2x + 1$ models the path of a projectile launched from the ancient city of Pompeii. Describe the transformations applied to the parent function $g(x) = x^2$ to obtain $f(x)$, and graph both functions on the same coordinate plane.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "Compare the graphs of $y = f(x) = x^3$ and $y = g(x) = -x^3 + 2$. Describe any vertical or horizontal shifts, stretches, compressions, or reflections that have been applied to the graph of $f(x)$ to obtain the graph of $g(x)$. Use complete sentences and provide at least two key points of comparison.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Use historical context to make questions more engaging and relevant to students' interests.",
+       "Ensure that all multiple-choice options are plausible but only one is correct.",
+       "Allow students to use graphing calculators or software to visualize and explore function transformations."
+   ],
+   "footer_title": "Chef's Tips"
+}

@@ -1,0 +1,129 @@
+{
+  "unit": "\u1F4D6 Unit 4: Absolute Value",
+   "topic": "Definition of Absolute Value",
+   "test_type": "Foundation (Jalapeno)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "What is the absolute value of $-5$?",
+           "options": {
+               "A": "$-5$",
+               "B": "$5$",
+               "C": "$0$",
+               "D": "$10$",
+               "E": "$25$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "A basketball player scores $-3$ points in a game. What is the absolute value of their score?",
+           "options": {
+               "A": "$-3$",
+               "B": "$3$",
+               "C": "$0$",
+               "D": "$6$",
+               "E": "$9$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "What is $|2 - 5|$?",
+           "options": {
+               "A": "$-3$",
+               "B": "$3$",
+               "C": "$0$",
+               "D": "$7$",
+               "E": "$10$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "The distance between two athletes is $|-8|$ meters. How far apart are they?",
+           "options": {
+               "A": "$-8$ meters",
+               "B": "$8$ meters",
+               "C": "$0$ meters",
+               "D": "$16$ meters",
+               "E": "$32$ meters"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "A cyclist travels $|-4|$ kilometers in $2$ hours. How far did they travel?",
+           "options": {
+               "A": "$-4$ km",
+               "B": "$4$ km",
+               "C": "$0$ km",
+               "D": "$8$ km",
+               "E": "$12$ km"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "What is $|0 - 9|$?",
+           "options": {
+               "A": "$-9$",
+               "B": "$9$",
+               "C": "$0$",
+               "D": "$18$",
+               "E": "$27$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "A gymnast's score is $|2x - 5|$ where $x = 3$. What is their score?",
+           "options": {
+               "A": "$1$",
+               "B": "$5$",
+               "C": "$0$",
+               "D": "$11$",
+               "E": "$16$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "The absolute value of a number $x$ is $|x| = 7$. What are the possible values of $x$?",
+           "options": {
+               "A": "$-7$ and $0$",
+               "B": "$7$ and $0$",
+               "C": "$-7$ and $7$",
+               "D": "$-14$ and $14$",
+               "E": "$-21$ and $21$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "The distance between a tennis player and the net is $x$ meters. If $x$ can be $-5$, $0$, or $5$, what are the possible distances from the player to the net? Show your work and explain your reasoning.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "A baseball team wins a game with a score of $|2x - 3|$ runs, where $x$ is the number of home runs. If the team scores $5$ runs, what is the value of $x$? Use the definition of absolute value to solve the equation and explain your work.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Remind students that absolute value represents distance from zero on the number line.",
+       "Encourage students to use real-world examples, such as sports scores, to illustrate the concept of absolute value.",
+       "Emphasize the importance of considering both positive and negative solutions when working with absolute value equations."
+   ],
+   "footer": "Chef's Tips"
+}

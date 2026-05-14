@@ -1,0 +1,129 @@
+{
+  "unit": "\u1F4D6 Unit 5: Linear Equations",
+   "topic": "Scatter Plot and The Best Fit Line",
+   "test_type": "Challenge (Habanero)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "In a gaming tournament, the number of wins $x$ and the average score $y$ are related. If the data points are $(1, 50)$, $(2, 60)$, $(3, 70)$, what type of correlation exists?",
+           "options": {
+               "A": "Positive",
+               "B": "Negative",
+               "C": "None",
+               "D": "Can't determine",
+               "E": "Insufficient data"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "The line of best fit for the data set $(2, 4)$, $(4, 6)$, $(6, 8)$ is $y = $",
+           "options": {
+               "A": "$x + 1$",
+               "B": "$2x - 2$",
+               "C": "$x - 2$",
+               "D": "$x$",
+               "E": "$x + 2$"
+           },
+           "answer": "D"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "A gamer's score $y$ and the time $x$ spent playing are modeled by the equation $y = 2x + 10$. What is the $y$-intercept?",
+           "options": {
+               "A": "2",
+               "B": "10",
+               "C": "0",
+               "D": "-2",
+               "E": "-10"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "If a line of best fit has a slope of $3$ and passes through the point $(1, 2)$, its equation is $y = $",
+           "options": {
+               "A": "$3x - 1$",
+               "B": "$3x + 1$",
+               "C": "$3x - 2$",
+               "D": "$2x + 1$",
+       "E": "$x + 3$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "The data points $(0, 0)$, $(1, 2)$, $(2, 4)$ have a line of best fit with a slope of $m = $",
+           "options": {
+               "A": "$2$",
+               "B": "$1$",
+               "C": "$0$",
+               "D": "$-1$",
+               "E": "$-2$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "If a scatter plot shows no correlation, what does the line of best fit do?",
+           "options": {
+               "A": "Has a slope of 1",
+               "B": "Is a horizontal line",
+               "C": "Is a vertical line",
+               "D": "Passes through the origin",
+       "E": "Does not exist"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "In a coding competition, the line of best fit for the number of lines $x$ and time $y$ taken is $y = 0.5x + 1$. Predict the time for 10 lines of code.",
+           "options": {
+       "A": "$4$",
+       "B": "$5$",
+       "C": "$6$",
+       "D": "$5.5$",
+       "E": "$6.5$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "The graph of $y = 2x - 3$ is the line of best fit for the data set $(1, 1)$, $(2, 3)$, $(3, 5)$. What is the $y$-intercept?",
+           "options": {
+               "A": "$1$",
+               "B": "$-3$",
+               "C": "$3$",
+               "D": "$-1$",
+       "E": "$2$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "A gamer's score $y$ and the number of hours $x$ spent playing are related. The data points are $(1, 20)$, $(2, 40)$, $(3, 60)$. Draw the line of best fit and use it to predict the score for 4 hours of playing. Show your work and explain your reasoning. Provide the equation of the line of best fit.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "The number of wins $x$ and the average score $y$ in a gaming tournament are related. The data set is $(2, 30)$, $(4, 50)$, $(6, 70)$. Create a scatter plot, identify the type of correlation, and draw the line of best fit. Use the line of best fit to predict the average score for 8 wins. Show your work and provide the equation of the line of best fit.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Provide clear instructions and examples before the test.",
+       "Ensure students have the necessary tools and materials.",
+       "Encourage students to ask questions and seek help when needed."
+   ],
+   "footer": "Chef's Tips"
+}

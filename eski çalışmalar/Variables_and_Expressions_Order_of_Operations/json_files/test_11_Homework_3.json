@@ -1,0 +1,150 @@
+{
+  "test_id": 11,
+   "test_type": "Homework 3",
+   "topic": "Variables and Expressions / Order of Operations",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "What is the variable in the expression $2x + 3$?",
+           "options": {
+               "A": "2",
+               "B": "3",
+               "C": "x",
+               "D": "2x",
+               "E": "None of the above"
+           },
+           "answer": "C",
+           "spicy_level": "",
+           "required_space_lines": 0
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "Identify the coefficient in the term $4y$?",
+           "options": {
+               "A": "y",
+               "B": "4",
+               "C": "4y",
+               "D": "None of the above",
+               "E": "0"
+           },
+           "answer": "B",
+           "spicy_level": "",
+           "required_space_lines": 0
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "What is the constant term in the expression $x + 2$?",
+           "options": {
+               "A": "x",
+               "B": "2",
+               "C": "x + 2",
+               "D": "None of the above",
+               "E": "0"
+           },
+           "answer": "B",
+           "spicy_level": "",
+           "required_space_lines": 0
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "Which of the following is an example of a simple expression? $3x$",
+           "options": {
+               "A": "Equation",
+               "B": "Inequality",
+               "C": "Expression",
+               "D": "None of the above",
+               "E": "Formula"
+           },
+           "answer": "C",
+           "spicy_level": "",
+           "required_space_lines": 0
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "What operation is denoted by the symbol $+$?",
+           "options": {
+               "A": "Subtraction",
+               "B": "Addition",
+               "C": "Multiplication",
+               "D": "Division",
+               "E": "None of the above"
+           },
+           "answer": "B",
+           "spicy_level": "",
+           "required_space_lines": 0
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "Identify the operator in $7 - 2$?",
+           "options": {
+               "A": "$+$",
+               "B": "$-$",
+               "C": "$\times$",
+               "D": "$div$",
+               "E": "None of the above"
+           },
+           "answer": "B",
+           "spicy_level": "",
+           "required_space_lines": 0
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "What does the term $3 cdot x$ represent?",
+           "options": {
+               "A": "3 divided by x",
+               "B": "3 subtracted from x",
+               "C": "3 multiplied by x",
+               "D": "3 added to x",
+               "E": "None of the above"
+           },
+           "answer": "C",
+           "spicy_level": "",
+           "required_space_lines": 0
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "Which part of the expression $2x + 5$ is the constant term?",
+           "options": {
+               "A": "$2x$",
+               "B": "$5$",
+               "C": "$2x + 5$",
+               "D": "None of the above",
+               "E": "$2$"
+           },
+           "answer": "B",
+           "spicy_level": "",
+           "required_space_lines": 0
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "Draw a diagram to represent the expression $x + 2$. Label the variable and the constant.",
+           "options": {},
+           "answer": "Model Solution: A number line with x marked and 2 units to the right marked as $x+2$",
+           "spicy_level": "",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "Explain in your own words what a variable is in an algebraic expression. Provide an example.",
+           "options": {},
+           "answer": "Model Solution: A variable is a letter that represents a value that can change. For example, in $3x$, $x$ is a variable, and its value can be any number.",
+           "spicy_level": "",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Ensure students understand that variables can represent any value, not just numbers.",
+       "Emphasize the difference between coefficients and constants in expressions.",
+       "Use visual aids to help students grasp the concept of expressions and variables."
+   ]
+}

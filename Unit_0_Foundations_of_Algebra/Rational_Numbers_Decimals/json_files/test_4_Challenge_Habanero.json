@@ -1,0 +1,129 @@
+{
+  "unit": "Unit 0: Foundations of Algebra",
+   "topic": "Rational Numbers & Decimals",
+   "test_type": "Challenge (Habanero)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "A recipe for making cookies requires $\\frac{3}{4}$ cup of sugar. If you want to make half the recipe, how much sugar will you need in decimal form?",
+           "options": {
+               "A": "0.25",
+               "B": "0.35",
+               "C": "0.375",
+               "D": "0.5",
+               "E": "0.75"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "A building is $25.5$ meters tall. If a model of the building is $\\frac{1}{20}$ of the actual height, what is the height of the model in centimeters?",
+           "options": {
+               "A": "120",
+               "B": "125",
+               "C": "127.5",
+               "D": "150",
+               "E": "200"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "A cake recipe calls for $2 \\frac{1}{4}$ cups of flour. If you only have a $\\frac{1}{8}$ cup measuring cup, how many times will you need to fill it to have enough flour?",
+           "options": {
+               "A": "16",
+               "B": "17",
+               "C": "18",
+               "D": "20",
+       "E": "36"
+       },
+           "answer": "C"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "A water tank can hold $4500$ liters of water. If $\\frac{3}{8}$ of the tank is already filled, how many more liters can be added in decimal form?",
+           "options": {
+               "A": "2925",
+               "B": "3037.5",
+       "C": "3150",
+       "D": "3375",
+       "E": "3825"
+       },
+           "answer": "B"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "A group of friends want to share some candy equally. If they have $4 \\frac{1}{2}$ bags of candy and there are $9$ friends, how much candy will each friend get in decimal form?",
+           "options": {
+               "A": "0.4",
+       "B": "0.5",
+       "C": "0.6",
+       "D": "0.75",
+       "E": "0.9"
+       },
+           "answer": "D"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "A carpenter needs to cut a piece of wood into lengths of $2.5$ meters. If the wood is $15.2$ meters long, how many pieces can the carpenter cut?",
+           "options": {
+       "A": "5",
+       "B": "6",
+       "C": "7",
+       "D": "8",
+       "E": "9"
+       },
+           "answer": "B"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "A baker is making a cake that requires $\\frac{1}{6}$ cup of oil. If the baker only has a $\\frac{1}{8}$ cup measuring cup, how many times will the baker need to fill the measuring cup to have enough oil?",
+           "options": {
+       "A": "1.2",
+       "B": "1.3",
+       "C": "1.33",
+       "D": "1.5",
+       "E": "1.8"
+       },
+           "answer": "C"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "A water bottle can hold $1.8$ liters of water. If $\\frac{2}{5}$ of the bottle is already filled, how much more water can be added in decimal form?",
+           "options": {
+       "A": "1.2",
+       "B": "1.4",
+       "C": "1.44",
+       "D": "1.6",
+       "E": "1.8"
+       },
+           "answer": "C"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "A construction project requires $15 \\frac{3}{4}$ tons of concrete. If the concrete is delivered in $2.5$ ton trucks, how many trucks will be needed to deliver the concrete? Show your work and calculate the number of trucks required.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "A chef is making a recipe that requires $3 \\frac{1}{2}$ cups of flour. If the chef only has a $\\frac{1}{4}$ cup measuring cup, how many times will the chef need to fill the measuring cup to have enough flour? Additionally, if the recipe is being made for $\\frac{3}{4}$ of the original amount, calculate the new amount of flour required in decimal form. Show your work and calculate the new amount of flour required.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Ensure that students show their work and calculations for the free response questions.",
+       "Remind students to convert between fractions, decimals, and percents where necessary.",
+       "Encourage students to use the number line to compare and order rational numbers where applicable."
+   ],
+   "footer": "Chef's Tips"
+}

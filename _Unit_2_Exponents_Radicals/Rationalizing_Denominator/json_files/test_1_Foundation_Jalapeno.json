@@ -1,0 +1,129 @@
+{
+  "unit": "\u1f4d6 Unit 2: Exponents & Radicals",
+   "topic": "Rationalizing Denominator",
+   "test_type": "Foundation (Jalapeno)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "Rationalize the denominator of $\\frac{1}{\\sqrt{2}}$.",
+           "options": {
+               "A": "$\\frac{\\sqrt{2}}{2}$",
+               "B": "$\\frac{1}{2\\sqrt{2}}$",
+               "C": "$\\frac{2}{\\sqrt{2}}$",
+               "D": "$\\frac{1}{2}$",
+               "E": "$\\frac{\\sqrt{2}}{4}$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "A stock's price is $\\frac{1}{\\sqrt{3}}$ times its projected price. If the projected price is $\\$45$, what is the current price?",
+           "options": {
+               "A": "$\\$15\\sqrt{3}$",
+               "B": "$\\$15$",
+               "C": "$\\$45\\sqrt{3}$",
+               "D": "$\\frac{45}{\\sqrt{3}}$",
+               "E": "$\\frac{45\\sqrt{3}}{3}$"
+           },
+           "answer": "E"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "Rationalize the denominator of $\\frac{2}{\\sqrt{5} - 1}$.",
+           "options": {
+               "A": "$\\frac{2(\\sqrt{5} + 1)}{4}$",
+               "B": "$\\frac{2(\\sqrt{5} - 1)}{4}$",
+               "C": "$\\frac{2(\\sqrt{5} + 1)}{5 - 1}$",
+               "D": "$\\frac{2(\\sqrt{5} - 1)}{5 - 1}$",
+               "E": "$\\frac{2(\\sqrt{5} + 1)}{5 + 1}$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "A business's profit is $\\frac{3}{\\sqrt{2}}$ times its investment. If the investment is $\\$1000$, what is the profit?",
+           "options": {
+       "A": "$\\$1500\\sqrt{2}$",
+       "B": "$\\$1500$",
+       "C": "$\\$2100\\sqrt{2}$",
+       "D": "$\\frac{3000}{\\sqrt{2}}$",
+       "E": "$\\frac{3000\\sqrt{2}}{2}$"
+   },
+           "answer": "E"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "Rationalize the denominator of $\\frac{5}{2 + \\sqrt{3}}$.",
+           "options": {
+       "A": "$\\frac{5(2 - \\sqrt{3})}{1}$",
+       "B": "$\\frac{5(2 + \\sqrt{3})}{1}$",
+       "C": "$\\frac{5(2 - \\sqrt{3})}{4 - 3}$",
+       "D": "$\\frac{5(2 + \\sqrt{3})}{4 - 3}$",
+       "E": "$\\frac{5(2 - \\sqrt{3})}{4 + 3}$"
+   },
+           "answer": "C"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "The value of a stock is $\\frac{4}{\\sqrt{6}}$ times its price. If the stock's price is $\\$80$, what is its value?",
+           "options": {
+       "A": "$\\$160\\sqrt{6}$",
+       "B": "$\\$160$",
+       "C": "$\\$320\\sqrt{6}$",
+       "D": "$\\frac{320}{\\sqrt{6}}$",
+       "E": "$\\frac{320\\sqrt{6}}{6}$"
+   },
+           "answer": "E"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "Rationalize the denominator of $\\frac{3}{1 - \\sqrt{2}}$.",
+           "options": {
+       "A": "$\\frac{3(1 + \\sqrt{2})}{1 - 2}$",
+       "B": "$\\frac{3(1 - \\sqrt{2})}{1 - 2}$",
+       "C": "$\\frac{3(1 + \\sqrt{2})}{1 + 2}$",
+       "D": "$\\frac{3(1 - \\sqrt{2})}{1 + 2}$",
+       "E": "$\\frac{3(1 + \\sqrt{2})}{-1}$"
+   },
+           "answer": "A"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "A company's revenue is $\\frac{2}{\\sqrt{5}}$ times its expenditure. If the expenditure is $\\$500$, what is the revenue?",
+           "options": {
+       "A": "$\\$200\\sqrt{5}$",
+       "B": "$\\$200$",
+       "C": "$\\$1000\\sqrt{5}$",
+       "D": "$\\frac{1000}{\\sqrt{5}}$",
+       "E": "$\\frac{1000\\sqrt{5}}{5}$"
+   },
+           "answer": "E"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "Rationalize the denominator of $\\frac{\\sqrt{7} + 2}{\\sqrt{3} - 1}$ and simplify.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "A mutual fund's return is $\\frac{5}{\\sqrt{2} + 1}$ times its investment. If the investment is $\\$2500$, find the return and rationalize the denominator.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Check for common factors before rationalizing",
+       "Use the conjugate to rationalize the denominator",
+       "Simplify the expression after rationalizing the denominator"
+   ],
+   "footer": "Chef's Tips"
+}

@@ -1,0 +1,129 @@
+{
+  "unit": "Unit 0: Foundations of Algebra",
+   "topic": "Rational Numbers & Decimals",
+   "test_type": "Challenge (Habanero)",
+   "questions": [
+     {
+       "id": 1,
+       "type": "MQ",
+       "question": "A recipe for cake requires $2 \\frac{3}{4}$ cups of flour. If you want to make half the recipe, how many cups of flour will you need?",
+       "options": {
+         "A": "$1 \\frac{3}{8}$",
+         "B": "$1 \\frac{3}{4}$",
+         "C": "$1 \\frac{1}{2}$",
+         "D": "$1 \\frac{1}{4}$",
+         "E": "$1 \\frac{5}{8}$"
+       },
+       "answer": "A"
+     },
+     {
+       "id": 2,
+       "type": "MQ",
+       "question": "A building is $25.5$ meters tall. If a scale model of the building is $0.5$ meters tall, what is the scale of the model?",
+       "options": {
+         "A": "$1:50$",
+         "B": "$1:51$",
+         "C": "$1:52$",
+         "D": "$1:49$",
+         "E": "$1:48$"
+       },
+       "answer": "A"
+     },
+     {
+       "id": 3,
+       "type": "MQ",
+       "question": "A chef needs to mix $3 \\frac{1}{2}$ liters of sauce with $2 \\frac{3}{4}$ liters of water. How many liters of mixture will the chef have in total?",
+       "options": {
+         "A": "$6 \\frac{1}{4}$",
+         "B": "$6 \\frac{1}{2}$",
+         "C": "$6 \\frac{3}{4}$",
+         "D": "$7 \\frac{1}{4}$",
+         "E": "$7 \\frac{1}{2}$"
+       },
+       "answer": "A"
+     },
+     {
+       "id": 4,
+       "type": "MQ",
+       "question": "A carpenter has a plank that is $5.8$ meters long. If the carpenter cuts $2.1$ meters from the plank, what fraction of the plank remains?",
+       "options": {
+         "A": "$\\frac{3}{5}$",
+         "B": "$\\frac{4}{5}$",
+         "C": "$\\frac{7}{10}$",
+         "D": "$\\frac{3}{8}$",
+         "E": "$\\frac{7}{8}$"
+       },
+       "answer": "C"
+     },
+     {
+       "id": 5,
+       "type": "MQ",
+       "question": "A recipe requires $1.25$ cups of oil. If you only have a $\\frac{1}{4}$ cup measuring cup, how many times will you need to fill the measuring cup?",
+       "options": {
+         "A": "4",
+         "B": "5",
+         "C": "6",
+         "D": "8",
+         "E": "10"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 6,
+       "type": "MQ",
+       "question": "A water tank can hold $4500$ liters of water. If $2 \\frac{1}{4}$ percent of the tank is already filled, how many liters of water are in the tank?",
+       "options": {
+         "A": "90",
+         "B": "100",
+         "C": "101.25",
+         "D": "112.5",
+         "E": "101"
+       },
+       "answer": "C"
+     },
+     {
+       "id": 7,
+       "type": "MQ",
+       "question": "A architect designed a building with a roof that is $4.2$ meters above the floor. If a $2.5$ meter ladder is placed against the wall, what fraction of the ladder is above the roof?",
+       "options": {
+         "A": "$\\frac{1}{8}$",
+         "B": "$\\frac{1}{7}$",
+         "C": "$\\frac{3}{14}$",
+         "D": "$\\frac{1}{4}$",
+         "E": "$\\frac{3}{8}$"
+       },
+       "answer": "D"
+     },
+     {
+       "id": 8,
+       "type": "MQ",
+       "question": "A painter needs to mix $2.8$ liters of paint with $1.2$ liters of solvent. If the painter adds $0.5$ liters of water, what is the total amount of mixture?",
+       "options": {
+         "A": "$4.5$",
+         "B": "$4.3$",
+         "C": "$4.1$",
+         "D": "$4.7$",
+         "E": "$5.5$"
+       },
+       "answer": "A"
+     },
+     {
+       "id": 9,
+       "type": "FRQ",
+       "question": "A bridge is $235.6$ meters long. If a section of the bridge is $3 \\frac{1}{2}$ meters above the water level, and the water level rises by $0.8$ meters, what fraction of the bridge is above the water level? Show your work and provide your answer as a fraction and a decimal.",
+       "required_space_lines": 5
+     },
+     {
+       "id": 10,
+       "type": "FRQ",
+       "question": "A contractor needs to pour $15.2$ cubic meters of concrete into a foundation. If the concrete is $2.5$ percent water, how many liters of water will be in the concrete? Show your work and provide your answer in liters.",
+       "required_space_lines": 5
+     }
+   ],
+   "teacher_rules": [
+     "Check units of measurement",
+     "Use a calculator to verify answers",
+     "Emphasize showing work and explanations"
+   ],
+   "footer": "Chef's Tips"
+ }

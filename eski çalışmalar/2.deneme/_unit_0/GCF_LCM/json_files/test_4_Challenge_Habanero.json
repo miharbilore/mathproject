@@ -1,0 +1,129 @@
+{
+  "unit": "Unit 0: Foundations of Algebra",
+   "topic": "GCF & LCM",
+   "test_type": "Challenge (Habanero)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "What is the GCF of $12$ and $18$ using prime factorization?",
+           "options": {
+               "A": "$1$",
+               "B": "$2$",
+               "C": "$3$",
+               "D": "$6$",
+               "E": "$12$"
+           },
+           "answer": "D"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "A construction worker needs to mix concrete in batches of $8$ or $12$ cubic feet. What is the LCM of these batch sizes?",
+           "options": {
+               "A": "$8$",
+               "B": "$12$",
+               "C": "$24$",
+               "D": "$32$",
+               "E": "$48$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "A recipe for making cookies calls for $24$ ounces of flour. If you want to make half a batch, what is the GCF of $24$ and $2$?",
+           "options": {
+               "A": "$1$",
+               "B": "$2$",
+               "C": "$4$",
+               "D": "$6$",
+               "E": "$8$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "What is the LCM of $9$ and $15$ using prime factorization?",
+           "options": {
+               "A": "$15$",
+               "B": "$30$",
+               "C": "$45$",
+               "D": "$60$",
+               "E": "$90$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "A builder is constructing a house with a roof that needs to be $18$ feet long and $12$ feet wide. What is the GCF of these dimensions?",
+           "options": {
+       "A": "$1$",
+       "B": "$2$",
+       "C": "$3$",
+       "D": "$6$",
+       "E": "$12$"
+   },
+           "answer": "D"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "A chef is making a sauce that requires $20$ ounces of ketchup and $30$ ounces of mayonnaise. What is the LCM of these quantities?",
+           "options": {
+       "A": "$20$",
+       "B": "$30$",
+       "C": "$60$",
+       "D": "$90$",
+       "E": "$120$"
+   },
+           "answer": "C"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "What is the GCF of $48$ and $60$ using factors?",
+           "options": {
+       "A": "$4$",
+       "B": "$6$",
+       "C": "$8$",
+       "D": "$12$",
+       "E": "$24$"
+   },
+           "answer": "D"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "A carpenter is building a bookshelf with $16$ shelves, each $10$ inches wide. What is the LCM of $16$ and $10$?",
+           "options": {
+       "A": "$16$",
+       "B": "$32$",
+       "C": "$40$",
+       "D": "$80$",
+       "E": "$160$"
+   },
+           "answer": "C"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "A contractor is paving a driveway that is $15$ yards long and $8$ yards wide. If the contractor can only lay paving stones in quantities that are multiples of $3$ or $5$, what is the smallest number of stones the contractor needs to buy to cover the entire driveway? Show your work and explain your reasoning.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "A recipe for making bread calls for $3 \\frac{1}{4}$ cups of flour and $2 \\frac{1}{2}$ cups of water. If you want to make $2$ batches of bread, what is the total amount of flour and water needed? Find the LCM of the denominators of these fractions and use it to add the fractions. Show your work and explain your reasoning.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Read each question carefully before answering.",
+       "Use a calculator only when necessary.",
+       "Show all work and explain reasoning for free-response questions."
+   ],
+   "footer_title": "Chef's Tips"
+}

@@ -1,0 +1,129 @@
+{
+  "unit": "\u1F4D6 Unit 6: Systems of Linear Equations and Inequalities",
+   "topic": "Solving Systems Using Elimination and Substitution",
+   "test_type": "Advanced (Carolina Reaper)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "Solve the system: $x + 2y = 7$, $3x - 2y = 5$. What is $x$?",
+           "options": {
+               "A": "2",
+               "B": "3",
+               "C": "4",
+               "D": "5",
+               "E": "6"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "Solve the system using substitution: $y = 2x - 3$, $y = x + 1$. What is $y$?",
+           "options": {
+               "A": "-2",
+               "B": "-1",
+               "C": "0",
+               "D": "1",
+               "E": "2"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "Solve the system using elimination: $2x + 3y = 12$, $x - 2y = -3$. What is $y$?",
+           "options": {
+               "A": "1",
+               "B": "2",
+               "C": "3",
+               "D": "4",
+               "E": "5"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "Maya has $15 to spend on video games and snacks at an arcade. Video games cost $2 per play, and snacks cost $3 each. If Maya buys 2 video games, how many snacks can she buy?",
+           "options": {
+               "A": "1",
+               "B": "2",
+               "C": "3",
+               "D": "4",
+               "E": "5"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "What is the solution to the system: $x - y = 2$, $2x + 2y = 4$?",
+           "options": {
+               "A": "No solution",
+               "B": "Infinitely many solutions",
+               "C": "(2, 0)",
+               "D": "(0, 2)",
+       "E": "(1, 1)"
+       },
+           "answer": "B"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "A bookshelf has 5 shelves, and each shelf can hold 8 books. If the bookshelf is currently empty, how many books can be placed on it in total?",
+           "options": {
+               "A": "20",
+               "B": "30",
+               "C": "40",
+               "D": "50",
+       "E": "60"
+       },
+           "answer": "C"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "Solve the system using substitution: $y = x - 2$, $2x + 3y = 12$. What is $x$?",
+           "options": {
+               "A": "2",
+               "B": "3",
+               "C": "4",
+               "D": "5",
+       "E": "6"
+       },
+           "answer": "C"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "Solve the system using elimination: $x + 2y = 9$, $3x - 2y = 1$. What is $y$?",
+           "options": {
+               "A": "1",
+               "B": "2",
+               "C": "3",
+               "D": "4",
+       "E": "5"
+       },
+           "answer": "B"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "Tom has been saving money for a new bike and has $120 in his savings account. He wants to buy a bike that costs $180. Tom's parents have agreed to give him an allowance of $5 per week for doing chores. How many weeks will it take Tom to have enough money to buy the bike? Show your work and explain your solution.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "A small business sells two types of products: A and B. Product A costs $10 and product B costs $15. The business has a budget of $150 for advertising. If the cost of advertising product A is $2 per ad and the cost of advertising product B is $3 per ad, how many ads for each product can the business afford to buy? Use a system of linear equations to solve the problem and show your work.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Provide feedback on problem-solving strategies",
+       "Encourage students to use graphs to visualize systems",
+       "Remind students to check their solutions by plugging them back into the original equations"
+   ],
+   "footer": "Chef's Tips"
+}

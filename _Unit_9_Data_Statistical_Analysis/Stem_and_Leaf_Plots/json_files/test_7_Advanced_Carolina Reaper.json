@@ -1,0 +1,129 @@
+{
+  "unit": "\u1F4D6 Unit 9: Data Statistical Analysis",
+   "topic": "Stem and Leaf Plots",
+   "test_type": "Advanced (Carolina Reaper)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "What is the purpose of a stem-and-leaf plot in daily life?",
+           "options": {
+               "A": "To compare prices of groceries",
+               "B": "To visualize distribution of data",
+               "C": "To calculate statistical means",
+               "D": "To organize schedules",
+               "E": "To graph functions"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "Which of the following is a benefit of using stem-and-leaf plots for time management?",
+           "options": {
+               "A": "Easy to compare schedules",
+               "B": "Difficult to identify patterns",
+               "C": "Limited to small datasets",
+               "D": "Visual representation of time allocations",
+               "E": "Requires extensive calculations"
+           },
+           "answer": "D"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "Given the stem-and-leaf plot $\\begin{array}{r|l} 3 & 1  2  5 \\ 4 & 2  8 end{array}$, what is the range of the data?",
+           "options": {
+               "A": "12",
+               "B": "7",
+               "C": "9",
+               "D": "5",
+               "E": "11"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "What does the stem represent in a stem-and-leaf plot?",
+           "options": {
+               "A": "The ones digit",
+               "B": "The tens digit",
+               "C": "The ones and tens digits combined",
+               "D": "The first digit of a number",
+               "E": "The last digit of a number"
+           },
+           "answer": "D"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "Suppose you have $5$ hours of free time per day. How can a stem-and-leaf plot help you manage this time for hobbies?",
+           "options": {
+               "A": "By showing the most time-consuming hobby",
+               "B": "By allowing comparison of time allocations",
+               "C": "By calculating the total time spent on hobbies",
+               "D": "By identifying the hobby with the least time spent",
+               "E": "By visualizing time distribution across hobbies"
+           },
+           "answer": "E"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "If a dataset has a large range, what does the stem-and-leaf plot look like?",
+           "options": {
+               "A": "Many stems with few leaves",
+               "B": "Few stems with many leaves",
+               "C": "A mix of both, evenly distributed",
+               "D": "A long list with mostly single entries",
+               "E": "Very short, with nearly all data in one stem"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "How can you use a stem-and-leaf plot to analyze spending habits?",
+           "options": {
+               "A": "To find the average expense",
+               "B": "To compare monthly expenses",
+               "C": "To show how expenses are distributed across categories",
+               "D": "To calculate total yearly expenses",
+       "E": "To find the most expensive category"
+       },
+           "answer": "C"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "Given the stem-and-leaf plot $\\begin{array}{r|l} 2 & 1  3  5 \\ 3 & 2  4 end{array}$, how many numbers are greater than $32$?",
+           "options": {
+               "A": "1",
+               "B": "2",
+               "C": "3",
+               "D": "4",
+       "E": "5"
+       },
+           "answer": "B"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "Suppose the times (in minutes) taken to complete a puzzle are $21, 25, 31, 35, 42, 45, 52$. Construct a stem-and-leaf plot for the data and describe the distribution.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "A bookstore has the following prices (in dollars) for a set of books: $10.50, 12.25, 15.99, 18.75, 20.10, 22.50, 25.00$. Create a stem-and-leaf plot for the prices and find the range of the data. Show all your steps and explain your reasoning.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Ensure students understand the concept of distribution in the context of stem-and-leaf plots.",
+       "Emphasize the importance of stem-and-leaf plots for visualizing and interpreting data in daily life scenarios.",
+       "Remind students to check their work by verifying calculations and plots."
+   ],
+   "footer": "Chef's Tips"
+}

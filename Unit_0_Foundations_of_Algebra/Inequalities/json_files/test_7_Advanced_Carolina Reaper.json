@@ -1,0 +1,129 @@
+{
+  "unit": "Unit 0: Foundations of Algebra",
+   "topic": "Inequalities",
+   "test_type": "Advanced (Carolina Reaper)",
+   "questions": [
+     {
+       "id": 1,
+       "type": "MQ",
+       "question": "A bookshelf has $5$ shelves, and each shelf can hold at most $8$ books. If the bookshelf is currently empty, what is the maximum number of books that can be placed on it, given that $x$ represents the number of books on each shelf, and $x \\leq 8$?",
+       "options": {
+         "A": "$5 \\cdot 8 = 40$",
+         "B": "$5 + 8 = 13$",
+         "C": "$5 - 8 = -3$",
+         "D": "$8 / 5 = 1.6$",
+         "E": "$8 - 5 = 3$"
+       },
+       "answer": "A"
+     },
+     {
+       "id": 2,
+       "type": "MQ",
+       "question": "Tom has been saving money for a new bike and has $120. He wants to buy a bike that costs $180. If he saves $15 per week, what is the minimum number of weeks he needs to save, given that $x$ represents the number of weeks, and $15x + 120 \\geq 180$?",
+       "options": {
+         "A": "$4$ weeks",
+         "B": "$5$ weeks",
+         "C": "$6$ weeks",
+         "D": "$7$ weeks",
+         "E": "$8$ weeks"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 3,
+       "type": "MQ",
+       "question": "A water tank can hold $2400$ gallons of water. If $10%$ of the tank is already filled, what is the maximum amount of water that can still be added, given that $x$ represents the amount of water in gallons, and $x + 0.1 \\cdot 2400 \\leq 2400$?",
+       "options": {
+         "A": "$2304$ gallons",
+         "B": "$2160$ gallons",
+         "C": "$2100$ gallons",
+         "D": "$2400$ gallons",
+         "E": "$216$ gallons"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 4,
+       "type": "MQ",
+       "question": "A bakery sells a total of $250$ loaves of bread per day. They sell a combination of whole wheat and white bread. If they sell $x$ loaves of whole wheat bread, and $x - 20 \\leq 150$, what is the maximum number of loaves of whole wheat bread they can sell?",
+       "options": {
+         "A": "$150$ loaves",
+         "B": "$170$ loaves",
+         "C": "$160$ loaves",
+         "D": "$180$ loaves",
+       "E": "$200$ loaves"
+     },
+       "answer": "B"
+     },
+     {
+       "id": 5,
+       "type": "MQ",
+       "question": "A group of friends want to go on a road trip that is at least $240$ miles long. If they have already driven $x$ miles, and $x + 60 \\geq 240$, what is the minimum number of miles they still need to drive?",
+       "options": {
+         "A": "$0$ miles",
+         "B": "$60$ miles",
+         "C": "$120$ miles",
+         "D": "$180$ miles",
+         "E": "$240$ miles"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 6,
+       "type": "MQ",
+       "question": "A person has been training for a marathon and can run at most $8$ miles per hour. If they want to run a distance of $20$ miles, what is the minimum time it will take them to finish the marathon, given that $x$ represents the time in hours, and $8x \\geq 20$?",
+       "options": {
+         "A": "$2.5$ hours",
+         "B": "$3$ hours",
+         "C": "$2$ hours",
+         "D": "$1.5$ hours",
+         "E": "$4$ hours"
+       },
+       "answer": "A"
+     },
+     {
+       "id": 7,
+       "type": "MQ",
+       "question": "A store has a $10%$ discount on all items. If an item originally costs $x$ dollars, and the discount is $0.1x$, what is the maximum amount someone can save if they buy an item that costs at most $100, given that $0.1x \\leq 10$?",
+       "options": {
+         "A": "$5$ dollars",
+         "B": "$10$ dollars",
+         "C": "$8$ dollars",
+         "D": "$12$ dollars",
+         "E": "$15$ dollars"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 8,
+       "type": "MQ",
+       "question": "A person is planning a trip and wants to spend at most $500$ dollars. If they have already spent $x$ dollars, and $x + 50 \\leq 500$, what is the maximum amount they can still spend?",
+       "options": {
+         "A": "$450$ dollars",
+         "B": "$400$ dollars",
+         "C": "$500$ dollars",
+         "D": "$550$ dollars",
+         "E": "$300$ dollars"
+       },
+       "answer": "A"
+     },
+     {
+       "id": 9,
+       "type": "FRQ",
+       "question": "Graph the solution to the inequality $2x - 5 > 11$ on a number line, and write the solution in interval notation. Show all work and explain your answer.",
+       "required_space_lines": 5
+     },
+     {
+       "id": 10,
+       "type": "FRQ",
+       "question": "Solve the inequality $x/4 + 2 > 5$, and graph the solution on a number line. Write the solution in interval notation and provide a brief explanation.",
+       "required_space_lines": 5
+     }
+   ],
+   "teacher_rules": [
+     "Ensure students have a graphing calculator to visualize the solutions.",
+     "Remind students to check their work and provide explanations for their answers.",
+     "Encourage students to use different methods to solve the inequalities, such as graphing and algebraic manipulation."
+   ],
+   "footer": "Chef's Tips"
+ }

@@ -1,0 +1,129 @@
+{
+  "unit": "\u1F4D6 Unit 6: Systems of Linear Equations and Inequalities",
+   "topic": "Linear Inequalities with Two Variables",
+   "test_type": "Challenge (Habanero)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "A hiker is trekking through a forest with a $2x + 3y geq 12$ altitude constraint. Which region satisfies this inequality?",
+           "options": {
+               "A": "The region above the line $2x + 3y = 12$",
+               "B": "The region below the line $2x + 3y = 12$",
+               "C": "The line $2x + 3y = 12$ and the region above it",
+               "D": "The line $2x + 3y = 12$ and the region below it",
+               "E": "The region between the lines $2x + 3y = 12$ and $2x + 3y = -12$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "A park ranger monitors the $x$ and $y$ coordinates of animal habitats, where $x$ and $y$ must satisfy $y > \frac{1}{2}x - 3$. Which of the following $x$-values has a corresponding $y$-value in the solution region?",
+           "options": {
+               "A": "$x = 4$",
+               "B": "$x = 6$",
+               "C": "$x = 8$",
+               "D": "$x = 10$",
+               "E": "$x = 12$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "For the inequality $3x - 2y < 5$, which boundary line is dashed?",
+           "options": {
+               "A": "Solid line $3x - 2y = 5$",
+               "B": "Dashed line $3x - 2y = 5$",
+               "C": "The line is not part of the boundary",
+               "D": "A vertical line at $x = 0$",
+               "E": "A horizontal line at $y = 0$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "Consider a trail with an elevation constraint given by the inequality $y leq -2x + 7$. Which $y$-intercept does the boundary line have?",
+           "options": {
+               "A": "$y = 0$",
+               "B": "$y = 2$",
+               "C": "$y = 5$",
+               "D": "$y = 7$",
+               "E": "$y = 10$"
+           },
+           "answer": "D"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "A guide must determine the maximum number of $x$ and $y$ coordinates that can satisfy both $y geq x - 2$ and $y leq -x + 5$ simultaneously. What is the number of intersection points?",
+           "options": {
+               "A": "0 points",
+               "B": "1 point",
+               "C": "2 points",
+               "D": "3 points",
+       "E": "Infinitely many points"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "Suppose $y leq 3x - 4$ and $y geq -2x + 1$. What type of lines are the $3x - 4$ and $-2x + 1$ boundaries?",
+           "options": {
+               "A": "Dashed and solid lines",
+       "B": "Solid and dashed lines",
+       "C": "Two dashed lines",
+       "D": "Two solid lines",
+       "E": "One solid and one dotted line"
+           },
+           "answer": "D"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "A traveler wants to visit a destination with an $x$-coordinate value of $x = 2$ and a $y$-coordinate that satisfies $2y - x geq 5$. What $y$ value does the traveler need?",
+           "options": {
+               "A": "$y geq 2$",
+       "B": "$y geq 3$",
+       "C": "$y geq 3.5$",
+       "D": "$y geq 4$",
+       "E": "$y geq 5$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "Consider $x + 2y geq 8$. If $x = 4$, what can be said about the $y$ values satisfying this inequality?",
+           "options": {
+               "A": "$y geq 0$",
+       "B": "$y geq 1$",
+       "C": "$y geq 2$",
+       "D": "$y leq -2$",
+       "E": "$y leq 0$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "Graph the inequality $y < 2x - 1$. Clearly label the $x$ and $y$ axes. Identify and label the boundary line.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "The park ranger has set up two animal feeders, $A$ and $B$, with their respective areas of influence given by $x + y leq 8$ and $y geq x - 3$. Determine the overlapping region where both conditions are met and describe the boundaries of the overlapping region.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Emphasize the importance of labeling axes when graphing inequalities",
+       "Ensure students understand how to identify the boundary lines and their types (solid or dashed)",
+       "Remind students that the boundary line equation should be written in slope-intercept form ($y = mx + b$) where possible"
+   ],
+   "footer_title": "Chef's Tips"
+}

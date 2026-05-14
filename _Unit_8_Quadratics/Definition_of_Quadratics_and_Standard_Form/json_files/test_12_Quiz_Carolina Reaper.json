@@ -1,0 +1,129 @@
+{
+  "unit": "\u1f4d6 Unit 8: Quadratics",
+   "topic": "Definition of Quadratics and Standard Form",
+   "test_type": "Quiz (Carolina Reaper)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "What is the standard form of a quadratic function?",
+           "options": {
+               "A": "$ax^2 + bx + c$",
+               "B": "$ax^2 - bx + c$",
+               "C": "$ax^2 + bx - c$",
+               "D": "$ax^2 - bx - c$",
+               "E": "$ax + bx + c$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "A shipping company's cost to transport $x$ items is given by $C(x) = 2x^2 + 5x + 10$. What is the value of $a$?",
+           "options": {
+               "A": "$2$",
+               "B": "$5$",
+               "C": "$10$",
+               "D": "$15$",
+               "E": "$20$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "The time it takes to travel from City A to City B is given by $t(x) = x^2 - 4x + 5$, where $x$ is the speed. What is the minimum time?",
+           "options": {
+               "A": "$1$ hour",
+               "B": "$2$ hours",
+               "C": "$3$ hours",
+               "D": "$4$ hours",
+               "E": "$5$ hours"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "The quadratic function $f(x) = ax^2 + bx + c$ has a vertex at $(2, 3)$. What is the value of $b$?",
+           "options": {
+               "A": "$-4a$",
+               "B": "$-2a$",
+               "C": "$0$",
+               "D": "$2a$",
+               "E": "$4a$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "A traffic flow model is given by $f(x) = 3x^2 - 2x + 1$, where $x$ is the number of cars. What is the maximum flow?",
+           "options": {
+       "A": "$1$ car",
+       "B": "$2$ cars",
+       "C": "$3$ cars",
+       "D": "$4$ cars",
+       "E": "$5$ cars"
+   },
+   "answer": "C"
+},
+{
+   "id": 6,
+   "type": "MQ",
+   "question": "The quadratic function $g(x) = x^2 + bx + c$ has a $y$-intercept at $(0, 2)$. What is the value of $c$?",
+   "options": {
+       "A": "$1$",
+       "B": "$2$",
+       "C": "$3$",
+       "D": "$4$",
+       "E": "$5$"
+   },
+   "answer": "B"
+},
+{
+   "id": 7,
+   "type": "MQ",
+   "question": "A delivery company's revenue is given by $R(x) = 2x^2 + 3x - 10$, where $x$ is the number of packages. What is the break-even point?",
+   "options": {
+       "A": "$2$ packages",
+       "B": "$3$ packages",
+       "C": "$4$ packages",
+       "D": "$5$ packages",
+       "E": "$6$ packages"
+   },
+   "answer": "B"
+},
+{
+   "id": 8,
+   "type": "MQ",
+   "question": "The quadratic function $h(x) = ax^2 + bx + c$ has a vertex at $(-2, 1)$. What is the equation of the axis of symmetry?",
+   "options": {
+       "A": "$x = -1$",
+       "B": "$x = -2$",
+       "C": "$x = -3$",
+       "D": "$x = -4$",
+       "E": "$x = -5$"
+   },
+   "answer": "B"
+},
+{
+   "id": 9,
+   "type": "FRQ",
+   "question": "A transportation company's cost to transport $x$ items is given by $C(x) = ax^2 + bx + c$. If the cost to transport $2$ items is $$200$ and the cost to transport $4$ items is $$400$, find the values of $a$, $b$, and $c$. Assume $a \\neq 0$.",
+   "required_space_lines": 5
+},
+{
+   "id": 10,
+   "type": "FRQ",
+   "question": "A traffic flow model is given by $f(x) = 2x^2 - 3x + 1$, where $x$ is the number of cars. Find the maximum flow and the number of cars at which it occurs. Show all work and explain your reasoning.",
+   "required_space_lines": 5
+}
+],
+"teacher_rules": [
+   "Tip 1: Make sure to check for vertex form when solving quadratic equations.",
+   "Tip 2: Consider using graphing calculators to visualize the quadratic functions.",
+   "Tip 3: Encourage students to use real-world applications to illustrate the concepts."
+],
+"footer_title": "Chef's Tips"
+}

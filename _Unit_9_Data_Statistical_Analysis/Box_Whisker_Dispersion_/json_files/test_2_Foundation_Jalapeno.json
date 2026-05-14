@@ -1,0 +1,129 @@
+{
+  "unit": "\u270d Unit 9: Data Statistical Analysis",
+   "topic": "Box & Whisker (Dispersion)",
+   "test_type": "Foundation (Jalapeno)",
+   "questions": [
+       { 
+           "id": 1, 
+           "type": "MQ", 
+           "question": "In a box-and-whisker plot, what does the line inside the box represent?", 
+           "options": {
+               "A": "Median",
+               "B": "Mean",
+               "C": "Mode",
+               "D": "Range",
+               "E": "Interquartile Range"
+           }, 
+           "answer": "A" 
+       },
+       { 
+           "id": 2, 
+           "type": "MQ", 
+           "question": "What is the primary purpose of a box-and-whisker plot?", 
+           "options": {
+               "A": "To display the mean of a dataset",
+               "B": "To show the range of a dataset",
+               "C": "To visualize the distribution of a dataset",
+               "D": "To compare multiple datasets",
+               "E": "To calculate the standard deviation"
+           }, 
+           "answer": "C" 
+       },
+       { 
+           "id": 3, 
+           "type": "MQ", 
+           "question": "A scientist records the temperature of a planet in degrees Celsius: $-10, 0, 5, 10, 15, 20, 25$.", 
+           "options": {
+               "A": "$0$",
+               "B": "$5$",
+               "C": "$10$",
+               "D": "$15$",
+               "E": "$20$"
+           }, 
+           "answer": "B" 
+       },
+       { 
+           "id": 4, 
+           "type": "MQ", 
+           "question": "The diameter of a black hole is measured in kilometers: $1000, 1200, 1500, 1800, 2000, 2500$.", 
+           "options": {
+               "A": "$1200$",
+               "B": "$1500$",
+               "C": "$1800$",
+               "D": "$2000$",
+               "E": "$2500$"
+           }, 
+           "answer": "B" 
+       },
+       { 
+           "id": 5, 
+           "type": "MQ", 
+           "question": "What is the interquartile range (IQR) of the dataset $2, 4, 6, 8, 10$?", 
+           "options": {
+               "A": "$2$",
+               "B": "$4$",
+               "C": "$6$",
+               "D": "$8$",
+               "E": "$10$"
+           }, 
+           "answer": "A" 
+       },
+       { 
+           "id": 6, 
+           "type": "MQ", 
+           "question": "The following box-and-whisker plot represents the scores of a physics exam: $Q_1 = 60, Q_3 = 80$.", 
+           "options": {
+               "A": "$20$",
+               "B": "$30$",
+               "C": "$40$",
+               "D": "$50$",
+               "E": "$60$"
+           }, 
+           "answer": "B" 
+       },
+       { 
+           "id": 7, 
+           "type": "MQ", 
+           "question": "A box-and-whisker plot shows the following values: $Min = 10, Q_1 = 20, Median = 30, Q_3 = 40, Max = 50$. What is the range of the data?", 
+           "options": {
+               "A": "$20$",
+               "B": "$30$",
+               "C": "$40$",
+               "D": "$50$",
+               "E": "$60$"
+           }, 
+           "answer": "E" 
+       },
+       { 
+           "id": 8, 
+           "type": "MQ", 
+           "question": "Which of the following is an outlier in the dataset $1, 2, 3, 4, 5, 100$?", 
+           "options": {
+               "A": "$1$",
+               "B": "$2$",
+               "C": "$3$",
+               "D": "$4$",
+               "E": "$100$"
+           }, 
+           "answer": "E" 
+       },
+       { 
+           "id": 9, 
+           "type": "FRQ", 
+           "question": "Create a box-and-whisker plot to represent the following dataset of planetary distances from the sun in millions of kilometers: $50, 70, 100, 120, 150, 200, 250$. Identify the quartiles and interquartile range.", 
+           "required_space_lines": 5 
+       },
+       { 
+           "id": 10, 
+           "type": "FRQ", 
+           "question": "The speed of a spacecraft is recorded in kilometers per hour: $50, 60, 70, 80, 90, 100$. Determine the median and interquartile range. Show your calculations and provide a brief explanation of your results.", 
+           "required_space_lines": 5 
+       }
+   ],
+   "teacher_rules": [
+       "Tip 1: Remind students to label their diagrams and plots clearly.",
+       "Tip 2: Encourage students to use a ruler to draw their box-and-whisker plots.",
+       "Tip 3: Emphasize the importance of accurately identifying quartiles and the interquartile range."
+   ],
+   "footer": "Chef's Tips"
+}

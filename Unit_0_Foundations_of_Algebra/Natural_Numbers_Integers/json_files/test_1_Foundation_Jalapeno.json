@@ -1,0 +1,129 @@
+{
+  "unit": "Unit 0: Foundations of Algebra",
+   "topic": "Natural Numbers & Integers",
+   "test_type": "Foundation (Jalapeno)",
+   "questions": [
+     { 
+       "id": 1, 
+       "type": "MQ", 
+       "question": "Classify the number $5$ as:", 
+       "options": { 
+         "A": "Natural Number", 
+         "B": "Whole Number", 
+         "C": "Integer", 
+         "D": "All of the above", 
+         "E": "None of the above" 
+       }, 
+       "answer": "D" 
+     },
+     { 
+       "id": 2, 
+       "type": "MQ", 
+       "question": "Identify the pattern: $2, 5, 8, 11, 14, ...$ as:", 
+       "options": { 
+         "A": "Even numbers", 
+         "B": "Odd numbers", 
+         "C": "Increasing by $3$", 
+         "D": "Alternating between even and odd", 
+         "E": "None of the above" 
+       }, 
+       "answer": "C" 
+     },
+     { 
+       "id": 3, 
+       "type": "MQ", 
+       "question": "The stock price rose by $-$$2$ today. If it was $$50$ yesterday, what is it now?", 
+       "options": { 
+         "A": "$$48$", 
+         "B": "$$52$", 
+         "C": "$$50$", 
+         "D": "$$42$", 
+         "E": "$$58$" 
+       }, 
+       "answer": "A" 
+     },
+     { 
+       "id": 4, 
+       "type": "MQ", 
+       "question": "Solve $x + 4 = 11$ for $x$:", 
+       "options": { 
+         "A": "$7$", 
+         "B": "$5$", 
+         "C": "$9$", 
+         "D": "$3$", 
+         "E": "$1$" 
+       }, 
+       "answer": "A" 
+     },
+     { 
+       "id": 5, 
+       "type": "MQ", 
+       "question": "If a tax return yields a refund of $-$$300$, what does the negative sign indicate?", 
+       "options": { 
+         "A": "Debit", 
+         "B": "Credit", 
+         "C": "No change", 
+         "D": "Tax owed", 
+         "E": "None of the above" 
+       }, 
+       "answer": "B" 
+     },
+     { 
+       "id": 6, 
+       "type": "MQ", 
+       "question": "A savings account has $$200$. If $$50$ is withdrawn, what is the new balance?", 
+       "options": { 
+         "A": "$$150$", 
+         "B": "$$250$", 
+         "C": "$$200$", 
+         "D": "$$100$", 
+         "E": "$$300$" 
+       }, 
+       "answer": "A" 
+     },
+     { 
+       "id": 7, 
+       "type": "MQ", 
+       "question": "Solve $3x = 24$ for $x$:", 
+       "options": { 
+         "A": "$8$", 
+         "B": "$6$", 
+         "C": "$4$", 
+         "D": "$2$", 
+         "E": "$1$" 
+       }, 
+       "answer": "A" 
+     },
+     { 
+       "id": 8, 
+       "type": "MQ", 
+       "question": "A stock's value decreased by $-10%$. If the original value was $$1000$, what is the new value?", 
+       "options": { 
+         "A": "$$900$", 
+         "B": "$$1100$", 
+         "C": "$$1000$", 
+         "D": "$$800$", 
+         "E": "$$1200$" 
+       }, 
+       "answer": "A" 
+     },
+     { 
+       "id": 9, 
+       "type": "FRQ", 
+       "question": "A company's profit for the first quarter is $-$$5000$. For the second quarter, the profit is $$3000$. What is the total profit for the two quarters? Show your work and explain your reasoning.", 
+       "required_space_lines": 5 
+     },
+     { 
+       "id": 10, 
+       "type": "FRQ", 
+       "question": "A person invests $$1000$ in a savings account that earns $5%$ interest per year. If the interest is compounded annually, how much will the person have after $2$ years? Show your calculations.", 
+       "required_space_lines": 5 
+     }
+   ],
+   "teacher_rules": [
+     "Read each question carefully before answering",
+     "Use a calculator only when necessary",
+     "Show all work and explain reasoning for Free Response questions"
+   ],
+   "footer": "Chef's Tips"
+}

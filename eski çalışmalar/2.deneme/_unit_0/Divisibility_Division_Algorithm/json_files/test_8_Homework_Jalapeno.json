@@ -1,0 +1,129 @@
+{
+  "unit": "Unit 0: Foundations of Algebra",
+   "topic": "Divisibility & Division Algorithm",
+   "test_type": "Homework (Jalapeno)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "Is $24$ divisible by $3$?",
+           "options": {
+               "A": "Yes",
+               "B": "No",
+               "C": "Maybe",
+               "D": "Only if it's a multiple of $2$",
+               "E": "Only if it's a multiple of $4$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "What is the remainder when $17$ is divided by $5$?",
+           "options": {
+               "A": "$0$",
+               "B": "$1$",
+               "C": "$2$",
+               "D": "$3$",
+               "E": "$4$"
+           },
+           "answer": "D"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "A Mayan pyramid has $135$ steps. If $3$ steps are climbed at a time, how many times will the climber climb $3$ steps?",
+           "options": {
+               "A": "$43$",
+               "B": "$44$",
+               "C": "$45$",
+               "D": "$42$",
+               "E": "$41$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "Is $81$ divisible by $9$?",
+           "options": {
+               "A": "Yes",
+               "B": "No",
+               "C": "Maybe",
+               "D": "Only if it's a multiple of $3$",
+               "E": "Only if it's a multiple of $11$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "If $18 \\cdot 3 = 54$, what is $54 \\div 3$?",
+           "options": {
+               "A": "$16$",
+               "B": "$17$",
+       "C": "$18$",
+       "D": "$19$",
+       "E": "$20$"
+   },
+           "answer": "C"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "An ancient Greek vase has $48$ small figurines around its circumference. If they are divided into boxes of $6$, how many boxes are there?",
+           "options": {
+               "A": "$6$",
+               "B": "$7$",
+       "C": "$8$",
+       "D": "$9$",
+       "E": "$10$"
+   },
+           "answer": "C"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "A Babylonian mathematician wants to divide $63$ units of food among $9$ people. How many units will each person get?",
+           "options": {
+               "A": "$6$",
+               "B": "$7$",
+       "C": "$8$",
+       "D": "$9$",
+       "E": "$10$"
+   },
+           "answer": "B"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "What is the remainder when $25$ is divided by $10$?",
+           "options": {
+               "A": "$0$",
+               "B": "$1$",
+       "C": "$2$",
+       "D": "$5$",
+       "E": "$3$"
+   },
+           "answer": "D"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "A pharaoh has $120$ bricks to build a wall. He wants to put them into rows of $8$. How many rows can he make and what will be the remainder? Show your work.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "Perform the division $48 \\div 6$ and express the result with a remainder, if any. Then, explain the historical significance of division in ancient civilizations like Egypt or Babylon.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Tip 1: Check for divisibility rules before performing long division",
+       "Tip 2: Ensure students understand the concept of remainders in division",
+       "Tip 3: Encourage students to use real-world examples from history to practice division"
+   ],
+   "footer": "Chef's Tips"
+}

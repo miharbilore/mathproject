@@ -1,0 +1,128 @@
+{
+  "unit": "Unit 0: Foundations of Algebra",
+   "topic": "Place Value",
+   "test_type": "Advanced (Carolina Reaper)",
+   "questions": [
+       { 
+           "id": 1, 
+           "type": "MQ", 
+           "question": "The $4$ in $456$ represents $4 \\times 10^$", 
+           "options": { 
+               "A": "0", 
+               "B": "1", 
+               "C": "2", 
+               "D": "3", 
+               "E": "4" 
+           }, 
+           "answer": "B" 
+       },
+       { 
+           "id": 2, 
+           "type": "MQ", 
+           "question": "Rounding $547$ to the nearest ten gives $$", 
+           "options": { 
+               "A": "500", 
+               "B": "540", 
+               "C": "550", 
+               "D": "560", 
+               "E": "600" 
+           }, 
+           "answer": "B" 
+       },
+       { 
+           "id": 3, 
+           "type": "MQ", 
+           "question": "What is the expanded form of $234$?", 
+           "options": { 
+               "A": "$2 \\cdot 10^0 + 3 \\cdot 10^1 + 4 \\cdot 10^2$", 
+               "B": "$2 \\cdot 10^2 + 3 \\cdot 10^1 + 4 \\cdot 10^0$", 
+               "C": "$2 \\cdot 10^1 + 3 \\cdot 10^2 + 4 \\cdot 10^0$", 
+               "D": "$2 \\cdot 10^0 + 3 \\cdot 10^2 + 4 \\cdot 10^1$", 
+               "E": "$4 \\cdot 10^2 + 3 \\cdot 10^1 + 2 \\cdot 10^0$" 
+           }, 
+           "answer": "B" 
+       },
+       { 
+           "id": 4, 
+           "type": "MQ", 
+           "question": "The time $9:45$ can be represented as $9 \\cdot 60^1 + 45 \\cdot 60^0$ minutes. What is the value of $9:45$ in just minutes?", 
+           "options": { 
+               "A": "564", 
+               "B": "585", 
+               "C": "605", 
+               "D": "625", 
+               "E": "645" 
+           }, 
+           "answer": "B" 
+       },
+       { 
+           "id": 5, 
+           "type": "MQ", 
+           "question": "The area of a rectangular garden is $2400$ square feet. If its length is $60$ feet, what is its width in feet?", 
+           "options": { 
+               "A": "20", 
+               "B": "30", 
+               "C": "40", 
+               "D": "50", 
+               "E": "60" 
+           }, 
+           "answer": "C" 
+       },
+       { 
+           "id": 6, 
+           "type": "MQ", 
+           "question": "The largest 4-digit number that can be formed using the digits $1$, $2$, $3$, and $4$ without repetition is $$", 
+           "options": { 
+               "A": "1234", 
+               "B": "1243", 
+               "C": "1324", 
+               "D": "3214", 
+               "E": "4321" 
+           }, 
+           "answer": "E" 
+       },
+       { 
+           "id": 7, 
+           "type": "MQ", 
+           "question": "If a water tank can hold $4320$ gallons of water and $2135$ gallons are already filled, what percentage of the tank is filled?", 
+           "options": { 
+               "A": "40\\%", 
+               "B": "45\\%", 
+               "C": "49\\%", 
+               "D": "50\\%", 
+               "E": "55\\%" 
+           }, 
+           "answer": "C" 
+       },
+       { 
+           "id": 8, 
+           "type": "MQ", 
+           "question": "A bakery sells a total of $2547$ loaves of bread per day. They sell a combination of whole wheat and white bread. If they sell $1473$ whole wheat loaves, how many white bread loaves do they sell?", 
+           "options": { 
+               "A": "1000", 
+               "B": "1050", 
+               "C": "1074", 
+               "D": "1100", 
+               "E": "1105" 
+           }, 
+           "answer": "C" 
+       },
+       { 
+           "id": 9, 
+           "type": "FRQ", 
+           "question": "Write the number $945$ in expanded form. Then round $945$ to the nearest hundred.", 
+           "required_space_lines": 5 
+       },
+       { 
+           "id": 10, 
+           "type": "FRQ", 
+           "question": "A person wants to buy a book that costs \\$25 and a toy that costs \\$17. If they have \\$42, how much more money do they need to buy both items?", 
+           "required_space_lines": 5 
+       }
+   ],
+   "teacher_rules": [
+       "Chef's Tips: Make sure students understand the concept of place value and how it applies to various real-life scenarios.",
+       "Chef's Tips: Remind students to read the questions carefully and use the units and context to help with calculations.",
+       "Chef's Tips: Encourage students to check their work and use estimation to verify their answers."
+   ]
+}

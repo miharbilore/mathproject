@@ -1,0 +1,136 @@
+{
+  "unit": "\uD83D\uDCD6 Unit 6: Systems of Linear Equations and Inequalities",
+   "topic": "Systems of Linear Inequalities by Graphing",
+   "test_type": "Homework (Carolina Reaper)",
+   "difficulty": "Carolina Reaper",
+   "specific_theme": "Arts & Music",
+   "learning_objectives": [
+       "Students will be able to graph multiple inequalities on the same coordinate plane.",
+       "Students will be able to identify overlapping solution regions.",
+       "Students will be able to interpret feasible regions."
+   ],
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "A music festival has two stages. The $x$-axis represents the frequency of the music, and the $y$-axis represents the volume. If the first stage operates within the region defined by $x \\geq 20$ and $y \\leq 50$, which of the following points is within the feasible region?",
+           "options": {
+               "A": "$(15, 40)$",
+               "B": "$(25, 40)$",
+               "C": "$(20, 55)$",
+               "D": "$(25, 55)$",
+               "E": "$(15, 60)$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "An artist is creating a canvas with a size defined by the system of inequalities $x + y \\leq 12$ and $x - y \\geq -4$. What is the area of the feasible region?",
+           "options": {
+               "A": "$8$ square units",
+               "B": "$16$ square units",
+               "C": "$24$ square units",
+               "D": "$32$ square units",
+               "E": "$40$ square units"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "A rhythm pattern is defined by the inequalities $x \\geq 10$ and $y \\leq 20 - x$. Which of the following points satisfies both inequalities?",
+           "options": {
+               "A": "$(5, 15)$",
+               "B": "$(10, 10)$",
+               "C": "$(15, 5)$",
+               "D": "$(20, 0)$",
+       "E": "$(25, -5)$"
+   },
+           "answer": "B"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "A sound wave has a frequency defined by the inequality $y \\geq 2x - 5$. If the volume is defined by the inequality $y \\leq -x + 10$, which of the following points is within the overlapping region?",
+           "options": {
+               "A": "$(0, 5)$",
+               "B": "$(2, 4)$",
+               "C": "$(4, 3)$",
+               "D": "$(6, 2)$",
+               "E": "$(8, 1)$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "A painter is mixing colors on a palette. The amount of red paint is defined by $x \\geq 5$, and the amount of blue paint is defined by $y \\leq 15 - x$. Which of the following points is within the feasible region?",
+           "options": {
+               "A": "$(0, 10)$",
+               "B": "$(5, 10)$",
+               "C": "$(10, 5)$",
+               "D": "$(15, 0)$",
+               "E": "$(20, -5)$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "A music producer is working on a new track. The tempo is defined by $x \\geq 100$, and the duration is defined by $y \\leq 200 - x$. Which of the following points satisfies both inequalities?",
+           "options": {
+       "A": "$(50, 150)$",
+       "B": "$(100, 100)$",
+       "C": "$(150, 50)$",
+       "D": "$(200, 0)$",
+       "E": "$(250, -50)$"
+   },
+           "answer": "B"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "A musician is playing a melody on a $4$-string instrument. The notes are defined by the system of inequalities $x + y \\leq 8$ and $x - y \\geq -2$. What is the area of the feasible region?",
+           "options": {
+       "A": "$6$ square units",
+       "B": "$8$ square units",
+       "C": "$10$ square units",
+       "D": "$12$ square units",
+       "E": "$16$ square units"
+   },
+           "answer": "B"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "A light designer is creating a lighting scheme for a concert. The intensity of the lights is defined by $y \\geq x - 3$, and the color temperature is defined by $y \\leq -x + 12$. Which of the following points is within the overlapping region?",
+           "options": {
+       "A": "$(0, 9)$",
+       "B": "$(3, 6)$",
+       "C": "$(6, 3)$",
+       "D": "$(9, 0)$",
+       "E": "$(12, -3)$"
+   },
+           "answer": "C"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "Graph the system of inequalities $x + y \\leq 10$ and $x - y \\geq -2$ on the same coordinate plane. Identify the overlapping solution region and interpret the feasible region in the context of a music festival.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "A sound engineer is working on a live performance. The sound levels are defined by the system of inequalities $y \\geq 2x - 5$ and $y \\leq -x + 15$. Graph the system of inequalities and identify the overlapping solution region. Interpret the feasible region in the context of the live performance.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Tip 1: Ensure students understand the concept of feasible regions and how to graph multiple inequalities on the same coordinate plane.",
+       "Tip 2: Emphasize the importance of identifying overlapping solution regions and interpreting the feasible region in the context of the problem.",
+       "Tip 3: Encourage students to use real-world examples, such as music festivals or live performances, to illustrate their understanding of the concepts."
+   ],
+   "footer_title": "Chef's Tips"
+}

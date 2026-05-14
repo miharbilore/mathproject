@@ -1,0 +1,130 @@
+{
+  "unit": "\u1F4D6 Unit 2: Exponents & Radicals",
+   "topic": "Exponential Equations",
+   "test_type": "Advanced (Carolina Reaper)",
+   "difficulty": "Carolina Reaper",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "Solve for $x$ in the equation $2^x = 32$.",
+           "options": {
+               "A": "$x = 3$",
+               "B": "$x = 4$",
+               "C": "$x = 5$",
+               "D": "$x = 6$",
+               "E": "$x = 7$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "If $3^x = 81$, what is the value of $x$?",
+           "options": {
+               "A": "$x = 2$",
+               "B": "$x = 3$",
+               "C": "$x = 4$",
+               "D": "$x = 5$",
+               "E": "$x = 6$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "Solve for $y$ in the equation $4^y = 256$.",
+           "options": {
+               "A": "$y = 2$",
+               "B": "$y = 3$",
+               "C": "$y = 4$",
+               "D": "$y = 5$",
+               "E": "$y = 6$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "A store is having a sale where the price of an item is reduced by $25\\%$ each day. If the original price of the item was $$80$, what is the price of the item after 2 days?",
+           "options": {
+               "A": "$$40$",
+               "B": "$$45$",
+               "C": "$$50$",
+               "D": "$$55$",
+               "E": "$$60$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "A person invests $$1000$ in a savings account that earns an annual interest rate of $5\\%$. How much will the person have in the account after 2 years, assuming compound interest?",
+           "options": {
+               "A": "$$1102.50$",
+               "B": "$$1125$",
+               "C": "$$1150$",
+               "D": "$$1175$",
+               "E": "$$1200$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "A population of bacteria is growing exponentially. If the population grows from 100 to 400 in 2 hours, what is the hourly growth rate of the population?",
+           "options": {
+               "A": "$50\\%$",
+       "B": "$75\\%$",
+       "C": "$100\\%$",
+       "D": "$125\\%$",
+       "E": "$150\\%$"
+   },
+   "answer": "C"
+},
+{
+   "id": 7,
+   "type": "MQ",
+   "question": "Solve for $z$ in the equation $5^z = 125$.",
+   "options": {
+       "A": "$z = 2$",
+       "B": "$z = 3$",
+       "C": "$z = 4$",
+       "D": "$z = 5$",
+       "E": "$z = 6$"
+   },
+   "answer": "B"
+},
+{
+   "id": 8,
+   "type": "MQ",
+   "question": "A company is expanding its operations and expects its revenue to grow exponentially. If the company's revenue grows from $$100,000$ to $$400,000$ in 2 years, what is the annual growth rate of the revenue?",
+   "options": {
+       "A": "$50\\%$",
+       "B": "$75\\%$",
+       "C": "$100\\%$",
+       "D": "$125\\%$",
+       "E": "$150\\%$"
+   },
+   "answer": "C"
+},
+{
+   "id": 9,
+   "type": "FRQ",
+   "question": "A person is planning a road trip and wants to calculate the total cost of the trip. The cost of gas is $$2.50$ per gallon, and the person's car gets an average of 25 miles per gallon. If the person drives a total of 500 miles, what is the total cost of gas for the trip? Show your work and explain your reasoning.",
+   "required_space_lines": 5
+},
+{
+   "id": 10,
+   "type": "FRQ",
+   "question": "A store is having a sale where the price of an item is reduced by $20\\%$ each day. If the original price of the item was $$120$, what is the price of the item after 3 days? Show your work and explain your reasoning.",
+   "required_space_lines": 5
+}
+],
+"teacher_rules": [
+   "Tip 1: Remind students to use the properties of exponents to simplify equations.",
+   "Tip 2: Encourage students to use real-world examples to illustrate the concept of exponential growth.",
+   "Tip 3: Emphasize the importance of showing work and explaining reasoning in free-response questions."
+],
+"footer_title": "Chef's Tips"
+}

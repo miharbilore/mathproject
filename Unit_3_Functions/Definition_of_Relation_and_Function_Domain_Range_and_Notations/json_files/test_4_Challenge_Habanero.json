@@ -1,0 +1,129 @@
+{
+  "unit": "Unit 3: Functions",
+   "topic": "Definition of Relation and Function, Domain, Range, and Notations",
+   "test_type": "Challenge (Habanero)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "A recipe for cake requires $x$ cups of flour to make $y$ cakes, where $x$ and $y$ are related by the equation $y = 2x$. What is the range of this relation?",
+           "options": {
+               "A": "$0 leq y < infty$",
+               "B": "$0 < y leq infty$",
+               "C": "$-infty < y leq 0$",
+               "D": "$-infty < y < infty$",
+               "E": "$y geq 0$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "A construction project requires $x$ workers to complete in $y$ days, where the relation between $x$ and $y$ is given by the table:\n           | $x$ | $y$ |\n           | --- | --- |\n           | 2   | 10  |\n           | 3   | 7   |\n           | 4   | 5   |\n           Is this relation a function?",
+           "options": {
+               "A": "Yes",
+               "B": "No",
+               "C": "Maybe",
+               "D": "Not enough information",
+               "E": "Undefined"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "A building has $x$ floors, and each floor has $y$ apartments. If $y = 3x + 2$, what is the domain of this relation?",
+           "options": {
+               "A": "$x geq 0$",
+               "B": "$x > 0$",
+               "C": "$x leq 0$",
+               "D": "$x < 0$",
+               "E": "$x geq -\frac{2}{3}$"
+           },
+           "answer": "E"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "A chef has a recipe for soup that requires $x$ cups of broth and $y$ cups of vegetables, where $x$ and $y$ are related by the equation $y = \frac{1}{2}x$. What is the range of this relation?",
+           "options": {
+               "A": "$0 leq y < infty$",
+               "B": "$0 < y leq infty$",
+               "C": "$-infty < y leq 0$",
+               "D": "$-infty < y < infty$",
+               "E": "$y geq 0$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "A relation is defined by the graph:\n           ,\n           Is this relation a function?",
+           "options": {
+               "A": "Yes",
+               "B": "No",
+               "C": "Maybe",
+               "D": "Not enough information",
+               "E": "Undefined"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "A function $f(x)$ is defined as $f(x) = 2x + 1$. What is the value of $f(3)$?",
+           "options": {
+               "A": "5",
+               "B": "6",
+               "C": "7",
+               "D": "8",
+               "E": "9"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "A relation is defined by the equation $y = x^2$. What is the domain of this relation?",
+           "options": {
+               "A": "$x geq 0$",
+               "B": "$x > 0$",
+               "C": "$x leq 0$",
+               "D": "$x < 0$",
+               "E": "$-infty < x < infty$"
+           },
+           "answer": "E"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "A function $f(x)$ is defined as $f(x) = x^2 - 4$. What is the range of this function?",
+           "options": {
+               "A": "$y geq -4$",
+               "B": "$y > -4$",
+               "C": "$y leq -4$",
+               "D": "$y < -4$",
+               "E": "$-infty < y < infty$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "A construction project requires $x$ workers to complete in $y$ days, where the relation between $x$ and $y$ is given by the equation $y = \frac{10}{x}$. Find the domain and range of this relation and explain why it is or is not a function.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "A chef has a recipe for cake that requires $x$ cups of flour to make $y$ cakes, where $x$ and $y$ are related by the equation $y = 2x - 3$. Find the value of $y$ when $x = 4$ and explain the meaning of the result in the context of the problem.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Tip 1: Use the vertical line test to determine if a relation is a function.",
+       "Tip 2: Check the units of measurement when evaluating functions.",
+       "Tip 3: Use function notation to evaluate functions."
+   ],
+   "footer": "Chef's Tips"
+}

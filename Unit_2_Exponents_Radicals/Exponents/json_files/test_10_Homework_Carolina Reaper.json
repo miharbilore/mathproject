@@ -1,0 +1,129 @@
+{
+  "unit": "\u1F4D6 Unit 2: Exponents & Radicals",
+   "topic": "Exponents",
+   "test_type": "Homework (Carolina Reaper)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "A music producer uses $2^3$ audio tracks. How many tracks will she have if she adds $2^2$ more tracks?",
+           "options": {
+               "A": "8",
+               "B": "10",
+               "C": "12",
+               "D": "14",
+               "E": "16"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "A painter's canvas size is $3^2$ square feet. If he wants to increase the size by a factor of $3^1$, what will be the new size?",
+           "options": {
+               "A": "18",
+               "B": "27",
+               "C": "30",
+               "D": "36",
+               "E": "45"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "The frequency of a musical note is $2^4$ Hz. What is the frequency of the note one octave higher?",
+           "options": {
+               "A": "32",
+               "B": "64",
+               "C": "128",
+               "D": "256",
+               "E": "512"
+           },
+           "answer": "D"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "Simplify the expression $\\frac{a^8}{a^3}$.",
+           "options": {
+               "A": "$a^2$",
+               "B": "$a^5$",
+               "C": "$a^{11}$",
+               "D": "$a^{11}$",
+               "E": "$a^{12}$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "A rhythm pattern has $3^2$ beats. If the pattern is repeated $2^2$ times, how many beats will there be in total?",
+           "options": {
+               "A": "36",
+               "B": "40",
+       "C": "45",
+       "D": "50",
+       "E": "64"
+   },
+           "answer": "A"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "Simplify the expression $(2^2)^3$.",
+           "options": {
+               "A": "32",
+               "B": "64",
+               "C": "128",
+               "D": "256",
+               "E": "512"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "The size of an image is $4^2$ pixels. If the image is enlarged by a factor of $2^1$, what will be the new size?",
+           "options": {
+               "A": "32",
+       "B": "48",
+       "C": "64",
+       "D": "80",
+       "E": "96"
+   },
+           "answer": "C"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "The frequency of a sound wave is $5^2$ Hz. What is the frequency of the sound wave one octave higher?",
+           "options": {
+               "A": "50",
+       "B": "75",
+       "C": "100",
+       "D": "125",
+       "E": "150"
+   },
+           "answer": "D"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "Simplify the expression $\\frac{(a^2)^3}{a^4}$. Show all steps and explain your reasoning.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "A musical composition has $3^3$ notes. If the composer wants to add a $2^3$ note melody to the composition, how many notes will the new composition have? Explain your answer and provide the calculation.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Check for accuracy and completeness in calculations",
+       "Ensure students provide clear explanations for their reasoning",
+       "Encourage students to use proper mathematical notation and formatting"
+   ],
+   "footer_title": "Chef's Tips"
+}

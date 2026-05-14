@@ -1,0 +1,129 @@
+{
+  "unit": "\u1f4d6 Unit 2: Exponents & Radicals",
+   "topic": "Operations with Radicals",
+   "test_type": "Challenge (Habanero)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "Simplify $\\sqrt{50} + \\sqrt{18}$",
+           "options": {
+               "A": "$\\sqrt{2} + 3\\sqrt{2}$",
+               "B": "$5\\sqrt{2} + 3\\sqrt{2}$",
+               "C": "$7\\sqrt{2}$",
+               "D": "$5 + 3\\sqrt{2}$",
+               "E": "$8\\sqrt{2}$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "A hiker is traveling at a rate of $4\\sqrt{3}$ miles per hour. How far will they travel in $\\sqrt{2}$ hours?",
+           "options": {
+               "A": "$4\\sqrt{6}$ miles",
+               "B": "$5\\sqrt{6}$ miles",
+               "C": "$6\\sqrt{2}$ miles",
+               "D": "$8\\sqrt{3}$ miles",
+               "E": "$8\\sqrt{6}$ miles"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "Simplify $\\frac{\\sqrt{48}}{\\sqrt{12}}$",
+           "options": {
+               "A": "$\\sqrt{4}$",
+               "B": "$2$",
+               "C": "$\\sqrt{2}$",
+               "D": "$4$",
+               "E": "$2\\sqrt{2}$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "A car's fuel consumption is $\\sqrt{20}$ miles per gallon. If the car travels $5\\sqrt{5}$ miles, how many gallons of fuel are consumed?",
+           "options": {
+               "A": "$\\sqrt{5}$ gallons",
+               "B": "$5$ gallons",
+               "C": "$5\\sqrt{2}$ gallons",
+               "D": "$\\sqrt{10}$ gallons",
+               "E": "$\\sqrt{4}$ gallons"
+       },
+       "answer": "B"
+   },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "The population of rabbits in a forest is given by $4\\sqrt{t}$ after $t$ months. If there were $12$ rabbits initially, how many will there be in $\\sqrt{9}$ months?",
+           "options": {
+               "A": "$16$ rabbits",
+               "B": "$12$ rabbits",
+               "C": "$20$ rabbits",
+               "D": "$4$ rabbits",
+               "E": "$8$ rabbits"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "Simplify $(\\sqrt{3} + \\sqrt{2})^2$",
+           "options": {
+               "A": "$3 + 2\\sqrt{6} + 2$",
+               "B": "$5 + 2\\sqrt{6}$",
+               "C": "$7 + 2\\sqrt{6}$",
+               "D": "$1 + 2\\sqrt{6}$",
+               "E": "$9 + 2\\sqrt{6}$"
+       },
+       "answer": "B"
+   },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "The area of a rectangle is given by $A = \\sqrt{2}l \\cdot \\sqrt{5}w$, where $l$ is the length and $w$ is the width. If the area is $10\\sqrt{10}$ square units, and the length is $\\sqrt{2}$ units, what is the width?",
+           "options": {
+               "A": "$5$ units",
+               "B": "$\\sqrt{5}$ units",
+               "C": "$5\\sqrt{2}$ units",
+               "D": "$\\sqrt{10}$ units",
+               "E": "$2\\sqrt{5}$ units"
+       },
+       "answer": "A"
+   },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "Simplify $\\frac{\\sqrt{72}}{\\sqrt{8}}$",
+           "options": {
+               "A": "$\\sqrt{9}$",
+               "B": "$3$",
+               "C": "$\\sqrt{3}$",
+               "D": "$3\\sqrt{2}$",
+               "E": "$\\sqrt{2}$"
+       },
+       "answer": "B"
+   },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "A park ranger travels $4\\sqrt{5}$ miles in $\\sqrt{5}$ hours. What is their average speed in miles per hour? Show your work and simplify your answer.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "If the population of deer in a forest is modeled by $2\\sqrt{t}$ after $t$ years, and the initial population was $8$ deer, how many deer will there be after $9$ years? Show your work and simplify your answer.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Remind students to simplify radical expressions",
+       "Encourage students to check their work",
+       "Emphasize the importance of showing calculations for free-response questions"
+   ],
+   "footer": "Chef's Tips"
+}

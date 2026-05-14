@@ -1,0 +1,129 @@
+{
+  "unit": "\u1F4D6 Unit 1: Ratio, Rate, Percentage",
+   "topic": "Ratios & Proportions",
+   "test_type": "Homework (Jalapeno)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "In ancient Egypt, the ratio of the pyramid's base to its height was $3:4$. If the height of the pyramid is $80$ meters, what is the base?",
+           "options": {
+               "A": "$60$ meters",
+               "B": "$90$ meters",
+               "C": "$120$ meters",
+               "D": "$100$ meters",
+               "E": "$40$ meters"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "A recipe for ancient Greek soup requires a ratio of $2:5$ for water to vegetables. If $10$ liters of water are used, how many kilograms of vegetables are needed?",
+           "options": {
+               "A": "$25$ kg",
+               "B": "$20$ kg",
+               "C": "$15$ kg",
+               "D": "$10$ kg",
+               "E": "$5$ kg"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "The ancient Babylonians used a sexagesimal system with a ratio of $6:10$ for their number system. If a number in this system is $24$, what is its equivalent in the decimal system?",
+           "options": {
+               "A": "$4$",
+               "B": "$6$",
+               "C": "$8$",
+               "D": "$10$",
+               "E": "$12$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "In ancient China, the ratio of the emperor's palace to the peasant's hut was $10:1$. If the peasant's hut is $50$ square meters, what is the area of the emperor's palace?",
+           "options": {
+       "A": "$500$ square meters",
+       "B": "$1000$ square meters",
+       "C": "$5000$ square meters",
+       "D": "$10000$ square meters",
+       "E": "$50000$ square meters"
+   },
+   "answer": "A"
+},
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "A proportion states that $8$ ancient coins are equivalent to $12$ modern coins. If $24$ ancient coins are used, how many modern coins are needed?",
+           "options": {
+       "A": "$12$",
+       "B": "$18$",
+       "C": "$24$",
+       "D": "$30$",
+       "E": "$36$"
+   },
+   "answer": "E"
+},
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "The ratio of men to women in an ancient Roman village was $3:2$. If there were $72$ men, how many women were there?",
+           "options": {
+       "A": "$36$",
+       "B": "$40$",
+       "C": "$48$",
+       "D": "$50$",
+       "E": "$60$"
+   },
+   "answer": "C"
+},
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "An ancient Mayan artifact has a golden ratio of $1.618:1$. If the length of the shorter side is $10$ cm, what is the length of the longer side?",
+           "options": {
+       "A": "$15.18$ cm",
+       "B": "$16.18$ cm",
+       "C": "$20$ cm",
+       "D": "$25$ cm",
+       "E": "$30$ cm"
+   },
+   "answer": "B"
+},
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "The ratio of an ancient Phoenician ship's length to its width was $5:2$. If the width is $8$ meters, what is the length of the ship?",
+           "options": {
+       "A": "$10$ meters",
+       "B": "$16$ meters",
+       "C": "$20$ meters",
+       "D": "$25$ meters",
+       "E": "$30$ meters"
+   },
+   "answer": "C"
+},
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "The ancient Egyptians built the Great Pyramid with a ratio of $4:3$ for the base to the height. If the pyramid's base is $150$ meters and its original height was $200$ meters, what is the new height after $20$ meters of erosion? Show your work and provide the new ratio of base to height.",
+   "required_space_lines": 5
+},
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "The ancient Greeks used a ratio of $1:1.618$ for their architectural designs. If a building's shorter side is $15$ meters, what is the length of the longer side? Use this ratio to find the dimensions of the building if the shorter side is increased by $25\\%$. Provide your answer with the new dimensions and the ratio of the longer side to the shorter side.",
+   "required_space_lines": 5
+}
+   ],
+   "teacher_rules": [
+       "Tip 1: Make sure to check the ratio and proportion calculations carefully.",
+       "Tip 2: Use cross multiplication to solve proportions.",
+       "Tip 3: Model real-world situations with proportions to ensure understanding."
+   ],
+   "footer": "Chef's Tips"
+}

@@ -1,0 +1,129 @@
+{
+  "unit": "\u1f4d6 Unit 1: Ratio, Rate, Percentage",
+   "topic": "Mixture Problems",
+   "test_type": "Foundation (Jalapeno)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "A tennis player wins $\\frac{3}{5}$ of her matches. If she plays 15 matches, how many does she win?",
+           "options": {
+               "A": "9",
+               "B": "10",
+               "C": "11",
+               "D": "12",
+               "E": "13"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "A basketball team scores $\\frac{2}{3}$ of their shots. If they take 18 shots, how many go in?",
+           "options": {
+               "A": "10",
+               "B": "11",
+               "C": "12",
+               "D": "13",
+               "E": "14"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "A cyclist rides $\\frac{1}{4}$ of a 20-mile course. How many miles does she ride?",
+           "options": {
+               "A": "4",
+               "B": "5",
+               "C": "6",
+               "D": "7",
+               "E": "8"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "A runner runs $\\frac{3}{8}$ of a 32-mile marathon. How many miles does she run?",
+           "options": {
+               "A": "10",
+               "B": "11",
+               "C": "12",
+               "D": "13",
+               "E": "14"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "A football team wins $\\frac{2}{5}$ of their games. If they play 25 games, how many do they win?",
+           "options": {
+               "A": "8",
+               "B": "9",
+               "C": "10",
+               "D": "11",
+       "E": "12"
+   },
+           "answer": "C"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "A swimmer completes $\\frac{1}{6}$ of a 30-lap swim. How many laps does she complete?",
+           "options": {
+               "A": "4",
+               "B": "5",
+               "C": "6",
+               "D": "7",
+       "E": "8"
+   },
+           "answer": "B"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "A golfer hits $\\frac{3}{7}$ of his drives straight. If he hits 21 drives, how many go straight?",
+           "options": {
+               "A": "8",
+       "B": "9",
+       "C": "10",
+       "D": "11",
+       "E": "12"
+   },
+           "answer": "B"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "A volleyball player spikes $\\frac{2}{3}$ of her attacks. If she attempts 24 spikes, how many succeed?",
+           "options": {
+               "A": "14",
+               "B": "15",
+               "C": "16",
+               "D": "17",
+       "E": "18"
+   },
+           "answer": "C"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "A soccer team has played 10 games and won $\\frac{3}{5}$ of them. How many more games must they win to have a $\\frac{2}{3}$ win rate for the season, assuming they play a total of 15 games?",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "A baseball player has a batting average of $\\frac{2}{5}$. If he has 20 at-bats, how many hits does he have? If he wants to raise his average to $\\frac{1}{2}$, how many more hits must he get in the next 10 at-bats?",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Emphasize the importance of labeling and checking units in mixture problems.",
+       "Use visual aids like diagrams or charts to help students understand complex mixtures.",
+       "Encourage students to check their work by plugging their answers back into the original equation."
+   ],
+   "footer": "Chef's Tips"
+}

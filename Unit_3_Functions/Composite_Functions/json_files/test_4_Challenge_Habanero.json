@@ -1,0 +1,129 @@
+{
+  "unit": "Unit 3: Functions",
+   "topic": "Composite Functions",
+   "test_type": "Challenge (Habanero)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "If $f(x) = x + 2$ and $g(x) = 2x - 1$, find $f(g(2))$.",
+           "options": {
+               "A": "$5$",
+               "B": "$6$",
+               "C": "$7$",
+               "D": "$8$",
+               "E": "$9$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "Determine the domain of $f(g(x))$ where $f(x) = \\frac{1}{x}$ and $g(x) = x - 3$.",
+           "options": {
+               "A": "$(-\\infty, 3) \\cup (3, \\infty)$",
+               "B": "$(-\\infty, 3)$",
+               "C": "$(3, \\infty)$",
+               "D": "$[3, \\infty)$",
+               "E": "$(-\\infty, 3]$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "A construction worker needs to add a $10\\%$ surcharge to a $\\$200$ job, then apply a $5\\%$ discount. If $f(x)$ represents the surcharge and $g(x)$ represents the discount, find $g(f(200))$.",
+           "options": {
+               "A": "$\\$207$",
+               "B": "$\\$208$",
+               "C": "$\\$209$",
+               "D": "$\\$210$",
+               "E": "$\\$211$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "Given $f(x) = 2x$ and $g(x) = x^2 + 1$, evaluate $f(g(2))$.",
+           "options": {
+               "A": "$10$",
+               "B": "$12$",
+               "C": "$14$",
+               "D": "$16$",
+               "E": "$18$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "Find the value of $x$ such that $f(g(x)) = 0$, given $f(x) = x - 1$ and $g(x) = x + 2$.",
+           "options": {
+               "A": "$-3$",
+               "B": "$-2$",
+               "C": "$-1$",
+               "D": "$0$",
+               "E": "$1$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "Determine the range of $f(g(x))$ where $f(x) = x^2$ and $g(x) = 2x - 1$.",
+           "options": {
+               "A": "$[0, \\infty)$",
+               "B": "$(-\\infty, 0]$",
+               "C": "$(-\\infty, 0) \\cup (0, \\infty)$",
+               "D": "$(-1, 1)$",
+               "E": "$[1, \\infty)$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "A chef needs to cook $3$ batches of $24$ cupcakes. If $f(x)$ represents the number of batches and $g(x)$ represents the number of cupcakes per batch, find $g(f(3))$.",
+           "options": {
+               "A": "$24$",
+               "B": "$48$",
+               "C": "$72$",
+       "D": "$96$",
+       "E": "$120$"
+   },
+   "answer": "C"
+},
+{
+   "id": 8,
+   "type": "MQ",
+   "question": "Find the value of $f(g(0))$ where $f(x) = 2x + 1$ and $g(x) = x - 4$.",
+   "options": {
+       "A": "$-7$",
+       "B": "$-6$",
+       "C": "$-5$",
+       "D": "$-4$",
+       "E": "$-3$"
+   },
+   "answer": "B"
+},
+{
+   "id": 9,
+   "type": "FRQ",
+   "question": "A construction company is building a skyscraper with $50$ floors. Each floor requires $2000$ feet of steel beams. If $f(x)$ represents the number of floors and $g(x)$ represents the amount of steel needed per floor, evaluate $g(f(50))$ and provide the units for the answer.",
+   "required_space_lines": 5
+},
+{
+   "id": 10,
+   "type": "FRQ",
+   "question": "A recipe for making cakes requires $2$ cups of flour per cake. If $f(x)$ represents the number of cups of flour and $g(x)$ represents the number of cakes, determine $f(g(10))$ and explain the real-world meaning of the result.",
+   "required_space_lines": 5
+}
+   ],
+   "teacher_rules": [
+       "Tip 1: Encourage students to use diagrams to visualize composite functions.",
+       "Tip 2: Remind students to consider domain restrictions when evaluating composite functions.",
+       "Tip 3: Emphasize the importance of interpreting compositions in real-world contexts."
+   ],
+   "footer": "Chef's Tips"
+}

@@ -1,0 +1,129 @@
+{
+  "unit": "Unit 0: Foundations of Algebra",
+   "topic": "Divisibility & Division Algorithm",
+   "test_type": "Foundation (Jalapeno)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "Is $24$ divisible by $3$?",
+           "options": {
+               "A": "Yes",
+               "B": "No",
+               "C": "Maybe",
+               "D": "Not enough information",
+               "E": "Unknown"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "What is the remainder when $17$ is divided by $5$?",
+           "options": {
+               "A": "$1$",
+               "B": "$2$",
+               "C": "$3$",
+               "D": "$4$",
+               "E": "$0$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "A spaceship travels $48$ miles in $8$ hours. How many miles does it travel per hour, if it travels at a constant speed?",
+           "options": {
+               "A": "$4$ miles per hour",
+               "B": "$5$ miles per hour",
+               "C": "$6$ miles per hour",
+               "D": "$7$ miles per hour",
+               "E": "$8$ miles per hour"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "Is $945$ divisible by $9$?",
+           "options": {
+               "A": "Yes",
+               "B": "No",
+               "C": "Maybe",
+               "D": "Not enough information",
+               "E": "Unknown"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "What is the result of $27 \\div 3$?",
+           "options": {
+               "A": "$8$",
+               "B": "$9$",
+               "C": "$10$",
+               "D": "$11$",
+               "E": "$12$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "A lab experiment requires $35$ test tubes. If they are packed in boxes of $7$ test tubes each, how many boxes are needed?",
+           "options": {
+               "A": "$4$ boxes",
+               "B": "$5$ boxes",
+               "C": "$6$ boxes",
+               "D": "$7$ boxes",
+               "E": "$8$ boxes"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "What is the remainder when $43$ is divided by $10$?",
+           "options": {
+               "A": "$1$",
+       "B": "$2$",
+       "C": "$3$",
+       "D": "$4$",
+       "E": "$3$"
+   },
+           "answer": "D"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "A planet's orbit is $360$ miles long. If a spaceship travels $45$ miles per day, how many days will it take to complete one orbit?",
+           "options": {
+               "A": "$6$ days",
+       "B": "$7$ days",
+       "C": "$8$ days",
+       "D": "$9$ days",
+       "E": "$10$ days"
+   },
+           "answer": "C"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "Perform the long division to find $63 \\div 9$. Show your work and write your answer in the form $quotient \\ remainder$.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "A space station has $54$ crates of supplies. If they want to pack them into boxes that hold $6$ crates each, how many boxes can they fill? Show your work and explain your answer.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Check for Remainders",
+       "Use Long Division when Necessary",
+       "Apply Divisibility Rules"
+   ],
+   "footer": "Chef's Tips"
+}

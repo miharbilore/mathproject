@@ -1,0 +1,129 @@
+{
+  "unit": "\u2693 Unit 1: Ratio, Rate, Percentage",
+   "topic": "Percent",
+   "test_type": "Challenge (Habanero)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "A recipe for $24$ cupcakes requires $15\\%$ of $2400$ grams of flour. How many grams of flour are needed?",
+           "options": {
+               "A": "360",
+               "B": "375",
+               "C": "3600",
+               "D": "369",
+               "E": "390"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "A construction company has a $20\\%$ discount on all building materials. If a brick costs $$25$, how much will it cost after the discount?",
+           "options": {
+               "A": "$18",
+               "B": "$20",
+               "C": "$22",
+               "D": "$25",
+               "E": "$30"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "A chef needs to reduce a recipe by $12\\%$ to serve $80\\%$ of the original number of guests. What percentage of the original recipe should be used?",
+           "options": {
+               "A": "68%",
+               "B": "70%",
+               "C": "72%",
+               "D": "75%",
+               "E": "88%"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "The length of a room is $15$ meters and the width is $8$ meters. If the length is increased by $25\\%$, what is the new area as a percentage of the original area?",
+           "options": {
+       "A": "131%",
+       "B": "135%",
+       "C": "137.5%",
+       "D": "140%",
+       "E": "145%"
+       },
+       "answer": "C"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "A restaurant has $480$ seats and is currently $60\\%$ full. What percentage of the restaurant's seating capacity needs to be filled to have $75\\%$ more customers?",
+           "options": {
+               "A": "87%",
+               "B": "90%",
+               "C": "93%",
+               "D": "96%",
+               "E": "99%"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "A builder needs to create a scale model of a building with a $30\\%$ scale reduction. If the original building is $120$ meters tall, how tall is the scale model?",
+           "options": {
+               "A": "84",
+               "B": "90",
+               "C": "96",
+               "D": "100",
+               "E": "108"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "The price of a cake increases from $$15$ to $$18$. What is the percentage increase in price?",
+           "options": {
+               "A": "15%",
+               "B": "16%",
+               "C": "17%",
+       "D": "20%",
+       "E": "25%"
+       },
+       "answer": "D"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "A recipe calls for $0.5$ liters of oil. If $25\\%$ of the oil is wasted, what percentage of the original amount of oil is left?",
+           "options": {
+       "A": "60%",
+       "B": "65%",
+       "C": "70%",
+       "D": "72%",
+       "E": "75%"
+       },
+       "answer": "E"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "A kitchen is currently $30\\%$ full of food. If $200$ kilograms of food are added and then $25\\%$ of the total food is removed, what percentage of the kitchen's capacity is filled? (Show your work and calculations)",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "A construction project has a budget of $$10,000$. If there is an increase of $8\\%$ in the cost of materials and then a $15\\%$ discount, what is the final cost as a percentage of the original budget? Explain your answer",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Check the calculations step by step",
+       "Review the units of measurements",
+       "Ensure to apply the correct percentage operations"
+   ],
+   "footer_title": "Chef's Tips"
+}

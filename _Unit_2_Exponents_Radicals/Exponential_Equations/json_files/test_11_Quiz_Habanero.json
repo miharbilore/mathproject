@@ -1,0 +1,129 @@
+{
+  "unit": "\u1F4D6 Unit 2: Exponents & Radicals",
+   "topic": "Exponential Equations",
+   "test_type": "Quiz (Habanero)",
+   "questions": [
+     {
+       "id": 1,
+       "type": "MQ",
+       "question": "Solve for $x$: $2^x = 32$",
+       "options": {
+         "A": "$x = 3$",
+         "B": "$x = 4$",
+         "C": "$x = 5$",
+         "D": "$x = 6$",
+         "E": "$x = 7$"
+       },
+       "answer": "C"
+     },
+     {
+       "id": 2,
+       "type": "MQ",
+       "question": "The population of a certain species of tree is given by $P(t) = 2^t$, where $t$ is time in years. If $P(t) = 64$, what is $t$?",
+       "options": {
+         "A": "$t = 4$",
+         "B": "$t = 5$",
+         "C": "$t = 6$",
+         "D": "$t = 7$",
+         "E": "$t = 8$"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 3,
+       "type": "MQ",
+       "question": "Solve for $x$: $3^{2x} = 81$",
+       "options": {
+         "A": "$x = 1$",
+         "B": "$x = 2$",
+         "C": "$x = 3$",
+         "D": "$x = 4$",
+         "E": "$x = 5$"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 4,
+       "type": "MQ",
+       "question": "The temperature of a cup of coffee can be modeled by $T(t) = 2^{-t}$, where $t$ is time in minutes. If $T(t) = \frac{1}{4}$, what is $t$?",
+       "options": {
+         "A": "$t = 1$",
+         "B": "$t = 2$",
+         "C": "$t = 3$",
+         "D": "$t = 4$",
+         "E": "$t = 5$"
+       },
+       "answer": "C"
+     },
+     {
+       "id": 5,
+       "type": "MQ",
+       "question": "Solve for $x$: $4^x = 256$",
+       "options": {
+         "A": "$x = 2$",
+         "B": "$x = 3$",
+         "C": "$x = 4$",
+         "D": "$x = 5$",
+         "E": "$x = 6$"
+       },
+       "answer": "C"
+     },
+     {
+       "id": 6,
+       "type": "MQ",
+       "question": "The amount of rainfall in a certain region can be modeled by $R(t) = 2^{t-1}$, where $t$ is time in hours. If $R(t) = 8$, what is $t$?",
+       "options": {
+         "A": "$t = 2$",
+         "B": "$t = 3$",
+         "C": "$t = 4$",
+         "D": "$t = 5$",
+         "E": "$t = 6$"
+       },
+       "answer": "C"
+     },
+     {
+       "id": 7,
+       "type": "MQ",
+       "question": "Solve for $x$: $5^{2x} = 625$",
+       "options": {
+         "A": "$x = 1$",
+         "B": "$x = 2$",
+         "C": "$x = 3$",
+         "D": "$x = 4$",
+         "E": "$x = 5$"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 8,
+       "type": "MQ",
+       "question": "The population of a certain species of fish is given by $P(t) = 3^{t-1}$, where $t$ is time in years. If $P(t) = 27$, what is $t$?",
+       "options": {
+         "A": "$t = 2$",
+         "B": "$t = 3$",
+         "C": "$t = 4$",
+         "D": "$t = 5$",
+         "E": "$t = 6$"
+       },
+       "answer": "C"
+     },
+     {
+       "id": 9,
+       "type": "FRQ",
+       "question": "Solve for $x$: $2^{x+1} = 128$",
+       "required_space_lines": 5
+     },
+     {
+       "id": 10,
+       "type": "FRQ",
+       "question": "The amount of carbon dioxide in the atmosphere can be modeled by $C(t) = 2^{t-2}$, where $t$ is time in years. If $C(t) = 16$, what is $t$?",
+       "required_space_lines": 5
+     }
+   ],
+   "teacher_rules": [
+     "Emphasize the importance of using the properties of exponents to simplify expressions",
+     "Encourage students to use the definition of exponential functions to solve equations",
+     "Remind students to check their answers by plugging them back into the original equation"
+   ],
+   "footer": "Chef's Tips"
+ }

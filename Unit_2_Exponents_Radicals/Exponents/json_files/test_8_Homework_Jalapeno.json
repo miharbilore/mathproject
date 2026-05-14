@@ -1,0 +1,129 @@
+{
+  "unit": "\u1F4D6 Unit 2: Exponents & Radicals",
+   "topic": "Exponents",
+   "test_type": "Homework (Jalapeno)",
+   "questions": [
+     {
+       "id": 1,
+       "type": "MQ",
+       "question": "In ancient Egypt, a pharaoh wanted to build a pyramid with $2^3$ times more bricks than the previous one. How many bricks will the new pyramid have if the previous one had 12 bricks?",
+       "options": {
+         "A": "48",
+         "B": "24",
+         "C": "96",
+         "D": "64",
+         "E": "32"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 2,
+       "type": "MQ",
+       "question": "Simplify the expression $x^2 \\cdot x^4$",
+       "options": {
+         "A": "$x^6$",
+         "B": "$x^8$",
+         "C": "$x^{10}$",
+         "D": "$x^{12}$",
+         "E": "$x^{14}$"
+       },
+       "answer": "A"
+     },
+     {
+       "id": 3,
+       "type": "MQ",
+       "question": "Ancient Greek mathematicians used exponents to describe the growth of populations. If a population grows by a factor of $3^2$ each year, how many times larger will it be after 2 years?",
+       "options": {
+         "A": "9",
+         "B": "18",
+         "C": "27",
+         "D": "36",
+         "E": "81"
+       },
+       "answer": "E"
+     },
+     {
+       "id": 4,
+       "type": "MQ",
+       "question": "The Rosetta Stone has $2^5$ characters inscribed on it. How many characters are there in total?",
+       "options": {
+         "A": "20",
+         "B": "25",
+         "C": "30",
+         "D": "32",
+         "E": "40"
+       },
+       "answer": "D"
+     },
+     {
+       "id": 5,
+       "type": "MQ",
+       "question": "The Great Wall of China has $3^2$ watchtowers, each with $2^3$ guards. How many guards are there in total?",
+       "options": {
+         "A": "72",
+         "B": "64",
+         "C": "48",
+         "D": "36",
+         "E": "24"
+       },
+       "answer": "A"
+     },
+     {
+       "id": 6,
+       "type": "MQ",
+       "question": "The ancient Babylonians used exponents to calculate the area of triangles. Simplify the expression $(x^2)^3$",
+       "options": {
+         "A": "$x^5$",
+         "B": "$x^6$",
+         "C": "$x^8$",
+         "D": "$x^{10}$",
+         "E": "$x^{12}$"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 7,
+       "type": "MQ",
+       "question": "In ancient Rome, a general had $2^4$ soldiers, each with $3^2$ shields. How many shields were there in total?",
+       "options": {
+         "A": "144",
+         "B": "128",
+         "C": "96",
+         "D": "64",
+         "E": "48"
+       },
+       "answer": "A"
+     },
+     {
+       "id": 8,
+       "type": "MQ",
+       "question": "The ancient Mayans used exponents to describe the growth of their cities. If a city grows by a factor of $2^3$ each year, how many times larger will it be after 3 years?",
+       "options": {
+         "A": "64",
+         "B": "128",
+         "C": "256",
+         "D": "512",
+         "E": "1024"
+       },
+       "answer": "D"
+     },
+     {
+       "id": 9,
+       "type": "FRQ",
+       "question": "A ancient civilization built a series of temples, with each temple having $2^n$ more pillars than the previous one. If the first temple had 4 pillars, how many pillars will the 5th temple have?",
+       "required_space_lines": 5
+     },
+     {
+       "id": 10,
+       "type": "FRQ",
+       "question": "Simplify the expression $\\frac{x^4}{x^2}$ and explain the reasoning behind your answer",
+       "required_space_lines": 5
+     }
+   ],
+   "teacher_rules": [
+     "Tip 1: Encourage students to use historical examples to illustrate their understanding of exponents",
+     "Tip 2: Remind students to simplify expressions by applying exponent rules",
+     "Tip 3: Emphasize the importance of clear and concise explanations in free-response questions"
+   ],
+   "footer": "Chef's Tips"
+ }

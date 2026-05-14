@@ -1,0 +1,129 @@
+{
+  "unit": "Unit 0: Foundations of Algebra",
+   "topic": "Divisibility & Division Algorithm",
+   "test_type": "Quiz (Carolina Reaper)",
+   "questions": [
+     { 
+       "id": 1, 
+       "type": "MQ", 
+       "question": "A shipping company has $48$ boxes to transport. If they want to pack them in rows of $4$ boxes, how many rows can they make?",
+       "options": {
+         "A": "10",
+         "B": "12",
+         "C": "8",
+         "D": "6",
+         "E": "14"
+       },
+       "answer": "B"
+     },
+     { 
+       "id": 2, 
+       "type": "MQ", 
+       "question": "What is the remainder when $37$ is divided by $5$?",
+       "options": {
+         "A": "0",
+         "B": "1",
+         "C": "2",
+         "D": "3",
+         "E": "4"
+       },
+       "answer": "B"
+     },
+     { 
+       "id": 3, 
+       "type": "MQ", 
+       "question": "If a truck is traveling at $75$ miles per hour and it takes $3$ hours to reach its destination, what is the total distance traveled, given that the driver stops for $15$ minutes?",
+       "options": {
+         "A": "210 miles",
+         "B": "225 miles",
+         "C": "230 miles",
+         "D": "240 miles",
+         "E": "250 miles"
+       },
+       "answer": "B"
+     },
+     { 
+       "id": 4, 
+       "type": "MQ", 
+       "question": "A traffic flow study finds that $243$ cars pass through an intersection in one hour. How many cars pass through the intersection in $5$ minutes?",
+       "options": {
+         "A": "15",
+         "B": "20",
+         "C": "25",
+         "D": "30",
+         "E": "35"
+       },
+       "answer": "B"
+     },
+     { 
+       "id": 5, 
+       "type": "MQ", 
+       "question": "A logistics company has $180$ packages to deliver. If they have $4$ trucks, and each truck can carry an equal number of packages, how many packages can each truck carry?",
+       "options": {
+         "A": "40",
+         "B": "45",
+         "C": "42",
+         "D": "48",
+         "E": "50"
+       },
+       "answer": "C"
+     },
+     { 
+       "id": 6, 
+       "type": "MQ", 
+       "question": "If $a$ and $b$ are integers, and $a div b = 3$ with a remainder of $2$, what is $a$ if $b = 5$?",
+       "options": {
+         "A": "17",
+         "B": "15",
+         "C": "20",
+         "D": "25",
+         "E": "30"
+       },
+       "answer": "A"
+     },
+     { 
+       "id": 7, 
+       "type": "MQ", 
+       "question": "A delivery service promises to deliver $90%$ of its packages within $2$ days. If they deliver $270$ packages in $2$ days, how many packages did they have to deliver in total?",
+       "options": {
+         "A": "300",
+         "B": "285",
+         "C": "270",
+         "D": "255",
+         "E": "240"
+       },
+       "answer": "A"
+     },
+     { 
+       "id": 8, 
+       "type": "MQ", 
+       "question": "A ship is traveling from port $A$ to port $B$ at a speed of $25$ knots. If the distance between the two ports is $200$ nautical miles, how many hours will the trip take, given that the ship stops for $30$ minutes?",
+       "options": {
+         "A": "7.5",
+         "B": "8",
+         "C": "8.5",
+         "D": "9",
+         "E": "9.5"
+       },
+       "answer": "C"
+     },
+     { 
+       "id": 9, 
+       "type": "FRQ", 
+       "question": "A company is shipping $480$ units of a product. The company wants to pack the units in boxes that hold $8$ units each. How many boxes are needed, and what is the remainder if the company only has boxes that hold $8$ units? Show your work and explain your answer.",
+       "required_space_lines": 5
+     },
+     { 
+       "id": 10, 
+       "type": "FRQ", 
+       "question": "A traffic engineer wants to determine the average number of cars that pass through an intersection per hour. If $540$ cars pass through the intersection in $6$ hours, what is the average number of cars per hour? Use the division algorithm to find the quotient and remainder, and explain what the remainder represents in the context of the problem.",
+       "required_space_lines": 5
+     }
+   ],
+   "teacher_rules": [
+     "Emphasize the use of the division algorithm to solve problems",
+     "Have students show their work and explain their answers",
+     "Remind students to check their units and make sure they are consistent"
+   ],
+   "footer_title": "Chef's Tips"
+}

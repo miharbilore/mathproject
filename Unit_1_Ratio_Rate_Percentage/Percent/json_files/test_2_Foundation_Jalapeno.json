@@ -1,0 +1,129 @@
+{
+  "unit": "\u1F4D6 Unit 1: Ratio, Rate, Percentage",
+   "topic": "Percent",
+   "test_type": "Foundation (Jalapeno)",
+   "questions": [
+     {
+       "id": 1,
+       "type": "MQ",
+       "question": "What is $25%$ of $200$?",
+       "options": {
+         "A": "$40$",
+         "B": "$50$",
+         "C": "$60$",
+         "D": "$75$",
+         "E": "$100$"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 2,
+       "type": "MQ",
+       "question": "A planet's mass increases by $15%$. If its original mass was $4000$ kg, what is its new mass?",
+       "options": {
+         "A": "$4200$ kg",
+         "B": "$4400$ kg",
+         "C": "$4500$ kg",
+         "D": "$4600$ kg",
+         "E": "$4800$ kg"
+       },
+       "answer": "C"
+     },
+     {
+       "id": 3,
+       "type": "MQ",
+       "question": "What is the percentage decrease from $50$ to $45$?",
+       "options": {
+         "A": "$5%$",
+         "B": "$10%$",
+         "C": "$12%$",
+         "D": "$15%$",
+         "E": "$20%$"
+       },
+       "answer": "C"
+     },
+     {
+       "id": 4,
+       "type": "MQ",
+       "question": "A lab experiment requires a $20%$ solution of a chemical. If you have $500$ ml of the chemical, how much water do you need to add?",
+       "options": {
+         "A": "$2000$ ml",
+         "B": "$2500$ ml",
+         "C": "$3000$ ml",
+         "D": "$4000$ ml",
+         "E": "$5000$ ml"
+       },
+       "answer": "A"
+     },
+     {
+       "id": 5,
+       "type": "MQ",
+       "question": "What is $12%$ of $600$?",
+       "options": {
+         "A": "$60$",
+         "B": "$70$",
+         "C": "$72$",
+         "D": "$80$",
+         "E": "$90$"
+       },
+       "answer": "C"
+     },
+     {
+       "id": 6,
+       "type": "MQ",
+       "question": "A spaceship travels at $80%$ of its maximum speed. If its maximum speed is $1000$ km/h, how fast is it traveling?",
+       "options": {
+         "A": "$700$ km/h",
+         "B": "$750$ km/h",
+         "C": "$800$ km/h",
+         "D": "$850$ km/h",
+         "E": "$900$ km/h"
+       },
+       "answer": "C"
+     },
+     {
+       "id": 7,
+       "type": "MQ",
+       "question": "What is the percentage increase from $30$ to $36$?",
+       "options": {
+         "A": "$10%$",
+         "B": "$15%$",
+         "C": "$20%$",
+         "D": "$25%$",
+         "E": "$30%$"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 8,
+       "type": "MQ",
+       "question": "A space station's population decreases by $8%$. If its original population was $1200$, what is its new population?",
+       "options": {
+         "A": "$1000$",
+         "B": "$1100$",
+         "C": "$1120$",
+         "D": "$1150$",
+         "E": "$1180$"
+       },
+       "answer": "C"
+     },
+     {
+       "id": 9,
+       "type": "FRQ",
+       "question": "A lab experiment requires a $30%$ increase in temperature. If the original temperature was $25^circ$C, what is the new temperature? Show your work and explain your reasoning.",
+       "required_space_lines": 5
+     },
+     {
+       "id": 10,
+       "type": "FRQ",
+       "question": "A spaceship's fuel tank can hold $5000$ liters of fuel. If it is currently $20%$ full, how many more liters of fuel can be added? Show your work and explain your reasoning.",
+       "required_space_lines": 5
+     }
+   ],
+   "teacher_rules": [
+     "Tip 1: Encourage students to use real-world examples when solving percent problems.",
+     "Tip 2: Emphasize the importance of converting between percentages and decimals.",
+     "Tip 3: Remind students to check their units when solving problems involving percentages."
+   ],
+   "footer": "Chef's Tips"
+ }

@@ -1,0 +1,129 @@
+{
+  "unit": "\u1F4D6 Unit 8: Quadratics",
+   "topic": "Vertex Form and Intercept Form",
+   "test_type": "Foundation (Jalapeno)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "The quadratic function $f(x) = (x - 3)^2 + 2$ is in $\\boxed{vertex form}$.",
+           "options": {
+               "A": "standard form",
+               "B": "vertex form",
+               "C": "intercept form",
+               "D": "factored form",
+               "E": "none of these"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "The vertex of the quadratic $f(x) = x^2 - 6x + 8$ is $(h, k) = (\\boxed{3}, -1)$.",
+           "options": {
+               "A": "(1, -1)",
+               "B": "(3, -1)",
+               "C": "(3, 2)",
+               "D": "(-3, 2)",
+               "E": "(0, 0)"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "For the quadratic function $f(x) = a(x - h)^2 + k$, $h$ and $k$ represent the $\\boxed{x}$- and $y$-coordinates of the vertex.",
+           "options": {
+               "A": "minimum and maximum",
+               "B": "maximum and minimum",
+               "C": "x- and y-coordinates of the vertex",
+               "D": "slope and y-intercept",
+               "E": "none of these"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "The $x$-intercepts of the quadratic function $f(x) = x^2 - 4x - 5$ are $(x, y) = (\\boxed{-1}, 0)$ and $(5, 0)$.",
+           "options": {
+               "A": "(-1, 0) and (1, 0)",
+               "B": "(-5, 0) and (1, 0)",
+               "C": "(-1, 0) and (5, 0)",
+               "D": "(1, 0) and (5, 0)",
+               "E": "(-5, 0) and (-1, 0)"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "The quadratic $f(x) = (x + 2)(x - 4)$ is in $\\boxed{factored form}$, which can help find the $x$-intercepts.",
+           "options": {
+               "A": "standard form",
+               "B": "vertex form",
+               "C": "intercept form",
+               "D": "factored form",
+               "E": "none of these"
+           },
+           "answer": "D"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "A basketball player throws a ball with an initial velocity of $25$ feet per second. The height $h$ of the ball after $t$ seconds can be modeled by the quadratic equation $h(t) = -16t^2 + 25t + 5$. The vertex form of this equation is $h(t) = -(t - \\boxed{0.78125})^2 + 20.15625$.",
+           "options": {
+       "A": "0.625",
+       "B": "0.78125",
+       "C": "1.25",
+       "D": "1.5625",
+       "E": "1.875"
+   },
+   "answer": "B"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "For a tennis serve, the trajectory of the ball can be modeled by $h(x) = 0.2(x - 10)^2 - 4$, where $h(x)$ is the height of the ball in feet and $x$ is the distance in feet. The $y$-intercept of the graph is $(0, \\boxed{-4})$.",
+           "options": {
+               "A": "(0, 0)",
+               "B": "(0, -4)",
+               "C": "(10, 0)",
+               "D": "(0, 4)",
+               "E": "(0, -10)"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "The quadratic function $f(x) = (x - 2)(x + 1)$ can be expressed in intercept form as $f(x) = (x - \\boxed{2})(x - (-1))$.",
+           "options": {
+               "A": "(x - 1)(x + 1)",
+               "B": "(x - 2)(x + 1)",
+               "C": "(x - (-1))(x + 2)",
+               "D": "(x - 1)(x - 2)",
+               "E": "(x + 1)(x - 2)"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "A baseball is hit with an initial velocity of $30$ feet per second at an angle of $45^circ$. The height $h$ of the ball after $t$ seconds can be modeled by $h(t) = -16t^2 + 30t$. Rewrite this equation in vertex form and determine the vertex. Provide your answer in the format $(h, k)$, where $h$ and $k$ are the $x$- and $y$-coordinates of the vertex.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "The path of a golf ball is modeled by the quadratic function $f(x) = 0.2(x - 50)^2 + 10$, where $f(x)$ is the height of the ball in feet and $x$ is the distance in feet. Determine the $x$-intercepts and $y$-intercept of this quadratic function. Show all your work and calculate your answers to the nearest tenth.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Tip 1: Ensure students understand the definitions of vertex and intercept forms before attempting these questions.",
+       "Tip 2: Students should be given extra practice converting between standard form, vertex form, and intercept form.",
+       "Tip 3: Real-world sports examples will help students connect the mathematical concepts to their everyday lives."
+   ],
+   "footer_title": "Chef's Tips"
+}

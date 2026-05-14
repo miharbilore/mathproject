@@ -1,0 +1,129 @@
+{
+  "unit": "\u1F4D6 Unit 5: Linear Equations",
+   "topic": "Point-Slope Form, Slope-Intercept Form, Standard Form and Converting Forms",
+   "test_type": "Advanced (Carolina Reaper)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "What is the equation of the line in point-slope form that passes through the points $(-2,3)$ and $(1,5)$?",
+           "options": {
+               "A": "$y - 3 = \\frac{2}{3}(x + 2)$",
+               "B": "$y - 5 = \\frac{2}{3}(x - 1)$",
+               "C": "$y - 3 = \\frac{1}{2}(x + 2)$",
+               "D": "$y - 5 = \\frac{1}{2}(x - 1)$",
+               "E": "$y - 3 = \\frac{3}{2}(x + 2)$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "Which equation represents a line with a slope of $-2$ and a $y$-intercept of $4$?",
+           "options": {
+               "A": "$y = -2x - 4$",
+               "B": "$y = -2x + 4$",
+               "C": "$y = 2x - 4$",
+               "D": "$y = 2x + 4$",
+               "E": "$y = -2x + 2$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "A bakery sells a total of $250$ loaves of bread per day. The daily profit is given by the equation $P = 2x - 50$, where $x$ is the number of loaves sold. What is the profit if the bakery sells $150$ loaves of whole wheat bread at $$2$ each and $100$ loaves of white bread at $$1.50$ each?",
+           "options": {
+               "A": "$P = 200$",
+               "B": "$P = 250$",
+               "C": "$P = 300$",
+               "D": "$P = 350$",
+               "E": "$P = 400$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "The standard form of the equation of a line is $Ax + By = C$. If $A = 2$, $B = 3$, and $C = 6$, what is the slope of the line?",
+           "options": {
+               "A": "$m = -\\frac{2}{3}$",
+               "B": "$m = -\\frac{3}{2}$",
+               "C": "$m = \\frac{2}{3}$",
+               "D": "$m = \\frac{3}{2}$",
+               "E": "$m = 1$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "The equation $y = 3x - 2$ represents a line with a slope of $3$ and a $y$-intercept of $-2$. What is the $x$-intercept of this line?",
+           "options": {
+       "A": "$x = \\frac{2}{3}$",
+       "B": "$x = -\\frac{2}{3}$",
+       "C": "$x = \\frac{3}{2}$",
+       "D": "$x = -\\frac{3}{2}$",
+       "E": "$x = 0$"
+   },
+   "answer": "B"
+},
+{
+   "id": 6,
+   "type": "MQ",
+   "question": "Tom has been saving money for a new bike and has $120$ dollars in his piggy bank. He wants to buy a bike that costs $180$ dollars. If he saves $5$ dollars per week, how many weeks will it take him to have enough money to buy the bike?",
+   "options": {
+       "A": "$6$ weeks",
+       "B": "$8$ weeks",
+       "C": "$10$ weeks",
+       "D": "$12$ weeks",
+       "E": "$15$ weeks"
+   },
+   "answer": "C"
+},
+{
+   "id": 7,
+   "type": "MQ",
+   "question": "A water tank can hold $1200$ gallons of water. If $300$ gallons of water are already in the tank, and $50$ gallons of water are added every hour, how many hours will it take to fill the tank?",
+   "options": {
+       "A": "$12$ hours",
+       "B": "$15$ hours",
+       "C": "$18$ hours",
+       "D": "$20$ hours",
+       "E": "$22$ hours"
+   },
+   "answer": "B"
+},
+{
+   "id": 8,
+   "type": "MQ",
+   "question": "The point-slope form of a line is $y - 2 = 3(x - 1)$. What is the slope-intercept form of this line?",
+   "options": {
+       "A": "$y = 3x - 1$",
+       "B": "$y = 3x + 1$",
+       "C": "$y = 3x - 3$",
+       "D": "$y = 3x + 3$",
+       "E": "$y = 2x + 1$"
+   },
+   "answer": "A"
+},
+{
+   "id": 9,
+   "type": "FRQ",
+   "question": "The cost of producing $x$ units of a product is given by the equation $C = 2x + 500$. The revenue from selling $x$ units is given by the equation $R = 5x$. Find the break-even point, where the revenue equals the cost. Show all work and explain your answer.",
+   "required_space_lines": 5
+},
+{
+   "id": 10,
+   "type": "FRQ",
+   "question": "A person invests $$2000$ in a savings account that earns an annual interest rate of $5\\%$. The interest is compounded annually. How much will the person have in the account after $10$ years? Use the equation $A = P(1 + r)^n$, where $A$ is the amount of money accumulated after $n$ years, including interest, $P$ is the principal amount (initial investment), $r$ is the annual interest rate (in decimal), and $n$ is the number of years.",
+   "required_space_lines": 5
+}
+   ],
+   "teacher_rules": [
+       "Tip 1: Make sure to read each question carefully and choose the correct answer.",
+       "Tip 2: For free response questions, show all work and explain your answer.",
+       "Tip 3: Use a calculator only when necessary, and make sure to check your work."
+   ],
+   "footer": "Chef's Tips"
+}

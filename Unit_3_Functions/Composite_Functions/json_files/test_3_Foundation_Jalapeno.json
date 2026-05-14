@@ -1,0 +1,129 @@
+{
+  "unit": "Unit 3: Functions",
+   "topic": "Composite Functions",
+   "test_type": "Foundation (Jalapeno)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "If $f(x) = x + 2$ and $g(x) = 2x - 1$, what is $f(g(2))$?",
+           "options": {
+               "A": "5",
+               "B": "6",
+               "C": "7",
+               "D": "8",
+               "E": "9"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "What is the domain of $f(g(x))$ if $f(x) = \\frac{1}{x}$ and $g(x) = x - 3$?",
+           "options": {
+               "A": "(-\\infty, 3) \\cup (3, \\infty)",
+               "B": "(-\\infty, 3)",
+               "C": "(3, \\infty)",
+               "D": "(-3, \\infty)",
+               "E": "(0, \\infty)"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "A basketball player scores $f(x) = 2x + 5$ points in the first quarter and $g(x) = x^2$ points in the second quarter. How many points does the player score in the first two quarters if $x = 2$?",
+           "options": {
+               "A": "15",
+               "B": "17",
+               "C": "19",
+               "D": "21",
+               "E": "23"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "If $f(x) = |x|$ and $g(x) = x - 2$, what is $f(g(-1))$?",
+           "options": {
+               "A": "1",
+               "B": "2",
+               "C": "3",
+               "D": "-1",
+               "E": "-3"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "What is the range of $f(g(x))$ if $f(x) = x^2$ and $g(x) = |x|$?",
+           "options": {
+               "A": "[0, \\infty)",
+               "B": "(-\\infty, 0]",
+               "C": "[1, \\infty)",
+               "D": "(-\\infty, -1]",
+               "E": "[2, \\infty)"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "A cyclist rides $f(x) = x + 1$ miles in the first hour and $g(x) = 2x^2$ miles in the second hour. How many miles does the cyclist ride in the first two hours if $x = 3$?",
+           "options": {
+               "A": "20",
+               "B": "22",
+               "C": "24",
+               "D": "26",
+               "E": "28"
+           },
+           "answer": "D"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "If $f(x) = \\sqrt{x}$ and $g(x) = x + 2$, what is the domain of $f(g(x))$?",
+           "options": {
+               "A": "[-2, \\infty)",
+               "B": "[0, \\infty)",
+               "C": "(-\\infty, -2]",
+               "D": "[2, \\infty)",
+               "E": "(-\\infty, 2]"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "What is the value of $f(g(0))$ if $f(x) = x^2 - 1$ and $g(x) = 2x + 1$?",
+           "options": {
+               "A": "3",
+               "B": "2",
+               "C": "1",
+               "D": "0",
+               "E": "-1"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "A swimmer's score is given by $f(x) = x^2 + 2x - 1$ points for the 100m dash and $g(x) = 3x - 2$ points for the 200m dash. Find $f(g(x))$ and determine the domain of the composite function.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "A tennis player's serve speed is given by $f(x) = 20 + 2x$ mph and the opponent's reaction time is given by $g(x) = 0.5x + 1$ seconds. Find $f(g(x))$ and interpret the result in the context of the game.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Tip 1: Encourage students to simplify their expressions before evaluating.",
+       "Tip 2: Remind students to consider the domain of each function when finding the composite.",
+       "Tip 3: Suggest that students use real-world examples to help them understand the context of the problem."
+   ],
+   "footer": "Chef's Tips"
+}

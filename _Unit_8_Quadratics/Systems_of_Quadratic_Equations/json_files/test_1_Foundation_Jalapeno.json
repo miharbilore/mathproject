@@ -1,0 +1,129 @@
+{
+  "unit": "\u1F4D6 Unit 8: Quadratics",
+   "topic": "Systems of Quadratic Equations",
+   "test_type": "Foundation (Jalapeno)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "Solve the system: $x^2 + y^2 = 4$, $x + y = 2$. What is $x$?",
+           "options": {
+               "A": "0",
+               "B": "1",
+               "C": "2",
+               "D": "$-1$",
+               "E": "$-2$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "A company's profit is modeled by $P = $x^2 - 4x + 5$ and cost by $C = $x^2 + 2x + 3$. What is the break-even point?",
+           "options": {
+               "A": "$(-1, 4)$",
+               "B": "$(-2, 0)$",
+               "C": "$(1, 4)$",
+               "D": "$(2, 9)$",
+               "E": "$(0, 5)$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "Which system has no real solutions: $x^2 + y^2 = 1$, $x^2 - y^2 = 4$?",
+           "options": {
+               "A": "No solution",
+               "B": "Infinite solutions",
+               "C": "One solution",
+               "D": "Two solutions",
+               "E": "More than two"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "If $x^2 - 2y = 3$ and $y = x^2 - 5$, what is $x$?",
+           "options": {
+               "A": "$-1$",
+               "B": "1",
+               "C": "$-2$",
+               "D": "2",
+       "E": "No solution"
+   },
+           "answer": "D"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "What is the point of intersection between $y = x^2$ and $y = x + 1$?",
+           "options": {
+               "A": "(0,0)",
+               "B": "(1,2)",
+               "C": "(-1,0)",
+               "D": "(-1,2)",
+       "E": "(0,1)"
+   },
+           "answer": "C"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "Solve the system of equations: $y = x^2 - 3$ and $y = x - 1$. What is the $x$-coordinate of the point of intersection?",
+           "options": {
+               "A": "$-1$",
+               "B": "1",
+       "C": "2",
+       "D": "$-2$",
+       "E": "No real solution"
+   },
+           "answer": "B"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "A stock's price is modeled by $P = 2x^2 + 5x + 1$ and the number of shares sold by $S = x^2 + x + 2$. What is the revenue when $x = 1$?",
+           "options": {
+       "A": "$16$",
+       "B": "$24$",
+       "C": "$32$",
+       "D": "$48$",
+       "E": "$64$"
+   },
+           "answer": "B"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "An investor has two investment options with returns given by $R = x^2 + 2x + 3$ and $R = x^2 - x + 1$. When do they have the same return?",
+           "options": {
+       "A": "$x = 0$",
+       "B": "$x = 1$",
+       "C": "$x = -1$",
+       "D": "$x = -2$",
+       "E": "$x = -3$"
+   },
+           "answer": "B"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "A company has two factories. The production cost of the first factory is $C_1 = x^2 + 5x + 10$ and the production cost of the second factory is $C_2 = x^2 - 2x + 8$. Find the point of intersection of the two cost functions if $x$ represents the number of units produced. Show your work and explain your answer.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "If a stock's price is modeled by $P = x^2 + 3x + 2$ and the number of shares sold is modeled by $S = x^2 - 2x + 1$, find the revenue as a function of $x$ and graph the system of equations. What does the point of intersection represent in this context? Explain your answer.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Make sure to check for extraneous solutions.",
+       "Graphing is a useful tool to visualize the system of equations.",
+       "Emphasize the importance of showing work and explaining answers."
+   ],
+   "footer": "Chef's Tips"
+}

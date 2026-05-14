@@ -1,0 +1,129 @@
+{
+  "unit": "\u1f4d6 Unit 7: Factoring",
+   "topic": "Factoring Trinomials",
+   "test_type": "Challenge (Habanero)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "Factor the trinomial $x^2 + 5x + 6$.",
+           "options": {
+               "A": "$(x + 2)(x + 3)$",
+               "B": "$(x + 1)(x + 6)$",
+               "C": "$(x + 3)(x + 2)$",
+               "D": "$(x - 2)(x - 3)$",
+               "E": "$(x - 1)(x - 6)$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "A construction company is building a rectangular garden with an area of $x^2 + 7x + 12$ square meters. What are the factors of the area?",
+           "options": {
+               "A": "$(x + 3)(x + 4)$",
+               "B": "$(x + 2)(x + 6)$",
+               "C": "$(x + 1)(x + 12)$",
+               "D": "$(x - 3)(x - 4)$",
+               "E": "$(x - 2)(x - 6)$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "Factor the trinomial $x^2 - 4x - 5$.",
+           "options": {
+               "A": "$(x - 5)(x + 1)$",
+               "B": "$(x + 5)(x - 1)$",
+               "C": "$(x + 1)(x - 5)$",
+               "D": "$(x - 1)(x + 5)$",
+               "E": "$(x + 4)(x - 4)$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "A recipe for making cookies requires $x^2 + 2x + 1$ cups of flour. What are the factors of the amount of flour?",
+           "options": {
+               "A": "$(x + 1)^2$",
+               "B": "$(x - 1)^2$",
+               "C": "$(x + 2)(x + 1)$",
+               "D": "$(x - 2)(x - 1)$",
+               "E": "$(x + 1)(x - 1)$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "Factor the trinomial $x^2 - 9x + 20$.",
+           "options": {
+               "A": "$(x - 5)(x - 4)$",
+               "B": "$(x + 5)(x + 4)$",
+               "C": "$(x - 4)(x - 5)$",
+               "D": "$(x + 4)(x - 5)$",
+               "E": "$(x - 1)(x - 20)$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "A builder is constructing a wall with an area of $x^2 + 10x + 24$ square meters. What are the factors of the area?",
+           "options": {
+       "A": "$(x + 4)(x + 6)$",
+       "B": "$(x + 2)(x + 12)$",
+       "C": "$(x + 1)(x + 24)$",
+       "D": "$(x - 4)(x - 6)$",
+       "E": "$(x - 2)(x - 12)$"
+   },
+   "answer": "A"
+},
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "Factor the trinomial $x^2 + x - 6$.",
+           "options": {
+               "A": "$(x + 3)(x - 2)$",
+               "B": "$(x + 2)(x - 3)$",
+               "C": "$(x + 1)(x - 6)$",
+               "D": "$(x - 1)(x + 6)$",
+               "E": "$(x - 2)(x + 3)$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "A chef is preparing a dish that requires $x^2 - 3x - 4$ cups of ingredients. What are the factors of the amount of ingredients?",
+           "options": {
+               "A": "$(x - 4)(x + 1)$",
+               "B": "$(x + 4)(x - 1)$",
+               "C": "$(x + 1)(x - 4)$",
+               "D": "$(x - 1)(x + 4)$",
+               "E": "$(x - 2)(x + 2)$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "Factor the trinomial $x^2 + 8x + 15$ and explain the steps you took to factor it.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "A contractor is building a rectangular foundation with an area of $x^2 + 9x + 20$ square meters. Factor the area and determine the dimensions of the foundation.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Read the questions carefully",
+       "Use the correct factoring method",
+       "Check your work"
+   ],
+   "footer": "Chef's Tips"
+}

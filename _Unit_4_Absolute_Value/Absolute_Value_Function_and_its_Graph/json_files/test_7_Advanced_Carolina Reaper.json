@@ -1,0 +1,129 @@
+{
+  "unit": "\ud83d\udcda Unit 4: Absolute Value",
+   "topic": "Absolute Value Function and its Graph",
+   "test_type": "Advanced (Carolina Reaper)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "What is the vertex of the graph of $y = |x - 3| + 2$?",
+           "options": {
+               "A": "$(3, 2)$",
+               "B": "$(2, 3)$",
+               "C": "$(3, -2)$",
+               "D": "$(-3, 2)$",
+               "E": "$(0, 3)$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "The graph of $y = |2x - 1|$ has an axis of symmetry of",
+           "options": {
+               "A": "$x = -1$",
+               "B": "$x = \frac{1}{2}$",
+               "C": "$x = 0$",
+               "D": "$x = 1$",
+               "E": "$x = 2$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "Sarah spends $|20 - t| + 10$ dollars on hobbies $t$ hours after waking up. What is the minimum amount she spends?",
+           "options": {
+               "A": "$10$",
+               "B": "$20$",
+               "C": "$30$",
+               "D": "$40$",
+               "E": "$50$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "The graph of $y = -|x - 2| + 1$ opens",
+           "options": {
+               "A": "upward",
+               "B": "downward",
+               "C": "leftward",
+               "D": "rightward",
+               "E": "not at all"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "A store has a $|p - 100| + 50$ dollar discount on an item. What price $p$ gives the maximum discount?",
+           "options": {
+       "A": "$50$",
+       "B": "$75$",
+       "C": "$100$",
+       "D": "$125$",
+       "E": "$150$"
+   },
+   "answer": "A"
+},
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "The equation $y = |x + 2| - 3$ has a minimum value of",
+           "options": {
+       "A": "$-5$",
+       "B": "$-3$",
+       "C": "$0$",
+       "D": "$2$",
+       "E": "$3$"
+   },
+   "answer": "B"
+},
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "The graph of $y = 2|x| - 1$ has a vertex at",
+           "options": {
+       "A": "$(0, -1)$",
+       "B": "$(1, 1)$",
+       "C": "$(0, 0)$",
+       "D": "$(0, 1)$",
+       "E": "$(2, 3)$"
+   },
+   "answer": "A"
+},
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "A time management app charges $|t - 30| + 10$ dollars for $t$ minutes of usage. What is the minimum charge?",
+           "options": {
+       "A": "$10$",
+       "B": "$20$",
+       "C": "$30$",
+       "D": "$40$",
+       "E": "$50$"
+   },
+   "answer": "A"
+},
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "Graph the function $y = |x + 1| - 2$ and identify its vertex, axis of symmetry, and direction of opening. Provide your answer in the space below.",
+   "required_space_lines": 5
+},
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "A shopping mall has a parking fee of $|t - 2| + 5$ dollars for $t$ hours. Determine the minimum fee and the time at which it occurs. Show your work and provide your answer in the space below.",
+   "required_space_lines": 5
+}
+   ],
+   "teacher_rules": [
+       "Tip 1: Ensure students have graph paper for questions 9 and 10",
+       "Tip 2: Monitor students for any signs of struggle with transformations",
+       "Tip 3: Encourage students to use real-life examples for word problems"
+   ],
+   "footer": "Chef's Tips"
+}

@@ -1,0 +1,129 @@
+{
+  "unit": "\u1f4d6 Unit 7: Factoring",
+   "topic": "Factoring by Grouping",
+   "test_type": "Homework (Habanero)",
+   "questions": [
+      {
+         "id": 1,
+         "type": "MQ",
+         "question": "Factor the expression: $x^2 + 5x + 4x + 20$",
+         "options": {
+            "A": "$x(x + 5) + 4(x + 5)$",
+            "B": "$x(x + 4) + 5(x + 4)$",
+            "C": "$x^2 + 9x + 20$",
+            "D": "$x(x + 4) + 5x + 4$",
+            "E": "$x(x + 3) + 4(x + 5)$"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 2,
+         "type": "MQ",
+         "question": "A nurse administers a dosage of $2x + 6$ mg of medicine to a patient every $x + 3$ hours. Factor the expression: $(2x + 6) + (x + 3)(2)$",
+         "options": {
+            "A": "$(2x + 6) + 2(x + 3)$",
+            "B": "$(x + 3)(2x + 2)$",
+            "C": "$(2x + 6)(x + 3)$",
+            "D": "$2(x + 3)^2$",
+            "E": "$(x + 3)(2x + 8)$"
+         },
+         "answer": "E"
+      },
+      {
+         "id": 3,
+         "type": "MQ",
+         "question": "Factor the expression: $x^2 + 7x + 2x + 14$",
+         "options": {
+            "A": "$x(x + 7) + 2(x + 7)$",
+            "B": "$x(x + 2) + 7(x + 2)$",
+            "C": "$x^2 + 9x + 14$",
+            "D": "$x(x + 2) + 7x + 2$",
+            "E": "$x(x + 3) + 4(x + 7)$"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 4,
+         "type": "MQ",
+         "question": "A doctor prescribes a treatment that increases cell growth by $3x + 12$ cells per day, and another treatment that increases cell growth by $x + 4$ cells every $3$ days. Factor the expression: $(3x + 12) + 3(x + 4)$",
+         "options": {
+            "A": "$3(3x + 4) + 12$",
+            "B": "$(x + 4)(3x + 3)$",
+            "C": "$3(x + 4)^2$",
+            "D": "$(3x + 12)(x + 4)$",
+            "E": "$3(x + 4) + (3x + 12)$"
+         },
+         "answer": "E"
+      },
+      {
+         "id": 5,
+         "type": "MQ",
+         "question": "Factor the expression: $x^2 + 9x + 4x + 36$",
+         "options": {
+            "A": "$x(x + 9) + 4(x + 9)$",
+            "B": "$x(x + 4) + 9(x + 4)$",
+            "C": "$x^2 + 13x + 36$",
+            "D": "$x(x + 4) + 9x + 4$",
+            "E": "$x(x + 3) + 4(x + 9)$"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 6,
+         "type": "MQ",
+         "question": "A medical researcher collects data on the number of patients who respond to a new treatment, and finds that $2x + 10$ patients respond within $x + 5$ days. Factor the expression: $(2x + 10) + (x + 5)(2)$",
+         "options": {
+            "A": "$(2x + 10) + 2(x + 5)$",
+            "B": "$(x + 5)(2x + 2)$",
+            "C": "$(2x + 10)(x + 5)$",
+            "D": "$2(x + 5)^2$",
+            "E": "$(x + 5)(2x + 10)$"
+         },
+         "answer": "E"
+      },
+      {
+         "id": 7,
+         "type": "MQ",
+         "question": "Factor the expression: $x^2 + 6x + 3x + 18$",
+         "options": {
+            "A": "$x(x + 6) + 3(x + 6)$",
+            "B": "$x(x + 3) + 6(x + 3)$",
+            "C": "$x^2 + 9x + 18$",
+            "D": "$x(x + 3) + 6x + 3$",
+            "E": "$x(x + 3) + 6(x + 3)$"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 8,
+         "type": "MQ",
+         "question": "A pharmacist dispenses a medication that has a $4x + 16$ mg dosage, which needs to be taken every $x + 4$ hours. Factor the expression: $(4x + 16) + (x + 4)(4)$",
+         "options": {
+            "A": "$(4x + 16) + 4(x + 4)$",
+            "B": "$(x + 4)(4x + 4)$",
+            "C": "$(4x + 16)(x + 4)$",
+            "D": "$4(x + 4)^2$",
+            "E": "$(x + 4)(4x + 16)$"
+         },
+         "answer": "E"
+      },
+      {
+         "id": 9,
+         "type": "FRQ",
+         "question": "Factor the expression: $x^2 + 8x + 6x + 48$. Verify your answer by multiplication.",
+         "required_space_lines": 5
+      },
+      {
+         "id": 10,
+         "type": "FRQ",
+         "question": "A biologist studies the growth rate of bacteria, which can be modeled by the expression: $(3x + 12) + (x + 4)(3)$. Factor this expression and interpret the results in the context of the problem.",
+         "required_space_lines": 5
+      }
+   ],
+   "teacher_rules": [
+      "Always verify factoring by multiplication",
+      "Use the distributive property to check your work",
+      "Pay attention to the context of word problems to ensure accurate interpretation"
+   ],
+   "footer": "Chef's Tips"
+}

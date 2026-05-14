@@ -1,0 +1,129 @@
+{
+  "unit": "Unit 0: Foundations of Algebra",
+   "topic": "GCF & LCM",
+   "test_type": "Foundation (Jalapeno)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "What is the GCF of $12$ and $18$?",
+           "options": {
+               "A": "$1$",
+               "B": "$2$",
+               "C": "$3$",
+               "D": "$6$",
+               "E": "$9$"
+           },
+           "answer": "D"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "A space probe travels $30$ miles in $5$ minutes. How many miles will it travel in $15$ minutes if it maintains the same GCF of speed?",
+           "options": {
+               "A": "$60$ miles",
+               "B": "$90$ miles",
+               "C": "$120$ miles",
+               "D": "$150$ miles",
+               "E": "$180$ miles"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "What is the LCM of $8$ and $12$ using prime factorization?",
+           "options": {
+               "A": "$24$",
+               "B": "$32$",
+               "C": "$40$",
+               "D": "$48$",
+               "E": "$56$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "A lab experiment requires $15$ ml of a chemical. If the chemical is only available in bottles of $3$ ml or $5$ ml, what is the LCM of the bottle sizes?",
+           "options": {
+               "A": "$15$ ml",
+               "B": "$30$ ml",
+               "C": "$45$ ml",
+               "D": "$60$ ml",
+               "E": "$75$ ml"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "What is the GCF of $24$ and $30$ using factors?",
+           "options": {
+               "A": "$1$",
+               "B": "$2$",
+               "C": "$3$",
+               "D": "$6$",
+               "E": "$12$"
+           },
+           "answer": "D"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "A space station has two modules with $18$ and $24$ solar panels. What is the GCF of the number of solar panels?",
+           "options": {
+               "A": "$1$",
+               "B": "$2$",
+               "C": "$3$",
+               "D": "$6$",
+               "E": "$9$"
+           },
+           "answer": "D"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "A physics experiment involves a pendulum with a length of $12$ inches and a swing period of $8$ seconds. What is the LCM of the length and period?",
+           "options": {
+               "A": "$24$",
+               "B": "$32$",
+       "C": "$40$",
+       "D": "$48$",
+       "E": "$56$"
+   },
+   "answer": "D"
+},
+{
+   "id": 8,
+   "type": "MQ",
+   "question": "What is the LCM of $9$ and $12$ using multiples?",
+   "options": {
+       "A": "$18$",
+       "B": "$27$",
+       "C": "$36$",
+       "D": "$45$",
+       "E": "$54$"
+   },
+   "answer": "C"
+},
+{
+   "id": 9,
+   "type": "FRQ",
+   "question": "A lab requires $12$ liters of a chemical to conduct an experiment. If the chemical is only available in bottles of $4$ liters or $6$ liters, determine the number of each type of bottle needed to obtain exactly $12$ liters using GCF and LCM.",
+   "required_space_lines": 5
+},
+{
+   "id": 10,
+   "type": "FRQ",
+   "question": "A space mission requires a spacecraft to travel to two planets with orbital periods of $15$ days and $20$ days. Determine the LCM of the orbital periods and explain how this value is used to plan the mission.",
+   "required_space_lines": 5
+}
+   ],
+   "teacher_rules": [
+       "Emphasize the importance of prime factorization in finding GCF and LCM.",
+       "Use real-world examples to illustrate the application of GCF and LCM in science and space exploration.",
+       "Encourage students to use diagrams and models to visualize the concepts of GCF and LCM."
+   ],
+   "footer": "Chef's Tips"
+}

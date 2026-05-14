@@ -1,0 +1,129 @@
+{
+  "unit": "Unit 0: Foundations of Algebra",
+   "topic": "Variables and Expressions / Order of Operations",
+   "test_type": "Challenge (Habanero)",
+   "questions": [
+       { 
+           "id": 1, 
+           "type": "MQ", 
+           "question": "What is the value of $3 \\cdot 2 + 11$?", 
+           "options": {
+               "A": "15", 
+               "B": "17", 
+               "C": "19", 
+               "D": "20", 
+               "E": "21"
+           }, 
+           "answer": "B" 
+       },
+       { 
+           "id": 2, 
+           "type": "MQ", 
+           "question": "Simplify $2x + 5 + 3x - 2$. ", 
+           "options": {
+               "A": "$5x + 3$", 
+               "B": "$5x - 3$", 
+               "C": "$5x + 7$", 
+               "D": "$x + 7$", 
+               "E": "$x - 7$"
+           }, 
+           "answer": "A" 
+       },
+       { 
+           "id": 3, 
+           "type": "MQ", 
+           "question": "Evaluate $12 - 3 + 2 \\cdot 4$.", 
+           "options": {
+               "A": "13", 
+               "B": "15", 
+               "C": "17", 
+               "D": "19", 
+               "E": "21"
+           }, 
+           "answer": "C" 
+       },
+       { 
+           "id": 4, 
+           "type": "MQ", 
+           "question": "A gamer has $120$ points. After a game, $2x + 5$ points are added. If $x = 7$, how many points does the gamer have now?", 
+           "options": {
+               "A": "139", 
+               "B": "149", 
+               "C": "159", 
+               "D": "169", 
+               "E": "179"
+           }, 
+           "answer": "B" 
+       },
+       { 
+           "id": 5, 
+           "type": "MQ", 
+           "question": "A coding challenge has a scoreboard with $x$ players. If $3x - 2$ players are online and $x = 9$, how many players are online?", 
+           "options": {
+               "A": "23", 
+               "B": "25", 
+               "C": "27", 
+               "D": "29", 
+               "E": "31"
+           }, 
+           "answer": "B" 
+       },
+       { 
+           "id": 6, 
+           "type": "MQ", 
+           "question": "Simplify $(7 - 3) \\cdot 2$. ", 
+           "options": {
+               "A": "6", 
+               "B": "7", 
+               "C": "8", 
+               "D": "10", 
+               "E": "12"
+           }, 
+           "answer": "C" 
+       },
+       { 
+           "id": 7, 
+           "type": "MQ", 
+           "question": "What is the value of $(4 + 2) \\cdot 3 - 1$?", 
+           "options": {
+               "A": "17", 
+               "B": "20", 
+               "C": "23", 
+               "D": "25", 
+               "E": "27"
+           }, 
+           "answer": "B" 
+       },
+       { 
+           "id": 8, 
+           "type": "MQ", 
+           "question": "A data plan costs $$15$ per month plus $$0.05$ per byte. If $x$ bytes are used, what is the total cost of the plan?", 
+           "options": {
+               "A": "$0.05x + 15$", 
+               "B": "$0.05x - 15$", 
+               "C": "$15x + 0.05$", 
+               "D": "$15x - 0.05$", 
+               "E": "$15 + 0.05x$"
+           }, 
+           "answer": "E" 
+       },
+       { 
+           "id": 9, 
+           "type": "FRQ", 
+           "question": "A gaming app has a scoring system. A player starts with $100$ points. For each level completed, $5x + 2$ points are added. If a player completes $3$ levels and $x = 4$, how many points does the player have now? Show your work and provide the final answer.", 
+           "required_space_lines": 5 
+       },
+       { 
+           "id": 10, 
+           "type": "FRQ", 
+           "question": "Simplify the expression $3(2x - 1) + 2(x + 4)$. Then evaluate the expression if $x = 2$. Provide your simplified expression and final answer.", 
+           "required_space_lines": 5 
+       }
+   ],
+   "teacher_rules": [
+       "Tip 1: Encourage students to use the order of operations to evaluate expressions", 
+       "Tip 2: Remind students to combine like terms when simplifying expressions", 
+       "Tip 3: Emphasize the importance of substituting values into expressions carefully"
+   ],
+   "footer": "Chef's Tips"
+}

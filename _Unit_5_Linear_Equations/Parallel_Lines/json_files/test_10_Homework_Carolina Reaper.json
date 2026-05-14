@@ -1,0 +1,129 @@
+{
+  "unit": "\u1F4D6 Unit 5: Linear Equations",
+   "topic": "Parallel Lines",
+   "test_type": "Homework (Carolina Reaper)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "Find the slope of a line parallel to $y = 3x + 2$.",
+           "options": {
+               "A": "$m = 3$",
+               "B": "$m = -3$",
+               "C": "$m = 2$",
+               "D": "$m = 1$",
+               "E": "$m = 0$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "A rhythm pattern has a frequency of $5 \\cdot 10^2$ Hz. If a parallel pattern has the same slope, what is its frequency?",
+           "options": {
+               "A": "$5 \\cdot 10^2$ Hz",
+               "B": "$10^3$ Hz",
+               "C": "$2 \\cdot 10^2$ Hz",
+               "D": "$10^2$ Hz",
+               "E": "$5 \\cdot 10^3$ Hz"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "What is the equation of a line parallel to $y = 2x - 1$ and passing through $(1, 3)$?",
+           "options": {
+               "A": "$y = 2x + 1$",
+               "B": "$y = 2x - 1$",
+               "C": "$y = x + 2$",
+               "D": "$y = x - 2$",
+       "E": "$y = 3x - 2$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "Two parallel lines have slopes of $m_1$ and $m_2$. If $m_1 = 2$, what is $m_2$?",
+           "options": {
+       "A": "$m_2 = 2$",
+       "B": "$m_2 = -2$",
+       "C": "$m_2 = 1$",
+       "D": "$m_2 = -1$",
+       "E": "$m_2 = 0$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "A canvas has a width of $15$ inches and a length of $20$ inches. If a parallel line to the length has a slope of $m$, what is $m$?",
+           "options": {
+       "A": "$m = 0$",
+       "B": "$m = 1$",
+       "C": "$m = \frac{4}{3}$",
+       "D": "$m = \frac{3}{4}$",
+       "E": "$m = -1$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "What is the relationship between two parallel lines with equations $y = 2x + 1$ and $y = 2x - 1$?",
+           "options": {
+       "A": "They have the same $y$-intercept.",
+       "B": "They have the same slope.",
+       "C": "They have the same $x$-intercept.",
+       "D": "They are perpendicular.",
+       "E": "They have different slopes."
+           },
+           "answer": "B"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "Two parallel lines intersect a line with equation $y = -2x + 1$. If the first line has equation $y = 2x - 1$, what is the equation of the second line?",
+           "options": {
+       "A": "$y = 2x + 1$",
+       "B": "$y = 2x - 2$",
+       "C": "$y = -2x + 1$",
+       "D": "$y = x - 1$",
+       "E": "$y = x + 1$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "A song has a rhythm pattern with a frequency of $2 \\cdot 10^3$ Hz and a parallel pattern with the same slope. What is the equation of the line representing the parallel pattern?",
+           "options": {
+       "A": "$y = 2x + 1$",
+       "B": "$y = 2x - 1$",
+       "C": "$y = x + 2$",
+       "D": "$y = x - 2$",
+       "E": "$y = 3x - 2$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "Prove that two lines with slopes $m_1$ and $m_2$ are parallel if and only if $m_1 = m_2$. Use a musical instrument as an example.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "A painter creates a canvas with a width of $20$ inches and a length of $30$ inches. A parallel line to the length has a slope of $m$. Find the equation of the line and explain how it relates to the rhythm pattern of a song.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Tip 1: Use unique scenarios and numerical values for each question.",
+       "Tip 2: Ensure all math is wrapped in $...$ and use \\ for LaTeX commands.",
+       "Tip 3: Keep questions and options concise to fit on one page."
+   ],
+   "footer": "Chef's Tips"
+}

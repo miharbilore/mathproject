@@ -1,0 +1,129 @@
+{
+  "unit": "Unit 0: Foundations of Algebra",
+   "topic": "Variables and Expressions / Order of Operations",
+   "test_type": "Quiz (Carolina Reaper)",
+   "questions": [
+       { 
+           "id": 1, 
+           "type": "MQ", 
+           "question": "A shipping company charges $2 per package plus $0.50 per mile. If $x$ represents the number of miles, what is the algebraic expression for the total cost?", 
+           "options": { 
+               "A": "$0.50x + 2$", 
+               "B": "$2x + 0.50$", 
+               "C": "$2x - 0.50$", 
+               "D": "$0.50 - 2x$", 
+               "E": "$2 - 0.50x$"
+           }, 
+           "answer": "A" 
+       },
+       { 
+           "id": 2, 
+           "type": "MQ", 
+           "question": "Evaluate the expression $3 \\cdot 2 + 11 - 5$ using the correct order of operations.", 
+           "options": { 
+               "A": "$10$", 
+               "B": "$15$", 
+               "C": "$20$", 
+               "D": "$6$", 
+               "E": "$4$"
+           }, 
+           "answer": "B" 
+       },
+       { 
+           "id": 3, 
+           "type": "MQ", 
+           "question": "A traffic flow model uses the equation $t = \\frac{d}{r}$, where $t$ is time, $d$ is distance, and $r$ is rate. If $d = 250$ miles and $r = 50$ miles per hour, what is the value of $t$?", 
+           "options": { 
+               "A": "$5$ hours", 
+               "B": "$3$ hours", 
+               "C": "$2$ hours", 
+               "D": "$8$ hours", 
+               "E": "$10$ hours"
+           }, 
+           "answer": "A" 
+       },
+       { 
+           "id": 4, 
+           "type": "MQ", 
+           "question": "Simplify the algebraic expression $2x + 5x - 3x + 2$ by combining like terms.", 
+           "options": { 
+               "A": "$4x + 2$", 
+               "B": "$6x - 2$", 
+               "C": "$4x - 2$", 
+               "D": "$6x + 2$", 
+               "E": "$8x - 1$"
+           }, 
+           "answer": "A" 
+       },
+       { 
+           "id": 5, 
+           "type": "MQ", 
+           "question": "A delivery company uses the equation $c = 2w + 5$ to calculate the total cost, where $c$ is the total cost and $w$ is the weight of the package in pounds. If the weight of the package is $10$ pounds, what is the total cost?", 
+           "options": { 
+               "A": "$25$", 
+               "B": "$20$", 
+               "C": "$15$", 
+               "D": "$10$", 
+               "E": "$5$"
+           }, 
+           "answer": "A" 
+       },
+       { 
+           "id": 6, 
+           "type": "MQ", 
+           "question": "Evaluate the expression $(3 + 2) \\cdot (8 - 3)$ using the correct order of operations.", 
+           "options": { 
+               "A": "$20$", 
+               "B": "$30$", 
+               "C": "$25$", 
+               "D": "$15$", 
+               "E": "$5$"
+           }, 
+           "answer": "C" 
+       },
+       { 
+           "id": 7, 
+           "type": "MQ", 
+           "question": "The equation $d = rt$ represents the distance traveled by a vehicle, where $d$ is distance, $r$ is rate, and $t$ is time. If $r = 40$ miles per hour and $t = 2.5$ hours, what is the distance traveled?", 
+           "options": { 
+               "A": "$100$ miles", 
+               "B": "$80$ miles", 
+               "C": "$120$ miles", 
+               "D": "$60$ miles", 
+               "E": "$50$ miles"
+           }, 
+           "answer": "A" 
+       },
+       { 
+           "id": 8, 
+           "type": "MQ", 
+           "question": "Simplify the algebraic expression $x^2 + 4x - 3x - 2$ by combining like terms.", 
+           "options": { 
+               "A": "$x^2 + x - 2$", 
+               "B": "$x^2 - 3x + 2$", 
+               "C": "$x^2 + 2x - 1$", 
+               "D": "$x^2 - x - 2$", 
+               "E": "$x^2 + 3x - 2$"
+           }, 
+           "answer": "A" 
+       },
+       { 
+           "id": 9, 
+           "type": "FRQ", 
+           "question": "A logistics company has a fleet of trucks with different capacities. The total capacity of the trucks can be represented by the equation $C = 2x^2 + 5x - 3$, where $C$ is the total capacity and $x$ is the number of trucks. Find the total capacity when there are $4$ trucks. Show your work and explain your answer.", 
+           "required_space_lines": 5
+       },
+       { 
+           "id": 10, 
+           "type": "FRQ", 
+           "question": "A traffic engineer is designing a new highway system. The time it takes for a car to travel from point A to point B can be represented by the equation $t = \\frac{d}{r}$, where $t$ is time, $d$ is distance, and $r$ is rate. If the distance between point A and point B is $120$ miles and the rate is $40$ miles per hour, find the time it takes for a car to travel from point A to point B. Additionally, if the rate increases by $10$ miles per hour, how much time is saved?", 
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Tip 1: Make sure to evaluate expressions using the correct order of operations (PEMDAS).", 
+       "Tip 2: Encourage students to show their work and explain their answers.", 
+       "Tip 3: Remind students to check their units when solving problems involving distance, rate, and time."
+   ],
+   "footer_title": "Chef's Tips"
+}

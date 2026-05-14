@@ -1,0 +1,129 @@
+{
+  "unit": "\u1F4D6 Unit 8: Quadratics",
+   "topic": "Converting Forms (Completing the Square)",
+   "test_type": "Challenge (Habanero)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "A recipe for making cookies includes $x^2 + 6x + 8$ cups of flour. Convert this to vertex form.",
+           "options": {
+               "A": "$(x+3)^2-1$",
+               "B": "$(x+4)^2-8$",
+               "C": "$(x+3)^2+1$",
+               "D": "$(x+2)^2+4$",
+               "E": "$(x+1)^2+7$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "Complete the square to rewrite $x^2 + 4x - 3$.",
+           "options": {
+               "A": "$(x+2)^2-7$",
+               "B": "$(x-2)^2+1$",
+               "C": "$(x+2)^2-3$",
+               "D": "$(x-2)^2-7$",
+               "E": "$(x+3)^2-2$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "A construction site has a parabolic arch with equation $y = x^2 - 2x - 3$. Convert this to vertex form.",
+           "options": {
+               "A": "$y = (x-1)^2-4$",
+               "B": "$y = (x+1)^2+4$",
+               "C": "$y = (x-2)^2+1$",
+               "D": "$y = (x+2)^2-3$",
+               "E": "$y = (x-1)^2-2$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "The height of a projectile is given by $y = -x^2 + 4x + 2$. Complete the square to rewrite this equation.",
+           "options": {
+               "A": "$y = -(x-2)^2+6$",
+               "B": "$y = -(x+2)^2+2$",
+               "C": "$y = -(x+4)^2-1$",
+               "D": "$y = -(x-4)^2+2$",
+       "E": "$y = -(x-1)^2+3$"
+       },
+           "answer": "A"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "A baker is making a cake with $x^2 + 8x + 12$ cups of sugar. Convert this to vertex form.",
+           "options": {
+               "A": "$(x+4)^2-4$",
+       "B": "$(x-2)^2+4$",
+       "C": "$(x+4)^2+4$",
+       "D": "$(x-4)^2-12$",
+       "E": "$(x+6)^2-12$"
+       },
+           "answer": "A"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "The cost of building a house is given by $y = x^2 + 10x + 5$. Complete the square to rewrite this equation.",
+           "options": {
+       "A": "$y = (x+5)^2-20$",
+       "B": "$y = (x-5)^2+20$",
+       "C": "$y = (x+3)^2-4$",
+       "D": "$y = (x+2)^2+1$",
+       "E": "$y = (x-10)^2+5$"
+       },
+           "answer": "A"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "A carpenter has a piece of wood with a parabolic shape given by $y = x^2 - 6x - 2$. Convert this to vertex form.",
+           "options": {
+       "A": "$y = (x-3)^2-11$",
+       "B": "$y = (x-2)^2+2$",
+       "C": "$y = (x+2)^2-6$",
+       "D": "$y = (x-4)^2-6$",
+       "E": "$y = (x+6)^2-2$"
+       },
+           "answer": "A"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "The volume of water in a tank is given by $y = x^2 + 2x - 3$. Complete the square to rewrite this equation.",
+           "options": {
+       "A": "$y = (x+1)^2-4$",
+       "B": "$y = (x-2)^2-3$",
+       "C": "$y = (x+1)^2+1$",
+       "D": "$y = (x-1)^2+2$",
+       "E": "$y = (x+3)^2-4$"
+       },
+           "answer": "A"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "A construction company is building an arch for a new bridge. The equation of the arch is $y = x^2 - 8x + 7$. Convert this equation to vertex form and interpret the results.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "A baker is making a cake with a parabolic shape given by $y = x^2 + 4x + 2$. Complete the square to rewrite this equation and explain the significance of the vertex in this context.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Ensure students understand the concept of completing the square",
+       "Provide examples of real-world applications of quadratic equations",
+       "Encourage students to interpret the results of completing the square in different contexts"
+   ],
+   "footer": "Chef's Tips"
+}

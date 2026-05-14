@@ -1,0 +1,131 @@
+{
+  "unit": "📘 Unit 4: Absolute Value",
+  "topic": "Definition of Absolute Value",
+  "test_type": "Quiz (Carolina Reaper)",
+  "questions": [
+    {
+      "id": 1,
+      "type": "MQ",
+      "question": "A logistics drone is programmed to maintain a distance $d$ from a linear pipeline such that $|y - 12| = 5$. If $y$ represents the drone's lateral coordinate in meters, what are the possible coordinates?",
+      "options": {
+        "A": "$\\{7, 17\\}$",
+        "B": "$\\{-7, 17\\}$",
+        "C": "$\\{5, 12\\}$",
+        "D": "$\\{-17, -7\\}$",
+        "E": "$\\{12, 17\\}$"
+      },
+      "answer": "A"
+    },
+    {
+      "id": 2,
+      "type": "MQ",
+      "question": "The deviation of a cargo ship's fuel consumption $f$ from the optimal rate $R$ is expressed as $|f - R|$. If $R = 500$ and $|f - 500| \\le 25$, which interval represents the acceptable fuel consumption?",
+      "options": {
+        "A": "$[475, 500]$",
+        "B": "$[500, 525]$",
+        "C": "$[475, 525]$",
+        "D": "$\\{475, 525\\}$",
+        "E": "$(- \\infty, 525]$"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 3,
+      "type": "MQ",
+      "question": "Two delivery trucks $T_1$ and $T_2$ are located at mile markers $m_1$ and $m_2$ on a straight highway. If $|m_1 - m_2| = |m_1| + |m_2|$ and $m_1, m_2 \\neq 0$, which statement regarding their positions relative to the dispatch center at $0$ is true?",
+      "options": {
+        "A": "They are on the same side of the center.",
+        "B": "They are at the same location.",
+        "C": "They are on opposite sides of the center.",
+        "D": "One truck is at the dispatch center.",
+        "E": "The distance between them is zero."
+      },
+      "answer": "C"
+    },
+    {
+      "id": 4,
+      "type": "MQ",
+      "question": "A sorting facility uses the expression $E = ||x - 10| - |x - 20||$ to calculate throughput error. If a package is at position $x = 15$, evaluate $E$.",
+      "options": {
+        "A": "$10$",
+        "B": "$5$",
+        "C": "$0$",
+        "D": "$-5$",
+        "E": "$15$"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 5,
+      "type": "MQ",
+      "question": "In a traffic flow model, the velocity $v$ of vehicles must satisfy $|2v - 110| < 20$. What is the maximum integer velocity allowed?",
+      "options": {
+        "A": "$65$",
+        "B": "$64$",
+        "C": "$45$",
+        "D": "$46$",
+        "E": "$55$"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 6,
+      "type": "MQ",
+      "question": "A temperature-controlled container must stay within a range defined by $|T - C| = k$. If the maximum temp is $8^{\\circ}C$ and the minimum is $-2^{\\circ}C$, find the values of $C$ and $k$.",
+      "options": {
+        "A": "$C=5, k=3$",
+        "B": "$C=3, k=5$",
+        "C": "$C=6, k=2$",
+        "D": "$C=2, k=6$",
+        "E": "$C=0, k=8$"
+      },
+      "answer": "B"
+    },
+    {
+      "id": 7,
+      "type": "MQ",
+      "question": "A courier travels from $A$ to $B$. The distance is given by $d(x, y) = |x - y|$. If $A$ is at $-45$ and the courier travels to $B$ such that $d(A, B) = 100$, what is the sum of all possible coordinates for $B$?",
+      "options": {
+        "A": "$100$",
+        "B": "$55$",
+        "C": "$-90$",
+        "D": "$-45$",
+        "E": "$145$"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 8,
+      "type": "MQ",
+      "question": "Simplify the cost function $C(x) = |x - 5| + |x - 10|$ for a warehouse located at $x$ where $5 < x < 10$.",
+      "options": {
+        "A": "$2x - 15$",
+        "B": "$15 - 2x$",
+        "C": "$5$",
+        "D": "$-5$",
+        "E": "$2x + 5$"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 9,
+      "type": "FRQ",
+      "question": "A delivery van starts at the distribution hub (coordinate $0$), drives to a drop-off point at $18$ km, then to a pick-up point at $-7$ km, and finally returns to the hub. Write an expression using absolute values to represent the total distance traveled and calculate the final result.",
+      "required_space_lines": 5
+    },
+    {
+      "id": 10,
+      "type": "FRQ",
+      "question": "A shipping schedule is considered 'on-time' if $|t_{actual} - t_{scheduled}| \\le 0.5$ hours. If a truck arrives at $14.2$ hours for a $15.0$ hour slot, determine if it is on-time by evaluating the absolute value expression. Show your steps.",
+      "required_space_lines": 5
+    }
+  ],
+  "teacher_rules": [
+    "Emphasize that absolute value represents undirected distance on the number line.",
+    "Challenge students to interpret $|a-b|$ as the distance between $a$ and $b$ before using algebra.",
+    "Discuss the physical implications of $|x+y| \\le |x| + |y|$ in logistics displacement versus total distance."
+  ],
+  "footer": {
+    "title": "Chef's Tips"
+  }
+}

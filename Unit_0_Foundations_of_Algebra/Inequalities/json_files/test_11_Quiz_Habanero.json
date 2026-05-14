@@ -1,0 +1,129 @@
+{
+  "unit": "Unit 0: Foundations of Algebra",
+   "topic": "Inequalities",
+   "test_type": "Quiz (Habanero)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "Solve the inequality $2x - 5 > 11$.",
+           "options": {
+               "A": "$x > 8$",
+               "B": "$x < 8$",
+               "C": "$x > 4$",
+               "D": "$x < 4$",
+               "E": "$x = 8$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "Graph the solution to $x + 2 \\leq 7$ on a number line.",
+           "options": {
+               "A": "$(-\\infty, 5]$",
+               "B": "$[-\\infty, 5]$",
+               "C": "$[5, \\infty)$",
+               "D": "$(-\\infty, 5)$",
+               "E": "$[5, \\infty]$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "Write the solution to $x - 3 < 9$ in interval notation.",
+           "options": {
+               "A": "$(-\\infty, 12)$",
+               "B": "$(-\\infty, 6)$",
+               "C": "$[6, \\infty)$",
+               "D": "$(-\\infty, 6]$",
+               "E": "$[6, \\infty]$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "If the temperature is $15^\\circ$C and rises by $2^\\circ$C every hour, when will it reach $25^\\circ$C?",
+           "options": {
+               "A": "5 hours",
+               "B": "6 hours",
+               "C": "4 hours",
+               "D": "3 hours",
+               "E": "2 hours"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "Solve the inequality $4x + 2 > 3x + 5$.",
+           "options": {
+               "A": "$x > 3$",
+               "B": "$x < 3$",
+               "C": "$x > 1$",
+               "D": "$x < 1$",
+               "E": "$x = 3$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "If the rainfall in a forest is $x$ mm and the maximum allowed is $200$ mm, write an inequality to represent $x$.",
+           "options": {
+               "A": "$x \\leq 200$",
+               "B": "$x \\geq 200$",
+               "C": "$x < 200$",
+               "D": "$x > 200$",
+               "E": "$x = 200$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "Graph the solution to $2x - 1 \\geq 5$ on a number line.",
+           "options": {
+               "A": "$[3, \\infty)$",
+               "B": "$(-\\infty, 3)$",
+               "C": "$(-\\infty, 3]$",
+               "D": "$[3, \\infty]$",
+               "E": "$(-\\infty, 3)$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "If the temperature drops by $5^\\circ$C every hour and is currently $20^\\circ$C, when will it reach $0^\\circ$C?",
+           "options": {
+               "A": "5 hours",
+               "B": "4 hours",
+       "C": "3 hours",
+       "D": "2 hours",
+       "E": "1 hour"
+   },
+   "answer": "C"
+},
+{
+   "id": 9,
+   "type": "FRQ",
+   "question": "A certain ecosystem can thrive when the temperature is between $10^\\circ$C and $25^\\circ$C. Write an inequality to represent this situation and graph the solution on a number line.",
+   "required_space_lines": 5
+},
+{
+   "id": 10,
+   "type": "FRQ",
+   "question": "The amount of rainfall $x$ mm in a given month must be greater than $50$ mm for a certain type of plant to grow. Write this situation as an inequality and solve for $x$. Provide your answer in interval notation.",
+   "required_space_lines": 5
+}
+],
+"teacher_rules": [
+   "Provide clear graphs for the free response questions.",
+   "Use the number line to check the solutions for the multiple choice questions.",
+   "Make sure to label the axes clearly when graphing the solutions."
+],
+"footer_title": "Chef's Tips"
+}

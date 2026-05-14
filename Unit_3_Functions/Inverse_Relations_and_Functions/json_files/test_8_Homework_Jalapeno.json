@@ -1,0 +1,128 @@
+{
+  "unit": "Unit 3: Functions",
+   "topic": "Inverse Relations and Functions",
+   "test_type": "Homework (Jalapeno)",
+   "questions": [
+     {
+       "id": 1,
+       "type": "MQ",
+       "question": "The ancient Egyptians used a $y = x^2$ relationship to design pyramids. Which of the following is the inverse of this function?",
+       "options": {
+         "A": "$y = \\sqrt{x}$",
+         "B": "$y = -\\sqrt{x}$",
+         "C": "$y = \\sqrt{-x}$",
+         "D": "$y = -\\sqrt{-x}$",
+         "E": "No inverse exists"
+       },
+       "answer": "E"
+     },
+     {
+       "id": 2,
+       "type": "MQ",
+       "question": "The ancient Greek mathematician Euclid used the concept of inverse functions to calculate the area of a triangle. If $f(x) = 2x + 1$, what is the inverse function $f^{-1}(x)$?",
+       "options": {
+         "A": "$f^{-1}(x) = \\frac{x-1}{2}$",
+         "B": "$f^{-1}(x) = \\frac{x+1}{2}$",
+         "C": "$f^{-1}(x) = 2x - 1$",
+         "D": "$f^{-1}(x) = \\frac{x}{2} + 1$",
+         "E": "$f^{-1}(x) = \\frac{x}{2} - 1$"
+       },
+       "answer": "A"
+     },
+     {
+       "id": 3,
+       "type": "MQ",
+       "question": "The ancient Babylonians used a $y = x^3$ relationship to calculate the volume of a cube. Which of the following is the inverse of this function?",
+       "options": {
+         "A": "$y = \\sqrt[3]{x}$",
+         "B": "$y = -\\sqrt[3]{x}$",
+         "C": "$y = \\sqrt[3]{-x}$",
+         "D": "$y = -\\sqrt[3]{-x}$",
+         "E": "$y = x^2$"
+       },
+       "answer": "A"
+     },
+     {
+       "id": 4,
+       "type": "MQ",
+       "question": "The ancient Chinese mathematician Zu Chongzhi used the concept of inverse functions to calculate the area of a circle. If $f(x) = 3x - 2$, what is the inverse function $f^{-1}(x)$?",
+       "options": {
+         "A": "$f^{-1}(x) = \\frac{x+2}{3}$",
+         "B": "$f^{-1}(x) = \\frac{x-2}{3}$",
+         "C": "$f^{-1}(x) = 3x + 2$",
+         "D": "$f^{-1}(x) = \\frac{x}{3} + 2$",
+         "E": "$f^{-1}(x) = \\frac{x}{3} - 2$"
+       },
+       "answer": "A"
+     },
+     {
+       "id": 5,
+       "type": "MQ",
+       "question": "The ancient Mayans used a $y = 2^x$ relationship to calculate the population growth of a city. Which of the following is the inverse of this function?",
+       "options": {
+         "A": "$y = \\log_2{x}$",
+         "B": "$y = \\log_{1/2}{x}$",
+         "C": "$y = \\log_{2}{x}$",
+         "D": "$y = 2^x$",
+         "E": "$y = x^2$"
+       },
+       "answer": "A"
+     },
+     {
+       "id": 6,
+       "type": "MQ",
+       "question": "If $f(x) = x^2 - 4$, which of the following statements is true about the inverse function $f^{-1}(x)$?",
+       "options": {
+         "A": "The inverse function $f^{-1}(x)$ exists for all real numbers.",
+         "B": "The inverse function $f^{-1}(x)$ exists, but it is not a function.",
+         "C": "The inverse function $f^{-1}(x)$ does not exist.",
+         "D": "The inverse function $f^{-1}(x)$ is a linear function.",
+         "E": "The inverse function $f^{-1}(x)$ is a quadratic function."
+       },
+       "answer": "C"
+     },
+     {
+       "id": 7,
+       "type": "MQ",
+       "question": "If $f(x) = 2x + 5$ and $g(x) = \\frac{x-5}{2}$, which of the following statements is true about the composition of $f$ and $g$?",
+       "options": {
+         "A": "$f(g(x)) = x$",
+         "B": "$g(f(x)) = x$",
+         "C": "$f(g(x)) = 2x + 5$",
+         "D": "$g(f(x)) = \\frac{x-5}{2}$",
+         "E": "$f(g(x)) = x - 5$"
+       },
+       "answer": "A"
+     },
+     {
+       "id": 8,
+       "type": "MQ",
+       "question": "The ancient Egyptians used the concept of inverse functions to calculate the height of a pyramid. If $f(x) = x^2 + 2$, which of the following is the inverse function $f^{-1}(x)$?",
+       "options": {
+         "A": "$f^{-1}(x) = \\sqrt{x-2}$",
+         "B": "$f^{-1}(x) = -\\sqrt{x-2}$",
+         "C": "$f^{-1}(x) = \\sqrt{x+2}$",
+         "D": "$f^{-1}(x) = -\\sqrt{x+2}$",
+         "E": "$f^{-1}(x) = x^2 - 2$"
+       },
+       "answer": "A"
+     },
+     {
+       "id": 9,
+       "type": "FRQ",
+       "question": "The ancient Greek mathematician Archimedes used the concept of inverse functions to calculate the area of a circle. If $f(x) = 3x - 2$, find the inverse function $f^{-1}(x)$ and verify that $f(f^{-1}(x)) = x$ and $f^{-1}(f(x)) = x$. Show all work.",
+       "required_space_lines": 5
+     },
+     {
+       "id": 10,
+       "type": "FRQ",
+       "question": "The ancient Chinese mathematician Liu Hui used the concept of inverse functions to calculate the volume of a sphere. If $f(x) = 2x^2 + 1$, find the inverse function $f^{-1}(x)$ and interpret its meaning in the context of the volume of a sphere. Show all work and explain your answer.",
+       "required_space_lines": 5
+     }
+   ],
+   "teacher_rules": [
+     "Chef's Tips: Remind students to check their work carefully and to show all calculations.",
+     "Chef's Tips: Emphasize the importance of understanding the concept of inverse functions and its applications.",
+     "Chef's Tips: Encourage students to use graphing calculators or other technology to visualize the relationships between functions and their inverses."
+   ]
+ }

@@ -1,0 +1,129 @@
+{
+  "unit": "\u1F4D6 Unit 6: Systems of Linear Equations and Inequalities",
+   "topic": "Applications of Systems of Inequalities",
+   "test_type": "Challenge (Habanero)",
+   "questions": [
+      {
+         "id": 1,
+         "type": "MQ",
+         "question": "A hiker has $48 to spend on trail supplies. She wants to buy energy bars at $4 each and trail mix at $6 per bag. If she buys at least 2 energy bars and at most 6 bags of trail mix, which inequality represents her total cost?",
+         "options": {
+            "A": "$4x + 6y \\leq 48$",
+            "B": "$4x - 6y \\geq 48$",
+            "C": "$6x + 4y \\leq 48$",
+            "D": "$6x - 4y \\geq 48$",
+            "E": "$8x + 2y \\leq 48$"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 2,
+         "type": "MQ",
+         "question": "A park ranger monitors the population of deer ($x$) and wolves ($y$) in a forest. The deer population is at least 50 and at most 100, and the wolf population is at least 10 and at most 20. Which system of inequalities represents the population constraints?",
+         "options": {
+            "A": "$50 \\leq x \\leq 100, 10 \\leq y \\leq 20$",
+            "B": "$50 \\geq x \\geq 100, 10 \\geq y \\geq 20$",
+            "C": "$x \\geq 50, y \\leq 20$",
+            "D": "$x \\leq 100, y \\geq 10$",
+            "E": "$x + y \\leq 150$"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 3,
+         "type": "MQ",
+         "question": "A camper has 5 gallons of fuel for a 4-day trip. She wants to use at most 1 gallon per day for the first 2 days and at least 0.5 gallons per day for the last 2 days. Which inequality represents her fuel usage?",
+         "options": {
+            "A": "$2x + 2y \\leq 5$",
+            "B": "$x + y \\geq 1$",
+            "C": "$x \\leq 2, y \\geq 1$",
+            "D": "$2x + 0.5y \\leq 5$",
+            "E": "$x + 2y \\geq 1$"
+         },
+         "answer": "C"
+      },
+      {
+         "id": 4,
+         "type": "MQ",
+         "question": "A conservation group wants to reintroduce a species of bird to an area. They have $1200 to spend on food and habitat preparation. Food costs $10 per unit and habitat preparation costs $50 per unit. If they want to buy at least 10 units of food and at most 20 units of habitat preparation, which inequality represents their total cost?",
+         "options": {
+            "A": "$10x + 50y \\leq 1200$",
+            "B": "$50x + 10y \\geq 1200$",
+            "C": "$10x - 50y \\leq 1200$",
+            "D": "$10x + 50y \\geq 1200$",
+            "E": "$20x + 30y \\leq 1200$"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 5,
+         "type": "MQ",
+         "question": "A group of friends want to go on a camping trip. They have $500 to spend on transportation, food, and activities. Transportation costs $100, food costs $15 per person, and activities cost $20 per person. If there are at least 5 people and at most 10 people, which inequality represents their total cost?",
+         "options": {
+            "A": "$100 + 15x + 20y \\leq 500$",
+            "B": "$100 + 15x - 20y \\geq 500$",
+            "C": "$100 + 20x + 15y \\leq 500$",
+            "D": "$100 + 35x \\leq 500$",
+            "E": "$100 + 20x + 15y \\geq 500$"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 6,
+         "type": "MQ",
+         "question": "A park manager wants to allocate funds for trail maintenance and wildlife conservation. She has $3000 to spend. Trail maintenance costs $100 per mile and wildlife conservation costs $50 per acre. If she wants to maintain at least 10 miles of trail and conserve at least 20 acres of land, which inequality represents her total cost?",
+         "options": {
+            "A": "$100x + 50y \\leq 3000$",
+            "B": "$50x + 100y \\geq 3000$",
+            "C": "$100x - 50y \\leq 3000$",
+            "D": "$50x + 100y \\leq 3000$",
+            "E": "$150x + 25y \\leq 3000$"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 7,
+         "type": "MQ",
+         "question": "A hiker wants to climb a mountain with a maximum elevation gain of 2000 feet. She can climb at a rate of 500 feet per hour for the first 2 hours and at a rate of 200 feet per hour for the next 2 hours. Which inequality represents her elevation gain?",
+         "options": {
+            "A": "$500x + 200y \\leq 2000$",
+            "B": "$200x + 500y \\geq 2000$",
+            "C": "$500x - 200y \\leq 2000$",
+            "D": "$200x - 500y \\geq 2000$",
+            "E": "$300x + 100y \\leq 2000$"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 8,
+         "type": "MQ",
+         "question": "A wildlife sanctuary has 1000 acres of land to allocate for different species. They want to allocate at least 200 acres for deer and at most 300 acres for wolves. Which inequality represents the land allocation?",
+         "options": {
+            "A": "$x + y \\leq 1000$",
+            "B": "$x + y \\geq 1000$",
+            "C": "$x \\geq 200, y \\leq 300$",
+            "D": "$x \\leq 200, y \\geq 300$",
+            "E": "$x + 2y \\leq 1000$"
+         },
+         "answer": "C"
+      },
+      {
+         "id": 9,
+         "type": "FRQ",
+         "question": "A conservation group wants to protect a species of bird by creating a wildlife reserve. They have $10,000 to spend on food, habitat preparation, and staffing. Food costs $500 per month, habitat preparation costs $2000 per month, and staffing costs $1500 per month. If they want to provide food for at least 5 months, prepare habitat for at least 2 months, and hire staff for at least 3 months, determine the maximum amount they can spend on each category. Show your work and provide a feasible solution.",
+         "required_space_lines": 5
+      },
+      {
+         "id": 10,
+         "type": "FRQ",
+         "question": "A park ranger wants to create a hiking trail with a maximum length of 10 miles. The trail has two sections: one with a steep incline and one with a gentle decline. The steep incline section can be at most 3 miles long and the gentle decline section can be at least 4 miles long. If the ranger wants to allocate the trail length to minimize the steep incline section, determine the maximum length of the gentle decline section. Show your work and provide a feasible solution.",
+         "required_space_lines": 5
+      }
+   ],
+   "teacher_rules": [
+      "Emphasize the importance of reading and understanding the problem before starting to solve it.",
+      "Encourage students to use visualization techniques to understand the constraints and feasible solutions.",
+      "Remind students to check their units and ensure they are consistent throughout the problem."
+   ],
+   "footer_title": "Chef's Tips"
+}

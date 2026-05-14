@@ -1,0 +1,124 @@
+{
+  "unit": "\ud83d\udcda Unit 1: Ratio, Rate, Percentage",
+   "topic": "Mixture Problems",
+   "test_type": "Quiz (Habanero)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "A lake's water level rises $2$ meters after a rainfall of $10$ mm. If it rains $15$ mm, how much will the water level rise in meters?",
+           "options": {
+               "A": "$1.5$",
+               "B": "$2$",
+               "C": "$2.5$",
+               "D": "$3$",
+               "E": "$3.5$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "What is the ratio of CO$_2$ to O$_2$ in the atmosphere if there are $350$ ppm of CO$_2$ and $210,000$ ppm of O$_2$?",
+           "options": {
+               "A": "$1:600$",
+               "B": "$1:700$",
+               "C": "$1:800$",
+               "D": "$1:500$",
+               "E": "$1:400$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "A pollutant is being added to a river at a rate of $2$ kg/min. If the river's flow rate is $50$ m$^3$/min, what is the concentration of the pollutant in kg/m$^3$?",
+           "options": {
+               "A": "$0.01$",
+               "B": "$0.02$",
+               "C": "$0.04$",
+               "D": "$0.05$",
+               "E": "$0.1$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "The temperature in a city is expected to rise by $2^circ$C if the CO$_2$ levels increase by $10%$. If the current temperature is $25^circ$C, what will be the temperature after a $15%$ increase in CO$_2$ levels?",
+           "options": {
+               "A": "$26^circ$C",
+               "B": "$27^circ$C",
+               "C": "$27.5^circ$C",
+               "D": "$28^circ$C",
+               "E": "$29^circ$C"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "A company is mixing a chemical solution with a concentration of $20%$ with another solution of $50%$ concentration. If the final mixture has a concentration of $35%$, what is the ratio of the first solution to the second solution?",
+           "options": {
+               "A": "$1:2$",
+       "B": "$2:1$",
+       "C": "$1:1$",
+       "D": "$3:2$",
+       "E": "$2:3$"
+   },
+   "answer": "B"
+},
+{
+   "id": 6,
+   "type": "MQ",
+   "question": "The pH level of a lake is $7.2$ after a rainfall of $5$ mm. If the pH level decreases by $0.2$ for every $2$ mm of rainfall, what will be the pH level after a rainfall of $10$ mm?",
+   "options": {
+       "A": "$6.8$",
+       "B": "$6.9$",
+       "C": "$7.0$",
+       "D": "$7.1$",
+       "E": "$7.2$"
+   },
+   "answer": "B"
+},
+{
+   "id": 7,
+   "type": "MQ",
+   "question": "A weather monitoring system detects a $15%$ increase in humidity over a period of $30$ minutes. If the initial humidity level was $60%$, what is the final humidity level?",
+   "options": {
+       "A": "$67.5%$",
+       "B": "$68%$",
+       "C": "$69%$",
+       "D": "$69.5%$",
+       "E": "$70%$"
+   },
+   "answer": "C"
+},
+{
+   "id": 8,
+   "type": "MQ",
+   "question": "What is the ratio of solar radiation to cloud cover if $30%$ of the sky is covered by clouds and the solar radiation is $500$ W/m$^2$?",
+   "options": {
+       "A": "$1:7$",
+       "B": "$1:6$",
+       "C": "$1:5$",
+       "D": "$2:5$",
+       "E": "$1:4$"
+   },
+   "answer": "C"
+},
+{
+   "id": 9,
+   "type": "FRQ",
+   "question": "A city's average temperature is $18^circ$C in January and $25^circ$C in July. If the temperature increases by $1^circ$C every $2$ years, what will be the average temperature in $10$ years? Assume the temperature increase is uniform throughout the year. Show your work and calculations.",
+   "required_space_lines": 5
+},
+{
+   "id": 10,
+   "type": "FRQ",
+   "question": "A mixture of two gases, A and B, is used to study the effects of climate change. If gas A has a concentration of $20%$ and gas B has a concentration of $50%$, and the final mixture has a concentration of $35%$, determine the ratio of gas A to gas B. Then, calculate the total volume of the mixture if $200$ liters of gas A and $150$ liters of gas B are used. Show your work and calculations.",
+   "required_space_lines": 5
+}
+   ],
+   "teacher_rules": ["Tip 1: Ensure students understand the concept of ratios and proportions.", "Tip 2: Encourage students to use diagrams and visual aids to solve problems.", "Tip 3: Remind students to check their units and calculations."]
+}

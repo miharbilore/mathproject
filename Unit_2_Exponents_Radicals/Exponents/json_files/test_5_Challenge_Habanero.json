@@ -1,0 +1,129 @@
+{
+  "unit": "\u1F4D6 Unit 2: Exponents & Radicals",
+   "topic": "Exponents",
+   "test_type": "Challenge (Habanero)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "A hiker's backpack weighs $2^3$ pounds. How many pounds does it weigh?",
+           "options": {
+               "A": "4",
+               "B": "6",
+               "C": "8",
+               "D": "10",
+               "E": "12"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "A wildlife reserve has $3^2$ acres of land for animal habitats. If they add $2^2$ more acres, what is the total number of acres?",
+           "options": {
+               "A": "5",
+               "B": "7",
+               "C": "9",
+               "D": "11",
+               "E": "13"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "The population of a certain animal species is $4^2$. If the population doubles, what is the new population?",
+           "options": {
+               "A": "16",
+               "B": "32",
+               "C": "64",
+               "D": "128",
+               "E": "256"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "A car's fuel consumption is $2^2$ miles per gallon. If the car travels $3^2$ miles, how many gallons of fuel are consumed?",
+           "options": {
+       "A": "4.5",
+       "B": "5.5",
+       "C": "6.5",
+       "D": "7.5",
+       "E": "9"
+   },
+           "answer": "D"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "Simplify the expression $(2^2)^3$.",
+           "options": {
+               "A": "$2^5$",
+               "B": "$2^6$",
+               "C": "$2^7$",
+               "D": "$2^8$",
+               "E": "$2^9$"
+           },
+           "answer": "D"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "Simplify the expression $\\frac{2^4}{2^2}$.",
+           "options": {
+               "A": "$2$",
+               "B": "$2^2$",
+               "C": "$2^3$",
+               "D": "$2^4$",
+               "E": "$2^5$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "Simplify the expression $2^2 \\cdot 2^3$.",
+           "options": {
+               "A": "$2^4$",
+               "B": "$2^5$",
+               "C": "$2^6$",
+               "D": "$2^7$",
+               "E": "$2^8$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "The area of a square hiking trail is $3^4$ square feet. What is the length of each side of the trail?",
+           "options": {
+               "A": "$3^2$",
+               "B": "$3^3$",
+               "C": "$3^4$",
+       "D": "$3^5$",
+       "E": "$3^6$"
+   },
+           "answer": "A"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "A national park has $x$ acres of land, where $x = 2^5$. If $\\frac{1}{4}$ of the land is used for hiking trails, what is the area of the hiking trails in terms of $x$? Show your work and simplify your answer.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "The population of a certain animal species is modeled by the equation $P = 2^t$, where $t$ is the number of years. If the population doubles in $3$ years, what is the value of $t$ when the population is $4$ times its initial value? Show your work and simplify your answer.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Read each question carefully before answering",
+       "Use the correct order of operations when simplifying expressions",
+       "Check your work for reasonableness and accuracy"
+   ],
+   "footer": "Chef's Tips"
+}

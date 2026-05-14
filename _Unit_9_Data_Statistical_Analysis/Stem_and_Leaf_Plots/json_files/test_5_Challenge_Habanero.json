@@ -1,0 +1,129 @@
+{
+  "unit": "\u1F4D6 Unit 9: Data Statistical Analysis",
+   "topic": "Stem and Leaf Plots",
+   "test_type": "Challenge (Habanero)",
+   "questions": [
+       { 
+           "id": 1, 
+           "type": "MQ", 
+           "question": "What type of plot is used to display the distribution of $24, 15, 36, 27, 18$?", 
+           "options": { 
+               "A": "Box plot", 
+               "B": "Stem-and-leaf plot", 
+               "C": "Histogram", 
+               "D": "Scatter plot", 
+               "E": "Bar graph"
+           }, 
+           "answer": "B" 
+       },
+       { 
+           "id": 2, 
+           "type": "MQ", 
+           "question": "The times (in minutes) for $5$ hikers to complete a trail are $23, 17, 32, 19, 28$. What is the stem for $23$ in a stem-and-leaf plot?", 
+           "options": { 
+               "A": "2", 
+               "B": "3", 
+               "C": "20", 
+               "D": "30", 
+               "E": "10"
+           }, 
+           "answer": "A" 
+       },
+       { 
+           "id": 3, 
+           "type": "MQ", 
+           "question": "A stem-and-leaf plot shows fuel consumption (in miles per gallon) for $6$ vehicles. If a vehicle has a fuel consumption of $27$ miles per gallon, what is the leaf?", 
+           "options": { 
+               "A": "20", 
+               "B": "7", 
+               "C": "2", 
+               "D": "27", 
+               "E": "30"
+           }, 
+           "answer": "B" 
+       },
+       { 
+           "id": 4, 
+           "type": "MQ", 
+           "question": "Which of the following distributions is symmetrical about the median?", 
+           "options": { 
+               "A": "Skewed left", 
+               "B": "Skewed right", 
+               "C": "Uniform", 
+               "D": "Bimodal", 
+               "E": "Normal"
+           }, 
+           "answer": "E" 
+       },
+       { 
+           "id": 5, 
+           "type": "MQ", 
+           "question": "What is the purpose of a stem-and-leaf plot?", 
+           "options": { 
+               "A": "To compare two datasets", 
+               "B": "To display the distribution of a dataset", 
+               "C": "To calculate the mean and median", 
+               "D": "To visualize the correlation between two variables", 
+               "E": "To create a box plot"
+           }, 
+           "answer": "B" 
+       },
+       { 
+           "id": 6, 
+           "type": "MQ", 
+           "question": "If a stem-and-leaf plot has the stem $2$ with leaves $1, 3, 5, 7, 9$, what is the range of the data?", 
+           "options": { 
+               "A": "$8$", 
+               "B": "$10$", 
+               "C": "$12$", 
+               "D": "$16$", 
+               "E": "$20$"
+           }, 
+           "answer": "A" 
+       },
+       { 
+           "id": 7, 
+           "type": "MQ", 
+           "question": "A wildlife researcher records the weights (in pounds) of $5$ deer: $21, 18, 25, 22, 19$. What would the stem-and-leaf plot look like?", 
+           "options": { 
+               "A": "$1 | 8, 9$ \n $2 | 1, 2, 5$", 
+               "B": "$1 | 8, 9$ \n $2 | 1, 2, 5, 8$", 
+               "C": "$2 | 1, 2, 5, 8, 9$", 
+               "D": "$1 | 8$ \n $2 | 1, 2, 5, 8, 9$", 
+               "E": "$1 | 9$ \n $2 | 1, 2, 5, 8, 9$"
+           }, 
+           "answer": "A" 
+       },
+       { 
+           "id": 8, 
+           "type": "MQ", 
+           "question": "The number of birds in $6$ different regions is $15, 28, 32, 18, 25, 20$. If these values are plotted on a stem-and-leaf plot, which region has the most birds?", 
+           "options": { 
+               "A": "Region with stem $1$ and leaf $5$", 
+               "B": "Region with stem $2$ and leaf $8$", 
+               "C": "Region with stem $3$ and leaf $2$", 
+               "D": "Region with stem $2$ and leaf $5$", 
+               "E": "Region with stem $3$ and leaf $5$"
+           }, 
+           "answer": "B" 
+       },
+       { 
+           "id": 9, 
+           "type": "FRQ", 
+           "question": "Create a stem-and-leaf plot for the following distances (in miles) traveled by $8$ hikers: $12, 18, 24, 20, 15, 22, 19, 25$. Interpret the distribution and describe any patterns or trends in the data.", 
+           "required_space_lines": 5
+       },
+       { 
+           "id": 10, 
+           "type": "FRQ", 
+           "question": "Suppose a park ranger collects data on the ages (in years) of $10$ animals in a wildlife sanctuary: $3, 5, 2, 8, 1, 9, 4, 7, 6, 3$. Use a stem-and-leaf plot to display the distribution of the ages and calculate the range of the data. Show your work and explain your answer.", 
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Tip 1: Ensure students understand how to construct and interpret stem-and-leaf plots.",
+       "Tip 2: Provide clear instructions and examples for students to work on.",
+       "Tip 3: Encourage students to analyze and describe patterns or trends in the data."
+   ],
+   "footer": "Chef's Tips"
+}

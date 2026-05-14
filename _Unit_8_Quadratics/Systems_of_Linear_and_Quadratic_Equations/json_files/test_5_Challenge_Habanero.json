@@ -1,0 +1,129 @@
+{
+  "unit": "\u1F4D6 Unit 8: Quadratics",
+   "topic": "Systems of Linear and Quadratic Equations",
+   "test_type": "Challenge (Habanero)",
+   "questions": [
+     {
+       "id": 1,
+       "type": "MQ",
+       "question": "A hiker is walking on a trail where the elevation $y$ is given by $y = x^2 - 4x + 5$. If a stream runs along the trail with an elevation given by $y = 2x - 1$, at what point do they intersect?",
+       "options": {
+         "A": "(1, 1)",
+         "B": "(3, 5)",
+         "C": "(2, 1)",
+         "D": "(1, 3)",
+         "E": "(4, 5)"
+       },
+       "answer": "C"
+     },
+     {
+       "id": 2,
+       "type": "MQ",
+       "question": "The population of rabbits $P$ in a forest can be modeled by $P = 2x^2 + 5x + 1$, where $x$ is the number of months since the initial count. If the population of foxes $F$ can be modeled by $F = x + 2$, how many rabbits are there when there are 7 foxes?",
+       "options": {
+         "A": "35",
+         "B": "41",
+         "C": "45",
+         "D": "49",
+         "E": "53"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 3,
+       "type": "MQ",
+       "question": "The fuel consumption $F$ of a car is given by $F = x^2 - 2x + 1$, where $x$ is the speed in miles per hour. If the distance traveled is given by $D = 2x + 1$, how far has the car traveled when it has consumed 5 gallons of fuel?",
+       "options": {
+         "A": "5 miles",
+         "B": "6 miles",
+         "C": "7 miles",
+         "D": "8 miles",
+         "E": "9 miles"
+       },
+       "answer": "C"
+     },
+     {
+       "id": 4,
+       "type": "MQ",
+       "question": "The cost $C$ of a guided hike is given by $C = x^2 + 3x + 2$, where $x$ is the number of hikers. If the revenue $R$ is given by $R = 2x + 5$, how many hikers are needed to break even?",
+       "options": {
+         "A": "2",
+         "B": "3",
+         "C": "4",
+         "D": "5",
+         "E": "6"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 5,
+       "type": "MQ",
+       "question": "A park ranger is tracking the population of deer $D$ given by $D = x^2 - x + 1$, where $x$ is the number of months. If the population of wolves $W$ is given by $W = x + 1$, what is the ratio of deer to wolves after 4 months?",
+       "options": {
+         "A": "2:1",
+         "B": "3:1",
+         "C": "4:1",
+         "D": "5:1",
+         "E": "6:1"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 6,
+       "type": "MQ",
+       "question": "A group of friends want to go on a hot air balloon ride that costs $y = x^2 + 2x + 1$ dollars, where $x$ is the number of people. If each person has a budget of $B = 2x - 1$, how many people can go on the ride?",
+       "options": {
+         "A": "2",
+         "B": "3",
+         "C": "4",
+         "D": "5",
+         "E": "6"
+       },
+       "answer": "C"
+     },
+     {
+       "id": 7,
+       "type": "MQ",
+       "question": "The temperature $T$ in a cave is given by $T = x^2 - 3x + 2$, where $x$ is the depth in feet. If the humidity $H$ is given by $H = x + 1$, at what depth is the temperature 2 degrees higher than the humidity?",
+       "options": {
+         "A": "2 feet",
+         "B": "3 feet",
+         "C": "4 feet",
+         "D": "5 feet",
+         "E": "6 feet"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 8,
+       "type": "MQ",
+       "question": "A farmer is planting crops in a field with an area given by $A = x^2 + 2x + 1$, where $x$ is the length of the field. If the amount of fertilizer $F$ needed is given by $F = x + 1$, how much fertilizer is needed for a field of length 3?",
+       "options": {
+         "A": "2",
+         "B": "3",
+         "C": "4",
+         "D": "5",
+         "E": "6"
+       },
+       "answer": "C"
+     },
+     {
+       "id": 9,
+       "type": "FRQ",
+       "question": "Solve the system of equations: $y = x^2 - 2x + 1$ and $y = 3x - 2$. Find the intersection points and interpret the results in the context of a hiking trail where $x$ is the distance traveled and $y$ is the elevation.",
+       "required_space_lines": 5
+     },
+     {
+       "id": 10,
+       "type": "FRQ",
+       "question": "A wildlife conservationist is tracking the population of a species of bird $B$ given by $B = 2x^2 + x + 1$, where $x$ is the number of years. If the population of a species of snake $S$ is given by $S = x + 2$, find the ratio of birds to snakes after 5 years and interpret the results.",
+       "required_space_lines": 5
+     }
+   ],
+   "teacher_rules": [
+     "Provide explicit instructions for each question.",
+     "Ensure students have access to necessary materials and equipment.",
+     "Encourage students to show their work and explain their reasoning."
+   ],
+   "footer": "Chef's Tips"
+ }

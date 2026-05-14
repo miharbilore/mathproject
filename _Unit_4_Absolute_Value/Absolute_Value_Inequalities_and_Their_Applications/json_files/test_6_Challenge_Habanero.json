@@ -1,0 +1,129 @@
+{
+  "unit": "\u1f4d6 Unit 4: Absolute Value",
+   "topic": "Absolute Value Inequalities and Their Applications",
+   "test_type": "Challenge (Habanero)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "Solve $|x - 5| \\leq 3$. Which interval notation is correct?",
+           "options": {
+               "A": "$[2, 8]$",
+               "B": "$(-\\infty, 2] \\cup [8, \\infty)$",
+               "C": "$[5, 8]$",
+               "D": "$[2, 5)$",
+               "E": "$(-\\infty, 2)$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "In a coding competition, score $s$ must satisfy $|s - 100| > 20$. What range of scores is allowed?",
+           "options": {
+               "A": "$s < 80$ or $s > 120$",
+               "B": "$80 \\leq s \\leq 120$",
+               "C": "$s \\geq 100$",
+               "D": "$s \\leq 80$",
+               "E": "$s = 100$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "Graph $|x| < 4$ on a number line. What is the solution set?",
+           "options": {
+               "A": "$(-4, 4)$",
+               "B": "$[-4, 4]$",
+               "C": "$(-\\infty, -4) \\cup (4, \\infty)$",
+               "D": "$(-4, 0) \\cup (0, 4)$",
+               "E": "$[0, 4)$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "Data usage $d$ must satisfy $|d - 10| \\geq 2$. What does this mean for the user?",
+           "options": {
+               "A": "$d \\leq 8$ or $d \\geq 12$",
+               "B": "$8 \\leq d \\leq 12$",
+               "C": "$d = 10$",
+               "D": "$d > 10$",
+               "E": "$d < 10$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "Solve $|3x - 2| < 5$. Which inequality is equivalent?",
+           "options": {
+               "A": "$-1 < x < 1$",
+               "B": "$-1 \\leq x \\leq 1$",
+               "C": "$\\frac{-3}{3} < x < \\frac{7}{3}$",
+               "D": "$\\frac{-1}{3} < x < \\frac{7}{3}$",
+               "E": "$\\frac{2}{3} < x < \\frac{7}{3}$"
+           },
+           "answer": "D"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "A gamer's score $s$ in a game must satisfy $|s| > 15$. What does this mean for the gamer?",
+           "options": {
+               "A": "$s < -15$ or $s > 15$",
+               "B": "$-15 \\leq s \\leq 15$",
+               "C": "$s = 0$",
+               "D": "$s > 0$",
+               "E": "$s < 0$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "The time $t$ it takes to complete a level must satisfy $|t - 10| \\leq 3$. What range of times is allowed?",
+           "options": {
+       "A": "$7 \\leq t \\leq 13$",
+       "B": "$t \\geq 10$",
+       "C": "$t \\leq 7$",
+       "D": "$t > 13$",
+       "E": "$t = 10$"
+   },
+   "answer": "A"
+},
+{
+   "id": 8,
+   "type": "MQ",
+   "question": "In a tech company, data storage $d$ must satisfy $|d - 50| < 10$. What range of data storage is allowed?",
+   "options": {
+       "A": "$40 < d < 60$",
+       "B": "$40 \\leq d \\leq 60$",
+       "C": "$d \\geq 60$",
+       "D": "$d \\leq 40$",
+       "E": "$d = 50$"
+   },
+   "answer": "A"
+},
+{
+   "id": 9,
+   "type": "FRQ",
+   "question": "Model the situation where a video game player's score $s$ must satisfy $|s - 200| > 30$. If $s$ can be any real number, what range of scores is allowed? Provide your answer in interval notation.",
+   "required_space_lines": 5
+},
+{
+   "id": 10,
+   "type": "FRQ",
+   "question": "Solve $|2x + 5| \\leq 11$ and express the solution set in interval notation. Then, graph the solution set on a number line.",
+   "required_space_lines": 5
+}
+],
+"teacher_rules": [
+   "Tip 1: Emphasize the importance of understanding absolute value inequalities and their applications.",
+   "Tip 2: Provide examples of real-world problems that can be modeled using absolute value inequalities.",
+   "Tip 3: Encourage students to use graphing to visualize solution sets."
+],
+"footer_title": "Chef's Tips"
+}

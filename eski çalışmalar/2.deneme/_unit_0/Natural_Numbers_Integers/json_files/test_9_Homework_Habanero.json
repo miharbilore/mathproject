@@ -1,0 +1,129 @@
+{
+  "unit": "Unit 0: Foundations of Algebra",
+   "topic": "Natural Numbers & Integers",
+   "test_type": "Homework (Habanero)",
+   "questions": [
+     {
+       "id": 1,
+       "type": "MQ",
+       "question": "Classify the number $-5$ as a:",
+       "options": {
+         "A": "Natural Number",
+         "B": "Whole Number",
+         "C": "Integer",
+         "D": "Rational Number",
+         "E": "Irrational Number"
+       },
+       "answer": "C"
+     },
+     {
+       "id": 2,
+       "type": "MQ",
+       "question": "A doctor prescribes $3$ pills every $4$ hours. How many pills will a patient take in $24$ hours?",
+       "options": {
+         "A": "$12$",
+         "B": "$18$",
+         "C": "$20$",
+         "D": "$24$",
+         "E": "$30$"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 3,
+       "type": "MQ",
+       "question": "Identify the pattern: $2, 5, 8, 11, 14, ...$",
+       "options": {
+         "A": "Add $2$",
+         "B": "Add $3$",
+         "C": "Add $4$",
+         "D": "Add $5$",
+         "E": "Multiply by $2$"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 4,
+       "type": "MQ",
+       "question": "Solve the equation $x + 2 = 7$ for $x$:",
+       "options": {
+         "A": "$5$",
+         "B": "$7$",
+         "C": "$9$",
+         "D": "$-5$",
+         "E": "$-7$"
+       },
+       "answer": "A"
+     },
+     {
+       "id": 5,
+       "type": "MQ",
+       "question": "A cell grows at a rate of $15%$ per hour. If there are initially $50$ cells, how many cells will there be after $2$ hours?",
+       "options": {
+         "A": "$57.5$",
+         "B": "$60$",
+         "C": "$65$",
+         "D": "$72.5$",
+         "E": "$75$"
+       },
+       "answer": "D"
+     },
+     {
+       "id": 6,
+       "type": "MQ",
+       "question": "Evaluate the expression $(-3) \\cdot (-5)$:",
+       "options": {
+         "A": "$-15$",
+         "B": "$15$",
+         "C": "$-9$",
+         "D": "$9$",
+         "E": "$0$"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 7,
+       "type": "MQ",
+       "question": "Determine if $27$ is an even or odd number:",
+       "options": {
+         "A": "Even",
+         "B": "Odd",
+         "C": "Both",
+         "D": "Neither",
+         "E": "Cannot be determined"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 8,
+       "type": "MQ",
+       "question": "Solve the inequality $2x > 10$ for $x$:",
+       "options": {
+         "A": "$x > 5$",
+         "B": "$x < 5$",
+         "C": "$x = 5$",
+         "D": "$x \\geq 5$",
+         "E": "$x \\leq 5$"
+       },
+       "answer": "A"
+     },
+     {
+       "id": 9,
+       "type": "FRQ",
+       "question": "A patient is taking a medication that has a $20%$ chance of side effects. If $50$ patients are taking the medication, how many are expected to experience side effects? Show your work and explain your reasoning.",
+       "required_space_lines": 5
+     },
+     {
+       "id": 10,
+       "type": "FRQ",
+       "question": "A population of bacteria grows according to the equation $P(t) = 200 \\cdot 2^{0.5t}$, where $t$ is time in hours. Find the population after $4$ hours and explain the significance of the growth rate.",
+       "required_space_lines": 5
+     }
+   ],
+   "teacher_rules": [
+     "Emphasize the importance of precise calculations and units.",
+     "Encourage students to visualize and interpret the results in the context of healthcare and biology.",
+     "Remind students to show their work and explain their reasoning for free-response questions."
+   ],
+   "footer": "Chef's Tips"
+ }

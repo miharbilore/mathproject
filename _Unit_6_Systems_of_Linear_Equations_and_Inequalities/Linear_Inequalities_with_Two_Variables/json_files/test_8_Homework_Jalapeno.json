@@ -1,0 +1,129 @@
+{
+  "unit":"📘 Unit 6: Systems of Linear Equations and Inequalities",
+   "topic":"Linear Inequalities with Two Variables",
+   "test_type":"Homework (Jalapeno)",
+   "questions":[
+      {
+         "id":1,
+         "type":"MQ",
+         "question":"The ancient Egyptians used $2x + 3y \\geq 12$ to plan temple construction. Which inequality represents the same region?",
+         "options":{
+            "A":"$2x + 3y \\leq 12$",
+            "B":"$2x + 3y > 12$",
+            "C":"$2x + 3y < 12$",
+            "D":"$2x - 3y \\geq 12$",
+            "E":"$2x + 3y = 12$"
+         },
+         "answer":"A"
+      },
+      {
+         "id":2,
+         "type":"MQ",
+         "question":"The ancient Mesopotamians used linear inequalities to manage $x$ sheep and $y$ goats. If $x + 2y \\leq 10$, what is the boundary line?",
+         "options":{
+            "A":"solid",
+            "B":"dashed",
+            "C":"$x + 2y = 10$",
+            "D":"$x + 2y > 10$",
+            "E":"$x + 2y < 10$"
+         },
+         "answer":"A"
+      },
+      {
+         "id":3,
+         "type":"MQ",
+         "question":"In ancient China, $3x - 2y \\geq 6$ was used for taxation. Which region does this inequality represent?",
+         "options":{
+            "A":"above the line $3x - 2y = 6$",
+            "B":"below the line $3x - 2y = 6$",
+            "C":"on the line $3x - 2y = 6$",
+            "D":"between $3x - 2y = 6$ and $x - y = 2$",
+            "E":"left of the line $x - y = 2$"
+         },
+         "answer":"A"
+      },
+      {
+         "id":4,
+         "type":"MQ",
+         "question":"Ancient Greek architecture used $x + y \\leq 8$ for column placement. What type of boundary line does this inequality have?",
+         "options":{
+            "A":"solid",
+            "B":"dashed",
+            "C":"$x + y = 8$",
+            "D":"$x + y > 8$",
+            "E":"$x + y < 8$"
+         },
+         "answer":"A"
+      },
+      {
+         "id":5,
+         "type":"MQ",
+         "question":"The Great Pyramid's base perimeter $P$ was planned using $2x + 2y \\geq P$. Which inequality represents the same region as $2x + 2y \\geq 20$?",
+         "options":{
+            "A":"$x + y \\geq 10$",
+            "B":"$x + y \\leq 10$",
+            "C":"$2x + 2y \\leq 20$",
+            "D":"$x + y = 10$",
+            "E":"$2x + 2y > 20$"
+         },
+         "answer":"A"
+      },
+      {
+         "id":6,
+         "type":"MQ",
+         "question":"Ancient Roman bridges used $x - 2y \\leq 5$ for structural integrity. Which line is the boundary?",
+         "options":{
+            "A":"$x - 2y = 5$",
+            "B":"$x - 2y > 5$",
+            "C":"$x - 2y < 5$",
+            "D":"$2x - y = 5$",
+            "E":"$x + 2y = 5$"
+         },
+         "answer":"A"
+      },
+      {
+         "id":7,
+         "type":"MQ",
+         "question":"The Hanging Gardens of Babylon's irrigation used $y \\geq \\frac{1}{2}x + 2$. What type of line is the boundary?",
+         "options":{
+            "A":"solid",
+            "B":"dashed",
+            "C":"$y = \\frac{1}{2}x + 2$",
+            "D":"$y > \\frac{1}{2}x + 2$",
+            "E":"$y < \\frac{1}{2}x + 2$"
+         },
+         "answer":"A"
+      },
+      {
+         "id":8,
+         "type":"MQ",
+         "question":"The Terracotta Army's layout was planned using $y \\leq -x + 4$. What region does this inequality represent?",
+         "options":{
+            "A":"above the line $y = -x + 4$",
+            "B":"below the line $y = -x + 4$",
+            "C":"on the line $y = -x + 4$",
+            "D":"between $y = -x + 4$ and $y = x - 2$",
+            "E":"left of the line $y = x - 2$"
+         },
+         "answer":"B"
+      },
+      {
+         "id":9,
+         "type":"FRQ",
+         "question":"Graph the inequality $2x - 3y \\leq 6$ and identify the boundary line. Explain your reasoning.",
+         "required_space_lines":5
+      },
+      {
+         "id":10,
+         "type":"FRQ",
+         "question":"The ancient Mayans used $y \\geq x - 3$ to plan their calendar. Graph this inequality and describe the solution region. Provide two points that satisfy the inequality.",
+         "required_space_lines":5
+      }
+   ],
+   "teacher_rules":[
+      "Emphasize the importance of understanding boundary lines and their relationship to the solution region.",
+      "Use historical contexts to make the problems more engaging and relevant.",
+      "Ensure students can identify and explain the differences between solid and dashed boundary lines."
+   ],
+   "footer_title":"Chef's Tips"
+}

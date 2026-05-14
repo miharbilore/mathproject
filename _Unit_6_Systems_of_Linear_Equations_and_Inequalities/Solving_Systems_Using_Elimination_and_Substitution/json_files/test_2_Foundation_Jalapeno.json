@@ -1,0 +1,129 @@
+{
+  "unit": "\u270d Unit 6: Systems of Linear Equations and Inequalities",
+   "topic": "Solving Systems Using Elimination and Substitution",
+   "test_type": "Foundation (Jalapeno)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "Solve the system using substitution: $x + 2y = 4$ and $x - 2y = -2$. What is $y$?",
+           "options": {
+               "A": "$y = 1$",
+               "B": "$y = 2$",
+               "C": "$y = 3$",
+               "D": "$y = 4$",
+               "E": "$y = 5$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "Solve the system using elimination: $3x + 2y = 7$ and $2x - 2y = -3$. What is $x$?",
+           "options": {
+               "A": "$x = 1$",
+               "B": "$x = 2$",
+               "C": "$x = 3$",
+               "D": "$x = 4$",
+               "E": "$x = 5$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "A spaceship is traveling through space. Its $x$ and $y$ coordinates are given by the system: $x - 2y = 5$ and $3x + 2y = 11$. What is $x$?",
+           "options": {
+               "A": "$x = 1$",
+               "B": "$x = 2$",
+               "C": "$x = 3$",
+               "D": "$x = 4$",
+               "E": "$x = 5$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "A scientists is conducting an experiment with two variables, $x$ and $y$. The system of equations is: $2x + 3y = 12$ and $x - 2y = -3$. What is $y$?",
+           "options": {
+               "A": "$y = 1$",
+               "B": "$y = 2$",
+               "C": "$y = 3$",
+               "D": "$y = 4$",
+               "E": "$y = 5$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "Solve the system using substitution: $x + y = 4$ and $x - y = 2$. What is $x$?",
+           "options": {
+       "A": "$x = 1$",
+       "B": "$x = 2$",
+       "C": "$x = 3$",
+       "D": "$x = 4$",
+       "E": "$x = 5$"
+   },
+   "answer": "D"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "A planet's orbit can be modeled by the system: $2x - 3y = 5$ and $x + 2y = 7$. What is $y$?",
+           "options": {
+       "A": "$y = 1$",
+       "B": "$y = 2$",
+       "C": "$y = 3$",
+       "D": "$y = 4$",
+       "E": "$y = 5$"
+   },
+   "answer": "B"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "Solve the system using elimination: $x + 2y = 5$ and $3x - 2y = 7$. What is $x$?",
+           "options": {
+       "A": "$x = 1$",
+       "B": "$x = 2$",
+       "C": "$x = 3$",
+       "D": "$x = 4$",
+       "E": "$x = 5$"
+   },
+   "answer": "C"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "A lab experiment involves two variables, $x$ and $y$. The system of equations is: $x - y = 2$ and $2x + 3y = 12$. What is $x$?",
+           "options": {
+       "A": "$x = 1$",
+       "B": "$x = 2$",
+       "C": "$x = 3$",
+       "D": "$x = 4$",
+       "E": "$x = 5$"
+   },
+   "answer": "E"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "Solve the system using substitution or elimination: $2x + 5y = 17$ and $x - 2y = -3$. Show all work and find the values of $x$ and $y$.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "A spaceship's trajectory can be modeled by the system: $3x - 2y = 5$ and $2x + 5y = 23$. Determine the number of solutions to the system and explain your reasoning.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Review the concept of substitution and elimination methods",
+       "Emphasize the importance of checking the solution",
+       "Use real-world examples to illustrate the application of systems of linear equations"
+   ],
+   "footer": "Chef's Tips"
+}

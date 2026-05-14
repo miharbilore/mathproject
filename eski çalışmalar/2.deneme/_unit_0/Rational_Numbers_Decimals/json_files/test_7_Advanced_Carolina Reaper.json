@@ -1,0 +1,129 @@
+{
+  "unit": "Unit 0: Foundations of Algebra",
+   "topic": "Rational Numbers & Decimals",
+   "test_type": "Advanced (Carolina Reaper)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "A music store sells guitars for $$\\frac{3}{4}$ of the original price. If the original price is $800, how much will you pay?",
+           "options": {
+               "A": "$$600$",
+               "B": "$$640$",
+               "C": "$$540$",
+               "D": "$$580$",
+               "E": "$$620$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "What is $$0.\\overline{45}$$ as a fraction?",
+           "options": {
+               "A": "$$\\frac{1}{20}$",
+               "B": "$$\\frac{5}{11}$",
+               "C": "$$\\frac{1}{22}$",
+               "D": "$$\\frac{41}{90}$",
+               "E": "$$\\frac{4}{9}$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "A bakery is having a sale on bread. A loaf that originally costs $$\\frac{3}{5}$$ of a dollar is now on sale for $$0.6$$ dollars. What is the percent decrease in price?",
+           "options": {
+               "A": "$$20\\%$",
+               "B": "$$10\\%$",
+               "C": "$$5\\%$",
+               "D": "$$15\\%$",
+               "E": "$$25\\%$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "Order the following rational numbers from least to greatest: $$\\frac{5}{8}, 0.6, \\frac{9}{16}, 0.7$$",
+           "options": {
+               "A": "$$0.6, \\frac{5}{8}, \\frac{9}{16}, 0.7$$",
+               "B": "$$0.6, \\frac{9}{16}, \\frac{5}{8}, 0.7$$",
+               "C": "$$\\frac{9}{16}, 0.6, \\frac{5}{8}, 0.7$$",
+               "D": "$$0.6, \\frac{9}{16}, 0.7, \\frac{5}{8}$$",
+               "E": "$$\\frac{5}{8}, \\frac{9}{16}, 0.6, 0.7$$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "If $$x = 0.\\overline{9}$$, then $$x + \\frac{1}{9}$$ equals",
+           "options": {
+               "A": "$$\\frac{10}{9}$$",
+               "B": "$$1$$",
+               "C": "$$\\frac{11}{9}$$",
+               "D": "$$2$$",
+               "E": "$$\\frac{12}{9}$$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "A water tank can hold $$\\frac{3}{4}$$ of a thousand gallons. If $$\\frac{1}{6}$$ of the tank is filled, how many gallons of water are in the tank?",
+           "options": {
+               "A": "$$50$$ gallons",
+       "B": "$$40$$ gallons",
+       "C": "$$60$$ gallons",
+       "D": "$$125$$ gallons",
+       "E": "$$75$$ gallons"
+   },
+           "answer": "D"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "A recipe calls for $$\\frac{3}{8}$$ cup of sugar. If you want to make $$\\frac{3}{4}$$ of the recipe, how much sugar will you need?",
+           "options": {
+               "A": "$$\\frac{1}{8}$$ cup",
+       "B": "$$\\frac{9}{32}$$ cup",
+       "C": "$$\\frac{1}{4}$$ cup",
+       "D": "$$\\frac{7}{32}$$ cup",
+       "E": "$$\\frac{5}{16}$$ cup"
+   },
+           "answer": "B"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "A car rental company charges $$\\frac{1}{4}$$ of the total cost for insurance. If the total cost is $$$480$$, how much will you pay for insurance?",
+           "options": {
+               "A": "$$\\$120$$",
+       "B": "$$\\$150$$",
+       "C": "$$\\$100$$",
+       "D": "$$\\$90$$",
+       "E": "$$\\$110$$"
+   },
+           "answer": "A"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "Prove that $$0.\\overline{9} = 1$$ using a geometric series and show your work.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "Graph the rational numbers $$-\\frac{5}{6}, -0.8, \\frac{1}{3}, 0.5$$ on a number line and label each point. Show your scale.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Emphasize that the format of the response is crucial for FRQ questions.",
+       "Highlight the importance of explaining the reasoning behind the answer.",
+       "Encourage the use of diagrams and visual aids where necessary."
+   ],
+   "footer": "Chef's Tips"
+}

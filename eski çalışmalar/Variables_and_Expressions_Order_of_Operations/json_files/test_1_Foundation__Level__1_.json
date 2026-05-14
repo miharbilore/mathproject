@@ -1,0 +1,150 @@
+{
+  "test_id": 1,
+   "test_type": "Foundation (Level -1)",
+   "topic": "Variables and Expressions / Order of Operations",
+   "questions": [
+     {
+       "id": 1,
+       "type": "MQ",
+       "question": "What is the variable in the expression $2x$?",
+       "options": { 
+         "A": "2", 
+         "B": "x", 
+         "C": "2x", 
+         "D": "+", 
+         "E": "None of the above"
+       },
+       "answer": "B",
+       "spicy_level": "",
+       "required_space_lines": 0
+     },
+     {
+       "id": 2,
+       "type": "MQ",
+       "question": "Identify the coefficient in the term $4y$?",
+       "options": { 
+         "A": "y", 
+         "B": "4", 
+         "C": "4y", 
+         "D": "None of the above", 
+         "E": "0"
+       },
+       "answer": "B",
+       "spicy_level": "",
+       "required_space_lines": 0
+     },
+     {
+       "id": 3,
+       "type": "MQ",
+       "question": "What is the constant term in the expression $3x + 2$?",
+       "options": { 
+         "A": "3x", 
+         "B": "2", 
+         "C": "3", 
+         "D": "+", 
+         "E": "None of the above"
+       },
+       "answer": "B",
+       "spicy_level": "",
+       "required_space_lines": 0
+     },
+     {
+       "id": 4,
+       "type": "MQ",
+       "question": "Identify the operator in $7 - 3$?",
+       "options": { 
+         "A": "7", 
+         "B": "3", 
+         "C": "-", 
+         "D": "None of the above", 
+         "E": "0"
+       },
+       "answer": "C",
+       "spicy_level": "",
+       "required_space_lines": 0
+     },
+     {
+       "id": 5,
+       "type": "MQ",
+       "question": "What is the variable in the expression $z + 1$?",
+       "options": { 
+         "A": "1", 
+         "B": "z", 
+         "C": "z + 1", 
+         "D": "+", 
+         "E": "None of the above"
+       },
+       "answer": "B",
+       "spicy_level": "",
+       "required_space_lines": 0
+     },
+     {
+       "id": 6,
+       "type": "MQ",
+       "question": "Identify the coefficient in the term $x$?",
+       "options": { 
+         "A": "1", 
+         "B": "x", 
+         "C": "None of the above", 
+         "D": "0", 
+         "E": "-1"
+       },
+       "answer": "A",
+       "spicy_level": "",
+       "required_space_lines": 0
+     },
+     {
+       "id": 7,
+       "type": "MQ",
+       "question": "What operation is represented by the symbol $+$?",
+       "options": { 
+         "A": "Subtraction", 
+         "B": "Addition", 
+         "C": "Multiplication", 
+         "D": "Division", 
+         "E": "None of the above"
+       },
+       "answer": "B",
+       "spicy_level": "",
+       "required_space_lines": 0
+     },
+     {
+       "id": 8,
+       "type": "MQ",
+       "question": "Identify the constant term in $2x - 5$?",
+       "options": { 
+         "A": "$2x$", 
+         "B": "-5", 
+         "C": "2", 
+         "D": "None of the above", 
+         "E": "5"
+       },
+       "answer": "B",
+       "spicy_level": "",
+       "required_space_lines": 0
+     },
+     {
+       "id": 9,
+       "type": "FRQ",
+       "question": "Draw a diagram to represent the expression $3x + 2$. Label the variable and constant terms.",
+       "options": {},
+       "answer": "Model Solution: A diagram with $3x$ as the variable term and $2$ as the constant term. The student should also identify the coefficient of $x$ as 3 and the constant term as 2.",
+       "spicy_level": "",
+       "required_space_lines": 5
+     },
+     {
+       "id": 10,
+       "type": "FRQ",
+       "question": "Explain the concept of a variable in an expression, using $x$ as an example. Provide an illustration.",
+       "options": {},
+       "answer": "Model Solution: A brief explanation that a variable is a letter or symbol representing a value that can change, with an example using $x$. The student should illustrate this concept with a simple diagram, such as a picture of a box labeled $x$ with a value that can change.",
+       "spicy_level": "",
+       "required_space_lines": 5
+     }
+   ],
+   "teacher_rules": [
+     "Focus on basic conceptual definitions and single-step identification for Level -1 students.",
+     "Ensure students understand the difference between variables, coefficients, and constants in expressions.",
+     "Use visual aids and diagrams to help students comprehend abstract concepts, such as variables and expressions."
+   ]
+}

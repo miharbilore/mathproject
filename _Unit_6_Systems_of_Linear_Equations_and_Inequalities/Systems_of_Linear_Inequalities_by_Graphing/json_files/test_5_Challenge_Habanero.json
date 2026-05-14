@@ -1,0 +1,129 @@
+{
+  "unit": "\ud83d\udcda Unit 6: Systems of Linear Equations and Inequalities",
+   "topic": "Systems of Linear Inequalities by Graphing",
+   "test_type": "Challenge (Habanero)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "A hiker needs to cover $3x + 2y leq 12$ miles in a forest, where $x$ is the distance traveled east and $y$ is the distance traveled north. Which of the following is a feasible solution?",
+           "options": {
+               "A": "$x = 2$, $y = 1$",
+               "B": "$x = 3$, $y = 2$",
+               "C": "$x = 1$, $y = 3$",
+               "D": "$x = 4$, $y = 0$",
+               "E": "$x = 0$, $y = 5$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "Given the system of inequalities $x + y geq 2$ and $x - y leq 1$, what is the overlapping solution region?",
+           "options": {
+               "A": "$x geq 1$, $y geq 1$",
+               "B": "$x leq 1$, $y leq 1$",
+               "C": "$x geq 1$, $y leq 1$",
+               "D": "$x leq 1$, $y geq 1$",
+               "E": "$x = 1$, $y = 1$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "The population $P$ of a certain animal species can be modeled by the inequalities $P geq 100$ and $P leq 500$. What is the range of possible populations?",
+           "options": {
+               "A": "$0 leq P leq 100$",
+               "B": "$100 leq P leq 500$",
+               "C": "$500 leq P leq 1000$",
+       "D": "$0 leq P leq 500$",
+       "E": "$100 leq P leq 1000$"
+   },
+   "answer": "B"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "A group of friends want to hike a trail that is $x$ miles long, where $x + 2y leq 10$ and $x - 2y geq -4$. Which of the following is a feasible solution?",
+           "options": {
+               "A": "$x = 2$, $y = 2$",
+               "B": "$x = 4$, $y = 1$",
+       "C": "$x = 1$, $y = 3$",
+       "D": "$x = 6$, $y = 0$",
+       "E": "$x = 0$, $y = 4$"
+   },
+   "answer": "B"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "The amount of fuel $F$ consumed by a car is given by the inequalities $F geq 10$ and $F leq 30$. What is the range of possible fuel consumption?",
+           "options": {
+       "A": "$0 leq F leq 10$",
+       "B": "$10 leq F leq 30$",
+       "C": "$30 leq F leq 50$",
+       "D": "$0 leq F leq 30$",
+       "E": "$10 leq F leq 50$"
+   },
+   "answer": "B"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "A hiker needs to cover a distance of $x$ miles, where $2x + y leq 12$ and $x - 2y geq -4$. Which of the following is a feasible solution?",
+           "options": {
+       "A": "$x = 2$, $y = 2$",
+       "B": "$x = 4$, $y = 1$",
+       "C": "$x = 1$, $y = 3$",
+       "D": "$x = 6$, $y = 0$",
+       "E": "$x = 0$, $y = 4$"
+   },
+   "answer": "B"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "The population $P$ of a certain animal species can be modeled by the inequalities $P geq 50$ and $P leq 200$. What is the range of possible populations?",
+           "options": {
+       "A": "$0 leq P leq 50$",
+       "B": "$50 leq P leq 200$",
+       "C": "$200 leq P leq 500$",
+       "D": "$0 leq P leq 200$",
+       "E": "$50 leq P leq 500$"
+   },
+   "answer": "B"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "Given the system of inequalities $x + 2y geq 4$ and $x - 2y leq 2$, what is the overlapping solution region?",
+           "options": {
+       "A": "$x geq 2$, $y geq 1$",
+       "B": "$x leq 2$, $y leq 1$",
+       "C": "$x geq 2$, $y leq 1$",
+       "D": "$x leq 2$, $y geq 1$",
+       "E": "$x = 2$, $y = 1$"
+   },
+   "answer": "C"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "Graph the system of inequalities $x + y leq 4$ and $x - y geq -2$. Shade the feasible region and identify the corner points.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "A car's fuel consumption $F$ is given by the inequalities $F geq 15$ and $F leq 35$. Graph the inequalities and shade the feasible region. What is the range of possible fuel consumption?",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Tip 1: Ensure students understand the concept of feasible regions and corner points.",
+       "Tip 2: Emphasize the importance of accurate graphing and shading.",
+       "Tip 3: Encourage students to check their work and verify their answers."
+   ],
+   "footer_title": "Chef's Tips"
+}

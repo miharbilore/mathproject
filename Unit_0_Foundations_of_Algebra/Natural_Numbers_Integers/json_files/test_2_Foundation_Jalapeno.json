@@ -1,0 +1,129 @@
+{
+  "unit": "Unit 0: Foundations of Algebra",
+   "topic": "Natural Numbers & Integers",
+   "test_type": "Foundation (Jalapeno)",
+   "questions": [
+      {
+         "id": 1,
+         "type": "MQ",
+         "question": "Classify the number $5$ as a:",
+         "options": {
+            "A": "natural and whole number",
+            "B": "natural number only",
+            "C": "whole number only",
+            "D": "integer only",
+            "E": "none of the above"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 2,
+         "type": "MQ",
+         "question": "Which of the following is an example of an odd number in the context of planetary orbits?",
+         "options": {
+            "A": "the $2^{nd}$ planet from the Sun",
+            "B": "the $3^{rd}$ planet from the Sun",
+            "C": "the $5^{th}$ planet from the Sun",
+            "D": "the $7^{th}$ planet from the Sun",
+            "E": "the $9^{th}$ planet from the Sun"
+         },
+         "answer": "B"
+      },
+      {
+         "id": 3,
+         "type": "MQ",
+         "question": "Identify the next number in the sequence: $2, 5, 8, 11, 14, ...$",
+         "options": {
+            "A": "$15$",
+            "B": "$17$",
+            "C": "$18$",
+            "D": "$20$",
+            "E": "$22$"
+         },
+         "answer": "B"
+      },
+      {
+         "id": 4,
+         "type": "MQ",
+         "question": "Evaluate the expression $(-3) + (-2)$",
+         "options": {
+            "A": "$-1$",
+            "B": "$-5$",
+            "C": "$-6$",
+            "D": "$1$",
+            "E": "$5$"
+         },
+         "answer": "B"
+      },
+      {
+         "id": 5,
+         "type": "MQ",
+         "question": "What is the result of $4 \\cdot (-9)$?",
+         "options": {
+            "A": "$-36$",
+            "B": "$36$",
+            "C": "$-4$",
+            "D": "$9$",
+            "E": "$0$"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 6,
+         "type": "MQ",
+         "question": "Which of the following numbers is even: $23$, $37$, $48$, $52$, $67$?",
+         "options": {
+            "A": "$23$",
+            "B": "$37$",
+            "C": "$48$",
+            "D": "$52$",
+            "E": "$67$"
+         },
+         "answer": "C"
+      },
+      {
+         "id": 7,
+         "type": "MQ",
+         "question": "Solve for $x$: $x - 2 = 7$",
+         "options": {
+            "A": "$5$",
+            "B": "$7$",
+            "C": "$9$",
+            "D": "$10$",
+    "E": "$12$"
+         },
+         "answer": "C"
+      },
+      {
+         "id": 8,
+         "type": "MQ",
+         "question": "Classify the number $-11$ as a:",
+         "options": {
+            "A": "natural number",
+            "B": "whole number",
+            "C": "integer",
+            "D": "rational number",
+            "E": "irrational number"
+         },
+         "answer": "C"
+      },
+      {
+         "id": 9,
+         "type": "FRQ",
+         "question": "A spacecraft is traveling at a speed of $-25$ km/h. If it continues at this speed, how far will it have traveled after $4$ hours? Show your work and explain your answer.",
+         "required_space_lines": 5
+      },
+      {
+         "id": 10,
+         "type": "FRQ",
+         "question": "Create a sequence of $5$ consecutive odd integers, starting from $-3$. Graph the sequence on a number line and identify any patterns you observe. Explain the reasoning behind your sequence.",
+         "required_space_lines": 5
+      }
+   ],
+   "teacher_rules": [
+      "Tip 1: Encourage students to read each question carefully and choose the correct answer.",
+      "Tip 2: Remind students to show their work for the free-response questions.",
+      "Tip 3: Allow students to use a calculator for the free-response questions if necessary."
+   ],
+   "footer": "Chef's Tips"
+}

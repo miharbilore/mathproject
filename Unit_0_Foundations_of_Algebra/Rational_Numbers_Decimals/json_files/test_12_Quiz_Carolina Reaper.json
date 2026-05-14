@@ -1,0 +1,128 @@
+{
+  "unit": "Unit 0: Foundations of Algebra",
+   "topic": "Rational Numbers & Decimals",
+   "test_type": "Quiz (Carolina Reaper)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "A shipping company has $3 \\frac{1}{4}$ hours to deliver a package. What is this time in decimal form?",
+           "options": {
+               "A": "3.1",
+               "B": "3.25",
+               "C": "3.5",
+               "D": "3.75",
+               "E": "4.0"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "What is the value of $x$ in the equation $2 \\cdot x = 1 \\frac{3}{4}$?",
+           "options": {
+               "A": "0.75",
+               "B": "0.875",
+               "C": "1.0",
+               "D": "1.25",
+               "E": "1.5"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "A traffic flow study found that the average commute time was $45 \\frac{1}{2}$ minutes. What percent of an hour is this?",
+           "options": {
+               "A": "72.5%",
+               "B": "75%",
+               "C": "76.25%",
+               "D": "80%",
+               "E": "82.5%"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "A delivery truck travels $2 \\frac{3}{8}$ miles in $\\frac{1}{4}$ hour. What is its average speed in miles per hour?",
+           "options": {
+               "A": "8",
+               "B": "9.5",
+               "C": "10",
+               "D": "12",
+               "E": "16"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "What is the decimal equivalent of $\\frac{5}{8}$?",
+           "options": {
+               "A": "0.5",
+               "B": "0.6",
+               "C": "0.625",
+               "D": "0.75",
+               "E": "0.8"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "A logistics company has a $3:2$ ratio of trucks to drivers. If there are $4 \\frac{1}{2}$ drivers, how many trucks are there?",
+           "options": {
+               "A": "5",
+               "B": "6",
+               "C": "6.75",
+       "D": "7",
+       "E": "8"
+   },
+   "answer": "C"
+},
+{
+   "id": 7,
+   "type": "MQ",
+   "question": "A package delivery service guarantees $98 \\frac{3}{4}$% on-time delivery. What is the decimal equivalent of this percentage?",
+   "options": {
+       "A": "0.983",
+       "B": "0.984",
+       "C": "0.985",
+       "D": "0.9875",
+       "E": "0.988"
+   },
+   "answer": "B"
+},
+{
+   "id": 8,
+   "type": "MQ",
+   "question": "What is the value of $x$ in the equation $\\frac{2}{3}x = 1 \\frac{1}{8}$?",
+   "options": {
+       "A": "1.5",
+       "B": "1.75",
+       "C": "2.0",
+       "D": "2.25",
+       "E": "2.5"
+   },
+   "answer": "B"
+},
+{
+   "id": 9,
+   "type": "FRQ",
+   "question": "A traffic engineer wants to represent the average commute times on a number line, with values ranging from $0$ to $2$ hours. If the average commute time is $1 \\frac{1}{4}$ hours, where would it be placed on the number line? Show your work and explain your answer.",
+   "required_space_lines": 5
+},
+{
+   "id": 10,
+   "type": "FRQ",
+   "question": "A shipping company has a $2:5$ ratio of overnight to standard deliveries. If $4 \\frac{3}{8}$ standard deliveries were made, how many overnight deliveries were made? Show your work and explain your answer.",
+   "required_space_lines": 5
+}
+],
+"teacher_rules": [
+   "Chef's Tips: Ensure students show their work for FRQs",
+   "Chef's Tips: Encourage students to use number lines for questions involving rational numbers",
+   "Chef's Tips: Emphasize the importance of converting between fractions, decimals, and percents in real-world applications"
+]
+}

@@ -1,0 +1,129 @@
+{
+  "unit": "\u1F4D6 Unit 9: Data Statistical Analysis",
+   "topic": "Measures of Central Tendency",
+   "test_type": "Foundation (Jalapeno)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "What is the mean of $2, 4, 6, 8, 10$?",
+           "options": {
+               "A": "4",
+               "B": "5",
+               "C": "6",
+               "D": "7",
+               "E": "8"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "A basketball player scored $12, 18, 15, 20, 22$ points in five games. What is the median score?",
+           "options": {
+               "A": "15",
+               "B": "17",
+               "C": "18",
+               "D": "19",
+               "E": "20"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "What is the mode of $3, 5, 3, 7, 3, 9$?",
+           "options": {
+               "A": "3",
+               "B": "5",
+               "C": "7",
+               "D": "9",
+               "E": "No mode"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "A cyclist rode $15, 20, 18, 22, 25$ miles on five days. What is the mean distance?",
+           "options": {
+               "A": "18",
+               "B": "19",
+               "C": "20",
+               "D": "21",
+               "E": "22"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "A set of exam scores has a mean of $80$ and a median of $82$. Which statement is true?",
+           "options": {
+               "A": "The data is symmetric",
+               "B": "The data is skewed to the left",
+               "C": "The data is skewed to the right",
+               "D": "The mode is $82$",
+               "E": "The range is $20"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "What is the median of $11, 13, 17, 19, 23$?",
+           "options": {
+               "A": "13",
+               "B": "15",
+               "C": "17",
+               "D": "19",
+               "E": "21"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "A golfer's scores for four rounds are $72, 75, 80, 78$. What is the mode?",
+           "options": {
+               "A": "72",
+               "B": "75",
+               "C": "78",
+               "D": "80",
+               "E": "No mode"
+           },
+           "answer": "E"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "A set of numbers has a mean of $10$ and a range of $20$. What is the smallest possible value?",
+           "options": {
+               "A": "0",
+               "B": "5",
+               "C": "10",
+               "D": "15",
+               "E": "20"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "A runner recorded the following times for $5$ miles: $35, 32, 38, 30, 36$ minutes. Calculate the mean, median, and mode. Compare the measures of central tendency.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "A volleyball team scored the following points in $6$ games: $18, 22, 20, 25, 18, 22$. Calculate the mean, median, and mode. Interpret the results in context.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Tip 1: Emphasize the importance of context when interpreting central tendency",
+       "Tip 2: Use real-world examples to illustrate the differences between mean, median, and mode",
+       "Tip 3: Encourage students to visualize the data when comparing measures of central tendency"
+   ],
+   "footer_title": "Chef's Tips"
+}

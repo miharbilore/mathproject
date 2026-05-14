@@ -1,0 +1,129 @@
+{
+  "unit": "Unit 3: Functions",
+   "topic": "Inverse Relations and Functions",
+   "test_type": "Foundation (Jalapeno)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "Which of the following functions has an inverse?",
+           "options": {
+               "A": "$f(x) = x^2$",
+               "B": "$f(x) = x^3$",
+               "C": "$f(x) = |x|$",
+               "D": "$f(x) = 2x + 1$",
+               "E": "$f(x) = sqrt{x}$"
+           },
+           "answer": "D"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "What is the inverse of $f(x) = 3x - 2$?",
+           "options": {
+               "A": "$f^{-1}(x) = \frac{x+2}{3}$",
+               "B": "$f^{-1}(x) = \frac{x-2}{3}$",
+               "C": "$f^{-1}(x) = \frac{x+2}{2}$",
+               "D": "$f^{-1}(x) = \frac{x-2}{2}$",
+               "E": "$f^{-1}(x) = 3x + 2$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "If $f(x) = 2x + 1$, what is $f^{-1}(f(x))$?",
+           "options": {
+               "A": "$x$",
+               "B": "$2x$",
+               "C": "$x + 1$",
+               "D": "$x - 1$",
+               "E": "$x^2$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "A basketball player scores $x$ points in a game. If $x$ is related to the number of shots $y$ by the function $x = 2y + 5$, what is the inverse function?",
+           "options": {
+               "A": "$y = \frac{x-5}{2}$",
+               "B": "$y = \frac{x+5}{2}$",
+               "C": "$y = \frac{x-2}{5}$",
+               "D": "$y = \frac{x+2}{5}$",
+       "E": "$y = 2x - 5$"
+   },
+           "answer": "A"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "Is the relation $x = |y|$ a function with an inverse?",
+           "options": {
+               "A": "Yes",
+               "B": "No",
+       "C": "Sometimes",
+       "D": "Maybe",
+       "E": " Depends on y"
+   },
+           "answer": "B"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "If $f(x) = x^2$ and $g(x) = sqrt{x}$, what is $f(g(x))$?",
+           "options": {
+               "A": "$x$",
+               "B": "$x^2$",
+               "C": "$sqrt{x}$",
+       "D": "$x^4$",
+       "E": "Not defined"
+   },
+           "answer": "B"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "A football player runs $x$ yards in a minute. If his speed is related to his running time $t$ by the function $x = 5t$, what is the inverse function?",
+           "options": {
+               "A": "$t = \frac{x}{5}$",
+               "B": "$t = 5x$",
+       "C": "$t = x - 5$",
+       "D": "$t = x + 5$",
+       "E": "$t = \frac{5}{x}$"
+   },
+           "answer": "A"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "What is the inverse of $f(x) = \frac{1}{x}$?",
+           "options": {
+               "A": "$f^{-1}(x) = \frac{1}{x}$",
+               "B": "$f^{-1}(x) = x$",
+       "C": "$f^{-1}(x) = \frac{1}{x^2}$",
+       "D": "$f^{-1}(x) = x^2$",
+       "E": "$f^{-1}(x) = -x$"
+   },
+           "answer": "B"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "The distance $d$ an athlete runs is related to the time $t$ by the function $d = 3t + 2$. Find the inverse function and interpret its meaning in the context of the problem. Show all your work.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "The score $s$ a team achieves is related to the number of goals $g$ by the function $s = 2g - 5$. Determine if this function has an inverse. If so, find the inverse function. Verify your answer using composition. Provide a real-world interpretation of the inverse function.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Read each question carefully and choose the correct answer.",
+       "Show all work for free-response questions.",
+       "Use a pencil to fill in the answer bubbles and write your answers."
+   ],
+   "footer": "Chef's Tips"
+}

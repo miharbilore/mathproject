@@ -1,0 +1,129 @@
+{
+  "unit": "Unit 0: Foundations of Algebra",
+   "topic": "Natural Numbers & Integers",
+   "test_type": "Challenge (Habanero)",
+   "questions": [
+     {
+       "id": 1,
+       "type": "MQ",
+       "question": "In a game, a player's score can be represented as $x \\cdot y$, where $x$ and $y$ are integers. If $x = -3$ and $y = 4$, what is the score?",
+       "options": {
+         "A": "-12",
+         "B": "12",
+         "C": "-3",
+         "D": "4",
+         "E": "0"
+       },
+       "answer": "A"
+     },
+     {
+       "id": 2,
+       "type": "MQ",
+       "question": "A coding error occurs every $5^{th}$ line of code. If a programmer writes $23$ lines of code, how many errors will occur?",
+       "options": {
+         "A": "4",
+         "B": "5",
+         "C": "3",
+         "D": "2",
+         "E": "1"
+       },
+       "answer": "C"
+     },
+     {
+       "id": 3,
+       "type": "MQ",
+       "question": "The number of players in an online game follows the pattern: $2, 5, 8, 11, 14, ...$. What is the next number in the pattern?",
+       "options": {
+         "A": "15",
+         "B": "17",
+         "C": "18",
+         "D": "20",
+         "E": "21"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 4,
+       "type": "MQ",
+       "question": "In a scoreboard, a team's score is represented as $-2x + 5$, where $x$ is an integer. If the team's score is $-3$, what is the value of $x$?",
+       "options": {
+         "A": "2",
+         "B": "3",
+         "C": "4",
+         "D": "5",
+         "E": "6"
+       },
+       "answer": "C"
+     },
+     {
+       "id": 5,
+       "type": "MQ",
+       "question": "A computer program uses $3$ integers to generate a code: $x, y, z$. If $x = -2, y = 4, z = -1$, what is the value of $x + y + z$?",
+       "options": {
+         "A": "1",
+         "B": "3",
+         "C": "0",
+         "D": "-1",
+         "E": "-3"
+       },
+       "answer": "D"
+     },
+     {
+       "id": 6,
+       "type": "MQ",
+       "question": "The number of bytes used by a game is given by the formula $2^n - 1$, where $n$ is an integer. If $n = 5$, how many bytes are used?",
+       "options": {
+         "A": "31",
+         "B": "32",
+         "C": "33",
+         "D": "63",
+         "E": "65"
+       },
+       "answer": "A"
+     },
+     {
+       "id": 7,
+       "type": "MQ",
+       "question": "A programmer uses the pattern $1, 4, 7, 10, 13, ...$ to generate a sequence of numbers. What is the $6^{th}$ term in the sequence?",
+       "options": {
+         "A": "15",
+         "B": "16",
+         "C": "17",
+         "D": "19",
+         "E": "20"
+       },
+       "answer": "C"
+     },
+     {
+       "id": 8,
+       "type": "MQ",
+       "question": "The score of a player in a game is represented as $x - 2y$, where $x$ and $y$ are integers. If $x = 5$ and $y = -3$, what is the score?",
+       "options": {
+         "A": "11",
+         "B": "9",
+         "C": "7",
+         "D": "5",
+         "E": "3"
+       },
+       "answer": "A"
+     },
+     {
+       "id": 9,
+       "type": "FRQ",
+       "question": "A game uses the formula $3x - 2y$ to calculate the score, where $x$ and $y$ are integers. If the score is $-5$, and $x = -2$, find the value of $y$. Show your work and explain your reasoning.",
+       "required_space_lines": 5
+     },
+     {
+       "id": 10,
+       "type": "FRQ",
+       "question": "A computer program generates a sequence of numbers using the formula $2n + 1$, where $n$ is an integer. If the sequence starts with $3, 5, 7, ...$, find the $10^{th}$ term in the sequence. Show your work and explain your reasoning.",
+       "required_space_lines": 5
+     }
+   ],
+   "teacher_rules": [
+     "Tip 1: Encourage students to use visual aids to help with problem-solving.",
+     "Tip 2: Remind students to check their work for accuracy.",
+     "Tip 3: Provide feedback that guides students towards the correct solution."
+   ],
+   "footer": "Chef's Tips"
+ }

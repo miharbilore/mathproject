@@ -1,0 +1,129 @@
+{
+  "unit": "Unit 0: Foundations of Algebra",
+   "topic": "Variables and Expressions / Order of Operations",
+   "test_type": "Challenge (Habanero)",
+   "questions": [
+     { 
+       "id": 1, 
+       "type": "MQ", 
+       "question": "Hikers need to cover $15 \\cdot 3 + 8$ miles to reach their campsite. How many miles will they cover in total?",
+       "options": {
+         "A": "43",
+         "B": "47",
+         "C": "51",
+         "D": "55",
+         "E": "59"
+       },
+       "answer": "C"
+     },
+     { 
+       "id": 2, 
+       "type": "MQ", 
+       "question": "A park has $x$ deer and $2x + 5$ rabbits. If the total number of animals is $47$, what is the value of $x$?",
+       "options": {
+         "A": "6",
+         "B": "7",
+         "C": "8",
+         "D": "9",
+         "E": "10"
+       },
+       "answer": "B"
+     },
+     { 
+       "id": 3, 
+       "type": "MQ", 
+       "question": "A car travels $240$ miles on $12$ gallons of fuel. How many miles does it travel per gallon, expressed as $x \\cdot \\frac{miles}{gallon}$?",
+       "options": {
+         "A": "$20 \\cdot \\frac{miles}{gallon}$",
+         "B": "$18 \\cdot \\frac{miles}{gallon}$",
+         "C": "$15 \\cdot \\frac{miles}{gallon}$",
+         "D": "$12 \\cdot \\frac{miles}{gallon}$",
+         "E": "$10 \\cdot \\frac{miles}{gallon}$"
+       },
+       "answer": "B"
+     },
+     { 
+       "id": 4, 
+       "type": "MQ", 
+       "question": "What is the simplified expression of $3(2x - 1) + 2(x + 4)$?",
+       "options": {
+         "A": "$6x + 10$",
+         "B": "$8x - 2$",
+         "C": "$8x + 2$",
+         "D": "$7x + 7$",
+         "E": "$5x + 5$"
+       },
+       "answer": "D"
+     },
+     { 
+       "id": 5, 
+       "type": "MQ", 
+       "question": "A group of friends want to hike a trail that is $8 \\cdot 2 + 11$ kilometers long. How many kilometers is the trail?",
+       "options": {
+         "A": "19",
+         "B": "21",
+         "C": "23",
+         "D": "25",
+         "E": "27"
+       },
+       "answer": "C"
+     },
+     { 
+       "id": 6, 
+       "type": "MQ", 
+       "question": "The population of a bird species is modeled by the expression $25 + 5x - 2x^2$. What is the population when $x = 3$?",
+       "options": {
+         "A": "10",
+         "B": "15",
+         "C": "16",
+         "D": "19",
+         "E": "22"
+       },
+       "answer": "D"
+     },
+     { 
+       "id": 7, 
+       "type": "MQ", 
+       "question": "A hiker has $x$ liters of water and wants to divide it equally among $4$ friends. How many liters will each friend get, expressed as $x \\cdot \\frac{liters}{friend}$?",
+       "options": {
+         "A": "$\\frac{x}{4} \\cdot \\frac{liters}{friend}$",
+         "B": "$\\frac{x}{2} \\cdot \\frac{liters}{friend}$",
+         "C": "$\\frac{3x}{4} \\cdot \\frac{liters}{friend}$",
+         "D": "$2x \\cdot \\frac{liters}{friend}$",
+         "E": "$x \\cdot \\frac{liters}{friend}$"
+       },
+       "answer": "A"
+     },
+     { 
+       "id": 8, 
+       "type": "MQ", 
+       "question": "A vehicle consumes $12$ gallons of fuel to travel $360$ miles. How many gallons will it consume to travel $x$ miles, expressed as $x \\cdot \\frac{gallons}{mile}$?",
+       "options": {
+         "A": "$\\frac{x}{30} \\cdot \\frac{gallons}{mile}$",
+         "B": "$\\frac{x}{25} \\cdot \\frac{gallons}{mile}$",
+         "C": "$\\frac{x}{20} \\cdot \\frac{gallons}{mile}$",
+         "D": "$\\frac{x}{15} \\cdot \\frac{gallons}{mile}$",
+         "E": "$\\frac{x}{10} \\cdot \\frac{gallons}{mile}$"
+       },
+       "answer": "A"
+     },
+     { 
+       "id": 9, 
+       "type": "FRQ", 
+       "question": "The population of a rabbit species is modeled by the expression $10x^2 + 20x + 5$. Find the population when $x = 4$ and show all your work. You may use the space below for calculations.",
+       "required_space_lines": 5
+     },
+     { 
+       "id": 10, 
+       "type": "FRQ", 
+       "question": "A car travels $x$ miles and consumes $x + 5$ gallons of fuel. If the car travels $250$ miles, how many gallons of fuel will it consume? Show all your work and explain your reasoning. You may use the space below for calculations.",
+       "required_space_lines": 5
+     }
+   ],
+   "teacher_rules": [
+     "Make sure to check for the correct order of operations",
+     "Encourage students to simplify expressions and combine like terms",
+     "Remind students to substitute values carefully and evaluate expressions correctly"
+   ],
+   "footer_title": "Chef's Tips"
+}

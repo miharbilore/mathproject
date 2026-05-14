@@ -1,0 +1,129 @@
+{
+  "unit": "\uD83D\uDCD8 Unit 9: Data Statistical Analysis",
+   "topic": "Two-Way Tables",
+   "test_type": "Quiz (Habanero)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "In a two-way table, what does a cell represent?",
+           "options": {
+               "A": "Total frequency",
+               "B": "Relative frequency",
+               "C": "Joint frequency",
+               "D": "Marginal frequency",
+               "E": "Conditional frequency"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "A two-way table shows the relationship between $\\text{Temperature}$ and $\\text{Rainfall}$. If the table has 3 rows and 4 columns, how many cells are there?",
+           "options": {
+               "A": "10",
+               "B": "12",
+               "C": "6",
+               "D": "8",
+               "E": "7"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "What type of frequency is calculated by dividing a cell frequency by the total frequency?",
+           "options": {
+               "A": "Joint frequency",
+               "B": "Marginal frequency",
+               "C": "Relative frequency",
+               "D": "Conditional frequency",
+               "E": "Total frequency"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "In a study of the relationship between $\\text{Ecosystem}$ and $\\text{Species}$, which type of table would be used?",
+           "options": {
+               "A": "One-way table",
+               "B": "Two-way table",
+               "C": "Bar graph",
+               "D": "Histogram",
+               "E": "Scatter plot"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "If a two-way table has 2 rows and 3 columns, and the total frequency is $24$, what is the relative frequency of the cell in the first row and first column if its joint frequency is $6$?",
+           "options": {
+               "A": "$0.25$",
+               "B": "$0.5$",
+               "C": "$0.1$",
+               "D": "$0.3$",
+               "E": "$0.2$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "A two-way table shows the relationship between $\\text{Weather}$ and $\\text{Tourist Activity}$. If the relative frequency of sunny weather is $0.4$ and the relative frequency of tourist activity is $0.6$, what is the relative frequency of sunny weather and tourist activity together if they are independent?",
+           "options": {
+               "A": "$0.24$",
+               "B": "$0.4$",
+               "C": "$0.6$",
+               "D": "$0.12$",
+               "E": "$0.36$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "In a two-way table, what does the marginal frequency of a row represent?",
+           "options": {
+               "A": "The total frequency of the row",
+               "B": "The relative frequency of the row",
+               "C": "The joint frequency of the row",
+               "D": "The conditional frequency of the row",
+               "E": "The total frequency of the table"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "A two-way table shows the relationship between $\\text{Temperature Change}$ and $\\text{Ecosystem}$. If there is a strong positive association between the two variables, what can be concluded?",
+           "options": {
+               "A": "As temperature change increases, ecosystem decreases",
+               "B": "As temperature change increases, ecosystem increases",
+               "C": "As temperature change decreases, ecosystem decreases",
+               "D": "As temperature change decreases, ecosystem increases",
+               "E": "There is no relationship between temperature change and ecosystem"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "A two-way table shows the relationship between $\\text{Rainfall}$ and $\\text{Crop Yield}$. The table is as follows: \n$\\begin{array}{c|c|c|c} & \\text{Low} & \\text{Medium} & \\text{High} \\\\ \\hline \\text{Low} & 10 & 15 & 20 \\\\ \\text{Medium} & 20 & 30 & 10 \\\\ \\text{High} & 30 & 20 & 15 \\\\ \\end{array}$\n Calculate the relative frequency of low rainfall and low crop yield. Show your work and give your answer as a decimal value.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "A study examines the relationship between $\\text{Weather Conditions}$ and $\\text{Air Quality}$. The two-way table is as follows: \n$\\begin{array}{c|c|c|c} & \\text{Good} & \\text{Fair} & \\text{Poor} \\\\ \\hline \\text{Sunny} & 25 & 30 & 10 \\\\ \\text{Cloudy} & 30 & 20 & 15 \\\\ \\text{Rainy} & 10 & 25 & 20 \\\\ \\end{array}$\n Analyze the association between weather conditions and air quality. Provide a conclusion based on the data and give at least two pieces of evidence from the table to support your conclusion.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Tip 1: Make sure to read each question carefully and understand what is being asked.",
+       "Tip 2: Use the data in the two-way tables to calculate relative frequencies and analyze associations between variables.",
+       "Tip 3: Show all work and provide clear explanations for free-response questions."
+   ],
+   "footer": "Chef's Tips"
+}

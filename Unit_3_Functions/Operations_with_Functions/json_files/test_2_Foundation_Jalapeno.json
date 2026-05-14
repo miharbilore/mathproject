@@ -1,0 +1,129 @@
+{
+  "unit": "Unit 3: Functions",
+   "topic": "Operations with Functions",
+   "test_type": "Foundation (Jalapeno)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "If $f(x) = x^2$ and $g(x) = 2x$, what is $(f+g)(x)$?",
+           "options": {
+               "A": "$x^2 + 2x$",
+               "B": "$x^2 - 2x$",
+               "C": "$2x^2$",
+               "D": "$x^2 + x$",
+               "E": "$x^2 - x$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "Find the domain of $f(x) = \\frac{1}{x}$ and $g(x) = \\frac{1}{x-2}$. What is the domain of $(f \\cdot g)(x)$?",
+           "options": {
+               "A": "$(-\\infty, 0) \\cup (0, 2) \\cup (2, \\infty)$",
+               "B": "$(-\\infty, 0) \\cup (0, \\infty)$",
+               "C": "$(-\\infty, 2) \\cup (2, \\infty)$",
+               "D": "$(-\\infty, 0) \\cup (2, \\infty)$",
+               "E": "$(-\\infty, 0)$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "Given $f(x) = 2x - 1$ and $g(x) = x + 3$, what is $(f - g)(x)$?",
+           "options": {
+               "A": "$x - 4$",
+               "B": "$x + 2$",
+               "C": "$x - 2$",
+               "D": "$x + 1$",
+               "E": "$x - 5$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "If $f(x) = x^2 + 1$ and $g(x) = x - 2$, what is $(f \\div g)(x)$?",
+           "options": {
+               "A": "$\\frac{x^2 + 1}{x - 2}$",
+               "B": "$\\frac{x^2 - 1}{x - 2}$",
+               "C": "$\\frac{x^2 + 1}{x + 2}$",
+               "D": "$\\frac{x + 2}{x^2 + 1}$",
+               "E": "$\\frac{x^2 - 2}{x + 2}$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "The orbital velocity $v$ of a planet can be modeled by $v(x) = \\frac{2x}{x+1}$ and the escape velocity $e$ by $e(x) = x + 2$. What is $(v + e)(x)$?",
+           "options": {
+               "A": "$\\frac{2x}{x+1} + x + 2$",
+               "B": "$\\frac{3x}{x+1} + 2$",
+               "C": "$\\frac{x+2}{2x}$",
+               "D": "$x^2 + 1$",
+               "E": "$\\frac{4x}{x-1}$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "The distance $d$ traveled by a spacecraft can be represented by $d(x) = 2x^2$ and the fuel consumption $f$ by $f(x) = x + 1$. What is $(d - f)(x)$?",
+           "options": {
+               "A": "$2x^2 - x - 1$",
+               "B": "$2x^2 + x - 1$",
+               "C": "$2x^2 - x + 2$",
+               "D": "$2x^2 + x + 1$",
+               "E": "$2x^2 - 2x - 1$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "If $f(x) = x^2 - 1$ and $g(x) = 2x + 3$, what is $(f \\cdot g)(x)$?",
+           "options": {
+               "A": "$2x^3 + 3x^2 - 2x - 3$",
+               "B": "$2x^3 - 3x^2 - 2x + 3$",
+               "C": "$2x^3 + x^2 - 5x - 3$",
+               "D": "$2x^2 + 3x - 2$",
+               "E": "$x^3 + 4x^2 - 3x - 1$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "Given $f(x) = \\frac{2}{x}$ and $g(x) = x - 1$, what is the domain of $(f \\div g)(x)$?",
+           "options": {
+               "A": "$(-\\infty, 0) \\cup (0, 1) \\cup (1, \\infty)$",
+               "B": "$(-\\infty, 0) \\cup (1, \\infty)$",
+               "C": "$(-\\infty, 1) \\cup (1, \\infty)$",
+               "D": "$(-\\infty, 0) \\cup (0, 1)$",
+               "E": "$(-\\infty, 0)$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "If $f(x) = x^2 + 2x$ and $g(x) = 3x - 1$, find $(f + g)(x)$ and simplify. Then, determine the domain of $(f + g)(x)$. Show all work.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "A lab experiment involves two functions: $f(x) = \\frac{x}{x+1}$, representing the concentration of a chemical, and $g(x) = x^2 - 2$, representing the volume of the container. Find $(f \\cdot g)(x)$ and simplify. What is the practical meaning of $(f \\cdot g)(x)$ in this context? Show all work and explain your answer.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Emphasize simplification of resulting expressions after operations.",
+       "Focus on understanding the concept of function operations and their domains.",
+       "Use the context of space and science to make word problems unique and engaging."
+   ],
+   "footer_title": "Chef's Tips"
+}

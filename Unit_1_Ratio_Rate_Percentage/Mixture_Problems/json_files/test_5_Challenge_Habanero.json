@@ -1,0 +1,129 @@
+{
+  "unit": "\u1f4d6 Unit 1: Ratio, Rate, Percentage",
+   "topic": "Mixture Problems",
+   "test_type": "Challenge (Habanero)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "A hiker mixes $2$ liters of $15%$ insect repellent with $3$ liters of $30%$ insect repellent. What is the concentration of the mixture?",
+           "options": {
+               "A": "$18%$",
+               "B": "$20%$",
+               "C": "$21%$",
+               "D": "$22%$",
+               "E": "$25%$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "A park ranger needs to mix $10$ kg of birdseed that is $25%$ sunflower seeds with some birdseed that is $40%$ sunflower seeds to get a mixture that is $30%$ sunflower seeds. How many kg of the $40%$ sunflower seeds birdseed should be added?",
+           "options": {
+               "A": "$10$ kg",
+               "B": "$15$ kg",
+               "C": "$20$ kg",
+               "D": "$25$ kg",
+               "E": "$30$ kg"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "A fuel mixture for a hiking trip contains $30%$ diesel and $70%$ gasoline. If $20$ liters of the mixture is used, how many liters of diesel were used?",
+           "options": {
+               "A": "$4$ liters",
+               "B": "$5$ liters",
+       "C": "$6$ liters",
+       "D": "$7$ liters",
+       "E": "$8$ liters"
+   },
+   "answer": "B"
+},
+{
+   "id": 4,
+   "type": "MQ",
+   "question": "A river has a flow rate of $50$ liters per minute. If $15%$ of the water is from a nearby stream, how many liters of water from the stream flow into the river per hour?",
+   "options": {
+       "A": "$675$ liters",
+       "B": "$750$ liters",
+       "C": "$900$ liters",
+       "D": "$1050$ liters",
+       "E": "$1200$ liters"
+   },
+   "answer": "C"
+},
+{
+   "id": 5,
+   "type": "MQ",
+   "question": "A group of hikers are preparing for a trip and need to mix $15$ kg of $20%$ protein energy bars with some $30%$ protein energy bars to get a mixture that is $25%$ protein. How many kg of the $30%$ protein energy bars should be added?",
+   "options": {
+       "A": "$5$ kg",
+       "B": "$10$ kg",
+       "C": "$15$ kg",
+       "D": "$20$ kg",
+       "E": "$25$ kg"
+   },
+   "answer": "B"
+},
+{
+   "id": 6,
+   "type": "MQ",
+   "question": "A nature reserve has two types of animal food: one that is $40%$ nuts and another that is $60%$ nuts. If $30$ kg of the $40%$ nuts food is mixed with some of the $60%$ nuts food to get a $50%$ nuts mixture, how many kg of the $60%$ nuts food is added?",
+   "options": {
+       "A": "$10$ kg",
+       "B": "$15$ kg",
+       "C": "$20$ kg",
+       "D": "$25$ kg",
+       "E": "$30$ kg"
+   },
+   "answer": "C"
+},
+{
+   "id": 7,
+   "type": "MQ",
+   "question": "A camper mixes $25$ liters of $80%$ concentrated juice with $30$ liters of $20%$ concentrated juice. What is the concentration of the resulting mixture?",
+   "options": {
+       "A": "$40%$",
+       "B": "$50%$",
+       "C": "$55%$",
+       "D": "$60%$",
+       "E": "$65%$"
+   },
+   "answer": "C"
+},
+{
+   "id": 8,
+   "type": "MQ",
+   "question": "A hiker mixes $10$ kg of trail mix that is $30%$ chocolate chips with $20$ kg of trail mix that is $10%$ chocolate chips. What percentage of chocolate chips is in the final mixture?",
+   "options": {
+       "A": "$15%$",
+       "B": "$18%$",
+       "C": "$20%$",
+       "D": "$22%$",
+       "E": "$25%$"
+   },
+   "answer": "B"
+},
+{
+   "id": 9,
+   "type": "FRQ",
+   "question": "A wildlife sanctuary has two types of monkey food. One type is $20%$ fruit and the other type is $50%$ fruit. If the sanctuary has $50$ kg of the $20%$ fruit food and wants to mix it with some of the $50%$ fruit food to get a $30%$ fruit mixture, how many kg of the $50%$ fruit food should be added? Show all work and calculations.",
+   "required_space_lines": 5
+},
+{
+   "id": 10,
+   "type": "FRQ",
+   "question": "A camper is preparing for a trip and needs to mix $30$ liters of $25%$ concentrated cleaner with some $40%$ concentrated cleaner to get a $30%$ concentrated cleaner mixture. If $10$ liters of the $30%$ concentrated cleaner mixture is used, how many liters of the $40%$ concentrated cleaner were added to the mixture? Show all work and calculations.",
+   "required_space_lines": 5
+}
+],
+"teacher_rules": [
+   "Read each question carefully before answering.",
+   "Use the space provided for each question to show your work and calculations.",
+   "Check your work before submitting your test."
+],
+"footer": "Chef's Tips"
+}

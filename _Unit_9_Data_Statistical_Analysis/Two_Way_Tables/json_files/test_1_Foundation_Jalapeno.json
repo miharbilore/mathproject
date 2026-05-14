@@ -1,0 +1,129 @@
+{
+  "unit": "\u003e\u0200\u0205 Unit 9: Data Statistical Analysis",
+   "topic": "Two-Way Tables",
+   "test_type": "Foundation (Jalapeno)",
+   "questions": [
+      {
+         "id": 1,
+         "type": "MQ",
+         "question": "What is the purpose of a two-way frequency table in business?",
+         "options": {
+            "A": "To calculate stock prices",
+            "B": "To analyze associations between variables",
+            "C": "To predict tax rates",
+            "D": "To determine savings interest",
+            "E": "To track employee hours"
+         },
+         "answer": "B"
+      },
+      {
+         "id": 2,
+         "type": "MQ",
+         "question": "A company has $24$ employees who invest in the stock market. The two-way table shows the number of employees who invest in stocks A and B. If $8$ employees invest in both stocks, what is the total number of employees who invest in stock A or stock B?",
+         "options": {
+            "A": "12",
+            "B": "16",
+            "C": "20",
+            "D": "24",
+            "E": "28"
+         },
+         "answer": "C"
+      },
+      {
+         "id": 3,
+         "type": "MQ",
+         "question": "A two-way table shows the relationship between the type of investment and the return on investment. Which of the following statements is supported by the table?",
+         "options": {
+            "A": "High-risk investments always have high returns",
+            "B": "Low-risk investments always have low returns",
+            "C": "There is a strong association between investment type and return",
+            "D": "There is no association between investment type and return",
+            "E": "Investment type does not affect return"
+         },
+         "answer": "C"
+      },
+      {
+         "id": 4,
+         "type": "MQ",
+         "question": "A survey of $30$ investors shows the following two-way table. What is the relative frequency of investors who prefer stocks and have a high return?",
+         "options": {
+            "A": "$\\frac{1}{6}$",
+            "B": "$\\frac{1}{5}$",
+            "C": "$\\frac{1}{4}$",
+            "D": "$\\frac{1}{3}$",
+            "E": "$\\frac{1}{2}$"
+         },
+         "answer": "B"
+      },
+      {
+         "id": 5,
+         "type": "MQ",
+         "question": "Which of the following is an example of a two-way table in finance?",
+         "options": {
+            "A": "Stock prices over time",
+            "B": "Number of employees by department",
+            "C": "Relationship between investment type and return",
+            "D": "Company profits by quarter",
+            "E": "Customer satisfaction ratings"
+         },
+         "answer": "C"
+      },
+      {
+         "id": 6,
+         "type": "MQ",
+         "question": "A company has the following two-way table showing the relationship between investment type and return. What is the number of employees who invest in stocks with a high return?",
+         "options": {
+            "A": "8",
+            "B": "10",
+            "C": "12",
+            "D": "14",
+            "E": "16"
+         },
+         "answer": "B"
+      },
+      {
+         "id": 7,
+         "type": "MQ",
+         "question": "Which of the following statements is true about two-way tables?",
+         "options": {
+            "A": "They can only be used for categorical data",
+            "B": "They can only be used for numerical data",
+            "C": "They can be used to analyze associations between variables",
+            "D": "They can only be used for small datasets",
+            "E": "They are only used in finance"
+         },
+         "answer": "C"
+      },
+      {
+         "id": 8,
+         "type": "MQ",
+         "question": "A survey of investors shows the following two-way table. What is the total number of investors who prefer bonds or have a low return?",
+         "options": {
+            "A": "18",
+            "B": "20",
+            "C": "22",
+            "D": "24",
+            "E": "26"
+         },
+         "answer": "B"
+      },
+      {
+         "id": 9,
+         "type": "FRQ",
+         "question": "Create a two-way table to show the relationship between investment type (stocks or bonds) and return on investment (high or low) for a sample of 20 investors. Calculate the relative frequency of investors who prefer stocks with a high return.",
+         "required_space_lines": 5
+      },
+      {
+         "id": 10,
+         "type": "FRQ",
+         "question": "Analyze the following two-way table and answer the questions: (1) What is the association between investment type and return? (2) What is the relative frequency of investors who prefer bonds with a low return? (3) What conclusions can be drawn about investment type and return?",
+         "required_space_lines": 5
+      }
+   ],
+   "teacher_rules": [
+      "Tip 1: Ensure students understand the concept of two-way tables before administering the test",
+      "Tip 2: Provide examples of two-way tables in different contexts to help students understand the concept",
+      "Tip 3: Encourage students to use real-world examples to illustrate their answers"
+   ],
+   "footer_title": "Chef's Tips"
+}

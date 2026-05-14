@@ -1,0 +1,129 @@
+{
+  "unit": "\uD83D\uDCDA Unit 9: Data Statistical Analysis",
+   "topic": "Stem and Leaf Plots",
+   "test_type": "Homework (Habanero)",
+   "questions": [
+     {
+       "id": 1,
+       "type": "MQ",
+       "question": "What is the primary purpose of a stem-and-leaf plot in healthcare statistics?",
+       "options": {
+         "A": "To compare treatment outcomes",
+         "B": "To display the distribution of patient data",
+         "C": "To calculate medication dosages",
+         "D": "To identify trends in cell growth",
+         "E": "To analyze medical imaging data"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 2,
+       "type": "MQ",
+       "question": "A researcher collects data on the $\\number\\ of\\ hours$ patients spend in the hospital. The stem-and-leaf plot for this data shows stems of $2$, $3$, and $4$. What can be inferred about the data?",
+       "options": {
+         "A": "Most patients spend less than $20$ hours in the hospital",
+         "B": "Most patients spend between $20$ and $30$ hours in the hospital",
+         "C": "Most patients spend between $30$ and $40$ hours in the hospital",
+         "D": "Most patients spend more than $40$ hours in the hospital",
+         "E": "The data is uniformly distributed"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 3,
+       "type": "MQ",
+       "question": "Which of the following is a benefit of using a stem-and-leaf plot to display data on $\\milligrams\\ of\\ medication$?",
+       "options": {
+         "A": "It allows for easy calculation of mean and median",
+         "B": "It provides a clear visual representation of the data distribution",
+         "C": "It enables identification of outliers and skewness",
+         "D": "It facilitates comparison with other datasets",
+         "E": "All of the above"
+       },
+       "answer": "E"
+     },
+     {
+       "id": 4,
+       "type": "MQ",
+       "question": "A stem-and-leaf plot shows the following data: $\\{3|1, 2, 4, 5, 7, 9\\}$. What is the $\\median$ value of this dataset?",
+       "options": {
+         "A": "$31$",
+         "B": "$32$",
+         "C": "$34$",
+         "D": "$35$",
+         "E": "$37$"
+       },
+       "answer": "C"
+     },
+     {
+       "id": 5,
+       "type": "MQ",
+       "question": "Which type of data is best suited for a stem-and-leaf plot?",
+       "options": {
+         "A": "Categorical data",
+         "B": "Numerical data with a small range",
+         "C": "Numerical data with a large range",
+         "D": "Time-series data",
+         "E": "Geospatial data"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 6,
+       "type": "MQ",
+       "question": "What does the 'stem' in a stem-and-leaf plot typically represent?",
+       "options": {
+         "A": "The most significant digit of the data value",
+         "B": "The least significant digit of the data value",
+         "C": "The median of the data values",
+         "D": "The standard deviation of the data values",
+         "E": "The range of the data values"
+       },
+       "answer": "A"
+     },
+     {
+       "id": 7,
+       "type": "MQ",
+       "question": "A researcher wants to compare the distribution of $\\blood\\ pressure$ values between two patient groups. Which of the following is a suitable method?",
+       "options": {
+         "A": "Create two separate stem-and-leaf plots",
+         "B": "Create a single stem-and-leaf plot with different colors for each group",
+         "C": "Calculate the mean and standard deviation for each group",
+         "D": "Use a histogram to display the data",
+         "E": "Use a box plot to display the data"
+       },
+       "answer": "A"
+     },
+     {
+       "id": 8,
+       "type": "MQ",
+       "question": "What can be inferred about a dataset with a stem-and-leaf plot that shows a large gap between the stems?",
+       "options": {
+         "A": "The data is normally distributed",
+         "B": "The data is skewed to the left",
+         "C": "The data is skewed to the right",
+         "D": "The data has a bimodal distribution",
+         "E": "The data has outliers"
+       },
+       "answer": "D"
+     },
+     {
+       "id": 9,
+       "type": "FRQ",
+       "question": "Create a stem-and-leaf plot for the following data on $\\number\\ of\\ patients$ treated per day: $12, 15, 18, 20, 22, 25, 30, 32, 35, 38, 40, 42$. What can be inferred about the distribution of this data? Provide at least $3$ observations.",
+       "required_space_lines": 5
+     },
+     {
+       "id": 10,
+       "type": "FRQ",
+       "question": "A stem-and-leaf plot shows the following data on $\\levels\\ of\\ medication$ ($\\milligrams$): $\\{2|0, 2, 5, 8\\}$, $\\{3|1, 4, 6, 9\\}$. Calculate the $\\mean$, $\\median$, and $\\mode$ of this dataset. Provide your work and explain the significance of each value.",
+       "required_space_lines": 5
+     }
+   ],
+   "teacher_rules": [
+     "Tip 1: Ensure students understand the purpose of stem-and-leaf plots in data analysis",
+     "Tip 2: Encourage students to practice creating and interpreting stem-and-leaf plots with different types of data",
+     "Tip 3: Remind students to consider the context and limitations of the data when making inferences from a stem-and-leaf plot"
+   ],
+   "footer": "Chef's Tips"
+ }

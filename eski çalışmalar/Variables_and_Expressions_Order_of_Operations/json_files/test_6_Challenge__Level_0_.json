@@ -1,0 +1,150 @@
+{
+  "test_id": 6,
+   "test_type": "Challenge (Level 0)",
+   "topic": "Variables and Expressions / Order of Operations",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "What is the variable in the expression $2x + 3$?",
+           "options": {
+               "A": "2",
+               "B": "x",
+               "C": "3",
+               "D": "2x",
+               "E": "None of the above"
+           },
+           "answer": "B",
+           "spicy_level": "",
+           "required_space_lines": 0
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "Identify the coefficient in the term $4y$",
+           "options": {
+               "A": "y",
+               "B": "4",
+               "C": "4y",
+               "D": "None of the above",
+               "E": "0"
+           },
+           "answer": "B",
+           "spicy_level": "",
+           "required_space_lines": 0
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "What is the constant term in the expression $x + 2$?",
+           "options": {
+               "A": "x",
+               "B": "2",
+               "C": "x + 2",
+               "D": "None of the above",
+               "E": "0"
+           },
+           "answer": "B",
+           "spicy_level": "",
+           "required_space_lines": 0
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "Which of the following is an example of a simple expression? $2x + 1$",
+           "options": {
+               "A": "Equation",
+               "B": "Inequality",
+               "C": "Expression",
+               "D": "None of the above",
+               "E": "Formula"
+           },
+           "answer": "C",
+           "spicy_level": "",
+           "required_space_lines": 0
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "What operation is represented by the symbol $+$ in the expression $2 + 3$?",
+           "options": {
+               "A": "Subtraction",
+               "B": "Multiplication",
+               "C": "Division",
+               "D": "Addition",
+               "E": "None of the above"
+           },
+           "answer": "D",
+           "spicy_level": "",
+           "required_space_lines": 0
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "Identify the operator in the expression $5 - 2$",
+           "options": {
+               "A": "5",
+               "B": "2",
+               "C": "-",
+               "D": "None of the above",
+               "E": "5 - 2"
+           },
+           "answer": "C",
+           "spicy_level": "",
+           "required_space_lines": 0
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "What is the term $3x$ an example of?",
+           "options": {
+               "A": "Constant term",
+               "B": "Variable term",
+               "C": "Coefficient",
+               "D": "Expression",
+               "E": "None of the above"
+           },
+           "answer": "B",
+           "spicy_level": "",
+           "required_space_lines": 0
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "In the expression $2x + 1$, what is the role of the number 2?",
+           "options": {
+               "A": "Variable",
+               "B": "Constant",
+               "C": "Coefficient",
+               "D": "Operator",
+               "E": "None of the above"
+           },
+           "answer": "C",
+           "spicy_level": "",
+           "required_space_lines": 0
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "Draw a simple diagram to illustrate the concept of a variable and a constant in an algebraic expression. Use the expression $3x + 2$ as an example.",
+           "options": {},
+           "answer": "Model solution will depend on the student's diagram and explanation.",
+           "spicy_level": "",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "Explain, in your own words, what the term 'expression' means in algebra. Provide an example of a simple expression and explain its components.",
+           "options": {},
+           "answer": "Model solution will depend on the student's explanation and example.",
+           "spicy_level": "",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Keep the language and concepts simple, focusing on basic definitions and identification.",
+       "Use visual aids and diagrams to help students understand the concepts of variables, constants, and expressions.",
+       "Emphasize the importance of precise terminology and notation in algebra."
+   ]
+}

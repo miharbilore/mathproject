@@ -1,0 +1,129 @@
+{
+  "unit": "\u1F4D6 Unit 2: Exponents & Radicals",
+   "topic": "Exponents",
+   "test_type": "Foundation (Jalapeno)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "Simplify $2^3 \\cdot 2^4$",
+           "options": {
+               "A": "$2^7$",
+               "B": "$2^6$",
+               "C": "$2^5$",
+               "D": "$2^3$",
+               "E": "$2^2$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "What is the value of $x$ in $x^2 = 16$?",
+           "options": {
+               "A": "$2$",
+               "B": "$4$",
+               "C": "$-2$",
+               "D": "$-4$",
+               "E": "$8$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "A spaceship travels at a speed of $3^2$ km/s. How far will it travel in $2$ seconds?",
+           "options": {
+               "A": "$9$ km",
+               "B": "$18$ km",
+               "C": "$12$ km",
+               "D": "$6$ km",
+               "E": "$4$ km"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "Simplify $(2^2)^3$",
+           "options": {
+               "A": "$2^5$",
+               "B": "$2^6$",
+               "C": "$2^8$",
+               "D": "$2^4$",
+               "E": "$2^9$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "What is the value of $y$ in $y^3 = 64$?",
+           "options": {
+               "A": "$2$",
+               "B": "$3$",
+               "C": "$4$",
+               "D": "$5$",
+               "E": "$6$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "A lab experiment requires $2^4$ liters of oxygen. How many liters are needed for $3$ experiments?",
+           "options": {
+               "A": "$48$ liters",
+       "B": "$24$ liters",
+       "C": "$16$ liters",
+       "D": "$12$ liters",
+       "E": "$8$ liters"
+   },
+   "answer": "A"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "Simplify $\frac{2^6}{2^2}$",
+           "options": {
+               "A": "$2^3$",
+               "B": "$2^4$",
+               "C": "$2^5$",
+               "D": "$2^8$",
+               "E": "$2^9$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "The distance between two planets is $3^2$ light years. How many light years will a spaceship travel if it goes from one planet to the other and back?",
+           "options": {
+               "A": "$12$ light years",
+               "B": "$18$ light years",
+               "C": "$9$ light years",
+               "D": "$6$ light years",
+               "E": "$15$ light years"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "A rocket is launched into space with an initial velocity of $2^3$ m/s. It accelerates at a rate of $2^2$ m/s$^2$ for $3$ seconds. Calculate the final velocity of the rocket. Show all work and simplify your answer.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "The volume of a planet is given by the equation $V = \frac{4}{3}pi r^3$, where $r$ is the radius of the planet. If the radius of a planet is $2^2$ km, calculate the volume of the planet in cubic kilometers. Show all work and simplify your answer.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Emphasize the importance of applying exponent rules correctly",
+       "Use real-world examples to illustrate the relevance of exponents in space and science",
+       "Encourage students to check their work and simplify their answers"
+   ],
+   "footer_title": "Chef's Tips"
+}

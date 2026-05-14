@@ -1,0 +1,102 @@
+{
+  "test_id": 5,
+   "test_type": "Challenge (Level 0)",
+   "topic": "Variables and Expressions / Order of Operations",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "What is the variable in the expression $2x + 3$?",
+           "options": { "A": "2", "B": "3", "C": "x", "D": "2x", "E": "None" },
+           "answer": "C",
+           "spicy_level": "",
+           "required_space_lines": 0
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "Identify the constant term in the expression $4x - 2$.",
+           "options": { "A": "4x", "B": "-2", "C": "4", "D": "2", "E": "None" },
+           "answer": "B",
+           "spicy_level": "",
+           "required_space_lines": 0
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "What operation is represented by the symbol $+$ in $3 + 2$?",
+           "options": { "A": "Subtraction", "B": "Addition", "C": "Multiplication", "D": "Division", "E": "None" },
+           "answer": "B",
+           "spicy_level": "",
+           "required_space_lines": 0
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "In the expression $5 - 2x$, what is the coefficient of $x$?",
+           "options": { "A": "5", "B": "-2", "C": "2", "D": "-5", "E": "None" },
+           "answer": "B",
+           "spicy_level": "",
+           "required_space_lines": 0
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "Which part of the expression $3x^2$ is the exponent?",
+           "options": { "A": "3", "B": "x", "C": "2", "D": "3x", "E": "None" },
+           "answer": "C",
+           "spicy_level": "",
+           "required_space_lines": 0
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "What is the term in the expression $2x + 4$ that contains the variable $x$?",
+           "options": { "A": "2", "B": "4", "C": "2x", "D": "x", "E": "None" },
+           "answer": "C",
+           "spicy_level": "",
+           "required_space_lines": 0
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "Identify the operator in $7 \times 3$.",
+           "options": { "A": "$+$", "B": "$-$", "C": "$\times$", "D": "$div$", "E": "None" },
+           "answer": "C",
+           "spicy_level": "",
+           "required_space_lines": 0
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "What is the constant term in the expression $x - 5$?",
+           "options": { "A": "x", "B": "-5", "C": "5", "D": "1", "E": "None" },
+           "answer": "B",
+           "spicy_level": "",
+           "required_space_lines": 0
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "Draw a diagram to illustrate the concept of a variable in an algebraic expression. Explain your diagram in 2-3 sentences.",
+           "options": {},
+           "answer": "Model Solution: A diagram with a box labeled as $x$ and an equation $2x + 3$. The student should explain that the box represents the variable $x$ and how it is used in the expression.",
+           "spicy_level": "",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "Explain the difference between a constant and a variable in an algebraic expression. Provide an example of each.",
+           "options": {},
+           "answer": "Model Solution: A constant is a value that does not change, while a variable is a value that can change. For example, in the expression $2x + 5$, $5$ is a constant and $x$ is a variable.",
+           "spicy_level": "",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Focus on basic conceptual definitions and single-step identification.",
+       "Use simple language and examples to illustrate complex concepts.",
+       "Encourage students to use diagrams and visual aids to explain their thinking."
+   ]
+}

@@ -1,0 +1,129 @@
+{
+  "unit": "\u1f4d6 Unit 1: Ratio, Rate, Percentage",
+   "topic": "Percent",
+   "test_type": "Homework (Habanero)",
+   "questions": [
+     {
+       "id": 1,
+       "type": "MQ",
+       "question": "A patient's medication dosage is $25 \\milligrams$. If the dosage is increased by $15\\%$, what is the new dosage?",
+       "options": {
+         "A": "$25 \\milligrams$",
+         "B": "$28.75 \\milligrams$",
+         "C": "$30 \\milligrams$",
+         "D": "$32.5 \\milligrams$",
+         "E": "$35 \\milligrams$"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 2,
+       "type": "MQ",
+       "question": "The population of a certain cell culture is $500$ cells. If the population decreases by $8\\%$ in one hour, how many cells are left?",
+       "options": {
+         "A": "450 cells",
+         "B": "460 cells",
+         "C": "465 cells",
+         "D": "475 cells",
+         "E": "480 cells"
+       },
+       "answer": "D"
+     },
+     {
+       "id": 3,
+       "type": "MQ",
+       "question": "A medical test has a $92\\%$ success rate. If $1200$ tests are conducted, how many are expected to be successful?",
+       "options": {
+         "A": "1000",
+         "B": "1056",
+         "C": "1104",
+         "D": "1105",
+         "E": "1200"
+       },
+       "answer": "C"
+     },
+     {
+       "id": 4,
+       "type": "MQ",
+       "question": "The price of a medical device is $\\$850$. If a $12\\%$ discount is applied, what is the new price?",
+       "options": {
+         "A": "$\\$750$",
+         "B": "$\\$748$",
+         "C": "$\\$750.80$",
+         "D": "$\\$747.00$",
+         "E": "$\\$750.50$"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 5,
+       "type": "MQ",
+       "question": "A certain medicine is effective in $85\\%$ of cases. If $200$ patients are treated, how many are expected to respond to the treatment?",
+       "options": {
+         "A": "150",
+         "B": "160",
+         "C": "165",
+         "D": "170",
+         "E": "180"
+       },
+       "answer": "D"
+     },
+     {
+       "id": 6,
+       "type": "MQ",
+       "question": "The concentration of a solution is $20\\%$. If $50 \\milliliters$ of the solution contains $10 \\milliliters$ of the solute, what is the total volume of the solution?",
+       "options": {
+         "A": "50 \\milliliters$",
+         "B": "100 \\milliliters$",
+         "C": "200 \\milliliters$",
+         "D": "250 \\milliliters$",
+         "E": "500 \\milliliters$"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 7,
+       "type": "MQ",
+       "question": "A doctor's office has $2000$ patients. If $18\\%$ of them are diabetic, how many diabetic patients does the office have?",
+       "options": {
+         "A": "350",
+         "B": "360",
+         "C": "365",
+         "D": "370",
+         "E": "380"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 8,
+       "type": "MQ",
+       "question": "A patient is taking $5 \\milligrams$ of a certain medication daily. If the dosage is increased by $20\\%$ every week for two weeks, what is the new dosage?",
+       "options": {
+         "A": "$6 \\milligrams$",
+         "B": "$6.5 \\milligrams$",
+         "C": "$7 \\milligrams$",
+         "D": "$7.2 \\milligrams$",
+         "E": "$8.2 \\milligrams$"
+       },
+       "answer": "E"
+     },
+     {
+       "id": 9,
+       "type": "FRQ",
+       "question": "A certain medication has a $95\\%$ success rate in treating a particular disease. If $500$ patients are treated with this medication and the treatment costs $\\$1200$ per patient, what is the total cost of treatment for all patients and how many patients are expected to be cured?",
+       "required_space_lines": 5
+     },
+     {
+       "id": 10,
+       "type": "FRQ",
+       "question": "A hospital has $1500$ staff members, including doctors, nurses, and administrative staff. If $22\\%$ are doctors and $18\\%$ are nurses, what percentage of the staff are administrative staff? Show your calculations and explain your reasoning.",
+       "required_space_lines": 5
+     }
+   ],
+   "teacher_rules": [
+     "Read each question carefully before selecting an answer.",
+     "Use a calculator to check your calculations.",
+     "Check your units and ensure that they are consistent."
+   ],
+   "footer": "Chef's Tips"
+ }

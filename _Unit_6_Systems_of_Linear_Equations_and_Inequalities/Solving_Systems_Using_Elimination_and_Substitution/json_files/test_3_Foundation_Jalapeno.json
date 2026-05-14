@@ -1,0 +1,129 @@
+{
+  "unit": "\u1F4D6 Unit 6: Systems of Linear Equations and Inequalities",
+   "topic": "Solving Systems Using Elimination and Substitution",
+   "test_type": "Foundation (Jalapeno)",
+   "questions": [
+      {
+         "id": 1,
+         "type": "MQ",
+         "question": "Solve the system: $x + y = 4$, $x - y = 2$. What is $x$?",
+         "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "5",
+            "E": "6"
+         },
+         "answer": "C"
+      },
+      {
+         "id": 2,
+         "type": "MQ",
+         "question": "In a basketball game, $x$ points were scored from field goals and $y$ points from free throws. If $x + y = 80$ and $x = 1.5y$, what is $y$?",
+         "options": {
+            "A": "20",
+            "B": "25",
+            "C": "30",
+            "D": "32",
+            "E": "40"
+         },
+         "answer": "D"
+      },
+      {
+         "id": 3,
+         "type": "MQ",
+         "question": "A tennis player wins $2x$ points from aces and $3y$ points from volleys. If $2x + 3y = 50$ and $y = 5$, what is $x$?",
+         "options": {
+            "A": "5",
+            "B": "7.5",
+            "C": "10",
+            "D": "12.5",
+            "E": "15"
+         },
+         "answer": "C"
+      },
+      {
+         "id": 4,
+         "type": "MQ",
+         "question": "Solve the system: $y = 3x - 1$, $y = 2x + 1$. What is $y$?",
+         "options": {
+            "A": "2",
+            "B": "4",
+            "C": "5",
+            "D": "6",
+            "E": "8"
+         },
+         "answer": "B"
+      },
+      {
+         "id": 5,
+         "type": "MQ",
+         "question": "A cyclist travels $x$ miles uphill and $y$ miles downhill. If $x + y = 20$ and $x = y + 4$, what is $y$?",
+         "options": {
+            "A": "5",
+            "B": "6",
+            "C": "7",
+            "D": "8",
+            "E": "10"
+         },
+         "answer": "C"
+      },
+      {
+         "id": 6,
+         "type": "MQ",
+         "question": "Solve the system: $2x + 2y = 8$, $x - y = -2$. What is $y$?",
+         "options": {
+            "A": "2",
+            "B": "3",
+            "C": "4",
+            "D": "5",
+            "E": "6"
+         },
+         "answer": "B"
+      },
+      {
+         "id": 7,
+         "type": "MQ",
+         "question": "A football team scores $x$ touchdowns and $y$ field goals. If $x + y = 6$ and $x = 2y$, what is $y$?",
+         "options": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4",
+            "E": "6"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 8,
+         "type": "MQ",
+         "question": "Solve the system: $x + y = 7$, $2x - 2y = -2$. What is $y$?",
+         "options": {
+            "A": "2",
+            "B": "3",
+            "C": "4",
+            "D": "5",
+            "E": "6"
+         },
+         "answer": "B"
+      },
+      {
+         "id": 9,
+         "type": "FRQ",
+         "question": "Solve the system: $x + 2y = 10$, $3x - 2y = 4$. What are $x$ and $y$?",
+         "required_space_lines": 5
+      },
+      {
+         "id": 10,
+         "type": "FRQ",
+         "question": "A swimmer swims $x$ laps in the morning and $y$ laps in the evening. If $x + y = 15$ and $2x - y = 3$, what are $x$ and $y$?",
+         "required_space_lines": 5
+      }
+   ],
+   "teacher_rules": [
+      "Tip 1: Ensure students have a firm grasp of substitution and elimination methods.",
+      "Tip 2: Encourage students to check their solutions by plugging them back into the original equations.",
+      "Tip 3: Remind students that the solution to a system can be one point, no points, or infinitely many points."
+   ],
+   "footer": "Chef's Tips"
+}

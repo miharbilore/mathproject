@@ -1,0 +1,129 @@
+{
+  "unit": "Unit 0: Foundations of Algebra",
+   "topic": "Divisibility & Division Algorithm",
+   "test_type": "Advanced (Carolina Reaper)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "A bookshelf has $15$ shelves, and each shelf can hold $18$ books. If the bookshop owner wants to pack the books in boxes that hold $3$ books each, how many boxes can be filled with $15 \\times 18$ books?",
+           "options": {
+               "A": "90",
+               "B": "135",
+               "C": "150",
+               "D": "180",
+               "E": "270"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "What is the remainder when $43$ is divided by $9$?",
+           "options": {
+               "A": "0",
+               "B": "1",
+               "C": "2",
+               "D": "4",
+               "E": "7"
+           },
+           "answer": "D"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "If a bakery sells $252$ loaves of bread per day, and they are packed in bags of $7$ loaves each, how many bags are sold per day?",
+           "options": {
+               "A": "35",
+               "B": "36",
+               "C": "42",
+               "D": "45",
+               "E": "63"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "A group of friends want to share some candy equally. If they have $48$ pieces of candy and there are $8$ friends, how many pieces will each friend get, and what will be the remainder?",
+           "options": {
+               "A": "5 pieces, remainder 8",
+               "B": "6 pieces, remainder 0",
+               "C": "6 pieces, remainder 1",
+               "D": "5 pieces, remainder 4",
+               "E": "6 pieces, remainder 3"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "What is the remainder when $2^{10}$ is divided by $5$?",
+           "options": {
+               "A": "0",
+               "B": "1",
+               "C": "2",
+               "D": "3",
+               "E": "4"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "A water tank can hold $240$ gallons of water. If $3$ buckets of water are poured into the tank per hour, and each bucket holds $5$ gallons, what fraction of the tank will be filled after $8$ hours?",
+           "options": {
+       "A": "$\\frac{1}{2}$",
+       "B": "$\\frac{1}{3}$",
+       "C": "$\\frac{2}{3}$",
+       "D": "$\\frac{3}{4}$",
+       "E": "$\\frac{4}{5}$"
+   },
+   "answer": "C"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "A clock strikes $6$ times at $12$ o'clock. If it strikes $x$ times after $y$ hours, find $x$ when $y = 9$.",
+           "options": {
+               "A": "18",
+               "B": "15",
+               "C": "12",
+               "D": "9",
+               "E": "6"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "What is the remainder when $17$ is divided by $5$, and what is the quotient?",
+           "options": {
+               "A": "Remainder: 2, Quotient: 3",
+               "B": "Remainder: 3, Quotient: 3",
+               "C": "Remainder: 2, Quotient: 4",
+               "D": "Remainder: 1, Quotient: 3",
+       "E": "Remainder: 2, Quotient: 2"
+   },
+   "answer": "C"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "A person is planning a road trip that is $945$ miles long. If they drive $5$ hours per day at a constant speed of $45$ miles per hour, what is the total number of days required to complete the trip? Show all work and calculations.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "A bakery has $288$ cupcakes to package for a large order. They want to put $8$ cupcakes in each box. How many boxes are needed, and what is the remainder? Explain the reasoning behind the calculation.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Ensure students have scratch paper for calculations",
+       "Monitor students for adherence to the no-explanation rule",
+       "Remind students to check their work carefully before submitting"
+   ],
+   "footer": "Chef's Tips"
+}

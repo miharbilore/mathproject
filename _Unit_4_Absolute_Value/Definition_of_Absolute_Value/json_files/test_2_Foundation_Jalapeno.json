@@ -1,0 +1,129 @@
+{
+  "unit": "\uD83D\uDCDA Unit 4: Absolute Value",
+   "topic": "Definition of Absolute Value",
+   "test_type": "Foundation (Jalapeno)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "What is the absolute value of $-5$?",
+           "options": {
+               "A": "$-5$",
+               "B": "$5$",
+               "C": "$0$",
+               "D": "$10$",
+               "E": "$25$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "A spaceship is $12$ kilometers away from the space station. What is the absolute value of its distance?",
+           "options": {
+               "A": "$-12$ km",
+               "B": "$12$ km",
+               "C": "$0$ km",
+               "D": "$24$ km",
+               "E": "$36$ km"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "The temperature in a lab is $-8$ degrees Celsius. What is the absolute value of the temperature?",
+           "options": {
+               "A": "$-8^circ C$",
+               "B": "$8^circ C$",
+               "C": "$0^circ C$",
+               "D": "$16^circ C$",
+               "E": "$32^circ C$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "Evaluate the expression $|2 - 5|$.",
+           "options": {
+               "A": "$-3$",
+               "B": "$3$",
+               "C": "$0$",
+               "D": "$7$",
+               "E": "$10$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "What is the absolute value of $3 cdot -4$?",
+           "options": {
+               "A": "$-12$",
+               "B": "$12$",
+               "C": "$0$",
+               "D": "$16$",
+       "E": "$20$"
+   },
+   "answer": "B"
+},
+{
+   "id": 6,
+   "type": "MQ",
+   "question": "The magnitude of a vector is given by $|3 - 2|$. What is its value?",
+   "options": {
+       "A": "$1$",
+       "B": "$5$",
+       "C": "$0$",
+       "D": "$11$",
+       "E": "$-1$"
+   },
+   "answer": "A"
+},
+{
+   "id": 7,
+   "type": "MQ",
+   "question": "A comet is moving at a speed of $-25$ km/s. What is the absolute value of its speed?",
+   "options": {
+       "A": "$-25$ km/s",
+       "B": "$25$ km/s",
+       "C": "$0$ km/s",
+       "D": "$50$ km/s",
+       "E": "$100$ km/s"
+   },
+   "answer": "B"
+},
+{
+   "id": 8,
+   "type": "MQ",
+   "question": "The absolute value of $x$ is given by $|x| = 4$. What are the possible values of $x$?",
+   "options": {
+       "A": "$x = -4$",
+       "B": "$x = 4$",
+       "C": "$x = 0$",
+       "D": "$x = -4$ or $x = 4$",
+       "E": "$x = 2$ or $x = -2$"
+   },
+   "answer": "D"
+},
+{
+   "id": 9,
+   "type": "FRQ",
+   "question": "A spacecraft is traveling from Earth to Mars. If it is $250$ million kilometers away from Earth and $225$ million kilometers away from Mars, what is the absolute value of the difference between its distances from the two planets? Show your work and explain your reasoning.",
+   "required_space_lines": 5
+},
+{
+   "id": 10,
+   "type": "FRQ",
+   "question": "A scientist is measuring the temperature of a gas in a lab. If the initial temperature is $15^circ C$ and it decreases by $8^circ C$, what is the absolute value of the final temperature? Explain how you would calculate this using absolute value.",
+   "required_space_lines": 5
+}
+],
+"teacher_rules": [
+   "Tip 1: Ensure students understand that absolute value represents distance from zero.",
+   "Tip 2: Emphasize the importance of considering both positive and negative values when working with absolute value.",
+   "Tip 3: Encourage students to visualize absolute value on a number line to deepen their understanding."
+],
+"footer_title": "Chef's Tips"
+}

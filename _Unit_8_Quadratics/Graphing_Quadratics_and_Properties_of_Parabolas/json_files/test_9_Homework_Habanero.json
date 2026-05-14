@@ -1,0 +1,129 @@
+{
+  "unit": "\ud83d\udcda Unit 8: Quadratics",
+   "topic": "Graphing Quadratics and Properties of Parabolas",
+   "test_type": "Homework (Habanero)",
+   "questions": [
+     {
+       "id": 1,
+       "type": "MQ",
+       "question": "What is the axis of symmetry for the parabola $y = x^2 + 4x + 4$?",
+       "options": {
+         "A": "$x = -2$",
+         "B": "$x = 0$",
+         "C": "$x = 2$",
+         "D": "$x = 4$",
+         "E": "$x = -4$"
+       },
+       "answer": "A"
+     },
+     {
+       "id": 2,
+       "type": "MQ",
+       "question": "A new medicine dosage is modeled by the quadratic $y = -0.5x^2 + 3x + 2$. What is the maximum dosage?",
+       "options": {
+         "A": "$y = 4.5$",
+         "B": "$y = 5.5$",
+         "C": "$y = 6.5$",
+         "D": "$y = 7.5$",
+         "E": "$y = 8.5$"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 3,
+       "type": "MQ",
+       "question": "The vertex of the parabola $y = x^2 - 6x + 8$ is at",
+       "options": {
+         "A": "$(-3, 1)$",
+         "B": "$(-2, 4)$",
+         "C": "$(-1, 7)$",
+         "D": "(3, -1)",
+         "E": "(2, 0)"
+       },
+       "answer": "D"
+     },
+     {
+       "id": 4,
+       "type": "MQ",
+       "question": "The quadratic $y = 2x^2 - 4x - 6$ has $y$-intercept at",
+       "options": {
+         "A": "$(0, -2)$",
+         "B": "$(0, -4)$",
+         "C": "$(0, -6)$",
+         "D": "$(0, 2)$",
+         "E": "$(0, 6)$"
+       },
+       "answer": "C"
+     },
+     {
+       "id": 5,
+       "type": "MQ",
+       "question": "A population of cells grows according to the quadratic $y = 3x^2 + 2x + 1$. What is the rate of change of the population at $x = 2$?",
+       "options": {
+         "A": "$y' = 12$",
+         "B": "$y' = 14$",
+         "C": "$y' = 16$",
+         "D": "$y' = 18$",
+         "E": "$y' = 20$"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 6,
+       "type": "MQ",
+       "question": "What is the equation of the axis of symmetry for the parabola $y = x^2 + 2x - 6$?",
+       "options": {
+         "A": "$x = -1$",
+         "B": "$x = 0$",
+         "C": "$x = 1$",
+         "D": "$x = 2$",
+         "E": "$x = 3$"
+       },
+       "answer": "A"
+     },
+     {
+       "id": 7,
+       "type": "MQ",
+       "question": "A medical researcher models the spread of a disease using the quadratic $y = -x^2 + 4x + 2$. What is the minimum value of $y$?",
+       "options": {
+         "A": "$y = -2$",
+         "B": "$y = 0$",
+         "C": "$y = 2$",
+         "D": "$y = 4$",
+         "E": "$y = 6$"
+       },
+       "answer": "C"
+     },
+     {
+       "id": 8,
+       "type": "MQ",
+       "question": "The parabola $y = x^2 - 4x + 4$ opens",
+       "options": {
+         "A": "upward",
+         "B": "downward",
+         "C": "to the left",
+         "D": "to the right",
+         "E": "not at all"
+       },
+       "answer": "A"
+     },
+     {
+       "id": 9,
+       "type": "FRQ",
+       "question": "Prove that the vertex of the parabola $y = $ax^2 + bx + c$ is at $(-\\frac{b}{2a}, f(-\\frac{b}{2a}))$. Show all work and explain your reasoning.",
+       "required_space_lines": 5
+     },
+     {
+       "id": 10,
+       "type": "FRQ",
+       "question": "A new medicine is modeled by the quadratic $y = -0.2x^2 + 2x + 1$. Find the maximum dosage and the time at which it occurs. Show all work and explain your reasoning.",
+       "required_space_lines": 5
+     }
+   ],
+   "teacher_rules": [
+     "Tip 1: Encourage students to use graphing calculators to visualize the parabolas.",
+     "Tip 2: Remind students to show all work and explain their reasoning for free response questions.",
+     "Tip 3: Emphasize the importance of axis of symmetry and vertex in graphing quadratics."
+   ],
+   "footer_title": "Chef's Tips"
+ }

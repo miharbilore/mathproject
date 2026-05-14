@@ -1,0 +1,18 @@
+{
+  "unit": "\u1F4D6 Unit 8: Quadratics",
+   "topic": "Converting Forms (Completing the Square)",
+   "test_type": "Quiz (Carolina Reaper)",
+   "questions": [
+       { "id": 1, "type": "MQ", "question": "A shipping company's cost $C$ to transport $x$ containers is given by $C = $x^2 + 10x + 30$. Convert this equation to vertex form:", "options": {"A": "$C = $(x+5)^2 + 5$", "B": "$C = $(x-5)^2 - 5$", "C": "$C = $(x+5)^2 - 5$", "D": "$C = $(x-5)^2 + 5$", "E": "$C = $x^2 + 10x + 30$"}, "answer": "C" },
+       { "id": 2, "type": "MQ", "question": "The traffic flow $T$ through a tunnel is modeled by $T = $-2x^2 - 12x - 18$, where $x$ is the number of lanes closed. Complete the square to rewrite $T$ in vertex form:", "options": {"A": "$T = $-2(x+3)^2 - 0$", "B": "$T = $-2(x-3)^2 + 0$", "C": "$T = $-2(x+3)^2 + 0$", "D": "$T = $-2(x-3)^2 - 0$", "E": "$T = $-2x^2 - 12x - 18$"}, "answer": "A" },
+       { "id": 3, "type": "MQ", "question": "The time $t$ it takes for a delivery truck to travel $x$ miles is given by $t = $x^2 + 4x + 8$. Identify the vertex of the parabola:", "options": {"A": "(-2, 4)", "B": "(2, 4)", "C": "(-2, -4)", "D": "(2, -4)", "E": "(0, 8)"}, "answer": "A" },
+       { "id": 4, "type": "MQ", "question": "A logistics company's profit $P$ from selling $x$ units of a product is given by $P = $-x^2 + 12x + 20$. Complete the square to rewrite $P$ in vertex form:", "options": {"A": "$P = $-(x-6)^2 + 56$", "B": "$P = $-(x+6)^2 - 56$", "C": "$P = $-(x-6)^2 - 56$", "D": "$P = $-(x+6)^2 + 56$", "E": "$P = $-x^2 + 12x + 20$"}, "answer": "A" },
+       { "id": 5, "type": "MQ", "question": "The cost $C$ of shipping $x$ tons of cargo is given by $C = $x^2 - 8x + 12$. Convert this equation to vertex form:", "options": {"A": "$C = $(x-4)^2 - 4$", "B": "$C = $(x+4)^2 + 4$", "C": "$C = $(x-4)^2 + 4$", "D": "$C = $(x+4)^2 - 4$", "E": "$C = $x^2 - 8x + 12$"}, "answer": "A" },
+       { "id": 6, "type": "MQ", "question": "The number of hours $h$ it takes for a train to travel $x$ miles is given by $h = $x^2 + 2x + 5$. Complete the square to rewrite $h$ in vertex form:", "options": {"A": "$h = $(x+1)^2 + 4$", "B": "$h = $(x-1)^2 - 4$", "C": "$h = $(x+1)^2 - 4$", "D": "$h = $(x-1)^2 + 4$", "E": "$h = $x^2 + 2x + 5$"}, "answer": "A" },
+       { "id": 7, "type": "MQ", "question": "A transportation company's revenue $R$ from $x$ trips is given by $R = $-2x^2 + 20x + 10$. Identify the vertex of the parabola:", "options": {"A": "(5, 60)", "B": "(-5, 60)", "C": "(5, -60)", "D": "(-5, -60)", "E": "(0, 10)"}, "answer": "A" },
+       { "id": 8, "type": "MQ", "question": "The time $t$ it takes for a plane to fly $x$ miles is given by $t = $x^2 - 6x + 10$. Complete the square to rewrite $t$ in vertex form:", "options": {"A": "$t = $(x-3)^2 + 1$", "B": "$t = $(x+3)^2 - 1$", "C": "$t = $(x-3)^2 - 1$", "D": "$t = $(x+3)^2 + 1$", "E": "$t = $x^2 - 6x + 10$"}, "answer": "A" },
+       { "id": 9, "type": "FRQ", "question": "A delivery company's cost $C$ to transport $x$ packages is given by $C = $x^2 + 8x + 15$. Convert this equation to vertex form and identify the vertex of the parabola. Show all work and explain your reasoning.", "required_space_lines": 5 },
+       { "id": 10, "type": "FRQ", "question": "The traffic flow $T$ through a tunnel is modeled by $T = $-3x^2 - 18x - 12$, where $x$ is the number of lanes closed. Complete the square to rewrite $T$ in vertex form and identify the vertex of the parabola. Show all work and explain your reasoning.", "required_space_lines": 5 }
+   ],
+   "teacher_rules": ["Read each question carefully", "Use the completing the square method when necessary", "Show all work and explain reasoning for free response questions"]
+}

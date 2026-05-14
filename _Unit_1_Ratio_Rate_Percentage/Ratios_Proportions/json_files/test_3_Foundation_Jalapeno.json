@@ -1,0 +1,129 @@
+{
+  "unit": "\u270d Unit 1: Ratio, Rate, Percentage",
+   "topic": "Ratios & Proportions",
+   "test_type": "Foundation (Jalapeno)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "A basketball team scored $3$ points for every $5$ points scored by their opponents. What is the ratio of points scored by the team to points scored by their opponents?",
+           "options": {
+               "A": "$3:5$",
+               "B": "$5:3$",
+               "C": "$3:1$",
+               "D": "$1:3$",
+               "E": "$2:1$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "A cyclist travels $12$ miles in $2$ hours. If she travels at the same rate, how many miles will she travel in $5$ hours?",
+           "options": {
+               "A": "$30$ miles",
+               "B": "$25$ miles",
+               "C": "$20$ miles",
+               "D": "$18$ miles",
+               "E": "$15$ miles"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "A football team has a record of $8$ wins to $2$ losses. What is the ratio of wins to losses?",
+           "options": {
+               "A": "$4:1$",
+               "B": "$2:1$",
+               "C": "$8:2$",
+               "D": "$1:2$",
+               "E": "$3:1$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "A tennis player hits $9$ aces out of every $15$ serves. What is the ratio of aces to serves?",
+           "options": {
+               "A": "$3:5$",
+               "B": "$5:3$",
+               "C": "$9:15$",
+               "D": "$3:1$",
+               "E": "$2:1$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "A marathon runner runs $18$ miles in $3$ hours. If she runs at the same rate, how many miles will she run in $4$ hours?",
+           "options": {
+               "A": "$20$ miles",
+               "B": "$24$ miles",
+               "C": "$18$ miles",
+               "D": "$12$ miles",
+               "E": "$30$ miles"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "A swimmer swims $200$ meters in $4$ minutes. What is the ratio of meters swum to minutes taken?",
+           "options": {
+               "A": "$50:1$",
+               "B": "$25:1$",
+               "C": "$40:1$",
+               "D": "$100:2$",
+               "E": "$10:1$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "A gymnast performs $12$ routines out of $20$ attempts. What is the ratio of successful routines to attempts?",
+           "options": {
+               "A": "$3:5$",
+               "B": "$2:1$",
+               "C": "$3:2$",
+               "D": "$1:2$",
+       "E": "$6:10$"
+   },
+           "answer": "A"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "A baseball player gets $8$ hits out of every $15$ at-bats. What is the ratio of hits to at-bats?",
+           "options": {
+               "A": "$8:15$",
+               "B": "$5:3$",
+               "C": "$2:1$",
+               "D": "$4:5$",
+               "E": "$1:2$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "A sprinter runs $100$ meters in $10$ seconds. If she runs at the same rate, how many meters will she run in $t$ seconds? Express your answer as a proportion and solve for $t$ when she runs $200$ meters.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "A volleyball team wins $3$ out of every $5$ games. If they play $20$ games, how many games will they win? Express your answer as a proportion and solve for the number of games won.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Ensure students understand the concept of ratios and proportions",
+       "Remind students to simplify ratios and proportions whenever possible",
+       "Encourage students to use real-world examples to illustrate their understanding of ratios and proportions"
+   ],
+   "footer_title": "Chef's Tips"
+}

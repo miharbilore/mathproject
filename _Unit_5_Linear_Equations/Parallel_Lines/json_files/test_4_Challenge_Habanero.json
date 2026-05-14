@@ -1,0 +1,129 @@
+{
+  "unit": "\u1F4D6 Unit 5: Linear Equations",
+   "topic": "Parallel Lines",
+   "test_type": "Challenge (Habanero)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "If two lines have the same slope $m = 2$, what can be said about them?",
+           "options": {
+               "A": "They are perpendicular",
+               "B": "They are parallel",
+               "C": "They are intersecting",
+               "D": "They are skew",
+               "E": "They are coincident"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "A recipe for cake requires a ratio of $2:3$ for flour to sugar. If $6$ cups of flour are used, how many cups of sugar are needed?",
+           "options": {
+               "A": "$6$ cups",
+               "B": "$7$ cups",
+               "C": "$8$ cups",
+               "D": "$9$ cups",
+               "E": "$10$ cups"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "The equations $y = 3x + 2$ and $y = 3x - 4$ represent",
+           "options": {
+               "A": "Perpendicular lines",
+               "B": "Parallel lines",
+               "C": "Intersecting lines",
+               "D": "Skew lines",
+               "E": "Coincident lines"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "An architect is designing a building with two parallel walls. If one wall is $15$ meters long and the other is $20$ meters long, what is the ratio of their lengths?",
+           "options": {
+               "A": "$3:4$",
+               "B": "$4:5$",
+               "C": "$5:6$",
+               "D": "$3:5$",
+               "E": "$2:3$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "If $y = 2x + 1$ and $y = 2x - 3$ are parallel lines, what is the distance between them?",
+           "options": {
+               "A": "$2$ units",
+       "B": "$4$ units",
+       "C": "$\frac{4}{sqrt{5}}$ units",
+       "D": "$\frac{4}{sqrt{2}}$ units",
+       "E": "$1$ unit"
+   },
+   "answer": "C"
+},
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "The lines $y = x + 2$ and $y = x - 1$ are",
+           "options": {
+               "A": "Perpendicular",
+               "B": "Parallel",
+               "C": "Intersecting",
+               "D": "Skew",
+               "E": "Coincident"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "A construction crew is building a road with two parallel lanes. If one lane is $500$ meters long and the other is $600$ meters long, what is the ratio of their lengths?",
+           "options": {
+               "A": "$5:6$",
+               "B": "$4:5$",
+               "C": "$3:4$",
+               "D": "$2:3$",
+               "E": "$1:2$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "The equations $y = -2x + 1$ and $y = -2x - 3$ represent",
+           "options": {
+               "A": "Perpendicular lines",
+               "B": "Parallel lines",
+               "C": "Intersecting lines",
+               "D": "Skew lines",
+               "E": "Coincident lines"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "A chef is making a recipe that requires a ratio of $3:5$ for ingredients $A$ and $B$. If $12$ cups of ingredient $A$ are used, how many cups of ingredient $B$ are needed? Show your work and explain your answer.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "An architect is designing a building with two parallel walls. The equations of the lines representing the walls are $y = 4x + 2$ and $y = 4x - 1$. Find the distance between the walls and explain your method.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Read each question carefully",
+       "Use a ruler to draw diagrams",
+       "Check your work before submitting"
+   ],
+   "footer": "Chef's Tips"
+}

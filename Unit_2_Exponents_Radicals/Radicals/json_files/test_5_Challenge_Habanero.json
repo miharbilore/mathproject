@@ -1,0 +1,129 @@
+{
+  "unit": "\u1F4D6 Unit 2: Exponents & Radicals",
+   "topic": "Radicals",
+   "test_type": "Challenge (Habanero)",
+   "questions": [
+     {
+       "id": 1,
+       "type": "MQ",
+       "question": "Simplify $\\sqrt{64}$",
+       "options": {
+         "A": "8",
+         "B": "4",
+         "C": "16",
+         "D": "32",
+         "E": "6"
+       },
+       "answer": "A"
+     },
+     {
+       "id": 2,
+       "type": "MQ",
+       "question": "If $x = $\\sqrt[3]{8}$ and $y = $\\sqrt{16}$, what is $x + y$?",
+       "options": {
+         "A": "6",
+         "B": "4",
+         "C": "8",
+         "D": "10",
+         "E": "12"
+       },
+       "answer": "A"
+     },
+     {
+       "id": 3,
+       "type": "MQ",
+       "question": "A hiker travels $\\sqrt{25}$ miles to reach the base of a mountain. How many miles did the hiker travel?",
+       "options": {
+         "A": "5",
+         "B": "10",
+         "C": "15",
+         "D": "20",
+         "E": "25"
+       },
+       "answer": "A"
+     },
+     {
+       "id": 4,
+       "type": "MQ",
+       "question": "What is the simplified form of $\\sqrt{75}$?",
+       "options": {
+         "A": "$5\\sqrt{3}$",
+         "B": "$3\\sqrt{5}$",
+         "C": "$25\\sqrt{3}$",
+         "D": "$15\\sqrt{2}$",
+         "E": "$10\\sqrt{5}$"
+       },
+       "answer": "A"
+     },
+     {
+       "id": 5,
+       "type": "MQ",
+       "question": "A car's fuel consumption is $\\sqrt{36}$ gallons per hour. How many gallons of fuel does it consume per hour?",
+       "options": {
+         "A": "6",
+         "B": "8",
+         "C": "10",
+         "D": "12",
+         "E": "15"
+       },
+       "answer": "A"
+     },
+     {
+       "id": 6,
+       "type": "MQ",
+       "question": "A population of deer grows at a rate of $\\sqrt[3]{27}$ per year. What is the growth rate?",
+       "options": {
+         "A": "3",
+         "B": "6",
+         "C": "9",
+         "D": "12",
+         "E": "15"
+       },
+       "answer": "A"
+     },
+     {
+       "id": 7,
+       "type": "MQ",
+       "question": "What is the value of $x$ in $x = $\\sqrt{121}$?",
+       "options": {
+         "A": "10",
+         "B": "11",
+         "C": "12",
+         "D": "13",
+         "E": "14"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 8,
+       "type": "MQ",
+       "question": "A park ranger measures the length of a trail to be $\\sqrt{49}$ meters. What is the length of the trail?",
+       "options": {
+         "A": "5",
+         "B": "6",
+         "C": "7",
+         "D": "8",
+         "E": "9"
+       },
+       "answer": "C"
+     },
+     {
+       "id": 9,
+       "type": "FRQ",
+       "question": "Simplify the expression $\\sqrt{48} + \\sqrt{18}$. Show all work and simplify your answer.",
+       "required_space_lines": 5
+     },
+     {
+       "id": 10,
+       "type": "FRQ",
+       "question": "A group of friends want to go on a hike that is $\\sqrt{100}$ miles long. If they have already hiked $\\sqrt{25}$ miles, how many more miles do they have to hike? Show all work and explain your answer.",
+       "required_space_lines": 5
+     }
+   ],
+   "teacher_rules": [
+     "Make sure students show all work for FRQs",
+     "Encourage students to use radicals to simplify expressions",
+     "Remind students to check their units in word problems"
+   ],
+   "footer": "Chef's Tips"
+ }

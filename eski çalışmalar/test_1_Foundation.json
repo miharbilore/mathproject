@@ -1,0 +1,150 @@
+{
+  "test_id": 1,
+  "test_type": "Foundation",
+  "topic": "Algebra 1: Polynomials",
+  "questions": [
+    {
+      "id": 1,
+      "type": "MQ",
+      "question": "Which of the following expressions is a polynomial?",
+      "options": {
+        "A": "$\\frac{3}{x} + 5$",
+        "B": "$2x^2 - 4x + 7$",
+        "C": "$\\sqrt{x} - 10$",
+        "D": "$4x^{-2} + 3x$",
+        "E": "$2^x + 5$"
+      },
+      "answer": "B",
+      "spicy_level": "🌶️",
+      "required_space_lines": 0
+    },
+    {
+      "id": 2,
+      "type": "MQ",
+      "question": "Simplify the expression: $(3x^2 + 2x - 5) + (x^2 - 5x + 2)$.",
+      "options": {
+        "A": "$4x^2 - 3x - 3$",
+        "B": "$4x^2 + 7x + 7$",
+        "C": "$3x^4 - 3x^2 - 3$",
+        "D": "$4x^2 - 3x + 3$",
+        "E": "$2x^2 - 3x - 7$"
+      },
+      "answer": "A",
+      "spicy_level": "🌶️",
+      "required_space_lines": 0
+    },
+    {
+      "id": 3,
+      "type": "MQ",
+      "question": "What is the degree of the polynomial $7x^4 - 2x^3 + 5x - 1$?",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4",
+        "E": "7"
+      },
+      "answer": "D",
+      "spicy_level": "🌶️",
+      "required_space_lines": 0
+    },
+    {
+      "id": 4,
+      "type": "MQ",
+      "question": "Subtract $(2x^2 - 4)$ from $(5x^2 + 6)$.",
+      "options": {
+        "A": "$3x^2 + 2$",
+        "B": "$7x^2 + 10$",
+        "C": "$3x^2 + 10$",
+        "D": "$3x^2 - 10$",
+        "E": "$-3x^2 - 10$"
+      },
+      "answer": "C",
+      "spicy_level": "🌶️",
+      "required_space_lines": 0
+    },
+    {
+      "id": 5,
+      "type": "MQ",
+      "question": "Multiply: $4x(x^2 - 3x + 2)$.",
+      "options": {
+        "A": "$4x^3 - 12x^2 + 8x$",
+        "B": "$4x^2 - 12x + 8$",
+        "C": "$4x^3 - 3x + 2$",
+        "D": "$x^2 - 7x + 8$",
+        "E": "$4x^3 - 12x^2 + 6x$"
+      },
+      "answer": "A",
+      "spicy_level": "🌶️",
+      "required_space_lines": 0
+    },
+    {
+      "id": 6,
+      "type": "MQ",
+      "question": "Find the product: $(x + 3)(x + 5)$.",
+      "options": {
+        "A": "$x^2 + 15$",
+        "B": "$x^2 + 8x + 8$",
+        "C": "$x^2 + 15x + 8$",
+        "D": "$2x + 8$",
+        "E": "$x^2 + 8x + 15$"
+      },
+      "answer": "E",
+      "spicy_level": "🌶️",
+      "required_space_lines": 0
+    },
+    {
+      "id": 7,
+      "type": "MQ",
+      "question": "Simplify the following expression using the difference of squares: $(2x - 3)(2x + 3)$.",
+      "options": {
+        "A": "$4x^2 + 9$",
+        "B": "$4x^2 - 6$",
+        "C": "$4x^2 - 9$",
+        "D": "$2x^2 - 3$",
+        "E": "$4x^2 - 12x + 9$"
+      },
+      "answer": "C",
+      "spicy_level": "🌶️",
+      "required_space_lines": 0
+    },
+    {
+      "id": 8,
+      "type": "MQ",
+      "question": "Evaluate the polynomial $P(x) = x^2 - 4x + 1$ when $x = 3$.",
+      "options": {
+        "A": "2",
+        "B": "-2",
+        "C": "4",
+        "D": "-4",
+        "E": "0"
+      },
+      "answer": "B",
+      "spicy_level": "🌶️",
+      "required_space_lines": 0
+    },
+    {
+      "id": 9,
+      "type": "FRQ",
+      "question": "Simplify the expression by distributing and combining like terms. Show all your work: $3(x^2 - 2x + 4) - 2(2x^2 + x - 5)$.",
+      "options": null,
+      "answer": "First, distribute the 3: $3x^2 - 6x + 12$. Next, distribute the -2: $-4x^2 - 2x + 10$. Finally, combine like terms: $(3x^2 - 4x^2) + (-6x - 2x) + (12 + 10) = -x^2 - 8x + 22$.",
+      "spicy_level": "🌶️",
+      "required_space_lines": 8
+    },
+    {
+      "id": 10,
+      "type": "FRQ",
+      "question": "A rectangle has a length represented by the expression $(x + 6)$ and a width represented by $(x - 2)$. Write a polynomial in standard form that represents the area of the rectangle. Show your steps.",
+      "options": null,
+      "answer": "Area = Length $\\times$ Width. Area = $(x + 6)(x - 2)$. Using the FOIL method: First: $x \\cdot x = x^2$, Outer: $x \\cdot (-2) = -2x$, Inner: $6 \\cdot x = 6x$, Last: $6 \\cdot (-2) = -12$. Combine terms: $x^2 + 4x - 12$.",
+      "spicy_level": "🌶️",
+      "required_space_lines": 8
+    }
+  ],
+  "hints": [
+    "When adding or subtracting polynomials, only combine terms that have the same variable and the same exponent (like terms).",
+    "Remember that the degree of a polynomial is determined by the highest exponent of the variable in the expression.",
+    "When subtracting a polynomial, be sure to distribute the negative sign to every term inside the parentheses."
+  ]
+}

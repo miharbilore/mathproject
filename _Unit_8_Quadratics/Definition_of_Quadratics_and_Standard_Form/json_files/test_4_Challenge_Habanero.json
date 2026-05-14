@@ -1,0 +1,129 @@
+{
+  "unit": "\ud83d\udcda Unit 8: Quadratics",
+   "topic": "Definition of Quadratics and Standard Form",
+   "test_type": "Challenge (Habanero)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "What is the standard form of a quadratic function?",
+           "options": {
+               "A": "$ax^2 + bx + c$",
+               "B": "$ax + bx^2 + c$",
+               "C": "$ax^2 - bx + c$",
+               "D": "$ax^2 + b$",
+               "E": "$ax + c$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "A recipe for making cookies calls for $x$ cups of flour, where $x$ satisfies the equation $x^2 + 4x + 4 = 16$. What is the standard form of this equation?",
+           "options": {
+               "A": "$x^2 + 4x - 12 = 0$",
+               "B": "$x^2 - 4x + 4 = 0$",
+               "C": "$x^2 - 4x - 12 = 0$",
+               "D": "$x^2 + 4x + 12 = 0$",
+               "E": "$x^2 - 4x + 12 = 0$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "A construction crew is building a rectangular foundation with a quadratic area function $A(x) = $2x^2 + 5x + 1$. What is the vertex of this parabola?",
+           "options": {
+               "A": "$(-\frac{5}{4}, -\frac{9}{8})$",
+               "B": "$(-\frac{5}{2}, -\frac{9}{2})$",
+               "C": "$(-\frac{1}{2}, \frac{9}{2})$",
+               "D": "$(\frac{5}{4}, \frac{9}{8})$",
+               "E": "$(\frac{1}{2}, \frac{9}{2})$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "Which quadratic function represents a parabola with its vertex at $(2,3)$?",
+           "options": {
+               "A": "$y = (x-2)^2 + 3$",
+               "B": "$y = -(x-2)^2 + 3$",
+               "C": "$y = (x+2)^2 - 3$",
+               "D": "$y = -(x+2)^2 - 3$",
+               "E": "$y = x^2 + 2x + 3$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "A baker is making a cake with a quadratic volume function $V(x) = $3x^2 - 2x - 5$. What is the axis of symmetry of this parabola?",
+           "options": {
+               "A": "$x = -\frac{1}{3}$",
+               "B": "$x = \frac{1}{3}$",
+               "C": "$x = \frac{2}{3}$",
+               "D": "$x = \frac{1}{6}$",
+       "E": "$x = \frac{5}{3}$"
+   },
+           "answer": "B"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "Which of the following is a key feature of the quadratic function $f(x) = $x^2 + 2x + 1$?",
+           "options": {
+               "A": "It has a maximum value",
+               "B": "It has a minimum value",
+               "C": "It has no $x$-intercepts",
+               "D": "It has no $y$-intercept",
+       "E": "It is a cubic function"
+   },
+           "answer": "B"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "A contractor is designing a quadratic roof with a function $h(x) = -$x^2 + 5x + 2$. What is the $y$-intercept of this parabola?",
+           "options": {
+               "A": "$(y = 2)$",
+               "B": "$(y = 5)$",
+               "C": "$(y = -2)$",
+       "D": "$(y = 0)$",
+       "E": "$(y = 7)$"
+   },
+           "answer": "A"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "A chef is whipping up a quadratic recipe with $x$ as the number of cups of sugar, where $x$ satisfies $x^2 - 3x - 2 = 0$. What are the solutions to this equation?",
+           "options": {
+               "A": "$x = -1, x = 2$",
+               "B": "$x = -2, x = 1$",
+               "C": "$x = 1, x = -2$",
+       "D": "$x = -1, x = -2$",
+       "E": "$x = 2, x = 1$"
+   },
+           "answer": "C"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "Solve the quadratic equation $x^2 + 4x + 4 = 0$ and write the solutions in the form $x = a pm sqrt{b}$. Show your work and provide the final answer.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "A baker is creating a cake with a height given by the quadratic function $h(x) = -x^2 + 6x + 5$, where $x$ is the number of hours the cake is baked. Find the vertex of the parabola, the axis of symmetry, and the maximum height of the cake. Provide a diagram and show your work.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Provide a calculator for the students",
+       "Allow students to use a formula sheet",
+       "Encourage students to show their work and provide explanations"
+   ],
+   "footer": "Chef's Tips"
+}

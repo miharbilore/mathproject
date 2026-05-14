@@ -1,0 +1,129 @@
+{
+  "unit": "\uD83D\uDCDA Unit 8: Quadratics",
+   "topic": "Definition of Quadratics and Standard Form",
+   "test_type": "Foundation (Jalapeno)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "What is the standard form of a quadratic function?",
+           "options": {
+               "A": "$ax^2 + bx + c$",
+               "B": "$ax^2 - bx + c$",
+               "C": "$ax^2 + bx - c$",
+               "D": "$ax^2 - bx - c$",
+               "E": "$ax + bx + c$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "A spaceship is traveling through space with a height given by $h(t) = -t^2 + 4t + 1$. What type of function is $h(t)$?",
+           "options": {
+               "A": "Linear",
+               "B": "Quadratic",
+               "C": "Exponential",
+               "D": "Polynomial",
+               "E": "Rational"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "Which of the following is a quadratic function in standard form?",
+           "options": {
+               "A": "$x^2 - 3x + 2$",
+               "B": "$x^2 + 2x - 3$",
+               "C": "$x + 2$",
+               "D": "$x^2 - 2$",
+               "E": "$x - 2$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "A scientist is studying the trajectory of a planet with a path given by $p(x) = 2x^2 + 5x - 1$. What is the coefficient of the $x^2$ term?",
+           "options": {
+               "A": "1",
+               "B": "2",
+               "C": "3",
+               "D": "4",
+               "E": "5"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "What is the key feature of a quadratic function that determines its direction?",
+           "options": {
+               "A": "Vertex",
+               "B": "Axis of symmetry",
+               "C": "Leading coefficient",
+               "D": "Constant term",
+               "E": "Coefficient of the $x$ term"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "A lab experiment involves a quadratic relationship between pressure $P$ and volume $V$ given by $P(V) = 3V^2 - 2V + 1$. What type of relationship is this?",
+           "options": {
+               "A": "Direct variation",
+               "B": "Inverse variation",
+               "C": "Quadratic relationship",
+               "D": "Exponential relationship",
+               "E": "Linear relationship"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "Which of the following quadratic functions has a negative leading coefficient?",
+           "options": {
+               "A": "$x^2 + 2x + 1$",
+               "B": "$-x^2 + 2x + 1$",
+               "C": "$2x^2 + 2x + 1$",
+               "D": "$x^2 - 2x + 1$",
+               "E": "$-2x^2 + 2x + 1$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "A physics problem involves a quadratic function $d(t) = t^2 - 4t + 4$ representing the distance of an object over time. What is the vertex of this function?",
+           "options": {
+               "A": "(0, 0)",
+               "B": "(2, 0)",
+               "C": "(2, -4)",
+               "D": "(0, 4)",
+               "E": "(4, 0)"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "Describe the key features of the quadratic function $f(x) = x^2 + 2x - 3$. Be sure to include the vertex, axis of symmetry, and leading coefficient.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "Write a quadratic function in standard form to represent the height of a projectile launched from the ground with an initial velocity of 20 m/s. Assume the acceleration due to gravity is $-9.8$ m/s$^2$.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Emphasize the importance of identifying the leading coefficient to determine the direction of the quadratic function.",
+       "Use real-world examples to illustrate the applications of quadratic functions in space and science.",
+       "Have students work in pairs to compare and contrast different quadratic functions in standard form."
+   ],
+   "footer_title": "Chef's Tips"
+}

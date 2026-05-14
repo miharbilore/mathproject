@@ -1,0 +1,129 @@
+{
+  "unit": "\u1F4D6 Unit 6: Systems of Linear Equations and Inequalities",
+   "topic": "Applications of Systems (Word Problems)",
+   "test_type": "Homework (Jalapeno)",
+   "questions": [
+     {
+       "id": 1,
+       "type": "MQ",
+       "question": "The Great Pyramid of Giza took $x$ years to build with a labor force of $y$ workers. If the number of workers increased by $20\\%$ and the time taken decreased by $15\\%$, which system represents the new situation?",
+       "options": {
+         "A": "$1.2y = 0.85x$",
+         "B": "$1.2x = 0.85y$",
+         "C": "$0.85y = 1.2x$",
+         "D": "$0.85x = 1.2y$",
+         "E": "$x = y$"
+       },
+       "answer": "D"
+     },
+     {
+       "id": 2,
+       "type": "MQ",
+       "question": "Archimedes' Screw was used to irrigate fields. If $x$ represents the amount of water pumped per hour and $y$ the number of screws, which equation represents the relationship $x = 5y - 2$?",
+       "options": {
+         "A": "Each screw pumps $5$ units of water per hour, with an initial $2$-unit loss.",
+         "B": "Each screw pumps $2$ units of water per hour, with an initial $5$-unit gain.",
+         "C": "Each screw reduces the water pumped per hour by $2$, with $5$ units pumped without screws.",
+         "D": "Each screw increases the water pumped per hour by $2$, with $5$ units lost without screws.",
+         "E": "Each screw decreases the water pumped per hour by $5$, with $2$ units gained without screws."
+       },
+       "answer": "A"
+     },
+     {
+       "id": 3,
+       "type": "MQ",
+       "question": "A pharaoh's treasury contains $x$ gold bars and $y$ precious gems. If the gold bars are worth $$200$ each and the gems $$50$ each, which equation represents a total worth of $$10,000$?",
+       "options": {
+         "A": "$200x + 50y = 10000$",
+         "B": "$50x + 200y = 10000$",
+         "C": "$200x - 50y = 10000$",
+         "D": "$50x - 200y = 10000$",
+         "E": "$x + y = 10000$"
+       },
+       "answer": "A"
+     },
+     {
+       "id": 4,
+       "type": "MQ",
+       "question": "The ancient city of Pompeii had $x$ homes and $y$ public fountains. If $2$ public fountains served $5$ homes, which system represents this relationship?",
+       "options": {
+         "A": "$2y = 5x$",
+         "B": "$5y = 2x$",
+         "C": "$2x = 5y$",
+         "D": "$5x = 2y$",
+         "E": "$x = y$"
+       },
+       "answer": "A"
+     },
+     {
+       "id": 5,
+       "type": "MQ",
+       "question": "An archaeologist finds $x$ artifacts from the Bronze Age and $y$ from the Iron Age. If the ratio of Bronze to Iron Age artifacts is $3:5$, which equation represents this relationship?",
+       "options": {
+         "A": "$x/y = 3/5$",
+         "B": "$y/x = 3/5$",
+         "C": "$x/y = 5/3$",
+         "D": "$y/x = 5/3$",
+         "E": "$x = y$"
+       },
+       "answer": "A"
+     },
+     {
+       "id": 6,
+       "type": "MQ",
+       "question": "A historian studies the population growth of ancient civilizations. If $x$ represents the population and $y$ the number of years since the civilization's founding, which equation represents a population growth rate of $2\\%$ per year?",
+       "options": {
+         "A": "$x = 1.02^y$",
+         "B": "$x = 2y + 1$",
+         "C": "$y = 0.02x$",
+         "D": "$y = x/1.02$",
+         "E": "$x = y^2$"
+       },
+       "answer": "A"
+     },
+     {
+       "id": 7,
+       "type": "MQ",
+       "question": "The construction of the Great Wall of China required $x$ workers and $y$ tons of materials. If $100$ workers used $20$ tons of materials per day, which system represents this relationship?",
+       "options": {
+         "A": "$x/100 = y/20$",
+         "B": "$x/20 = y/100$",
+         "C": "$100x = 20y$",
+         "D": "$20x = 100y$",
+         "E": "$x = y$"
+       },
+       "answer": "A"
+     },
+     {
+       "id": 8,
+       "type": "MQ",
+       "question": "Ancient traders exchanged $x$ units of goods for $y$ units of currency. If $3$ units of goods were equivalent to $7$ units of currency, which equation represents this exchange rate?",
+       "options": {
+         "A": "$3x = 7y$",
+         "B": "$7x = 3y$",
+         "C": "$x/y = 3/7$",
+         "D": "$x/y = 7/3$",
+         "E": "$x = y$"
+       },
+       "answer": "A"
+     },
+     {
+       "id": 9,
+       "type": "FRQ",
+       "question": "The Hanging Gardens of Babylon required a complex system of irrigation. Suppose the gardens needed $x$ gallons of water per day and $y$ gallons were available from local sources. If $20\\%$ of the water was lost due to evaporation and $10\\%$ was reserved for other uses, write a system of equations to represent the relationship between $x$ and $y$, considering the water loss and reservation. Show your work and explain your reasoning.",
+       "required_space_lines": 5
+     },
+     {
+       "id": 10,
+       "type": "FRQ",
+       "question": "Historians estimate that the ancient city of Angkor Wat had a population of $x$ people and $y$ temples. If the population grew at a rate of $2\\%$ per year and the number of temples increased by $5$ each year, write a system of equations to model the relationship between $x$ and $y$ over a $10$-year period. Solve the system and interpret the solution in context. Show your work and explain your reasoning.",
+       "required_space_lines": 5
+     }
+   ],
+   "teacher_rules": [
+     "Tip 1: Ensure students understand the historical context of each problem.",
+     "Tip 2: Encourage students to use graphical and algebraic methods to solve systems of equations.",
+     "Tip 3: Emphasize the importance of interpreting solutions in the context of each problem."
+   ],
+   "footer_title": "Chef's Tips"
+}

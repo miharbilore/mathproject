@@ -1,0 +1,129 @@
+{
+  "unit": "\ud83d\udcda Unit 8: Quadratics",
+   "topic": "Solving by Quadratic Formula (Discriminant)",
+   "test_type": "Advanced (Carolina Reaper)",
+   "questions": [
+     {
+       "id": 1,
+       "type": "MQ",
+       "question": "A bakery sells $x$ loaves of bread at $$2$ each. They also have a discount of $$5$ for every $5$ loaves sold. The revenue $R$ from selling $x$ loaves is given by $R = 2x - 5\\left\\lfloor\\frac{x}{5}\\right\\rfloor$. What is the quadratic equation that models the revenue when $x$ is between $10$ and $15$ loaves, and $x$ must be a whole number?",
+       "options": {
+         "A": "$R = 2x - 5$",
+         "B": "$R = 2x - 5x^2$",
+         "C": "$R = x^2 + 2x - 5$",
+         "D": "$R = -x^2 + 2x - 5$",
+         "E": "$R = x^2 - 2x + 5$"
+       },
+       "answer": "D"
+     },
+     {
+       "id": 2,
+       "type": "MQ",
+       "question": "What is the discriminant of the quadratic equation $x^2 + 4x + 4 = 0$?",
+       "options": {
+         "A": "$0$",
+         "B": "$4$",
+         "C": "$8$",
+         "D": "$12$",
+         "E": "$16$"
+       },
+       "answer": "A"
+     },
+     {
+       "id": 3,
+       "type": "MQ",
+       "question": "A group of friends want to go on a road trip that is $240$ miles long. If they drive at an average speed of $x$ miles per hour, the time it takes to complete the trip is given by $t = \\frac{240}{x}$. However, they also have to account for rest stops, which add an extra $2x^2$ hours to the trip. What is the quadratic equation that models the total time of the trip?",
+       "options": {
+         "A": "$t = \\frac{240}{x} + 2x^2$",
+         "B": "$t = \\frac{240}{x} - 2x^2$",
+         "C": "$t = 2x^2 + \\frac{240}{x}$",
+         "D": "$t = 2x^2 - \\frac{240}{x}$",
+         "E": "$t = \\frac{240}{x} + x^2$"
+       },
+       "answer": "A"
+     },
+     {
+       "id": 4,
+       "type": "MQ",
+       "question": "What is the nature of the solutions of the quadratic equation $x^2 + 2x + 5 = 0$?",
+       "options": {
+         "A": "Two distinct real solutions",
+         "B": "One repeated real solution",
+         "C": "Two complex conjugate solutions",
+         "D": "One complex solution",
+         "E": "No real solutions"
+       },
+       "answer": "C"
+     },
+     {
+       "id": 5,
+       "type": "MQ",
+       "question": "A water tank can hold $1000$ gallons of water. The amount of water in the tank at any given time $t$ (in hours) is given by $V = 1000 - 2t^2$. What is the quadratic equation that models the volume of water in the tank?",
+       "options": {
+         "A": "$V = 1000 - 2t^2$",
+         "B": "$V = 2t^2 - 1000$",
+         "C": "$V = 1000 + 2t^2$",
+         "D": "$V = -2t^2 + 1000$",
+         "E": "$V = t^2 - 1000$"
+       },
+       "answer": "A"
+     },
+     {
+       "id": 6,
+       "type": "MQ",
+       "question": "A company produces $x$ units of a product at a cost of $$5$ per unit. They also have a fixed cost of $$200$. The total cost $C$ of producing $x$ units is given by $C = 5x + 200$. However, they also have to account for a loss of $x^2$ units due to defects. What is the quadratic equation that models the total cost of producing $x$ units?",
+       "options": {
+         "A": "$C = 5x + 200 - x^2$",
+         "B": "$C = 5x + 200 + x^2$",
+         "C": "$C = 200 - 5x - x^2$",
+         "D": "$C = 200 + 5x - x^2$",
+         "E": "$C = x^2 + 5x + 200$"
+       },
+       "answer": "A"
+     },
+     {
+       "id": 7,
+       "type": "MQ",
+       "question": "A cyclist travels at an average speed of $x$ miles per hour. The time it takes to complete a $20$-mile trip is given by $t = \\frac{20}{x}$. However, they also have to account for a headwind that reduces their speed by $0.5x^2$ miles per hour. What is the quadratic equation that models the time it takes to complete the trip?",
+       "options": {
+         "A": "$t = \\frac{20}{x} + 0.5x^2$",
+         "B": "$t = \\frac{20}{x} - 0.5x^2$",
+         "C": "$t = 0.5x^2 + \\frac{20}{x}$",
+         "D": "$t = 0.5x^2 - \\frac{20}{x}$",
+         "E": "$t = \\frac{20}{x} + x^2$"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 8,
+       "type": "MQ",
+       "question": "A quadratic equation has a discriminant of $-16$. What can be said about the nature of its solutions?",
+       "options": {
+         "A": "Two distinct real solutions",
+         "B": "One repeated real solution",
+         "C": "Two complex conjugate solutions",
+         "D": "One complex solution",
+         "E": "No real solutions"
+       },
+       "answer": "C"
+     },
+     {
+       "id": 9,
+       "type": "FRQ",
+       "question": "A farmer has $240$ feet of fencing to enclose a rectangular area. If the length of the rectangle is $x$ feet, the width is $\\frac{240-2x}{2}$ feet. Write a quadratic equation that models the area of the rectangle, and determine the nature of its solutions.",
+       "required_space_lines": 5
+     },
+     {
+       "id": 10,
+       "type": "FRQ",
+       "question": "A projectile is launched from the ground with an initial velocity of $20$ feet per second. The height $h$ of the projectile at any given time $t$ (in seconds) is given by $h = -16t^2 + 20t$. Write a quadratic equation that models the height of the projectile, and determine the time at which the projectile reaches its maximum height.",
+       "required_space_lines": 5
+     }
+   ],
+   "teacher_rules": [
+     "Read each question carefully before answering",
+     "Use the quadratic formula to solve quadratic equations",
+     "Check your work carefully to avoid errors"
+   ],
+   "footer_title": "Chef's Tips"
+}

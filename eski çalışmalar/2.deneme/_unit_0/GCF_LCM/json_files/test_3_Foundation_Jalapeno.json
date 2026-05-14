@@ -1,0 +1,129 @@
+{
+  "unit": "Unit 0: Foundations of Algebra",
+   "topic": "GCF & LCM",
+   "test_type": "Foundation (Jalapeno)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "Find the GCF of $12$ and $18$ using factors.",
+           "options": {
+               "A": "$1$",
+               "B": "$2$",
+               "C": "$3$",
+               "D": "$6$",
+               "E": "$12$"
+           },
+           "answer": "D"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "Find the LCM of $9$ and $12$ using multiples.",
+           "options": {
+               "A": "$18$",
+               "B": "$24$",
+               "C": "$27$",
+               "D": "$36$",
+               "E": "$48$"
+           },
+           "answer": "D"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "A basketball player scores $15$ points in one game and $20$ points in another. Find the GCF of these scores.",
+           "options": {
+               "A": "$1$",
+               "B": "$3$",
+               "C": "$5$",
+               "D": "$10$",
+               "E": "$15$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "A cyclist rides $8$ miles in one hour and $12$ miles in another hour. Find the LCM of these distances.",
+           "options": {
+               "A": "$16$",
+               "B": "$20$",
+               "C": "$24$",
+               "D": "$32$",
+               "E": "$40$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "Find the prime factorization of $48$ to determine its GCF with $18$.",
+           "options": {
+               "A": "$2 \\cdot 2 \\cdot 2 \\cdot 2 \\cdot 3$",
+               "B": "$2 \\cdot 2 \\cdot 3 \\cdot 3$",
+               "C": "$2 \\cdot 3 \\cdot 3 \\cdot 3$",
+               "D": "$2 \\cdot 2 \\cdot 2 \\cdot 3 \\cdot 3$",
+               "E": "$2 \\cdot 3 \\cdot 3 \\cdot 3 \\cdot 3$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "A football team plays $10$ games in one season and $15$ games in another. Find the LCM of these game counts.",
+           "options": {
+               "A": "$20$",
+               "B": "$25$",
+               "C": "$30$",
+               "D": "$50$",
+       "E": "$75$"
+       },
+           "answer": "E"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "A tennis player wins $9$ sets in one tournament and $12$ sets in another. Find the GCF of these set counts.",
+           "options": {
+               "A": "$1$",
+               "B": "$2$",
+               "C": "$3$",
+               "D": "$6$",
+               "E": "$9$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "Find the LCM of $8$ and $15$ using prime factorization.",
+           "options": {
+               "A": "$30$",
+               "B": "$40$",
+               "C": "$60$",
+               "D": "$120$",
+               "E": "$240$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "A swimmer competes in $12$ events in one meet and $18$ events in another. Find the GCF and LCM of these event counts and explain their significance in this context.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "A golfer plays $9$ holes in one round and $12$ holes in another. Find the prime factorization of these hole counts and use it to determine their GCF and LCM. Provide a real-world application of this problem.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Emphasize the importance of understanding the concepts of GCF and LCM.",
+       "Use real-world examples to illustrate the applications of GCF and LCM.",
+       "Encourage students to use prime factorization to find GCF and LCM."
+   ],
+   "footer": "Chef's Tips"
+}

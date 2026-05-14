@@ -1,0 +1,129 @@
+{
+  "unit": "\u1F4D6 Unit 2: Exponents & Radicals",
+   "topic": "Exponential Equations",
+   "test_type": "Homework (Carolina Reaper)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "Solve for $x$: $2^x = 32$",
+           "options": {
+               "A": "$x = 3$",
+               "B": "$x = 4$",
+               "C": "$x = 5$",
+               "D": "$x = 6$",
+               "E": "$x = 7$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "A music producer creates a rhythm pattern with a frequency of $3^x$ Hz. If $x = 2$, what is the frequency?",
+           "options": {
+               "A": "9 Hz",
+               "B": "12 Hz",
+               "C": "15 Hz",
+               "D": "18 Hz",
+               "E": "20 Hz"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "An artist creates a canvas with a size of $2^x \\cdot 3^y$ square inches. If $x = 3$ and $y = 2$, what is the size?",
+           "options": {
+               "A": "72 sq in",
+               "B": "108 sq in",
+               "C": "144 sq in",
+               "D": "180 sq in",
+               "E": "216 sq in"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "Solve for $y$: $5^y = 125$",
+           "options": {
+               "A": "$y = 1$",
+               "B": "$y = 2$",
+               "C": "$y = 3$",
+               "D": "$y = 4$",
+               "E": "$y = 5$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "A sound engineer adjusts the gain of a microphone to $4^x$ dB. If $x = 1.5$, what is the gain?",
+           "options": {
+               "A": "6 dB",
+       "B": "8 dB",
+       "C": "10 dB",
+       "D": "12 dB",
+       "E": "16 dB"
+   },
+   "answer": "B"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "Solve for $z$: $2^z = 64$",
+           "options": {
+               "A": "$z = 4$",
+               "B": "$z = 5$",
+               "C": "$z = 6$",
+               "D": "$z = 7$",
+               "E": "$z = 8$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "A painter uses a color with a hue of $3^x$ degrees. If $x = 1$, what is the hue?",
+           "options": {
+               "A": "3 deg",
+               "B": "6 deg",
+               "C": "9 deg",
+               "D": "12 deg",
+               "E": "15 deg"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "Solve for $w$: $5^w = 25$",
+           "options": {
+               "A": "$w = 1$",
+               "B": "$w = 1.5$",
+               "C": "$w = 2$",
+               "D": "$w = 2.5$",
+               "E": "$w = 3$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "A musician creates a song with a tempo of $2^x$ beats per minute. If the tempo increases by a factor of $3^y$, what is the new tempo in terms of $x$ and $y$?",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "An artist designs a mosaic with a pattern of $4^x \\cdot 2^y$ tiles. If $x = 2$ and $y = 1$, what is the total number of tiles used?",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Check calculations carefully",
+       "Consider multiple approaches to solve problems",
+       "Use mathematical notation correctly"
+   ],
+   "footer_title": "Chef's Tips"
+}

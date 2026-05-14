@@ -1,0 +1,129 @@
+{
+  "unit": "\u1F4D6 Unit 9: Data Statistical Analysis",
+   "topic": "Measures of Central Tendency",
+   "test_type": "Challenge (Habanero)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "A recipe for making cookies requires $2 cdot 3$ cups of flour. If the bakery has $15$ cups of flour, how many batches can they make?",
+           "options": {
+               "A": "3",
+               "B": "5",
+               "C": "2",
+               "D": "1",
+               "E": "4"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "A construction company has $5$ workers, and their daily working hours are $8$, $10$, $7$, $9$, $8$. What is the mode of their working hours?",
+           "options": {
+               "A": "7",
+               "B": "8",
+               "C": "9",
+               "D": "10",
+               "E": "5"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "A set of architectural plans has the following dimensions in inches: $10$, $12$, $15$, $11$, $13$. What is the median of these dimensions?",
+           "options": {
+               "A": "11",
+               "B": "12",
+               "C": "13",
+               "D": "10",
+               "E": "15"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "The mean of $5$ test scores is $80$. If one score is $70$, what is the sum of the other $4$ scores?",
+           "options": {
+               "A": "300",
+               "B": "280",
+               "C": "320",
+               "D": "310",
+       "E": "350"
+   },
+           "answer": "C"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "The median of $3$ numbers is $7$. If the numbers are $5$, $7$, and $x$, what is the value of $x$?",
+           "options": {
+               "A": "5",
+               "B": "7",
+               "C": "9",
+               "D": "3",
+       "E": "10"
+   },
+           "answer": "C"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "The mode of the following set of numbers is $4$: $2$, $4$, $6$, $4$, $8$. What percentage of the numbers is $4$?",
+           "options": {
+               "A": "20%",
+               "B": "40%",
+               "C": "60%",
+               "D": "50%",
+       "E": "30%"
+   },
+           "answer": "B"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "The mean of two numbers is $9$, and their difference is $3$. What are the numbers?",
+           "options": {
+               "A": "6, 12",
+               "B": "3, 6",
+               "C": "6, 3",
+               "D": "12, 6",
+       "E": "9, 3"
+   },
+           "answer": "A"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "A set of measurements has the following values: $10$, $12$, $14$, $16$, $18$. What is the range of these measurements?",
+           "options": {
+               "A": "4",
+               "B": "8",
+               "C": "16",
+               "D": "10",
+       "E": "6"
+   },
+           "answer": "B"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "A bakery is making a special batch of bread. The recipe requires $2$ cups of flour per loaf. The bakery has $25$ cups of flour and wants to make as many loaves as possible. Calculate the maximum number of loaves they can make and explain your reasoning.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "A construction company is building a new high-rise. The blueprint has the following dimensions: length $= 50$ meters, width $= 20$ meters. Calculate the area of the building and explain how you would use the mean, median, and mode to analyze the dimensions of the building.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Be sure to check for unit consistency in calculations.",
+       "Encourage students to use real-world applications to understand concepts.",
+       "Ensure students show all work and explain reasoning for free response questions."
+   ],
+   "footer": "Chef's Tips"
+}

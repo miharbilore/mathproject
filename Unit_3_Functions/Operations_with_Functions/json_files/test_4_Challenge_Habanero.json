@@ -1,0 +1,129 @@
+{
+  "unit":"Unit 3: Functions",
+   "topic":"Operations with Functions",
+   "test_type":"Challenge (Habanero)",
+   "questions":[
+      {
+         "id":1,
+         "type":"MQ",
+         "question":"If $f(x) = x^2$ and $g(x) = 2x + 1$, what is $(f + g)(x)$?",
+         "options":{
+            "A":"$x^2 + 2x + 1$",
+            "B":"$x^2 - 2x - 1$",
+            "C":"$x^2 + 2x - 1$",
+            "D":"$2x^2 + x + 1$",
+            "E":"$x^2 - 2x + 1$"
+         },
+         "answer":"A"
+      },
+      {
+         "id":2,
+         "type":"MQ",
+         "question":"A chef mixes $f(x) = 2x$ cups of flour with $g(x) = x + 1$ cups of sugar to make a cake. What is $(f - g)(x)$?",
+         "options":{
+            "A":"$x - 1$",
+            "B":"$x + 1$",
+            "C":"$2x - x - 1$",
+            "D":"$2x + x + 1$",
+            "E":"$x - 2$"
+         },
+         "answer":"C"
+      },
+      {
+         "id":3,
+         "type":"MQ",
+         "question":"Given $f(x) = x - 2$ and $g(x) = 3x + 1$, what is $(f \\cdot g)(x)$?",
+         "options":{
+            "A":"$3x^2 - 5x - 2$",
+            "B":"$3x^2 + 5x - 2$",
+            "C":"$3x^2 - 5x - 3$",
+            "D":"$3x^2 + 5x + 2$",
+            "E":"$x^2 - 5x - 2$"
+         },
+         "answer":"A"
+      },
+      {
+         "id":4,
+         "type":"MQ",
+         "question":"The domain of $f(x) = \\frac{1}{x}$ is all real numbers except $x = 0$. If $g(x) = 2x$, what is the domain of $(f \\cdot g)(x)$?",
+         "options":{
+            "A":"All real numbers",
+            "B":"All real numbers except $x = 0$",
+            "C":"All real numbers except $x = 1$",
+            "D":"All real numbers except $x = 2$",
+            "E":"All real numbers except $x = -1$"
+         },
+         "answer":"B"
+      },
+      {
+         "id":5,
+         "type":"MQ",
+         "question":"A construction worker needs $f(x) = x + 2$ feet of wood and $g(x) = 2x$ feet of pipe. What is $(f + g)(x)$?",
+         "options":{
+            "A":"$3x + 2$",
+            "B":"$3x - 2$",
+            "C":"$x + 2$",
+            "D":"$2x + 2$",
+            "E":"$x - 2$"
+         },
+         "answer":"A"
+      },
+      {
+         "id":6,
+         "type":"MQ",
+         "question":"Given $f(x) = x^2 - 1$ and $g(x) = x + 2$, what is $(f - g)(x)$?",
+         "options":{
+            "A":"$x^2 - x - 3$",
+            "B":"$x^2 + x + 1$",
+            "C":"$x^2 - x + 1$",
+            "D":"$x^2 + x - 3$",
+            "E":"$x^2 - x - 1$"
+         },
+         "answer":"A"
+      },
+      {
+         "id":7,
+         "type":"MQ",
+         "question":"The area of a kitchen is given by $f(x) = x^2$. If the length of the counter is $g(x) = 2x$, what is $(f \\cdot g)(x)$?",
+         "options":{
+            "A":"$2x^3$",
+            "B":"$2x^2$",
+            "C":"$x^3$",
+            "D":"$x^2$",
+            "E":"$2x$"
+         },
+         "answer":"A"
+      },
+      {
+         "id":8,
+         "type":"MQ",
+         "question":"A recipe calls for $f(x) = x$ cups of flour and $g(x) = x - 1$ cups of sugar. What is the domain of $(f + g)(x)$ if $x$ must be a positive integer?",
+         "options":{
+            "A":"$x \\geq 1$",
+            "B":"$x \\geq 0$",
+            "C":"$x > 0$",
+            "D":"$x \\geq 2$",
+            "E":"$x > 1$"
+         },
+         "answer":"D"
+      },
+      {
+         "id":9,
+         "type":"FRQ",
+         "question":"If $f(x) = x^2 + 1$ and $g(x) = 2x - 1$, find $(f \\cdot g)(x)$ and simplify the resulting expression.",
+         "required_space_lines":5
+      },
+      {
+         "id":10,
+         "type":"FRQ",
+         "question":"A builder needs to design a house with a floor area given by $f(x) = x^2$ and a roof area given by $g(x) = 2x$. Find the domain of $(f + g)(x)$ if $x$ must be a positive real number and $x \\leq 10$.",
+         "required_space_lines":5
+      }
+   ],
+   "teacher_rules":[
+      "Remind students to show all work and simplify expressions.",
+      "Emphasize the importance of checking the domain of combined functions.",
+      "Encourage students to use real-world examples to illustrate their understanding of function operations."
+   ],
+   "footer_title":"Chef's Tips"
+}

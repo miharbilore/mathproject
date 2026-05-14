@@ -1,0 +1,148 @@
+{
+  "test_id":4,
+   "test_type":"Challenge (Level 0)",
+   "topic":"Variables and Expressions / Order of Operations",
+   "questions":[
+      {
+         "id":1,
+         "type":"MQ",
+         "question":"What is the variable in the expression $2x$?",
+         "options":{
+            "A":"$2$",
+            "B":"$x$",
+            "C":"$+$",
+            "D":"$-$",
+            "E":"$*$"
+         },
+         "answer":"B",
+         "spicy_level":"💡",
+         "required_space_lines":0
+      },
+      {
+         "id":2,
+         "type":"MQ",
+         "question":"Identify the coefficient in the term $4y$.",
+         "options":{
+            "A":"$y$",
+            "B":"$4$",
+            "C":"$+$",
+            "D":"$-$",
+            "E":"$*$"
+         },
+         "answer":"B",
+         "spicy_level":"🔥",
+         "required_space_lines":0
+      },
+      {
+         "id":3,
+         "type":"MQ",
+         "question":"What is the constant term in the expression $3x + 2$?",
+         "options":{
+            "A":"$3x$",
+            "B":"$2$",
+            "C":"$+$",
+            "D":"$-$",
+            "E":"$*$"
+         },
+         "answer":"B",
+         "spicy_level":"🌟",
+         "required_space_lines":0
+      },
+      {
+         "id":4,
+         "type":"MQ",
+         "question":"Which operation is performed first in the expression $2 + 3 \times 4$?",
+         "options":{
+            "A":"Addition",
+            "B":"Subtraction",
+            "C":"Multiplication",
+            "D":"Division",
+            "E":"Exponentiation"
+         },
+         "answer":"C",
+         "spicy_level":"🔮",
+         "required_space_lines":0
+      },
+      {
+         "id":5,
+         "type":"MQ",
+         "question":"Identify the operator in the expression $5 - 2$.",
+         "options":{
+            "A":"$+$",
+            "B":"$-$",
+            "C":"$*$",
+            "D":"$/$",
+            "E":"$^$"
+         },
+         "answer":"B",
+         "spicy_level":"🌈",
+         "required_space_lines":0
+      },
+      {
+         "id":6,
+         "type":"MQ",
+         "question":"What is the term in the expression $2x + 5$ that contains the variable?",
+         "options":{
+            "A":"$2x$",
+            "B":"$5$",
+            "C":"$+$",
+            "D":"$-$",
+            "E":"$*$"
+         },
+         "answer":"A",
+         "spicy_level":"💻",
+         "required_space_lines":0
+      },
+      {
+         "id":7,
+         "type":"MQ",
+         "question":"Which of the following expressions contains a constant term only?",
+         "options":{
+            "A":"$3x$",
+            "B":"$2$",
+            "C":"$x + 2$",
+            "D":"$3x + 2$",
+            "E":"$x - 2$"
+         },
+         "answer":"B",
+         "spicy_level":"🎉",
+         "required_space_lines":0
+      },
+      {
+         "id":8,
+         "type":"MQ",
+         "question":"Identify the operation that is not present in the expression $2 \times 3 + 4$.",
+         "options":{
+            "A":"Addition",
+            "B":"Subtraction",
+            "C":"Multiplication",
+            "D":"Division",
+            "E":"Exponentiation"
+         },
+         "answer":"E",
+         "spicy_level":"🚀",
+         "required_space_lines":0
+      },
+      {
+         "id":9,
+         "type":"FRQ",
+         "question":"Draw and label the different parts of the expression $2x + 5$. Explain the role of each part.",
+         "answer":"Model Solution: Coefficient ($2$), Variable ($x$), Constant Term ($5$), Operator ($+$).",
+         "spicy_level":"🎨",
+         "required_space_lines":5
+      },
+      {
+         "id":10,
+         "type":"FRQ",
+         "question":"Explain the concept of order of operations. Provide an example of how it is used to simplify an expression.",
+         "answer":"Model Solution: Order of operations is a set of rules that dictates the order in which operations should be performed when there are multiple operations in an expression. Example: $2 + 3 \times 4$ should be evaluated as $2 + (3 \times 4)$.",
+         "spicy_level":"💡",
+         "required_space_lines":5
+      }
+   ],
+   "teacher_rules":[
+      "Emphasize the importance of identifying and understanding the different parts of an expression, such as coefficients, variables, and constant terms.",
+      "Use visual aids and examples to illustrate the concept of order of operations and how it is used to simplify expressions.",
+      "Provide opportunities for students to practice applying the order of operations to simplify expressions and solve problems."
+   ]
+}

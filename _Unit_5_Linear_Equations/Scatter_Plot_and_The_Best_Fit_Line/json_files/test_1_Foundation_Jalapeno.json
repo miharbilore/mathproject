@@ -1,0 +1,129 @@
+{
+  "unit": "\u270d Unit 5: Linear Equations",
+   "topic": "Scatter Plot and The Best Fit Line",
+   "test_type": "Foundation (Jalapeno)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "What is the purpose of a scatter plot in business?",
+           "options": {
+               "A": "To show stock prices over time",
+               "B": "To compare savings accounts",
+               "C": "To visualize the relationship between two variables",
+               "D": "To track tax rates",
+               "E": "To predict market trends"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "If the line of best fit has a positive slope, what does this indicate?",
+           "options": {
+               "A": "A negative correlation between variables",
+               "B": "No correlation between variables",
+               "C": "A positive correlation between variables",
+               "D": "A decrease in stock prices",
+               "E": "An increase in taxes"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "A company's profit $P$ is related to the number of products sold $x$ by the equation $P = 2x + 1000$. What is the $y$-intercept?",
+           "options": {
+               "A": "$1000$",
+               "B": "$2000$",
+       "C": "$0$",
+       "D": "$-1000$",
+       "E": "$-2000$"
+       },
+       "answer": "A"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "What does a line of best fit enable us to do?",
+           "options": {
+               "A": "Make predictions about future data",
+               "B": "Identify patterns in past data",
+               "C": "Calculate the mean of a dataset",
+               "D": "Determine the range of a dataset",
+               "E": "Find the median of a dataset"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "A scatter plot shows a strong positive correlation between the amount of money invested $x$ and the return on investment $y$. If $x$ increases by $1000$, what happens to $y$?",
+           "options": {
+               "A": "Decreases by $100$",
+               "B": "Increases by $100$",
+       "C": "Remains the same",
+       "D": "Decreases by $1000$",
+       "E": "Increases by $1000$"
+       },
+       "answer": "B"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "The equation of the line of best fit for a dataset is $y = 2x - 3$. What is the slope of this line?",
+           "options": {
+               "A": "$1$",
+               "B": "$2$",
+       "C": "$3$",
+       "D": "$-1$",
+       "E": "$-2$"
+       },
+       "answer": "B"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "A company's stock price $y$ is related to the number of days $x$ by the equation $y = -2x + 50$. What is the $y$-intercept?",
+           "options": {
+               "A": "$50$",
+               "B": "$40$",
+       "C": "$30$",
+       "D": "$20$",
+       "E": "$10$"
+       },
+       "answer": "A"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "A scatter plot shows a weak negative correlation between the amount of money spent on advertising $x$ and the company's profit $y$. If $x$ increases by $500$, what happens to $y$?",
+           "options": {
+               "A": "Increases by $100$",
+               "B": "Decreases by $100$",
+       "C": "Remains the same",
+       "D": "Increases by $500$",
+       "E": "Decreases by $500$"
+       },
+       "answer": "B"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "A company's daily profit $P$ is related to the number of products sold $x$ by the equation $P = 3x + 500$. If the company sells $20$ products per day, what is the daily profit? Show your work and explain your answer.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "A scatter plot shows a strong positive correlation between the amount of money invested $x$ and the return on investment $y$. If the equation of the line of best fit is $y = 2x - 100$, and $x$ increases by $500$, what is the new return on investment? Show your work and explain your answer.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Tip 1: Ensure students understand the concept of correlation and how it relates to the line of best fit.",
+       "Tip 2: Encourage students to use real-world examples to demonstrate their understanding of the topic.",
+       "Tip 3: Remind students to show their work and explain their answers for free-response questions."
+   ],
+   "footer": "Chef's Tips"
+}

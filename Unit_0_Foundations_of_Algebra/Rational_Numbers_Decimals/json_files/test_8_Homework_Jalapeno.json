@@ -1,0 +1,129 @@
+{
+  "unit": "Unit 0: Foundations of Algebra",
+   "topic": "Rational Numbers & Decimals",
+   "test_type": "Homework (Jalapeno)",
+   "questions": [
+      {
+         "id": 1,
+         "type": "MQ",
+         "question": "The ancient Egyptians used $\\frac{1}{2}$ to represent half a day. Which decimal is equivalent to $\\frac{1}{2}$?",
+         "options": {
+            "A": "0.1",
+            "B": "0.5",
+            "C": "0.8",
+            "D": "1.0",
+            "E": "1.2"
+         },
+         "answer": "B"
+      },
+      {
+         "id": 2,
+         "type": "MQ",
+         "question": "In ancient Babylon, the ratio of a circle's circumference to its diameter was approximated as $3.125$. What is this value as a fraction?",
+         "options": {
+            "A": "$\\frac{25}{8}$",
+            "B": "$\\frac{5}{2}$",
+            "C": "$\\frac{10}{3}$",
+            "D": "$\\frac{8}{5}$",
+            "E": "$\\frac{3}{8}$"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 3,
+         "type": "MQ",
+         "question": "The Mayans used a positional notation system. If $x = 0.45$, what is $x$ as a percent?",
+         "options": {
+            "A": "4%",
+            "B": "45%",
+            "C": "0.45%",
+            "D": "45.5%",
+            "E": "4.5%"
+         },
+         "answer": "B"
+      },
+      {
+         "id": 4,
+         "type": "MQ",
+         "question": "The ancient Greeks approximated $\\pi$ as $3.14$. What is $3.14$ as a fraction?",
+         "options": {
+            "A": "$\\frac{14}{5}$",
+            "B": "$\\frac{22}{7}$",
+            "C": "$\\frac{3}{10}$",
+            "D": "$\\frac{5}{16}$",
+            "E": "$\\frac{7}{22}$"
+         },
+         "answer": "B"
+      },
+      {
+         "id": 5,
+         "type": "MQ",
+         "question": "A scroll from ancient China measured $2.5$ meters. What is $2.5$ meters as a fraction?",
+         "options": {
+            "A": "$\\frac{1}{2}$",
+            "B": "$\\frac{2}{5}$",
+            "C": "$\\frac{5}{2}$",
+            "D": "$\\frac{10}{5}$",
+            "E": "$\\frac{25}{10}$"
+         },
+         "answer": "C"
+      },
+      {
+         "id": 6,
+         "type": "MQ",
+         "question": "Which of the following rational numbers is greatest: $0.8$, $\\frac{4}{5}$, $0.75$, $\\frac{3}{4}$, or $0.9$?",
+         "options": {
+            "A": "$0.8$",
+            "B": "$\\frac{4}{5}$",
+            "C": "$0.75$",
+            "D": "$\\frac{3}{4}$",
+            "E": "$0.9$"
+         },
+         "answer": "E"
+      },
+      {
+         "id": 7,
+         "type": "MQ",
+         "question": "A ancient artifact weighed $1.25$ kilograms. What is $1.25$ kilograms as a fraction?",
+         "options": {
+            "A": "$\\frac{1}{4}$",
+            "B": "$\\frac{5}{4}$",
+            "C": "$\\frac{4}{5}$",
+            "D": "$\\frac{2}{5}$",
+            "E": "$\\frac{5}{2}$"
+         },
+         "answer": "B"
+      },
+      {
+         "id": 8,
+         "type": "MQ",
+         "question": "Which of the following decimals is equivalent to $\\frac{3}{8}$?",
+         "options": {
+            "A": "0.35",
+            "B": "0.37",
+            "C": "0.375",
+            "D": "0.38",
+            "E": "0.4"
+         },
+         "answer": "C"
+      },
+      {
+         "id": 9,
+         "type": "FRQ",
+         "question": "Draw a number line and plot the rational numbers $-2$, $-1.5$, $-1$, $-0.5$, $0$, $0.5$, $1$, $1.5$, and $2$. Label each point.",
+         "required_space_lines": 5
+      },
+      {
+         "id": 10,
+         "type": "FRQ",
+         "question": "A historian discovered an ancient text with a recipe that included $\\frac{3}{4}$ cup of flour. Convert $\\frac{3}{4}$ to a decimal and then to a percent. Show your work.",
+         "required_space_lines": 5
+      }
+   ],
+   "teacher_rules": [
+      "Tip 1: Review the historical context of rational numbers and decimals.",
+      "Tip 2: Emphasize the importance of converting between fractions, decimals, and percents.",
+      "Tip 3: Encourage students to use number lines to visualize rational numbers."
+   ],
+   "footer": "Chef's Tips"
+}

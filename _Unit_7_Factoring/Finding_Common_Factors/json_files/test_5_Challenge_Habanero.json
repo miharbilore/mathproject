@@ -1,0 +1,128 @@
+{
+  "unit": "\u1F4D6 Unit 7: Factoring",
+   "topic": "Finding Common Factors",
+   "test_type": "Challenge (Habanero)",
+   "questions": [
+     {
+       "id": 1,
+       "type": "MQ",
+       "question": "A hiker is making trail mix with $6x + 12$ ounces of nuts and $9x + 18$ ounces of dried fruit. What is the greatest common factor of these two expressions?",
+       "options": {
+         "A": "$3(x + 2)$",
+         "B": "$3x + 6$",
+         "C": "$6x + 12$",
+         "D": "$3(2x + 6)$",
+         "E": "$6(x + 2)$"
+       },
+       "answer": "A"
+     },
+     {
+       "id": 2,
+       "type": "MQ",
+       "question": "A wildlife reserve has $15x - 30$ animals in one area and $25x - 50$ animals in another area. What is the greatest common factor of these two expressions?",
+       "options": {
+         "A": "$5(x - 2)$",
+         "B": "$5x - 10$",
+         "C": "$5(3x - 6)$",
+         "D": "$10x - 20$",
+         "E": "$15(x - 2)$"
+       },
+       "answer": "C"
+     },
+     {
+       "id": 3,
+       "type": "MQ",
+       "question": "A car is traveling $24x + 48$ miles per hour and using $16x + 32$ gallons of fuel per hour. What is the greatest common factor of these two expressions?",
+       "options": {
+         "A": "$8(x + 2)$",
+         "B": "$8x + 16$",
+         "C": "$8(3x + 6)$",
+         "D": "$16x + 32$",
+         "E": "$16(x + 2)$"
+       },
+       "answer": "C"
+     },
+     {
+       "id": 4,
+       "type": "MQ",
+       "question": "A group of friends want to hike $18x - 36$ feet uphill and $22x - 44$ feet downhill. What is the greatest common factor of these two expressions?",
+       "options": {
+         "A": "$2(x - 2)$",
+         "B": "$2x - 4$",
+         "C": "$2(9x - 18)$",
+         "D": "$9x - 18$",
+         "E": "$2(11x - 22)$"
+       },
+       "answer": "E"
+     },
+     {
+       "id": 5,
+       "type": "MQ",
+       "question": "A park ranger is monitoring $12x + 24$ bird species in one area and $15x + 30$ bird species in another area. What is the greatest common factor of these two expressions?",
+       "options": {
+         "A": "$3(x + 2)$",
+         "B": "$3x + 6$",
+         "C": "$3(4x + 8)$",
+         "D": "$6x + 12$",
+         "E": "$3(5x + 10)$"
+       },
+       "answer": "C"
+     },
+     {
+       "id": 6,
+       "type": "MQ",
+       "question": "A hiking group is consuming $8x + 16$ liters of water per hour and $12x + 24$ calories per hour. What is the greatest common factor of these two expressions?",
+       "options": {
+         "A": "$4(x + 2)$",
+         "B": "$4x + 8$",
+         "C": "$4(2x + 4)$",
+         "D": "$8x + 16$",
+         "E": "$4(3x + 6)$"
+       },
+       "answer": "C"
+     },
+     {
+       "id": 7,
+       "type": "MQ",
+       "question": "A nature reserve has $20x - 40$ acres of forest and $25x - 50$ acres of grassland. What is the greatest common factor of these two expressions?",
+       "options": {
+         "A": "$5(x - 2)$",
+         "B": "$5x - 10$",
+         "C": "$5(4x - 8)$",
+         "D": "$10x - 20$",
+         "E": "$5(5x - 10)$"
+       },
+       "answer": "C"
+     },
+     {
+       "id": 8,
+       "type": "MQ",
+       "question": "A group of hikers want to travel $30x + 60$ miles and use $20x + 40$ gallons of fuel. What is the greatest common factor of these two expressions?",
+       "options": {
+         "A": "$10(x + 2)$",
+         "B": "$10x + 20$",
+         "C": "$10(3x + 6)$",
+         "D": "$20x + 40$",
+         "E": "$10(2x + 4)$"
+       },
+       "answer": "C"
+     },
+     {
+       "id": 9,
+       "type": "FRQ",
+       "question": "Simplify the expression $12x^2 + 24x + 36$ by factoring out the greatest common factor. Show all steps and explain your reasoning.",
+       "required_space_lines": 5
+     },
+     {
+       "id": 10,
+       "type": "FRQ",
+       "question": "Factor out the greatest common factor from the expression $15x^3 - 30x^2 + 45x$. Then, simplify the resulting expression and explain the process.",
+       "required_space_lines": 5
+     }
+   ],
+   "teacher_rules": [
+     "Tip 1: Emphasize the importance of identifying the greatest common factor in each expression.",
+     "Tip 2: Encourage students to use the distributive property to simplify expressions after factoring.",
+     "Tip 3: Chef's Tips"
+   ]
+ }

@@ -1,0 +1,131 @@
+{
+  "unit": "\u1F4D6 Unit 2: Exponents & Radicals",
+   "topic": "Rationalizing Denominator",
+   "test_type": "Homework (Jalapeno)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "The ancient Egyptians used $\\frac{1}{\\sqrt{2}}$ to represent a fraction. Rationalize the denominator.",
+           "options": {
+               "A": "$\\frac{\\sqrt{2}}{2}$",
+               "B": "$\\frac{1}{2\\sqrt{2}}$",
+               "C": "$\\frac{2}{\\sqrt{2}}$",
+               "D": "$\\frac{\\sqrt{2}}{4}$",
+               "E": "$\\frac{2}{2\\sqrt{2}}$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "The Mayans used $\\frac{3}{\\sqrt{5}}$ in their calendar calculations. Rationalize the denominator.",
+           "options": {
+               "A": "$\\frac{3\\sqrt{5}}{5}$",
+               "B": "$\\frac{3}{5\\sqrt{5}}$",
+               "C": "$\\frac{\\sqrt{5}}{3}$",
+               "D": "$\\frac{5}{3\\sqrt{5}}$",
+               "E": "$\\frac{3}{\\sqrt{25}}$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "The ancient Greeks rationalized $\\frac{2}{\\sqrt{3}}$ as $\\frac{2\\sqrt{3}}{3}$. What is the value of $\\frac{2\\sqrt{3}}{3}$ if $\\sqrt{3}=1.73$?",
+           "options": {
+               "A": "1.15",
+               "B": "2.31",
+               "C": "3.46",
+               "D": "1.73",
+               "E": "2.07"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "The Babylonians used $\\frac{5}{\\sqrt{6}}$ in their astronomical observations. Rationalize the denominator.",
+           "options": {
+               "A": "$\\frac{5\\sqrt{6}}{6}$",
+               "B": "$\\frac{5}{6\\sqrt{6}}$",
+               "C": "$\\frac{\\sqrt{6}}{5}$",
+               "D": "$\\frac{6}{5\\sqrt{6}}$",
+               "E": "$\\frac{5}{\\sqrt{36}}$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "The ancient Chinese used $\\frac{4}{\\sqrt{8}}$ in their mathematical texts. Rationalize the denominator.",
+           "options": {
+       "A": "$\\frac{4\\sqrt{2}}{4}$",
+       "B": "$\\frac{4}{4\\sqrt{2}}$",
+       "C": "$\\frac{\\sqrt{8}}{4}$",
+       "D": "$\\frac{8}{4\\sqrt{8}}$",
+       "E": "$\\frac{4}{\\sqrt{16}}$"
+   },
+   "answer": "A"
+},
+{
+   "id": 6,
+   "type": "MQ",
+   "question": "The ancient Indians used $\\frac{6}{\\sqrt{10}}$ in their mathematical discoveries. Rationalize the denominator.",
+   "options": {
+       "A": "$\\frac{6\\sqrt{10}}{10}$",
+       "B": "$\\frac{6}{10\\sqrt{10}}$",
+       "C": "$\\frac{\\sqrt{10}}{6}$",
+       "D": "$\\frac{10}{6\\sqrt{10}}$",
+       "E": "$\\frac{6}{\\sqrt{100}}$"
+   },
+   "answer": "A"
+},
+{
+   "id": 7,
+   "type": "MQ",
+   "question": "The ancient Sumerians used $\\frac{8}{\\sqrt{12}}$ in their economic transactions. Rationalize the denominator.",
+   "options": {
+       "A": "$\\frac{8\\sqrt{3}}{6}$",
+       "B": "$\\frac{8}{6\\sqrt{3}}$",
+       "C": "$\\frac{\\sqrt{12}}{8}$",
+       "D": "$\\frac{12}{8\\sqrt{12}}$",
+       "E": "$\\frac{8}{\\sqrt{144}}$"
+   },
+   "answer": "A"
+},
+{
+   "id": 8,
+   "type": "MQ",
+   "question": "The ancient Phoenicians used $\\frac{9}{\\sqrt{15}}$ in their maritime trade. Rationalize the denominator.",
+   "options": {
+       "A": "$\\frac{9\\sqrt{15}}{15}$",
+       "B": "$\\frac{9}{15\\sqrt{15}}$",
+       "C": "$\\frac{\\sqrt{15}}{9}$",
+       "D": "$\\frac{15}{9\\sqrt{15}}$",
+       "E": "$\\frac{9}{\\sqrt{225}}$"
+   },
+   "answer": "A"
+},
+{
+   "id": 9,
+   "type": "FRQ",
+   "question": "The ancient Egyptians built the Great Pyramid using $\\frac{10}{\\sqrt{20}}$ as a ratio of base to height. Rationalize the denominator and simplify.",
+   "required_space_lines": 5
+},
+{
+   "id": 10,
+   "type": "FRQ",
+   "question": "The ancient Aztecs used $\\frac{12}{\\sqrt{24}}$ in their architectural designs. Rationalize the denominator and simplify.",
+   "required_space_lines": 5
+}
+   ],
+   "teacher_rules": [
+       "Tip 1: Ensure students understand the historical context of rationalizing denominators.",
+       "Tip 2: Encourage students to simplify their answers.",
+       "Tip 3: Remind students to check their work for accuracy."
+   ],
+   "footer": {
+       "title": "Chef's Tips"
+   }
+}

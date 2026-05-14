@@ -1,0 +1,129 @@
+{
+  "unit": "\u1f4d6 Unit 6: Systems of Linear Equations and Inequalities",
+   "topic": "Linear Inequalities with Two Variables",
+   "test_type": "Challenge (Habanero)",
+   "questions": [
+      {
+         "id": 1,
+         "type": "MQ",
+         "question": "In a gaming tournament, the score $s$ is determined by the number of wins $w$ and losses $l$, where $s \\geq 2w - 3l$. Which region satisfies this inequality?",
+         "options": {
+            "A": "The region below the line $s = 2w - 3l$",
+            "B": "The region above the line $s = 2w - 3l$",
+            "C": "The region on the line $s = 2w - 3l$",
+            "D": "The region between the lines $s = 2w - 3l$ and $s = 3w - 2l$",
+            "E": "The region outside the lines $s = 2w - 3l$ and $s = 3w - 2l$"
+         },
+         "answer": "B"
+      },
+      {
+         "id": 2,
+         "type": "MQ",
+         "question": "What type of boundary line is used for the inequality $x + 2y > 5$?",
+         "options": {
+            "A": "Solid",
+            "B": "Dashed",
+            "C": "Dotted",
+            "D": "Dash-Dot",
+            "E": "None of the above"
+         },
+         "answer": "B"
+      },
+      {
+         "id": 3,
+         "type": "MQ",
+         "question": "Which linear inequality has a solid boundary line?",
+         "options": {
+            "A": "$x + y \\leq 4$",
+            "B": "$x + y < 4$",
+            "C": "$x + y > 4$",
+            "D": "$x + y \\geq 4$",
+            "E": "$x + y = 4$"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 4,
+         "type": "MQ",
+         "question": "In a data usage plan, the cost $c$ is determined by the number of gigs $g$ used, where $c \\leq 2g + 10$. Which region satisfies this inequality?",
+         "options": {
+            "A": "The region above the line $c = 2g + 10$",
+            "B": "The region below the line $c = 2g + 10$",
+            "C": "The region on the line $c = 2g + 10$",
+            "D": "The region between the lines $c = 2g + 10$ and $c = 3g + 5$",
+            "E": "The region outside the lines $c = 2g + 10$ and $c = 3g + 5$"
+         },
+         "answer": "B"
+      },
+      {
+         "id": 5,
+         "type": "MQ",
+         "question": "What is the solution region for the system of linear inequalities $x + y > 2$ and $x - y < 1$?",
+         "options": {
+            "A": "The region above the line $x + y = 2$ and below the line $x - y = 1$",
+            "B": "The region below the line $x + y = 2$ and above the line $x - y = 1$",
+            "C": "The region on the line $x + y = 2$ and on the line $x - y = 1$",
+            "D": "The region between the lines $x + y = 2$ and $x - y = 1$",
+            "E": "The region outside the lines $x + y = 2$ and $x - y = 1$"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 6,
+         "type": "MQ",
+         "question": "Which of the following linear inequalities has a solution region that is unbounded?",
+         "options": {
+            "A": "$x + y \\leq 5$",
+            "B": "$x + y < 5$",
+            "C": "$x + y > 5$",
+            "D": "$x + y \\geq 5$",
+            "E": "$x + y = 5$"
+         },
+         "answer": "C"
+      },
+      {
+         "id": 7,
+         "type": "MQ",
+         "question": "In a coding logic problem, the number of steps $s$ is determined by the number of loops $l$, where $s \\geq 3l - 2$. Which region satisfies this inequality?",
+         "options": {
+            "A": "The region below the line $s = 3l - 2$",
+            "B": "The region above the line $s = 3l - 2$",
+            "C": "The region on the line $s = 3l - 2$",
+            "D": "The region between the lines $s = 3l - 2$ and $s = 2l - 1$",
+            "E": "The region outside the lines $s = 3l - 2$ and $s = 2l - 1$"
+         },
+         "answer": "B"
+      },
+      {
+         "id": 8,
+         "type": "MQ",
+         "question": "What type of boundary line is used for the inequality $2x - 3y \\leq 1$?",
+         "options": {
+            "A": "Solid",
+            "B": "Dashed",
+            "C": "Dotted",
+            "D": "Dash-Dot",
+            "E": "None of the above"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 9,
+         "type": "FRQ",
+         "question": "Graph the linear inequality $x + 2y > 5$ and identify the solution region. Show all work and explain your reasoning.",
+         "required_space_lines": 5
+      },
+      {
+         "id": 10,
+         "type": "FRQ",
+         "question": "Solve the system of linear inequalities $x + y \\leq 4$ and $x - y \\geq -2$. Graph the solution region and identify the boundary lines. Show all work and explain your reasoning.",
+         "required_space_lines": 5
+      }
+   ],
+   "teacher_rules": [
+      "Tip 1: Emphasize the importance of solid and dashed boundary lines in linear inequalities.",
+      "Tip 2: Use real-world examples from tech and gaming to illustrate the application of linear inequalities.",
+      "Tip 3: Encourage students to show all work and explain their reasoning when solving free-response questions."
+   ],
+   "footer_title": "Chef's Tips"
+}

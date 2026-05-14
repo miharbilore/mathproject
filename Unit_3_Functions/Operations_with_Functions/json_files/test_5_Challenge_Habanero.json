@@ -1,0 +1,129 @@
+{
+  "unit": "Unit 3: Functions",
+   "topic": "Operations with Functions",
+   "test_type": "Challenge (Habanero)",
+   "questions": [
+       { 
+           "id": 1, 
+           "type": "MQ", 
+           "question": "If $f(x) = x^2$ and $g(x) = 2x$, what is $(f+g)(x)$?", 
+           "options": {
+               "A": "$x^2 + 2x$",
+               "B": "$x^2 - 2x$",
+               "C": "$2x^2$",
+               "D": "$x^2 + x$",
+               "E": "$2x^2 + x$"
+           }, 
+           "answer": "A" 
+       },
+       { 
+           "id": 2, 
+           "type": "MQ", 
+           "question": "A hiker's fuel consumption is modeled by $f(x) = 2x$ gallons per mile, and her backpack's weight is $g(x) = x^2$ pounds. What is $(f \\cdot g)(x)$?", 
+           "options": {
+               "A": "$2x^3$",
+               "B": "$x^2 + 2x$",
+               "C": "$2x^2$",
+               "D": "$2x^2 + x$",
+               "E": "$x^3$"
+           }, 
+           "answer": "A" 
+       },
+       { 
+           "id": 3, 
+           "type": "MQ", 
+           "question": "Given $f(x) = x^2 - 1$ and $g(x) = x + 1$, what is the domain of $(f/g)(x)$?", 
+           "options": {
+               "A": "$(-\\infty, -1) \\cup (-1, \\infty)$",
+               "B": "$(-\\infty, 1) \\cup (1, \\infty)$",
+               "C": "$(-\\infty, -1]$",
+               "D": "$[-1, \\infty)$",
+               "E": "$(-1, 1)$"
+           }, 
+           "answer": "A" 
+       },
+       { 
+           "id": 4, 
+           "type": "MQ", 
+           "question": "What is $(f - g)(x)$ if $f(x) = 3x$ and $g(x) = x^2 - 2x$?", 
+           "options": {
+               "A": "$x^2 - 5x$",
+               "B": "$-x^2 + 5x$",
+               "C": "$3x - x^2$",
+               "D": "$3x + x^2$",
+               "E": "$-3x + x^2$"
+           }, 
+           "answer": "C" 
+       },
+       { 
+           "id": 5, 
+           "type": "MQ", 
+           "question": "A park's animal population is given by $f(x) = 100 + 2x$ and the number of plants is $g(x) = 50x - x^2$. What is $(f + g)(x)$?", 
+           "options": {
+               "A": "$50x + 100 - x^2$",
+               "B": "$100 + 2x + 50x - x^2$",
+               "C": "$50x - 100 - x^2$",
+               "D": "$2x + x^2$",
+               "E": "$100 + x^2$"
+           }, 
+           "answer": "B" 
+       },
+       { 
+           "id": 6, 
+           "type": "MQ", 
+           "question": "What is the simplified form of $(f \\cdot g)(x)$ if $f(x) = x + 2$ and $g(x) = x^2 - 4$?", 
+           "options": {
+               "A": "$x^3 - 4x + 2x^2 - 8$",
+               "B": "$x^3 + 2x^2 - 4x - 8$",
+               "C": "$x^3 - 2x^2 - 4x + 8$",
+               "D": "$x^3 + 2x^2 - 4x - 2$",
+               "E": "$x^3 - 4x - 8$"
+           }, 
+           "answer": "A" 
+       },
+       { 
+           "id": 7, 
+           "type": "MQ", 
+           "question": "Given $f(x) = 2x - 1$ and $g(x) = x^2 + x - 1$, what is $(f - g)(x)$?", 
+           "options": {
+               "A": "$-x^2 + x + 1$",
+               "B": "$-x^2 - x + 2$",
+               "C": "$2x - 1 - x^2 - x + 1$",
+               "D": "$-x^2 - x - 1$",
+               "E": "$x^2 + 2x - 1$"
+           }, 
+           "answer": "C" 
+       },
+       { 
+           "id": 8, 
+           "type": "MQ", 
+           "question": "If $f(x) = x^2$ and $g(x) = x - 2$, what is $(f/g)(x)$?", 
+           "options": {
+               "A": "$\\frac{x^2}{x-2}$",
+               "B": "$x^2 + 2$",
+               "C": "$x + 2$",
+               "D": "$x^2 - 4$",
+               "E": "$x - 2$"
+           }, 
+           "answer": "A" 
+       },
+       { 
+           "id": 9, 
+           "type": "FRQ", 
+           "question": "Suppose the population of a certain animal species in a park is modeled by $f(x) = 200 + 5x$ and the park's area is $g(x) = x^2 - 10x + 25$. Determine the expression for $(f \\cdot g)(x)$ and simplify. Show all your steps and calculations. You may use the back of the page if necessary.", 
+           "required_space_lines": 5 
+       },
+       { 
+           "id": 10, 
+           "type": "FRQ", 
+           "question": "For the functions $f(x) = 3x - 2$ and $g(x) = x^2 + x - 1$, find the domain and the simplified expression of $(f/g)(x)$. Explain your reasoning and show your work.", 
+           "required_space_lines": 5 
+       }
+   ],
+   "teacher_rules": [
+       "Provide clear instructions for each type of question",
+       "Ensure students have access to necessary mathematical tools and formulas",
+       "Allow students to ask for clarification if they are unsure about any part of the test"
+   ],
+   "footer_title": "Chef's Tips"
+}

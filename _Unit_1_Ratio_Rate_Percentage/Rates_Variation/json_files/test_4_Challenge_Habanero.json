@@ -1,0 +1,129 @@
+{
+  "unit": "\u1F4D6 Unit 1: Ratio, Rate, Percentage",
+   "topic": "Rates & Variation",
+   "test_type": "Challenge (Habanero)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "A builder needs to mix $3 \\cdot 10^3$ kg of cement with $2 \\cdot 10^3$ kg of sand. What is the unit rate of cement to sand?",
+           "options": {
+               "A": "$1.5$ kg of cement/kg of sand",
+               "B": "$1.2$ kg of cement/kg of sand",
+               "C": "$1$ kg of cement/kg of sand",
+               "D": "$0.8$ kg of cement/kg of sand",
+               "E": "$0.6$ kg of cement/kg of sand"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "A recipe for making cookies requires $2 \\frac{1}{4}$ cups of flour to make $3 \\frac{1}{2}$ dozen cookies. How many cups of flour are needed to make $5$ dozen cookies?",
+           "options": {
+               "A": "$3$ cups",
+               "B": "$3.5$ cups",
+               "C": "$4$ cups",
+               "D": "$4.5$ cups",
+               "E": "$5$ cups"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "The cost of $5$ meters of wire is $$12$. What is the cost per meter of wire?",
+           "options": {
+               "A": "$$2$",
+               "B": "$$2.20$",
+               "C": "$$2.40$",
+               "D": "$$2.50$",
+       "E": "$$2.80$"
+       },
+           "answer": "C"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "A construction worker can lay $6$ bricks in $2$ minutes. How many bricks can the worker lay in $5$ minutes?",
+           "options": {
+               "A": "$12$ bricks",
+               "B": "$13$ bricks",
+               "C": "$14$ bricks",
+       "D": "$15$ bricks",
+       "E": "$16$ bricks"
+       },
+           "answer": "D"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "A chef needs to cook $2 \\frac{1}{2}$ kg of rice for $8$ people. How much rice is needed for $5$ people?",
+           "options": {
+       "A": "$1.5$ kg",
+       "B": "$1.6$ kg",
+       "C": "$1.7$ kg",
+       "D": "$1.8$ kg",
+       "E": "$2$ kg"
+       },
+           "answer": "A"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "The distance between two buildings is $240$ meters. If a person walks at a rate of $4$ meters per second, how many seconds will it take to walk between the two buildings?",
+           "options": {
+       "A": "$50$ seconds",
+       "B": "$55$ seconds",
+       "C": "$60$ seconds",
+       "D": "$65$ seconds",
+       "E": "$70$ seconds"
+       },
+           "answer": "C"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "A group of workers can build $2$ houses in $6$ months. How many houses can they build in $9$ months?",
+           "options": {
+       "A": "$2.5$ houses",
+       "B": "$2.7$ houses",
+       "C": "$3$ houses",
+       "D": "$3.2$ houses",
+       "E": "$3.5$ houses"
+       },
+           "answer": "C"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "A car travels $250$ miles in $5$ hours. How many miles will it travel in $7$ hours?",
+           "options": {
+       "A": "$350$ miles",
+       "B": "$375$ miles",
+       "C": "$400$ miles",
+       "D": "$425$ miles",
+       "E": "$450$ miles"
+       },
+           "answer": "A"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "A bakery sells a total of $250$ loaves of bread per day. They sell a combination of whole wheat and white bread. The ratio of whole wheat to white bread is $3:5$. If the bakery makes a profit of $$0.50$ per loaf of whole wheat bread and $$0.75$ per loaf of white bread, how much profit does the bakery make in a day?",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "A construction company is building a skyscraper that requires $15,000$ cubic meters of concrete. The company has two concrete mixers that can produce $200$ cubic meters of concrete per hour. However, the mixers can only be used for $8$ hours per day due to noise restrictions. How many days will it take to produce the required amount of concrete?",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Always read the questions carefully before answering",
+       "Use a calculator to check your answers",
+       "Show all work and explain your reasoning"
+   ],
+   "footer": "Chef's Tips"
+}

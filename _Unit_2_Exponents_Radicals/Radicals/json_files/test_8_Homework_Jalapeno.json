@@ -1,0 +1,129 @@
+{
+  "unit": "\u1F4D6 Unit 2: Exponents & Radicals",
+   "topic": "Radicals",
+   "test_type": "Homework (Jalapeno)",
+   "questions": [
+     { 
+       "id": 1, 
+       "type": "MQ", 
+       "question": "The ancient Egyptians used $\\sqrt{16}$ to represent the side length of a square with an area of 16 square units. What is the value of $\\sqrt{16}$?",
+       "options": {
+         "A": "2",
+         "B": "4",
+         "C": "6",
+         "D": "8",
+         "E": "10"
+       },
+       "answer": "B"
+     },
+     { 
+       "id": 2, 
+       "type": "MQ", 
+       "question": "The Babylonians approximated $\\sqrt{8}$ as $2\\frac{3}{4}$. What is the simplified form of $\\sqrt{8}$?",
+       "options": {
+         "A": "$2\\sqrt{2}$",
+         "B": "$\\sqrt{4}\\cdot\\sqrt{2}$",
+         "C": "$2\\frac{3}{4}$",
+         "D": "$\\sqrt{16}$",
+         "E": "$\\sqrt{4}$"
+       },
+       "answer": "A"
+     },
+     { 
+       "id": 3, 
+       "type": "MQ", 
+       "question": "The ancient Greeks used the concept of $\\sqrt{2}$ to study the ratio of the diagonal to the side length of a square. What is the value of $\\sqrt{4} \\cdot \\sqrt{2}$?",
+       "options": {
+         "A": "$2\\sqrt{2}$",
+         "B": "$\\sqrt{8}$",
+         "C": "$4$",
+         "D": "$2$",
+         "E": "$\\sqrt{2}$"
+       },
+       "answer": "A"
+     },
+     { 
+       "id": 4, 
+       "type": "MQ", 
+       "question": "The ancient Chinese used $\\sqrt[3]{27}$ to represent the edge length of a cube with a volume of 27 cubic units. What is the value of $\\sqrt[3]{27}$?",
+       "options": {
+         "A": "2",
+         "B": "3",
+         "C": "6",
+         "D": "9",
+         "E": "12"
+       },
+       "answer": "B"
+     },
+     { 
+       "id": 5, 
+       "type": "MQ", 
+       "question": "The Mayans used $\\sqrt{25}$ to calculate the area of a square with a side length of 5 units. What is the simplified form of $\\sqrt{25}$?",
+       "options": {
+         "A": "$\\sqrt{5}$",
+         "B": "$\\sqrt{25}$",
+         "C": "5",
+         "D": "10",
+         "E": "25"
+       },
+       "answer": "C"
+     },
+     { 
+       "id": 6, 
+       "type": "MQ", 
+       "question": "The ancient Indians used $\\sqrt[3]{64}$ to represent the edge length of a cube with a volume of 64 cubic units. What is the value of $\\sqrt[3]{64}$?",
+       "options": {
+         "A": "2",
+         "B": "3",
+         "C": "4",
+         "D": "6",
+         "E": "8"
+       },
+       "answer": "C"
+     },
+     { 
+       "id": 7, 
+       "type": "MQ", 
+       "question": "The ancient Egyptians used $\\sqrt{36}$ to calculate the area of a square with a side length of 6 units. What is the simplified form of $\\sqrt{36}$?",
+       "options": {
+         "A": "$\\sqrt{6}$",
+         "B": "$\\sqrt{36}$",
+         "C": "6",
+         "D": "12",
+         "E": "36"
+       },
+       "answer": "C"
+     },
+     { 
+       "id": 8, 
+       "type": "MQ", 
+       "question": "The Babylonians used $\\sqrt{9}$ to represent the side length of a square with an area of 9 square units. What is the value of $\\sqrt{9}$?",
+       "options": {
+         "A": "2",
+         "B": "3",
+         "C": "6",
+         "D": "9",
+         "E": "12"
+       },
+       "answer": "B"
+     },
+     { 
+       "id": 9, 
+       "type": "FRQ", 
+       "question": "The ancient Greeks used the concept of $\\sqrt{x}$ to study the ratio of the diagonal to the side length of a square. If $\\sqrt{x} = 5$, what is the value of $x$? Show your work and explain your reasoning.",
+       "required_space_lines": 5
+     },
+     { 
+       "id": 10, 
+       "type": "FRQ", 
+       "question": "The Mayans used $\\sqrt[3]{y}$ to calculate the edge length of a cube with a volume of $y$ cubic units. If $\\sqrt[3]{y} = 3$, what is the value of $y$? Show your work and explain your reasoning.",
+       "required_space_lines": 5
+     }
+   ],
+   "teacher_rules": [
+     "Tip 1: Encourage students to use historical and ancient contexts to understand the concept of radicals.",
+     "Tip 2: Remind students to simplify their answers and show their work.",
+     "Tip 3: Emphasize the importance of understanding the concept of radicals in real-world applications."
+   ],
+   "footer": "Chef's Tips"
+}

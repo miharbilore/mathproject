@@ -1,0 +1,129 @@
+{
+  "unit": "Unit 0: Foundations of Algebra",
+   "topic": "Variables and Expressions / Order of Operations",
+   "test_type": "Foundation (Jalapeno)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "Evaluate the expression: $2 \\cdot 3 + 12 - 8$",
+           "options": {
+               "A": "6",
+               "B": "8",
+               "C": "10",
+               "D": "12",
+               "E": "14"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "Translate the phrase '5 more than x' into an algebraic expression",
+           "options": {
+               "A": "$x - 5$",
+               "B": "$x + 5$",
+               "C": "$5x$",
+               "D": "$5 - x$",
+               "E": "$x^2 + 5$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "Simplify the expression: $3x + 2x$",
+           "options": {
+               "A": "$5x$",
+               "B": "$6x$",
+               "C": "$x^2$",
+               "D": "$x + 5$",
+               "E": "$2x - 3$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "Evaluate the expression: $(8 - 2) \\cdot (3 + 1)$",
+           "options": {
+               "A": "10",
+               "B": "12",
+               "C": "14",
+               "D": "16",
+               "E": "20"
+           },
+           "answer": "D"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "A stock price increased by $2.50. If the original price was $x, what is the new price?",
+           "options": {
+               "A": "$x - 2.50$",
+               "B": "$x + 2.50$",
+               "C": "$2.50x$",
+               "D": "$x^2 + 2.50$",
+               "E": "$x - 2.50x$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "A tax of 8% is added to a $500 savings account. What is the total amount after tax?",
+           "options": {
+       "A": "$540",
+       "B": "$548",
+       "C": "$550",
+       "D": "$560",
+       "E": "$568"
+   },
+           "answer": "B"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "Evaluate the expression: $12 - (3 + 2) \\cdot 2$",
+           "options": {
+               "A": "0",
+               "B": "2",
+               "C": "4",
+               "D": "6",
+               "E": "8"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "Translate the phrase '7 less than 3 times a number' into an algebraic expression",
+           "options": {
+               "A": "$3x - 7$",
+               "B": "$3x + 7$",
+               "C": "$7 - 3x$",
+               "D": "$7x - 3$",
+               "E": "$3x^2 - 7$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "Evaluate the expression $x^2 + 4x - 5$ when $x = 2$",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "A company's profit can be modeled by the expression $2x^2 + 5x - 1000$ where $x$ is the number of products sold. Find the profit when $x = 10$",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Tip 1: Remind students to follow the order of operations",
+       "Tip 2: Encourage students to use real-world examples to understand algebraic expressions",
+       "Tip 3: Suggest that students check their work by plugging their answers back into the original equations"
+   ],
+   "footer": "Chef's Tips"
+}

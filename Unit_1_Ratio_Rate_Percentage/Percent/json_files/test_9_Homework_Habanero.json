@@ -1,0 +1,129 @@
+{
+  "unit": "\ud83d\udcda Unit 1: Ratio, Rate, Percentage",
+   "topic": "Percent",
+   "test_type": "Homework (Habanero)",
+   "questions": [
+     {
+       "id": 1,
+       "type": "MQ",
+       "question": "A patient's white blood cell count increases from $250$ cells/$mu$L to $375$ cells/$mu$L. What is the percent increase?",
+       "options": {
+         "A": "25%",
+         "B": "40%",
+         "C": "50%",
+         "D": "60%",
+         "E": "75%"
+       },
+       "answer": "C"
+     },
+     {
+       "id": 2,
+       "type": "MQ",
+       "question": "A medicine dosage is $25%$ effective in treating a disease. If $80$ patients are treated, how many are expected to recover?",
+       "options": {
+         "A": "15",
+         "B": "16",
+         "C": "20",
+         "D": "24",
+         "E": "32"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 3,
+       "type": "MQ",
+       "question": "The rate of cell division in a Petri dish decreases by $18%$ per hour. If there are $1200$ cells initially, how many cells will be left after $2$ hours?",
+       "options": {
+         "A": "768",
+         "B": "864",
+         "C": "900",
+         "D": "936",
+         "E": "1008"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 4,
+       "type": "MQ",
+       "question": "A hospital has a $22%$ occupancy rate for its ICU beds. If there are $50$ beds, how many are occupied?",
+       "options": {
+         "A": "10",
+         "B": "11",
+         "C": "12",
+         "D": "13",
+         "E": "14"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 5,
+       "type": "MQ",
+       "question": "A pharmaceutical company claims its new drug is $35%$ more effective than the existing treatment. If the existing treatment is $40%$ effective, what is the percent effectiveness of the new drug?",
+       "options": {
+         "A": "52%",
+         "B": "54%",
+         "C": "56%",
+         "D": "58%",
+         "E": "60%"
+       },
+       "answer": "C"
+     },
+     {
+       "id": 6,
+       "type": "MQ",
+       "question": "A medical researcher collects data on the effectiveness of a vaccine. The results show that $280$ out of $400$ participants develop immunity. What percent of participants develop immunity?",
+       "options": {
+         "A": "60%",
+         "B": "65%",
+         "C": "70%",
+         "D": "72%",
+         "E": "75%"
+       },
+       "answer": "C"
+     },
+     {
+       "id": 7,
+       "type": "MQ",
+       "question": "The concentration of a solution is $15%$ acid. If $24$ liters of the solution contain $x$ liters of acid, what is the value of $x$?",
+       "options": {
+         "A": "2.4",
+         "B": "3.0",
+         "C": "3.6",
+         "D": "4.2",
+         "E": "4.8"
+       },
+       "answer": "C"
+     },
+     {
+       "id": 8,
+       "type": "MQ",
+       "question": "A doctor prescribes a $12%$ iodine solution to a patient. If the patient needs $0.5$ liters of the solution, how many milliliters of pure iodine will the patient receive?",
+       "options": {
+         "A": "48",
+         "B": "50",
+         "C": "60",
+         "D": "72",
+         "E": "80"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 9,
+       "type": "FRQ",
+       "question": "A population of bacteria grows at a rate of $8%$ per day. If there are initially $5000$ bacteria, how many will there be after $10$ days? Show your work.",
+       "required_space_lines": 5
+     },
+     {
+       "id": 10,
+       "type": "FRQ",
+       "question": "A clinical trial tests the effectiveness of a new medication. The results show that $75%$ of patients experience relief from symptoms. If $40$ patients are treated, how many are expected to experience relief? Calculate the percent error if the actual number of patients experiencing relief is $32$.",
+       "required_space_lines": 5
+     }
+   ],
+   "teacher_rules": [
+     "Emphasize the importance of converting between percentages and decimals",
+     "Remind students to consider the context when calculating percent increase or decrease",
+     "Encourage students to check their work by plugging in values"
+   ],
+   "footer": "Chef's Tips"
+ }

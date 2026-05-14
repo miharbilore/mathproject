@@ -1,0 +1,129 @@
+{
+  "unit": "Unit 0: Foundations of Algebra",
+   "topic": "Place Value",
+   "test_type": "Quiz (Carolina Reaper)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "A cargo ship can transport $432$ containers. What is the value of the digit $4$ in this number?",
+           "options": {
+               "A": "$400$",
+               "B": "$40$",
+               "C": "$4$",
+               "D": "$432$",
+               "E": "$43$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "Rounding $247$ to the nearest ten gives",
+           "options": {
+               "A": "$200$",
+               "B": "$250$",
+               "C": "$240$",
+               "D": "$230$",
+               "E": "$260$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "Write the number $945$ in expanded form as $900 + 40 + 5$. What is the value of the digit $9$?",
+           "options": {
+               "A": "$900$",
+               "B": "$90$",
+               "C": "$9$",
+               "D": "$45$",
+               "E": "$945$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "A logistics company has $753$ packages to deliver. The digit $7$ represents",
+           "options": {
+               "A": "hundreds",
+               "B": "tens",
+               "C": "ones",
+               "D": "thousands",
+               "E": "ten thousands"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "The number $6,542$ rounded to the nearest thousand is",
+           "options": {
+               "A": "$6,000$",
+               "B": "$7,000$",
+               "C": "$5,000$",
+               "D": "$8,000$",
+       "E": "$9,000$"
+   },
+   "answer": "A"
+},
+{
+   "id": 6,
+   "type": "MQ",
+   "question": "A truck driver travels $945$ miles. The digit $9$ represents",
+   "options": {
+       "A": "tens",
+       "B": "ones",
+       "C": "hundreds",
+       "D": "thousands",
+       "E": "ten thousands"
+   },
+   "answer": "C"
+},
+{
+   "id": 7,
+   "type": "MQ",
+   "question": "Write the number $753$ in standard form as $7 \\cdot 10^2 + 5 \\cdot 10^1 + 3 \\cdot 10^0$. What is the value of the digit $5$?",
+   "options": {
+       "A": "$50$",
+       "B": "$5$",
+       "C": "$500$",
+       "D": "$753$",
+       "E": "$7$"
+   },
+   "answer": "A"
+},
+{
+   "id": 8,
+   "type": "MQ",
+   "question": "A shipping company has $2,943$ boxes to transport. Rounding this number to the nearest hundred gives",
+   "options": {
+       "A": "$2,900$",
+       "B": "$3,000$",
+       "C": "$2,940$",
+       "D": "$3,100$",
+       "E": "$2,950$"
+   },
+   "answer": "C"
+},
+{
+   "id": 9,
+   "type": "FRQ",
+   "question": "A traffic monitoring system reports $1,234$ vehicles per hour on a highway. Write this number in expanded form and explain the value of each digit. Provide your answer in $5$ lines or less.",
+   "required_space_lines": 5
+},
+{
+   "id": 10,
+   "type": "FRQ",
+   "question": "A delivery company promises to deliver $945$ packages within $2$ days. Write this number in standard form and round it to the nearest ten. Provide your answer in $5$ lines or less.",
+   "required_space_lines": 5
+}
+],
+"teacher_rules": [
+   "Tip 1: Ensure students understand the concept of place value",
+   "Tip 2: Provide examples of real-world applications",
+   "Tip 3: Encourage students to show their work and explain their reasoning"
+],
+"footer": "Chef's Tips"
+}

@@ -1,0 +1,129 @@
+{
+  "unit": "\uD83D\uDCDA Unit 2: Exponents & Radicals",
+   "topic": "Operations with Radicals",
+   "test_type": "Foundation (Jalapeno)",
+   "questions": [
+     {
+       "id": 1,
+       "type": "MQ",
+       "question": "Simplify $\\sqrt{9} + \\sqrt{16}$",
+       "options": {
+         "A": "$3 + 4$",
+         "B": "$5$",
+         "C": "$7$",
+         "D": "$\\sqrt{25}$",
+         "E": "$1 + 2 \\cdot \\sqrt{2}$"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 2,
+       "type": "MQ",
+       "question": "Find $\\sqrt{4} \\cdot \\sqrt{9}$",
+       "options": {
+         "A": "$\\sqrt{36}$",
+         "B": "$2 \\cdot \\sqrt{3}$",
+         "C": "$6$",
+         "D": "$\\sqrt{12}$",
+         "E": "$3$"
+       },
+       "answer": "C"
+     },
+     {
+       "id": 3,
+       "type": "MQ",
+       "question": "A space lab measures the distance to a planet as $\\sqrt{100} + \\sqrt{25}$ kilometers. Simplify the expression.",
+       "options": {
+         "A": "$15$ km",
+         "B": "$10 + 5$ km",
+         "C": "$5 \\cdot \\sqrt{5}$ km",
+         "D": "$\\sqrt{125}$ km",
+         "E": "$20$ km"
+       },
+       "answer": "A"
+     },
+     {
+       "id": 4,
+       "type": "MQ",
+       "question": "A physics experiment involves a force of $\\sqrt{16} - \\sqrt{9}$ Newtons. Simplify the expression.",
+       "options": {
+         "A": "$1$ N",
+         "B": "$5$ N",
+         "C": "$\\sqrt{7}$ N",
+         "D": "$-1$ N",
+         "E": "$4 - 3$ N"
+       },
+       "answer": "A"
+     },
+     {
+       "id": 5,
+       "type": "MQ",
+       "question": "Simplify $\\frac{\\sqrt{36}}{\\sqrt{4}}$",
+       "options": {
+         "A": "$\\sqrt{9}$",
+         "B": "$3$",
+         "C": "$6$",
+         "D": "$\\frac{6}{2}$",
+         "E": "$\\frac{\\sqrt{36}}{2}$"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 6,
+       "type": "MQ",
+       "question": "A spacecraft travels $\\sqrt{49} + \\sqrt{25}$ kilometers in a day. Simplify the expression.",
+       "options": {
+         "A": "$12$ km",
+         "B": "$7 + 5$ km",
+         "C": "$\\sqrt{74}$ km",
+         "D": "$\\sqrt{50}$ km",
+         "E": "$10$ km"
+       },
+       "answer": "A"
+     },
+     {
+       "id": 7,
+       "type": "MQ",
+       "question": "Find $\\sqrt{64} \\cdot \\sqrt{9}$",
+       "options": {
+         "A": "$24$",
+         "B": "$\\sqrt{576}$",
+         "C": "$8 \\cdot \\sqrt{9}$",
+         "D": "$6 \\cdot \\sqrt{16}$",
+         "E": "$12$"
+       },
+       "answer": "A"
+     },
+     {
+       "id": 8,
+       "type": "MQ",
+       "question": "A lab measures the energy of a reaction as $\\sqrt{25} - \\sqrt{16}$. Simplify the expression.",
+       "options": {
+         "A": "$3$",
+         "B": "$2$",
+         "C": "$1$",
+         "D": "$\\sqrt{9}$",
+         "E": "$\\sqrt{25} - 4$"
+       },
+       "answer": "C"
+     },
+     {
+       "id": 9,
+       "type": "FRQ",
+       "question": "Simplify $\\frac{\\sqrt{128}}{\\sqrt{8}}$. Show your work and explain your reasoning.",
+       "required_space_lines": 5
+     },
+     {
+       "id": 10,
+       "type": "FRQ",
+       "question": "A space station has a rectangular solar panel with an area of $\\sqrt{256}$ square meters. If the length of the panel is $\\sqrt{16}$ meters, find the width of the panel. Show your work and explain your reasoning.",
+       "required_space_lines": 5
+     }
+   ],
+   "teacher_rules": [
+     "Tip 1: Remind students to simplify radicals before adding or subtracting.",
+     "Tip 2: Encourage students to use the properties of radicals to simplify expressions.",
+     "Tip 3: Emphasize the importance of showing work and explaining reasoning in free-response questions."
+   ],
+   "footer_title": "Chef's Tips"
+ }

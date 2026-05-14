@@ -1,0 +1,128 @@
+{
+  "unit": "Unit 0: Foundations of Algebra",
+   "topic": "GCF & LCM",
+   "test_type": "Homework (Carolina Reaper)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "Find the GCF of $12$ and $20$ using prime factorization.",
+           "options": {
+               "A": "$2$",
+               "B": "$4$",
+               "C": "$6$",
+               "D": "$8$",
+               "E": "$12$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "A song has a rhythm pattern that repeats every $15$ seconds. If another song has a pattern that repeats every $25$ seconds, what is the LCM of their pattern lengths?",
+           "options": {
+               "A": "$75$",
+               "B": "$100$",
+               "C": "$125$",
+               "D": "$150$",
+               "E": "$175$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "Find the LCM of $9$ and $12$ using multiples.",
+           "options": {
+               "A": "$18$",
+               "B": "$24$",
+               "C": "$27$",
+               "D": "$36$",
+               "E": "$48$"
+           },
+           "answer": "D"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "A painter uses a $12$-inch brush and a $16$-inch brush to paint a canvas. What is the GCF of the brush lengths in inches?",
+           "options": {
+               "A": "$1$",
+               "B": "$2$",
+               "C": "$4$",
+               "D": "$6$",
+       "E": "$8$"
+   },
+           "answer": "C"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "A music producer wants to mix two songs with frequencies of $12$ Hz and $15$ Hz. What is the LCM of their frequencies?",
+           "options": {
+               "A": "$24$",
+               "B": "$30$",
+               "C": "$36$",
+               "D": "$60$",
+       "E": "$72$"
+   },
+           "answer": "D"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "A canvas has a width of $18$ inches and a length of $24$ inches. What is the GCF of the dimensions in inches?",
+           "options": {
+       "A": "$1$",
+       "B": "$2$",
+       "C": "$3$",
+       "D": "$6$",
+       "E": "$12$"
+   },
+           "answer": "D"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "Find the GCF of $20$ and $30$ using factors.",
+           "options": {
+       "A": "$5$",
+       "B": "$10$",
+       "C": "$15$",
+       "D": "$20$",
+       "E": "$25$"
+   },
+           "answer": "B"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "A drummer has two rhythms with frequencies of $8$ Hz and $12$ Hz. What is the LCM of their frequencies?",
+           "options": {
+       "A": "$16$",
+       "B": "$20$",
+       "C": "$24$",
+       "D": "$32$",
+       "E": "$40$"
+   },
+           "answer": "C"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "A painter is creating a mosaic with two different tile sizes: $12$ inches and $18$ inches. Find the GCF and LCM of the tile sizes and explain how they can be used to create a pattern that repeats.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "A music producer is mixing a song with three different frequencies: $10$ Hz, $12$ Hz, and $15$ Hz. Find the LCM of the frequencies and explain how it can be used to create a harmonious rhythm.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Chef's Tips", 
+       "Ensure students understand the concept of GCF and LCM before applying it to real-world problems", 
+       "Encourage students to use prime factorization and multiples to find GCF and LCM"
+   ]
+}

@@ -1,0 +1,129 @@
+{
+  "unit": "\u1F4D6 Unit 2: Exponents & Radicals",
+   "topic": "Exponents",
+   "test_type": "Challenge (Habanero)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "Simplify $2^3 \\cdot 2^4$",
+           "options": {
+               "A": "$2^7$",
+               "B": "$2^6$",
+               "C": "$2^5$",
+               "D": "$2^3$",
+               "E": "$2^2$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "A recipe for making bread requires $3^2$ cups of flour. If you want to make $2^2$ times the amount of bread, how many cups of flour will you need?",
+           "options": {
+               "A": "$3^2$",
+               "B": "$3^3$",
+               "C": "$3^4$",
+               "D": "$2^2 \\cdot 3^2$",
+               "E": "$2^3 \\cdot 3^2$"
+           },
+           "answer": "D"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "A building is $2^3$ meters tall. If a new building is $2^2$ times taller, how tall is the new building?",
+           "options": {
+               "A": "$2^3$ meters",
+               "B": "$2^4$ meters",
+               "C": "$2^5$ meters",
+               "D": "$2^6$ meters",
+               "E": "$2^7$ meters"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "Simplify $(2^2)^3$",
+           "options": {
+               "A": "$2^5$",
+               "B": "$2^6$",
+               "C": "$2^7$",
+               "D": "$2^8$",
+               "E": "$2^9$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "A chef needs to package $3^2$ boxes of cookies. If each box can hold $2^3$ cookies, how many cookies can be packaged in total?",
+           "options": {
+               "A": "$2^3 \\cdot 3^2$",
+               "B": "$2^2 \\cdot 3^2$",
+               "C": "$2^4 \\cdot 3^2$",
+       "D": "$2^5 \\cdot 3^2$",
+       "E": "$2^6 \\cdot 3^2$"
+   },
+   "answer": "A"
+},
+{
+   "id": 6,
+   "type": "MQ",
+   "question": "Simplify $\\frac{2^4}{2^2}$",
+   "options": {
+       "A": "$2^2$",
+       "B": "$2^3$",
+       "C": "$2^4$",
+       "D": "$2^5$",
+       "E": "$2^6$"
+   },
+   "answer": "A"
+},
+{
+   "id": 7,
+   "type": "MQ",
+   "question": "A carpenter needs to make $2^3$ sets of stairs. If each set requires $3^2$ pieces of wood, how many pieces of wood will the carpenter need in total?",
+   "options": {
+       "A": "$2^3 \\cdot 3^2$",
+       "B": "$2^2 \\cdot 3^2$",
+       "C": "$2^4 \\cdot 3^2$",
+       "D": "$2^5 \\cdot 3^2$",
+       "E": "$2^6 \\cdot 3^2$"
+   },
+   "answer": "A"
+},
+{
+   "id": 8,
+   "type": "MQ",
+   "question": "Simplify $(3^2)^2$",
+   "options": {
+       "A": "$3^3$",
+       "B": "$3^4$",
+       "C": "$3^5$",
+       "D": "$3^6$",
+       "E": "$3^7$"
+   },
+   "answer": "B"
+},
+{
+   "id": 9,
+   "type": "FRQ",
+   "question": "A bakery is making a cake that requires $2^3$ cups of sugar. If they want to make $2^2$ times the amount of cake, and each cup of sugar costs $3^2$ dollars, how much will the sugar cost in total? Show your work and simplify your answer.",
+   "required_space_lines": 5
+},
+{
+   "id": 10,
+   "type": "FRQ",
+   "question": "A construction company is building a skyscraper that is $2^4$ meters tall. If they want to add $2^3$ more meters to the height, and each meter of the building requires $3^2$ kilograms of steel, how many kilograms of steel will the company need in total? Show your work and simplify your answer.",
+   "required_space_lines": 5
+}
+   ],
+   "teacher_rules": [
+       "Tip 1: Encourage students to use exponent rules to simplify expressions.",
+       "Tip 2: Remind students to consider the context of the problem when applying exponent rules.",
+       "Tip 3: Emphasize the importance of showing work and simplifying answers in free-response questions."
+   ],
+   "footer": "Chef's Tips"
+}

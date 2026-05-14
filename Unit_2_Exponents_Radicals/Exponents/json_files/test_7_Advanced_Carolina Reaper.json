@@ -1,0 +1,129 @@
+{
+  "unit": "\ud83d\udcda Unit 2: Exponents & Radicals",
+   "topic": "Exponents",
+   "test_type": "Advanced (Carolina Reaper)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "Simplify the expression $2^3 \\cdot 2^4$",
+           "options": {
+               "A": "$2^{3+4}$",
+               "B": "$2^{3 \\cdot 4}$",
+               "C": "$2^{3-4}$",
+               "D": "$2^{4-3}$",
+               "E": "$2^{3/4}$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "What is the value of $x$ in the equation $x^2 = 64$?",
+           "options": {
+               "A": "$-8$",
+               "B": "$8$",
+               "C": "$-4$",
+               "D": "$4$",
+               "E": "$16$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "A bakery is having a sale on bread, with a $15%$ discount on all items. If a loaf of bread originally costs $$2.50$, how much will it cost after the discount is applied, rounded to two decimal places, using the formula $NewPrice = OriginalPrice \\cdot (1 - 0.15)$?",
+           "options": {
+               "A": "$2.12$",
+               "B": "$2.13$",
+               "C": "$2.15$",
+               "D": "$2.17$",
+               "E": "$2.20$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "Simplify the expression $(3^2)^4$",
+           "options": {
+               "A": "$3^{2+4}$",
+               "B": "$3^{2 \\cdot 4}$",
+               "C": "$3^{8}$",
+               "D": "$3^{6}$",
+               "E": "$3^{10}$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "A water tank can fill up in $4$ hours. How long will it take to fill $\frac{3}{4}$ of the tank, assuming a constant rate?",
+           "options": {
+               "A": "$2$ hours",
+       "B": "$3$ hours",
+       "C": "$4$ hours",
+       "D": "$5$ hours",
+       "E": "$6$ hours"
+   },
+   "answer": "B"
+},
+{
+   "id": 6,
+   "type": "MQ",
+   "question": "Which of the following is equivalent to $2^{-3}$?",
+   "options": {
+       "A": "$\frac{1}{2^3}$",
+       "B": "$2^3$",
+       "C": "$\frac{2}{3}$",
+       "D": "$\frac{2^3}{1}$",
+       "E": "$\frac{8}{1}$"
+   },
+   "answer": "A"
+},
+{
+   "id": 7,
+   "type": "MQ",
+   "question": "What is the simplified form of $(2^2)^3 \\cdot (3^2)^2$?",
+   "options": {
+       "A": "$2^6 \\cdot 3^4$",
+       "B": "$2^5 \\cdot 3^3$",
+       "C": "$2^8 \\cdot 3^2$",
+       "D": "$4^3 \\cdot 9^2$",
+       "E": "$16 \\cdot 81$"
+   },
+   "answer": "A"
+},
+{
+   "id": 8,
+   "type": "MQ",
+   "question": "Simplify the expression $\frac{2^4}{2^2}$",
+   "options": {
+       "A": "$2^{4-2}$",
+       "B": "$2^{4+2}$",
+       "C": "$4$",
+       "D": "$2^2$",
+       "E": "$16$"
+   },
+   "answer": "A"
+},
+{
+   "id": 9,
+   "type": "FRQ",
+   "question": "A group of friends want to start a small gardening project. They plan to plant $3$ trees, and $2^x$ flowers around each tree, with $x$ being the number of days after planting the trees. If they plant $3$ trees today, and want to have $48$ flowers around each tree after $x$ days, find the value of $x$ using the formula $2^x = \frac{48}{3}$, and show all steps to solve for $x$. You must use the properties of exponents.",
+   "required_space_lines": 5
+},
+{
+   "id": 10,
+   "type": "FRQ",
+   "question": "Explain how the concept of exponents is used in time management when planning a study schedule for an exam. Include examples of how the rules of exponents can be applied to optimize study time, using the formula for compound interest $A = P(1 + r)^n$ where $A$ is the total amount of material studied, $P$ is the principal amount of material, $r$ is the rate of studying, and $n$ is the number of days. You must use mathematical expressions and provide a real-life scenario.",
+   "required_space_lines": 5
+}
+],
+"teacher_rules": [
+   "Tip 1: Encourage students to use the rules of exponents to simplify expressions and solve problems.",
+   "Tip 2: Remind students to apply the rules of exponents in different contexts, such as science, sports, and daily life.",
+   "Tip 3: Emphasize the importance of checking work and using estimation to verify answers."
+],
+"footer": "Chef's Tips"
+}

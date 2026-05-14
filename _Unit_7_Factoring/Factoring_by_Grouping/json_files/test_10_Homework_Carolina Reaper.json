@@ -1,0 +1,22 @@
+{
+  "unit": "\u1F4D6 Unit 7: Factoring",
+   "topic": "Factoring by Grouping",
+   "test_type": "Homework (Carolina Reaper)",
+   "questions": [
+       { "id": 1, "type": "MQ", "question": "Factor the expression: $x^2 + 5x + 4x + 20$", "options": {"A": "$x(x+5) + 4(x+5)$", "B": "$x(x+4) + 5(x+4)$", "C": "$x(x+1) + 4(x+20)$", "D": "$x(x+20) + 5(x+4)$", "E": "$x(x+4) + 1(x+20)$"}, "answer": "A" },
+       { "id": 2, "type": "MQ", "question": "A painter is creating a canvas with a rhythm pattern of 3x + 2x + 12 + 8. Factor the expression to find the pattern: $3x + 2x + 12 + 8$", "options": {"A": "$5x + 20$", "B": "$x(5x + 20)$", "C": "$5(x + 4)$", "D": "$x(3 + 2) + 4(3 + 2)$", "E": "$5x + 4(3+2)$"}, "answer": "C" },
+       { "id": 3, "type": "MQ", "question": "Factor the expression: $6x^2 + 18x + 2x + 6$", "options": {"A": "$6x(x+3) + 2(x+3)$", "B": "$3x(2x + 6) + 1(2x + 6)$", "C": "$6(x+3) + 2(x+3)$", "D": "$2(3x^2 + 9x + x + 3)$", "E": "$3(2x^2 + 6x + \frac{2}{3}x + 2)$"}, "answer": "A" },
+       { "id": 4, "type": "MQ", "question": "A DJ is mixing frequencies at 2x + 6x + 4 + 24. Factor the expression to find the beat: $2x + 6x + 4 + 24$", "options": {"A": "$8x + 28$", "B": "$2(4x + 12)$", "C": "$8(x + \frac{7}{2})$", "D": "$4(2x + 6) + 4$", "E": "$2(4x+12)$"}, "answer": "E" },
+       { "id": 5, "type": "MQ", "question": "Factor the expression: $9x^2 + 12x + 3x + 4$", "options": {"A": "$3x(3x + 4) + 1(3x + 4)$", "B": "$9(x^2 + \frac{4}{3}x) + 4$", "C": "$3(3x^2 + 4x + x + \frac{4}{3})$", "D": "$3x(3x + 1) + 4(3x + 1)$", "E": "$3x(3x+4)+4(1)$"}, "answer": "A" },
+       { "id": 6, "type": "MQ", "question": "A music producer has a rhythm pattern of x^2 + 4x + 5x + 20. Factor the expression: $x^2 + 4x + 5x + 20$", "options": {"A": "$x(x+4) + 5(x+4)$", "B": "$x(x+5) + 4(x+5)$", "C": "$x(x+9) + 4$", "D": "$x^2 + 9x + 20$", "E": "$x(x+4)+5(x+4)$"}, "answer": "A" },
+       { "id": 7, "type": "MQ", "question": "Factor the expression: $8x^2 + 10x + 2x + 5$", "options": {"A": "$2(4x^2 + 5x + x + \frac{5}{2})$", "B": "$2(4x^2 + 5x) + 1(2x + 5)$", "C": "$5(1x^2 + 2x) + 2(1x + \frac{5}{2})$", "D": "$2(4x^2+5x)+2x+5$", "E": "$2(4x^2+5x+x+\frac{5}{2})$"}, "answer": "D" },
+       { "id": 8, "type": "MQ", "question": "A sculptor has a frequency of 4x^2 + 12x + 3x + 9. Factor the expression: $4x^2 + 12x + 3x + 9$", "options": {"A": "$3( \frac{4}{3} x^2 + 4x + x + 3)$", "B": "$4(x^2 + 3x) + 3(x+3)$", "C": "$3( \frac{4}{3} x^2 + \frac{12}{3} x + x + 3)$", "D": "$3x( \frac{4}{3} x + 4) + 3(x + 3)$", "E": "$3(x+3)(\frac{4}{3}x+1)$"}, "answer": "E" },
+       { "id": 9, "type": "FRQ", "question": "Factor the expression $x^2 + 7x + 2x + 14$ and verify by multiplication. Provide all steps.", "required_space_lines": 5 },
+       { "id": 10, "type": "FRQ", "question": "A photographer is working with a canvas size of $x^2 + 9x + 4x + 36$. Factor the expression and verify the result using multiplication. Show all work.", "required_space_lines": 5 }
+   ],
+   "teacher_rules": [
+       "Chef's Tips: Ensure students show all work for factoring and verifying the results",
+       "Remind students to use the distributive property for verification",
+       "Encourage students to use rhythm patterns and canvas sizes to visualize the factoring process"
+   ]
+}

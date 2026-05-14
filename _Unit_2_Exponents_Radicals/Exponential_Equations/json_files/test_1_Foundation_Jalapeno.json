@@ -1,0 +1,129 @@
+{
+  "unit": "\u1F4D6 Unit 2: Exponents & Radicals",
+   "topic": "Exponential Equations",
+   "test_type": "Foundation (Jalapeno)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "Solve for $x$ in $2^x = 8$",
+           "options": {
+               "A": "$x = 2$",
+               "B": "$x = 3$",
+               "C": "$x = 4$",
+               "D": "$x = 5$",
+               "E": "$x = 6$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "Solve for $y$ in $3^y = 27$",
+           "options": {
+               "A": "$y = 1$",
+               "B": "$y = 2$",
+               "C": "$y = 3$",
+               "D": "$y = 4$",
+               "E": "$y = 5$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "If $4^x = 16$, what is $x$?",
+           "options": {
+               "A": "$x = 1$",
+               "B": "$x = 2$",
+               "C": "$x = 3$",
+               "D": "$x = 4$",
+               "E": "$x = 5$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "A company's stock price doubles every 2 years. If it is currently $$50$, what will it be in 4 years?",
+           "options": {
+               "A": "$$50$",
+               "B": "$$100$",
+               "C": "$$200$",
+               "D": "$$400$",
+               "E": "$$800$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "Solve for $z$ in $5^z = 125$",
+           "options": {
+               "A": "$z = 1$",
+               "B": "$z = 2$",
+               "C": "$z = 3$",
+               "D": "$z = 4$",
+               "E": "$z = 5$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "If a savings account earns $5\\%$ interest compounded annually, and $P$ is the principal amount, what is the amount after 2 years if $P = $100$?",
+           "options": {
+               "A": "$$105$",
+       "B": "$$110$",
+       "C": "$$110.25$",
+       "D": "$$120$",
+       "E": "$$125$"
+   },
+           "answer": "C"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "Solve for $w$ in $2^w = 32$",
+           "options": {
+               "A": "$w = 3$",
+               "B": "$w = 4$",
+               "C": "$w = 5$",
+               "D": "$w = 6$",
+               "E": "$w = 7$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "A tax consultant charges a fee that increases by $20\\%$ each year. If the current fee is $$100$, what will it be in 2 years?",
+           "options": {
+               "A": "$$120$",
+               "B": "$$124$",
+               "C": "$$144$",
+               "D": "$$148$",
+               "E": "$$160$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "An investment grows according to the equation $A = 2^x$, where $A$ is the amount after $x$ years and the initial investment is $$1000$. Find the amount after 3 years.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "A company's sales grow exponentially according to the equation $S = 3^x$, where $S$ is the sales amount after $x$ years and the initial sales are $$500$. Find the sales amount after 2 years.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Read each question carefully",
+       "Use a calculator if necessary",
+       "Show all work for free response questions"
+   ],
+   "footer": "Chef's Tips"
+}

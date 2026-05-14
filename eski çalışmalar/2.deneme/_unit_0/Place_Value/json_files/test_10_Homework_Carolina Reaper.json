@@ -1,0 +1,129 @@
+{
+  "unit": "Unit 0: Foundations of Algebra",
+   "topic": "Place Value",
+   "test_type": "Homework (Carolina Reaper)",
+   "questions": [
+     {
+       "id": 1,
+       "type": "MQ",
+       "question": "A rhythm pattern has $4$ beats in a measure, and there are $32$ measures in a song. What is the total number of beats in the song in standard form?",
+       "options": {
+         "A": "$40$",
+         "B": "$80$",
+         "C": "$100$",
+         "D": "$128$",
+         "E": "$160$"
+       },
+       "answer": "D"
+     },
+     {
+       "id": 2,
+       "type": "MQ",
+       "question": "An art canvas is $48$ inches wide. What is the value of the digit $4$ in this number?",
+       "options": {
+         "A": "Tens place",
+         "B": "Ones place",
+         "C": "Hundreds place",
+         "D": "Tens place",
+         "E": "Forties place"
+       },
+       "answer": "A"
+     },
+     {
+       "id": 3,
+       "type": "MQ",
+       "question": "A music frequency is measured at $432$ Hz. What is this number in expanded form?",
+       "options": {
+         "A": "$400 + 30 + 2$",
+         "B": "$300 + 100 + 30 + 2$",
+         "C": "$400 + 30 + 2$",
+         "D": "$400 + 20 + 12$",
+         "E": "$300 + 100 + 32$"
+       },
+       "answer": "C"
+     },
+     {
+       "id": 4,
+       "type": "MQ",
+       "question": "A painting is $123.45$ meters long. Rounded to the nearest tenth, what is its length?",
+       "options": {
+         "A": "$120.0$",
+         "B": "$120.5$",
+         "C": "$123.5$",
+         "D": "$123.4$",
+         "E": "$124.0$"
+       },
+       "answer": "D"
+     },
+     {
+       "id": 5,
+       "type": "MQ",
+       "question": "There are $256$ seats in a concert hall. What is the value of the digit $5$ in this number?",
+       "options": {
+         "A": "Ones place",
+         "B": "Tens place",
+         "C": "Hundreds place",
+         "D": "No value",
+         "E": "Thousands place"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 6,
+       "type": "MQ",
+       "question": "A song is $4.23$ minutes long. What is $4.23$ in expanded form?",
+       "options": {
+         "A": "$4 + \frac{2}{10} + \frac{3}{100}$",
+         "B": "$4 + \frac{23}{100}$",
+         "C": "$4 + \frac{2}{10} + \frac{3}{1000}$",
+         "D": "$\frac{4}{1} + \frac{2}{10} + \frac{3}{100}$",
+         "E": "$\frac{423}{100}$"
+       },
+       "answer": "A"
+     },
+     {
+       "id": 7,
+       "type": "MQ",
+       "question": "A painting is $75.6$ cm wide. Rounded to the nearest whole number, what is its width?",
+       "options": {
+         "A": "$70$",
+         "B": "$71$",
+         "C": "$75$",
+         "D": "$76$",
+         "E": "$80$"
+       },
+       "answer": "D"
+     },
+     {
+       "id": 8,
+       "type": "MQ",
+       "question": "A music album has $421$ songs. What is the value of the digit $2$ in this number?",
+       "options": {
+         "A": "Ones place",
+         "B": "Tens place",
+         "C": "Hundreds place",
+         "D": "No value",
+         "E": "Thousands place"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 9,
+       "type": "FRQ",
+       "question": "A sculpture is $12.543$ meters tall. Write this number in expanded and standard form. Show all steps.",
+       "required_space_lines": 5
+     },
+     {
+       "id": 10,
+       "type": "FRQ",
+       "question": "An orchestra has $945$ members. Round this number to the nearest hundred and write it in standard and expanded form. Explain the reasoning behind your answer.",
+       "required_space_lines": 5
+     }
+   ],
+   "teacher_rules": [
+     "Review the answers carefully before providing feedback to students.",
+     "Encourage students to use the space provided for calculations and explanations in FRQ questions.",
+     "Provide guidance on the importance of accuracy in math problems, especially in calculations involving place value."
+   ],
+   "footer": "Chef's Tips"
+ }

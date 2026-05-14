@@ -1,0 +1,129 @@
+{
+  "unit": "Unit 0: Foundations of Algebra",
+   "topic": "Place Value",
+   "test_type": "Foundation (Jalapeno)",
+   "questions": [
+      {
+         "id": 1,
+         "type": "MQ",
+         "question": "The $4$ in $425,317$ represents $4 \\times 10^5$. What is the value of the $2$ in this number?",
+         "options": {
+            "A": "$2 \\times 10^0$",
+            "B": "$2 \\times 10^2$",
+            "C": "$2 \\times 10^4$",
+            "D": "$2 \\times 10^6$",
+            "E": "$2 \\times 10^7$"
+         },
+         "answer": "C"
+      },
+      {
+         "id": 2,
+         "type": "MQ",
+         "question": "Rounding $732.456$ to the nearest $10$ yields what result?",
+         "options": {
+            "A": "$730$",
+            "B": "$732$",
+            "C": "$740$",
+            "D": "$732.5$",
+            "E": "$732.46$"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 3,
+         "type": "MQ",
+         "question": "On Mars, $4,239$ kilograms of space rocks were collected. What is the value of the $3$ in this number?",
+         "options": {
+            "A": "$3 \\times 10^2$",
+            "B": "$3 \\times 10^1$",
+            "C": "$3 \\times 10^0$",
+            "D": "$3 \\times 10^3$",
+            "E": "$3 \\times 10^4$"
+         },
+         "answer": "B"
+      },
+      {
+         "id": 4,
+         "type": "MQ",
+         "question": "$6,428$ in expanded form is $6 \\times 10^3 + 4 \\times 10^2 + 2 \\times 10^0 + 8 \\times 10^1$ True or False?",
+         "options": {
+            "A": "True",
+            "B": "False",
+            "C": "Maybe",
+            "D": "Not enough information",
+            "E": "None of the above"
+         },
+         "answer": "B"
+      },
+      {
+         "id": 5,
+         "type": "MQ",
+         "question": "What is the standard form of $5 \\times 10^2 + 2 \\times 10^1 + 9 \\times 10^0$?",
+         "options": {
+            "A": "$529$",
+            "B": "$592$",
+            "C": "$523$",
+            "D": "$509$",
+            "E": "$502$"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 6,
+         "type": "MQ",
+         "question": "A lab experiment involves $0.0425$ grams of a substance. Rounded to the nearest $0.01$ grams, what is the result?",
+         "options": {
+            "A": "$0.04$ grams",
+            "B": "$0.042$ grams",
+            "C": "$0.043$ grams",
+            "D": "$0.0425$ grams",
+            "E": "$0.05$ grams"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 7,
+         "type": "MQ",
+         "question": "$934.27$ rounded to the nearest $10$ is",
+         "options": {
+            "A": "$930$",
+            "B": "$940$",
+            "C": "$934.3$",
+            "D": "$934$",
+            "E": "$935$"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 8,
+         "type": "MQ",
+         "question": "In a space mission, $145.9$ kilometers traveled per hour is recorded. Rounding this to the nearest $10$ yields what result?",
+         "options": {
+            "A": "$150$ kilometers",
+            "B": "$140$ kilometers",
+            "C": "$145.9$ kilometers",
+            "D": "$145$ kilometers",
+            "E": "$149$ kilometers"
+         },
+         "answer": "B"
+      },
+      {
+         "id": 9,
+         "type": "FRQ",
+         "question": "A scientist collects $3,456,219$ space particles. Write this number in expanded form.",
+         "required_space_lines": 5
+      },
+      {
+         "id": 10,
+         "type": "FRQ",
+         "question": "The distance between Earth and a planet is $4,239,027$ kilometers. Round this to the nearest $100,000$ kilometers and explain your reasoning.",
+         "required_space_lines": 5
+      }
+   ],
+   "teacher_rules": [
+      "Emphasize the importance of place value in multi-digit numbers",
+      "Have students practice converting between standard and expanded forms",
+      "Remind students to read the questions carefully and choose the correct answer based on the given options"
+   ],
+   "footer": "Chef's Tips"
+}

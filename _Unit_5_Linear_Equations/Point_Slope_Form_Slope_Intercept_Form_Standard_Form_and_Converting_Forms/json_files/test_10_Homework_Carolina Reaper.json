@@ -1,0 +1,129 @@
+{
+  "unit": "\uD83D\uDCD8 Unit 5: Linear Equations",
+   "topic": "Point-Slope Form, Slope-Intercept Form, Standard Form and Converting Forms",
+   "test_type": "Homework (Carolina Reaper)",
+   "questions": [
+      {
+         "id": 1,
+         "type": "MQ",
+         "question": "A painter is creating a rhythm pattern for a music festival using $x \\cdot y$ beats, where $x$ is the number of drums and $y$ is the number of beats per drum. If the pattern follows the linear equation $y = -2x + 10$, which point-slope form is equivalent?",
+         "options": {
+            "A": "$y - 2 = -2(x - 5)$",
+            "B": "$y - 1 = -2(x - 4)$",
+            "C": "$y - 3 = -2(x - 3)$",
+            "D": "$y - 4 = -2(x - 2)$",
+            "E": "$y - 5 = -2(x - 1)$"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 2,
+         "type": "MQ",
+         "question": "A DJ's playlist has a standard form equation of $2x + 5y = 20$, where $x$ is the number of songs and $y$ is the number of minutes per song. What is the slope-intercept form?",
+         "options": {
+            "A": "$y = -\\frac{2}{5}x + 4$",
+            "B": "$y = -\\frac{2}{5}x + 2$",
+            "C": "$y = -\\frac{3}{5}x + 3$",
+            "D": "$y = -\\frac{4}{5}x + 4$",
+            "E": "$y = -\\frac{1}{5}x + 5$"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 3,
+         "type": "MQ",
+         "question": "A sound wave has a frequency of $5 \\cdot 10^2$ Hz and follows the equation $y = 3x - 2$, where $x$ is the time in seconds and $y$ is the amplitude. Which standard form is equivalent?",
+         "options": {
+            "A": "$3x - y = 2$",
+            "B": "$3x - y = -2$",
+            "C": "$2x - 3y = 1$",
+            "D": "$2x + 3y = 6$",
+            "E": "$x - 3y = -2$"
+         },
+         "answer": "B"
+      },
+      {
+         "id": 4,
+         "type": "MQ",
+         "question": "A music teacher wants to create a graph for a lesson plan. If the equation of a line is given in slope-intercept form as $y = 2x - 3$, which of the following is the point-slope form?",
+         "options": {
+            "A": "$y - 2 = 2(x - 1)$",
+            "B": "$y - 1 = 2(x - 2)$",
+            "C": "$y - 3 = 2(x - 0)$",
+            "D": "$y + 1 = 2(x + 2)$",
+            "E": "$y + 2 = 2(x + 1)$"
+         },
+         "answer": "C"
+      },
+      {
+         "id": 5,
+         "type": "MQ",
+         "question": "The size of a musical instrument case follows a linear equation. If the slope-intercept form of the equation is $y = 4x - 2$, what is the $y$-intercept?",
+         "options": {
+            "A": "2",
+            "B": "-2",
+            "C": "4",
+            "D": "-4",
+            "E": "0"
+         },
+         "answer": "B"
+      },
+      {
+         "id": 6,
+         "type": "MQ",
+         "question": "A rhythm pattern has a linear equation of $x - 2y = 6$. If the equation is rewritten in slope-intercept form, what is the slope?",
+         "options": {
+            "A": "$-\\frac{1}{2}$",
+            "B": "$\\frac{1}{2}$",
+            "C": "$-2$",
+            "D": "$2$",
+            "E": "$-\\frac{3}{2}$"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 7,
+         "type": "MQ",
+         "question": "A DJ is planning a set with $x$ number of songs, and each song has a duration of $y$ minutes. The set follows the linear equation $y = 3x + 1$. If the DJ wants to play 5 songs, what is the total duration of the set?",
+         "options": {
+            "A": "16 minutes",
+            "B": "12 minutes",
+            "C": "15 minutes",
+            "D": "20 minutes",
+            "E": "10 minutes"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 8,
+         "type": "MQ",
+         "question": "A sound engineer is setting up a sound system for a concert. If the linear equation for the sound waves is $y = -2x + 5$, what is the $x$-intercept?",
+         "options": {
+            "A": "1",
+            "B": "2",
+            "C": "2.5",
+            "D": "$\\frac{5}{2}$",
+            "E": "$-\\frac{5}{2}$"
+         },
+         "answer": "D"
+      },
+      {
+         "id": 9,
+         "type": "FRQ",
+         "question": "A painter is creating an art piece with a rhythm pattern. If the linear equation of the pattern is $y = 2x - 3$ and the painter wants to add a new element to the piece, what is the equation of the line that is perpendicular to the given line and passes through the point $(1,4)$? Show all work and provide the equation in slope-intercept form.",
+         "required_space_lines": 5
+      },
+      {
+         "id": 10,
+         "type": "FRQ",
+         "question": "A musician is planning a music festival with $x$ number of stages and $y$ number of bands per stage. The linear equation for the festival is $2x + 5y = 20$. Graph the equation and provide the $x$- and $y$-intercepts. Additionally, interpret the slope and $y$-intercept in the context of the music festival.",
+         "required_space_lines": 5
+      }
+   ],
+   "teacher_rules": [
+      "Provide a ruler for graphing",
+      "Allow the use of a calculator for calculations",
+      "Have students show all work for free response questions"
+   ],
+   "footer": "Chef's Tips"
+}

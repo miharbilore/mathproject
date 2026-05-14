@@ -1,0 +1,150 @@
+{
+  "test_id": 10,
+   "test_type": "Homework 2",
+   "topic": "Variables and Expressions / Order of Operations",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "What is the variable in the expression $2x + 3$?",
+           "options": { 
+               "A": "2", 
+               "B": "3", 
+               "C": "x", 
+               "D": "2x", 
+               "E": "None of the above" 
+           },
+           "answer": "C",
+           "spicy_level": "",
+           "required_space_lines": 0
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "Identify the operator in the expression $4 \times 5$?",
+           "options": { 
+               "A": "+", 
+               "B": "-", 
+               "C": "$\times$", 
+               "D": "$div$", 
+               "E": "=" 
+           },
+           "answer": "C",
+           "spicy_level": "",
+           "required_space_lines": 0
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "What is the coefficient of $x$ in $4x$?",
+           "options": { 
+               "A": "1", 
+               "B": "2", 
+               "C": "3", 
+               "D": "4", 
+               "E": "None of the above" 
+           },
+           "answer": "D",
+           "spicy_level": "",
+           "required_space_lines": 0
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "What does the term 'expression' mean in math?",
+           "options": { 
+               "A": "A statement that is always true", 
+               "B": "A statement that is always false", 
+               "C": "A group of numbers, variables, and operators", 
+               "D": "A single number or value", 
+               "E": "A mathematical equation" 
+           },
+           "answer": "C",
+           "spicy_level": "",
+           "required_space_lines": 0
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "What is the constant term in $2x + 5$?",
+           "options": { 
+               "A": "2", 
+               "B": "5", 
+               "C": "x", 
+               "D": "2x", 
+               "E": "None of the above" 
+           },
+           "answer": "B",
+           "spicy_level": "",
+           "required_space_lines": 0
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "Identify the operand in $3 + 2$.",
+           "options": { 
+               "A": "+", 
+               "B": "3", 
+               "C": "2", 
+               "D": "Both 3 and 2", 
+               "E": "None of the above" 
+           },
+           "answer": "D",
+           "spicy_level": "",
+           "required_space_lines": 0
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "What does the term 'variable' mean in math?",
+           "options": { 
+               "A": "A symbol that represents a fixed value", 
+               "B": "A symbol that represents a value that can change", 
+               "C": "A mathematical operation", 
+               "D": "A numerical value", 
+               "E": "A constant term" 
+           },
+           "answer": "B",
+           "spicy_level": "",
+           "required_space_lines": 0
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "What is $2 cdot 3$ an example of?",
+           "options": { 
+               "A": "Addition", 
+               "B": "Subtraction", 
+               "C": "Multiplication", 
+               "D": "Division", 
+               "E": "Exponentiation" 
+           },
+           "answer": "C",
+           "spicy_level": "",
+           "required_space_lines": 0
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "Draw a picture that represents the expression $x + 2$. Be sure to include labels and explain the meaning of each part.",
+           "options": {},
+           "answer": "Model solution will vary but should include a number line or variable representation with an added constant",
+           "spicy_level": "",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "Explain the difference between a constant and a variable in your own words, using examples to support your explanation.",
+           "options": {},
+           "answer": "Model solution will vary but should include definitions and examples that distinguish between constants and variables",
+           "spicy_level": "",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Focus on basic conceptual definitions and single-step identification to ensure students understand the fundamentals of variables and expressions.",
+       "Emphasize the importance of understanding the order of operations to simplify expressions correctly.",
+       "Use visual aids and real-world examples to help students connect abstract concepts to tangible scenarios, enhancing their comprehension of algebraic foundations."
+   ]
+}

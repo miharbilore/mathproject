@@ -1,0 +1,129 @@
+{
+  "unit": "\u2693 Unit 1: Ratio, Rate, Percentage",
+   "topic": "Ratios & Proportions",
+   "test_type": "Challenge (Habanero)",
+   "questions": [
+       { 
+           "id": 1, 
+           "type": "MQ", 
+           "question": "A new gaming platform has $2:3$ ratio of free to paid games. If there are $90$ free games, how many paid games are there?", 
+           "options": { 
+               "A": "45", 
+               "B": "60", 
+               "C": "90", 
+               "D": "120", 
+               "E": "135" 
+           }, 
+           "answer": "C" 
+       },
+       { 
+           "id": 2, 
+           "type": "MQ", 
+           "question": "In a coding competition, $3:5$ ratio of participants used Python to Java. If $30$ participants used Java, how many used Python?", 
+           "options": { 
+               "A": "10", 
+               "B": "15", 
+               "C": "18", 
+               "D": "20", 
+               "E": "25" 
+           }, 
+           "answer": "B" 
+       },
+       { 
+           "id": 3, 
+           "type": "MQ", 
+           "question": "A gamer scored $4:7$ ratio of wins to losses. If the gamer had $28$ losses, how many wins did the gamer have?", 
+           "options": { 
+               "A": "10", 
+               "B": "12", 
+               "C": "16", 
+               "D": "20", 
+               "E": "24" 
+           }, 
+           "answer": "C" 
+       },
+       { 
+           "id": 4, 
+           "type": "MQ", 
+           "question": "A data plan has a $1:4$ ratio of free data to paid data. If $12$ GB is paid data, how much free data is included?", 
+           "options": { 
+               "A": "1 GB", 
+               "B": "2 GB", 
+               "C": "3 GB", 
+               "D": "4 GB", 
+               "E": "6 GB" 
+           }, 
+           "answer": "B" 
+       },
+       { 
+           "id": 5, 
+           "type": "MQ", 
+           "question": "To develop an app, the time spent on coding to testing is in $2:3$ ratio. If the total time spent is $50$ hours, how many hours are spent on coding?", 
+           "options": { 
+               "A": "15", 
+               "B": "18", 
+               "C": "20", 
+               "D": "25", 
+               "E": "30" 
+           }, 
+           "answer": "C" 
+       },
+       { 
+           "id": 6, 
+           "type": "MQ", 
+           "question": "The ratio of players playing on PC to console is $5:4$. If there are $25$ console players, how many PC players are there?", 
+           "options": { 
+               "A": "20", 
+               "B": "25", 
+               "C": "28", 
+               "D": "30", 
+               "E": "31.25" 
+           }, 
+           "answer": "E" 
+       },
+       { 
+           "id": 7, 
+           "type": "MQ", 
+           "question": "A programmer types $4:5$ ratio of code to comments. If the programmer writes $20$ lines of comments, how many lines of code does the programmer write?", 
+           "options": { 
+               "A": "12", 
+               "B": "15", 
+               "C": "16", 
+               "D": "20", 
+               "E": "25" 
+           }, 
+           "answer": "C" 
+       },
+       { 
+           "id": 8, 
+           "type": "MQ", 
+           "question": "A gaming tournament has $3:2$ ratio of teams from the US to teams from Europe. If there are $18$ teams from Europe, how many teams are from the US?", 
+           "options": { 
+               "A": "12", 
+               "B": "18", 
+               "C": "21", 
+               "D": "24", 
+               "E": "27" 
+           }, 
+           "answer": "C" 
+       },
+       { 
+           "id": 9, 
+           "type": "FRQ", 
+           "question": "A company has $3$ servers with a ratio of $2:5$ of gaming servers to database servers. If they add $2$ more servers, what should be the new ratio of gaming to database servers to maintain the original proportion? Show your work and explain.", 
+           "required_space_lines": 5 
+       },
+       { 
+           "id": 10, 
+           "type": "FRQ", 
+           "question": "A coder is working on a project that requires $15$ hours of coding and $10$ hours of testing. If the coder works $4$ hours a day, what ratio of days should be spent on coding to testing to complete the project on time? Use $\\frac{a}{b}$ format for your ratio answer and provide a brief explanation.", 
+           "required_space_lines": 5 
+       }
+   ],
+   "teacher_rules": [
+       "Ensure students use cross-multiplication for solving proportions",
+       "Emphasize the importance of maintaining the original proportion when adding or removing quantities",
+       "Remind students to check their units and ensure they are consistent throughout their calculations"
+   ],
+   "footer": "Chef's Tips"
+}

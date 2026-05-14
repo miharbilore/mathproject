@@ -1,0 +1,129 @@
+{
+  "unit": "\u1F4D6 Unit 8: Quadratics",
+   "topic": "Solving by Quadratic Formula (Discriminant)",
+   "test_type": "Foundation (Jalapeno)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "The quadratic equation $x^2 + 4x + 4 = 0$ has how many solutions?",
+           "options": {
+               "A": "0",
+               "B": "1",
+               "C": "2",
+               "D": "4",
+               "E": "6"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "What is the discriminant of the quadratic equation $x^2 - 7x + 12 = 0$?",
+           "options": {
+               "A": "$-5$",
+               "B": "$1$",
+               "C": "$13$",
+               "D": "$25$",
+               "E": "$37$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "The quadratic equation $2x^2 - 5x - 3 = 0$ represents the trajectory of a spaceship. How many times will it cross the x-axis?",
+           "options": {
+               "A": "0",
+               "B": "1",
+               "C": "2",
+       "D": "3",
+       "E": "4"
+   },
+   "answer": "C"
+},
+{
+   "id": 4,
+   "type": "MQ",
+   "question": "To find the time it takes for a planet to orbit the Sun, scientists use the equation $t^2 - 10t + 16 = 0$. What is the discriminant?",
+   "options": {
+       "A": "$36$",
+       "B": "$48$",
+       "C": "$64$",
+       "D": "$100$",
+       "E": "$144$"
+   },
+   "answer": "B"
+},
+{
+   "id": 5,
+   "type": "MQ",
+   "question": "The quadratic equation $x^2 - 9x + 20 = 0$ represents the path of a comet. What are the solutions to this equation?",
+   "options": {
+       "A": "$x = 4, x = 5$",
+       "B": "$x = 2, x = 10$",
+       "C": "$x = 1, x = 20$",
+       "D": "$x = 5, x = 4$",
+       "E": "$x = 0, x = 20$"
+   },
+   "answer": "A"
+},
+{
+   "id": 6,
+   "type": "MQ",
+   "question": "A lab experiment involves a quadratic equation $d^2 + 2d - 6 = 0$. What can be said about the solutions of this equation?",
+   "options": {
+       "A": "Two distinct real solutions",
+       "B": "One real solution",
+       "C": "No real solutions",
+       "D": "Infinitely many solutions",
+       "E": "Two complex solutions"
+   },
+   "answer": "A"
+},
+{
+   "id": 7,
+   "type": "MQ",
+   "question": "To calculate the speed of a spaceship, the equation $v^2 - 4v - 21 = 0$ is used. What is the nature of the solutions?",
+   "options": {
+       "A": "One real and one complex solution",
+       "B": "Two distinct real solutions",
+       "C": "Two equal real solutions",
+       "D": "No real solutions",
+       "E": "Infinitely many solutions"
+   },
+   "answer": "B"
+},
+{
+   "id": 8,
+   "type": "MQ",
+   "question": "The equation $2x^2 + 5x + 3 = 0$ represents the gravitational force between two planets. What is the discriminant of this equation?",
+   "options": {
+       "A": "$13$",
+       "B": "$17$",
+       "C": "$25$",
+       "D": "$37$",
+       "E": "$41$"
+   },
+   "answer": "B"
+},
+{
+   "id": 9,
+   "type": "FRQ",
+   "question": "A spacecraft is traveling through space with a velocity given by $v^2 - 4v - 5 = 0$. Solve for $v$.",
+   "required_space_lines": 5
+},
+{
+   "id": 10,
+   "type": "FRQ",
+   "question": "The quadratic equation $x^2 - 3x - 18 = 0$ represents the distance traveled by a rocket. Find the solutions and state the nature of the solutions.",
+   "required_space_lines": 5
+}
+   ],
+   "teacher_rules": [
+       "Emphasize understanding of the quadratic formula and its application.",
+       "Use real-world examples from space and science to demonstrate the relevance of the concept.",
+       "Encourage students to check their solutions by plugging them back into the original equation."
+   ],
+   "footer": "Chef's Tips"
+}

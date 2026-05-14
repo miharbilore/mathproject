@@ -1,0 +1,129 @@
+{
+  "unit": "Unit 0: Foundations of Algebra",
+   "topic": "Inequalities",
+   "test_type": "Challenge (Habanero)",
+   "questions": [
+       { 
+           "id": 1, 
+           "type": "MQ", 
+           "question": "Solve the inequality $2x - 5 > 11$ for $x$. What is the solution set?", 
+           "options": { 
+               "A": "$x > 8$", 
+               "B": "$x < 8$", 
+               "C": "$x \\geq 8$", 
+               "D": "$x \\leq 8$", 
+               "E": "$x = 8$"
+           }, 
+           "answer": "A"
+       },
+       { 
+           "id": 2, 
+           "type": "MQ", 
+           "question": "A gamer's score $s$ must satisfy $s + 20 > 100$ to reach the next level. What is the minimum score required?", 
+           "options": { 
+               "A": "$s > 80$", 
+               "B": "$s < 80$", 
+               "C": "$s = 80$", 
+               "D": "$s \\geq 80$", 
+               "E": "$s \\leq 80$"
+           }, 
+           "answer": "A"
+       },
+       { 
+           "id": 3, 
+           "type": "MQ", 
+           "question": "The inequality $x - 3 < 7$ represents the allowable delay $x$ (in minutes) for a gamer's connection. What interval represents the solution on a number line?", 
+           "options": { 
+               "A": "$(-\\infty, 10)$", 
+               "B": "$(-\\infty, 4)$", 
+               "C": "$[4, \\infty)$", 
+               "D": "$(-4, \\infty)$", 
+               "E": "$(-10, 4)$"
+           }, 
+           "answer": "A"
+       },
+       { 
+           "id": 4, 
+           "type": "MQ", 
+           "question": "In a coding challenge, the player's time $t$ (in seconds) is constrained by $t + 5 > 30$. What is the solution to this inequality?", 
+           "options": { 
+               "A": "$t > 25$", 
+               "B": "$t < 25$", 
+               "C": "$t = 25$", 
+               "D": "$t \\geq 25$", 
+               "E": "$t \\leq 25$"
+           }, 
+           "answer": "A"
+       },
+       { 
+           "id": 5, 
+           "type": "MQ", 
+           "question": "A gamer's rank is determined by the inequality $r - 2 > 15$, where $r$ is the rank. What is the minimum rank?", 
+           "options": { 
+               "A": "$r > 17$", 
+               "B": "$r < 17$", 
+               "C": "$r = 17$", 
+               "D": "$r \\geq 17$", 
+               "E": "$r \\leq 17$"
+           }, 
+           "answer": "A"
+       },
+       { 
+           "id": 6, 
+           "type": "MQ", 
+           "question": "In a data usage scenario, the inequality $d + 10 < 50$ represents the data $d$ (in MB) a user can upload. What interval notation represents the solution set?", 
+           "options": { 
+               "A": "$(-10, 40)$", 
+               "B": "$(-\\infty, 40)$", 
+               "C": "$[40, \\infty)$", 
+               "D": "$(-40, \\infty)$", 
+               "E": "$(-40, 10)$"
+           }, 
+           "answer": "A"
+       },
+       { 
+           "id": 7, 
+           "type": "MQ", 
+           "question": "A game developer's profit $p$ is given by $p - 15 > 200$. What is the minimum profit?", 
+           "options": { 
+               "A": "$p > 215$", 
+               "B": "$p < 215$", 
+               "C": "$p = 215$", 
+               "D": "$p \\geq 215$", 
+               "E": "$p \\leq 215$"
+           }, 
+           "answer": "A"
+       },
+       { 
+           "id": 8, 
+           "type": "MQ", 
+           "question": "The score $s$ of a gamer in an online tournament is constrained by $s - 10 < 50$. What is the solution to this inequality?", 
+           "options": { 
+               "A": "$s < 60$", 
+               "B": "$s > 60$", 
+               "C": "$s = 60$", 
+               "D": "$s \\geq 60$", 
+               "E": "$s \\leq 60$"
+           }, 
+           "answer": "A"
+       },
+       { 
+           "id": 9, 
+           "type": "FRQ", 
+           "question": "A gaming company has the inequality $3x + 5 > 20$ representing the amount of data $x$ (in GB) a user can download. Solve this inequality and express the solution set in interval notation. Provide your answer in the space below.", 
+           "required_space_lines": 5
+       },
+       { 
+           "id": 10, 
+           "type": "FRQ", 
+           "question": "A coder is trying to optimize the speed of their game by solving the inequality $2t - 4 < 16$, where $t$ represents the processing time (in milliseconds). Solve this inequality and graph the solution set on a number line. Provide your answer in the space below.", 
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Please ensure students have pencils, calculators, and erasers before starting the test.",
+       "Encourage students to read each question carefully and manage their time wisely.",
+       "Remind students to clearly label their answers and show their work where necessary."
+   ],
+   "footer": "Chef's Tips"
+}

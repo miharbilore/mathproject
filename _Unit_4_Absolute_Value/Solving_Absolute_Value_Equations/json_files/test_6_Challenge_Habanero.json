@@ -1,0 +1,129 @@
+{
+  "unit": "\u1F4D6 Unit 4: Absolute Value",
+   "topic": "Solving Absolute Value Equations",
+   "test_type": "Challenge (Habanero)",
+   "questions": [
+     {
+       "id": 1,
+       "type": "MQ",
+       "question": "A gamer's score, $x$, satisfies $|x| = 25$. What are the possible values of $x$?",
+       "options": {
+         "A": "$x = 25$",
+         "B": "$x = -25$",
+         "C": "$x = 25$ or $x = -25$",
+         "D": "$x = 0$",
+         "E": "$x = 12.5$"
+       },
+       "answer": "C"
+     },
+     {
+       "id": 2,
+       "type": "MQ",
+       "question": "Solve $|2x - 3| = 7$ for $x$.",
+       "options": {
+         "A": "$x = 2$ or $x = 5$",
+         "B": "$x = -2$ or $x = -5$",
+         "C": "$x = 2$ or $x = -5$",
+         "D": "$x = 5$ or $x = -2$",
+         "E": "$x = 1$ or $x = -1$"
+       },
+       "answer": "D"
+     },
+     {
+       "id": 3,
+       "type": "MQ",
+       "question": "What is the solution to $|x + 2| = 9$?",
+       "options": {
+         "A": "$x = 7$",
+         "B": "$x = -7$",
+         "C": "$x = 7$ or $x = -7$",
+         "D": "$x = 11$",
+         "E": "$x = -11$"
+       },
+       "answer": "C"
+     },
+     {
+       "id": 4,
+       "type": "MQ",
+       "question": "A coding error causes a program to malfunction when $|3x - 1| leq 5$. What values of $x$ will cause the malfunction?",
+       "options": {
+         "A": "$-2 leq x leq 2$",
+         "B": "$-1 leq x leq 2$",
+         "C": "$-1.67 leq x leq 2$",
+         "D": "$0 leq x leq 2$",
+         "E": "$-4 leq x leq 2$"
+       },
+       "answer": "C"
+     },
+     {
+       "id": 5,
+       "type": "MQ",
+       "question": "Solve $|x| - 2 = 3$ for $x$.",
+       "options": {
+         "A": "$x = 5$",
+         "B": "$x = -5$",
+         "C": "$x = 5$ or $x = -5$",
+         "D": "$x = 3$",
+         "E": "$x = -3$"
+       },
+       "answer": "C"
+     },
+     {
+       "id": 6,
+       "type": "MQ",
+       "question": "What values of $x$ satisfy $|2x + 1| = |x - 3|$?",
+       "options": {
+         "A": "$x = 1$",
+         "B": "$x = -1$",
+         "C": "$x = 1$ or $x = -4$",
+         "D": "$x = -1$ or $x = 4$",
+         "E": "$x = 2$"
+       },
+       "answer": "C"
+     },
+     {
+       "id": 7,
+       "type": "MQ",
+       "question": "A gamer's high score, $x$, is given by $|x - 10| = 5$. What are the possible values of $x$?",
+       "options": {
+         "A": "$x = 5$",
+         "B": "$x = 15$",
+         "C": "$x = 5$ or $x = 15$",
+         "D": "$x = 0$",
+         "E": "$x = 20$"
+       },
+       "answer": "C"
+     },
+     {
+       "id": 8,
+       "type": "MQ",
+       "question": "Solve $|x^2 - 4| = 3$ for $x$.",
+       "options": {
+         "A": "$x = 1$ or $x = -1$",
+         "B": "$x = pm sqrt{7}$",
+         "C": "$x = pm sqrt{1}$",
+         "D": "$x = 2$ or $x = -2$",
+         "E": "$x = pm 1$"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 9,
+       "type": "FRQ",
+       "question": "Solve $|x + 1| = |2x - 3|$ and check for extraneous solutions.",
+       "required_space_lines": 5
+     },
+     {
+       "id": 10,
+       "type": "FRQ",
+       "question": "A programming team needs to solve $|3x - 2| = |x + 4|$ to debug their code. Find the values of $x$ that satisfy the equation and explain your steps.",
+       "required_space_lines": 5
+     }
+   ],
+   "teacher_rules": [
+     "Tip 1: Encourage students to check their solutions for extraneous results.",
+     "Tip 2: Remind students to consider multiple scenarios when solving absolute value equations.",
+     "Tip 3: Suggest using graphical methods to visualize the solutions to absolute value equations."
+   ],
+   "footer": "Chef's Tips"
+}

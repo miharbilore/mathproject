@@ -1,0 +1,129 @@
+{
+  "unit": "\u1f4d8 Unit 2: Exponents & Radicals",
+   "topic": "Radicals",
+   "test_type": "Foundation (Jalapeno)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "Simplify $\\sqrt{16}$",
+           "options": {
+               "A": "2",
+               "B": "4",
+               "C": "6",
+               "D": "8",
+               "E": "10"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "Simplify $\\sqrt[3]{27}$",
+           "options": {
+               "A": "2",
+               "B": "3",
+               "C": "4",
+               "D": "5",
+               "E": "6"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "Convert $\\sqrt{x}$ to rational exponent form",
+           "options": {
+               "A": "$x^{1/2}$",
+               "B": "$x^{1/3}$",
+               "C": "$x^{2/3}$",
+               "D": "$x^{3/4}$",
+               "E": "$x^{4/5}$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "Simplify $\\sqrt{64}$",
+           "options": {
+               "A": "6",
+               "B": "8",
+               "C": "10",
+               "D": "12",
+               "E": "14"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "A spaceship travels $\\sqrt{121}$ kilometers in 2 hours. How many kilometers does it travel per hour?",
+           "options": {
+               "A": "5 km/h",
+               "B": "6 km/h",
+               "C": "7 km/h",
+               "D": "8 km/h",
+               "E": "11 km/h"
+           },
+           "answer": "E"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "Simplify $\\sqrt[3]{64}$",
+           "options": {
+               "A": "2",
+               "B": "3",
+               "C": "4",
+               "D": "5",
+       "E": "6"
+       },
+       "answer": "C"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "Convert $x^{1/3}$ to radical form",
+           "options": {
+               "A": "$\\sqrt[2]{x}$",
+               "B": "$\\sqrt[3]{x}$",
+               "C": "$\\sqrt[4]{x}$",
+               "D": "$\\sqrt[5]{x}$",
+       "E": "$\\sqrt[6]{x}$"
+       },
+       "answer": "B"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "A lab experiment requires $\\sqrt{25}$ grams of a substance. How many grams are needed?",
+           "options": {
+               "A": "3 grams",
+               "B": "5 grams",
+               "C": "7 grams",
+       "D": "9 grams",
+       "E": "11 grams"
+       },
+       "answer": "B"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "Simplify $\\sqrt{48}$. Show all work.",
+       "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "Convert $x^{2/3}$ to radical form and simplify $\\sqrt[3]{128}$. Show all work.",
+       "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Read the questions carefully",
+       "Use a ruler to draw diagrams",
+       "Check your work"
+   ],
+   "footer_title": "Chef's Tips"
+}

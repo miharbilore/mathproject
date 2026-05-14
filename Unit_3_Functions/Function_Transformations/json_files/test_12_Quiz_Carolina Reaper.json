@@ -1,0 +1,128 @@
+{
+  "unit": "Unit 3: Functions",
+   "topic": "Function Transformations",
+   "test_type": "Quiz (Carolina Reaper)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "A logistics company uses the function $y = 2x$ to model the distance traveled by a ship. If the ship is delayed by 3 hours, the new function is $y = 2(x - 3)$. What type of transformation occurred?",
+           "options": {
+               "A": "Vertical shift",
+               "B": "Horizontal shift",
+               "C": "Reflection over x-axis",
+               "D": "Stretch",
+               "E": "Compression"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "The function $y = x^2$ models the flow of traffic in a city. If the traffic flow is reflected over the y-axis, the new function is",
+           "options": {
+               "A": "$y = (-x)^2$",
+               "B": "$y = x^2 + 2$",
+               "C": "$y = -x^2$",
+               "D": "$y = x^2 - 2$",
+               "E": "$y = (x + 2)^2$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "A delivery company uses the function $y = 3x$ to model the time it takes to deliver packages. If the company hires more drivers, the new function becomes $y = 3x / 2$. What type of transformation occurred?",
+           "options": {
+               "A": "Vertical stretch",
+               "B": "Vertical compression",
+               "C": "Horizontal stretch",
+               "D": "Horizontal compression",
+               "E": "Reflection over x-axis"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "The function $y = x^2 + 2$ models the cost of shipping goods. If the cost is doubled, the new function is",
+           "options": {
+               "A": "$y = 2x^2 + 2$",
+               "B": "$y = x^2 + 4$",
+               "C": "$y = 2(x^2 + 2)$",
+               "D": "$y = x^2 + 2x$",
+               "E": "$y = (x + 2)^2$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "A transportation company uses the function $y = 2x - 1$ to model the number of passengers on a bus. If the bus is replaced by a larger bus, the new function becomes $y = 2(2x - 1)$. What type of transformation occurred?",
+           "options": {
+               "A": "Vertical stretch",
+               "B": "Vertical compression",
+               "C": "Horizontal stretch",
+               "D": "Horizontal compression",
+               "E": "Reflection over y-axis"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "The function $y = x^2 - 3$ models the time it takes for a package to be delivered. If the delivery time is increased by 2 hours, the new function is",
+           "options": {
+       "A": "$y = x^2 - 1$",
+       "B": "$y = x^2 + 2$",
+       "C": "$y = (x + 2)^2 - 3$",
+       "D": "$y = x^2 - 3 + 2$",
+       "E": "$y = x^2 - 5$"
+   },
+   "answer": "E"
+},
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "A shipping company uses the function $y = 3x + 2$ to model the cost of shipping goods. If the cost is reflected over the x-axis, the new function is",
+           "options": {
+       "A": "$y = -3x + 2$",
+       "B": "$y = 3x - 2$",
+       "C": "$y = -3x - 2$",
+       "D": "$y = 3x + 2$",
+       "E": "$y = -3x + 4$"
+   },
+   "answer": "C"
+},
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "The function $y = 2x^2$ models the flow of traffic in a city. If the traffic flow is compressed horizontally by a factor of 2, the new function is",
+           "options": {
+       "A": "$y = 2(2x)^2$",
+       "B": "$y = 2x^2 / 2$",
+       "C": "$y = 2(x / 2)^2$",
+       "D": "$y = 8x^2$",
+       "E": "$y = x^2 / 2$"
+   },
+   "answer": "A"
+},
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "A logistics company uses the function $y = x^2 - 4$ to model the cost of shipping goods. If the company wants to increase the cost by 20%, describe the transformation and write the new function.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "The function $y = 3x - 2$ models the time it takes for a package to be delivered. If the delivery time is delayed by 1 hour and the new function is $y = 3(x - 1) - 2$, compare the transformed graph to the parent function and describe any differences.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Tip 1: Provide clear instructions and examples",
+       "Tip 2: Encourage students to use graphs and tables to visualize transformations",
+       "Tip 3: Emphasize the importance of labeling axes and including units"
+   ]
+}

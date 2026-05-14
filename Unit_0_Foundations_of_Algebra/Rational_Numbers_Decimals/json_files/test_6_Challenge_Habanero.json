@@ -1,0 +1,129 @@
+{
+  "unit": "Unit 0: Foundations of Algebra",
+   "topic": "Rational Numbers & Decimals",
+   "test_type": "Challenge (Habanero)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "A gamer scored $\\frac{3}{5}$ of the total points in a game. If the total points are 5000, how many points did the gamer score?",
+           "options": {
+               "A": "3000",
+               "B": "2500",
+               "C": "2000",
+               "D": "1500",
+               "E": "1000"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "A new smartphone's battery life is $2\\frac{1}{4}$ hours when playing games. How many hours is this in decimal form?",
+           "options": {
+               "A": "2.25",
+               "B": "2.40",
+               "C": "2.50",
+               "D": "2.10",
+               "E": "2.75"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "A game developer wants to increase the speed of a character by $15\\%$. If the current speed is $25$ units per second, what is the new speed?",
+           "options": {
+               "A": "28.75",
+               "B": "29.25",
+               "C": "28.00",
+               "D": "27.50",
+               "E": "27.00"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "A gamer has $\\frac{7}{10}$ of a dollar to spend on in-game items. How much is this in cents?",
+           "options": {
+               "A": "70",
+               "B": "65",
+               "C": "75",
+               "D": "60",
+               "E": "50"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "A coding error causes a game to use $1\\frac{3}{5}$ times more data than usual. If the usual data usage is $20$ MB, how much data is used now?",
+           "options": {
+               "A": "36",
+               "B": "40",
+               "C": "38",
+               "D": "32",
+               "E": "46"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "A scoreboard shows a team's score as $0.45$ goals per minute. How many goals will they score in $2\\frac{1}{2}$ minutes?",
+           "options": {
+               "A": "1.125",
+               "B": "1.100",
+               "C": "1.150",
+               "D": "1.200",
+               "E": "1.250"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "A gamer's high score is $\\frac{9}{20}$ of the world record. If the world record is 10000 points, how many points is the gamer's high score?",
+           "options": {
+               "A": "4500",
+               "B": "5000",
+               "C": "4000",
+               "D": "3500",
+       "E": "3000"
+   },
+           "answer": "A"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "A game uses $3\\frac{1}{8}$ GB of storage space. How many MB is this?",
+           "options": {
+               "A": "3008",
+               "B": "3072",
+               "C": "3080",
+               "D": "3096",
+               "E": "3104"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "A new game requires $\\frac{3}{8}$ GB of free disk space to install. If a gamer has $2\\frac{1}{4}$ GB of free space, will they have enough space to install the game? Show your work and explain your answer.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "A gamer's favorite game has a new update that increases the game's file size by $20\\%$. If the original file size is $5$ GB, how many GB will the updated game be? Show your work and explain your answer.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Tip 1: Emphasize the importance of converting between fractions, decimals, and percents",
+       "Tip 2: Encourage students to use number lines to compare and order rational numbers",
+       "Tip 3: Remind students to check their units when performing calculations with different units"
+   ],
+   "footer": "Chef's Tips"
+}

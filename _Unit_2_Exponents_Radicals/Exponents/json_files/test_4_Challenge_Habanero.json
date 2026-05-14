@@ -1,0 +1,129 @@
+{
+  "unit": "\u1F4D6 Unit 2: Exponents & Radicals",
+   "topic": "Exponents",
+   "test_type": "Challenge (Habanero)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "Simplify $2^3 \\cdot 2^4$",
+           "options": {
+               "A": "$2^{3+4}$",
+               "B": "$2^{3 \\cdot 4}$",
+               "C": "$2^{3-4}$",
+               "D": "$2^{4-3}$",
+               "E": "$2^{3/4}$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "A recipe calls for $3^2$ cups of flour. If the recipe is quadrupled, how many cups are needed?",
+           "options": {
+               "A": "$3^2$",
+               "B": "$4 \\cdot 3^2$",
+               "C": "$3^2 \\cdot 3^2$",
+               "D": "$3^{2 \\cdot 4}$",
+               "E": "$3^{2+4}$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "A building is $2^5$ meters tall. If a new building is $2^3$ times taller, how tall is the new building?",
+           "options": {
+               "A": "$2^5$",
+               "B": "$2^8$",
+               "C": "$2^{5+3}$",
+               "D": "$2^{5-3}$",
+               "E": "$2^{5 \\cdot 3}$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "Simplify $(2^2)^3$",
+           "options": {
+               "A": "$2^{2+3}$",
+               "B": "$2^{2-3}$",
+               "C": "$2^{2 \\cdot 3}$",
+               "D": "$2^{3/2}$",
+               "E": "$2^{2/3}$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "A cake recipe requires $2^4$ eggs. If the recipe is halved, how many eggs are needed?",
+           "options": {
+               "A": "$2^4$",
+               "B": "$2^3$",
+       "C": "$2^{4-1}$",
+       "D": "$2^{4/2}$",
+       "E": "$2^{4-2}$"
+   },
+   "answer": "D"
+},
+{
+   "id": 6,
+   "type": "MQ",
+   "question": "Simplify $3^2 \\div 3^4$",
+   "options": {
+       "A": "$3^{2-4}$",
+       "B": "$3^{2+4}$",
+       "C": "$3^{2 \\cdot 4}$",
+       "D": "$3^{4-2}$",
+       "E": "$3^{4/2}$"
+   },
+   "answer": "A"
+},
+{
+   "id": 7,
+   "type": "MQ",
+   "question": "A water tank can hold $2^6$ liters. If $2^4$ liters are already filled, what fraction of the tank is filled?",
+   "options": {
+       "A": "$2^{6-4}$",
+       "B": "$2^{4-6}$",
+       "C": "$2^{4/6}$",
+       "D": "$2^{6/4}$",
+       "E": "$2^{6}\\div 2^{4}$"
+   },
+   "answer": "B"
+},
+{
+   "id": 8,
+   "type": "MQ",
+   "question": "Simplify $2^3 \\cdot 2^2 \\div 2^2$",
+   "options": {
+       "A": "$2^{3+2-2}$",
+       "B": "$2^{3-2+2}$",
+       "C": "$2^{3 \\cdot 2 \\div 2}$",
+       "D": "$2^{3 \\div 2 \\cdot 2}$",
+       "E": "$2^{3 \\cdot 2}$"
+   },
+   "answer": "A"
+},
+{
+   "id": 9,
+   "type": "FRQ",
+   "question": "A construction project requires $3^4$ bags of cement. If each bag weighs $2^3$ kg, what is the total weight of cement needed? Show your work.",
+   "required_space_lines": 5
+},
+{
+   "id": 10,
+   "type": "FRQ",
+   "question": "A recipe for making cookies calls for $2^5$ cups of sugar. If the recipe is tripled, and then the amount of sugar is reduced by $2^2$ cups, how many cups of sugar are needed? Explain your reasoning.",
+   "required_space_lines": 5
+}
+   ],
+   "teacher_rules": [
+       "Make sure to check the units of the answers",
+       "Use the exponent rules to simplify expressions",
+       "Check for any calculation errors"
+   ],
+   "footer": "Chef's Tips"
+}

@@ -1,0 +1,129 @@
+{
+  "unit": "\uD83D\uDCD8 Unit 4: Absolute Value",
+   "topic": "Absolute Value Function and its Graph",
+   "test_type": "Homework (Jalapeno)",
+   "questions": [
+     {
+       "id": 1,
+       "type": "MQ",
+       "question": "The graph of $y = |x - 3|$ has a vertex at",
+       "options": {
+         "A": "(3, 0)",
+         "B": "(0, 3)",
+         "C": "(3, 3)",
+         "D": "(0, 0)",
+         "E": "(1, 1)"
+       },
+       "answer": "A"
+     },
+     {
+       "id": 2,
+       "type": "MQ",
+       "question": "The ancient Egyptian architect Imhotep designed a pyramid with a base length of $|x + 5|$ meters. If the length is 10 meters, what is $x$?",
+       "options": {
+         "A": "-15",
+         "B": "-10",
+         "C": "-5",
+         "D": "0",
+         "E": "5"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 3,
+       "type": "MQ",
+       "question": "The graph of $y = |2x - 1|$ has an axis of symmetry at",
+       "options": {
+         "A": "$x = 0$",
+         "B": "$x = \frac{1}{2}$",
+         "C": "$x = 1$",
+         "D": "$x = 2$",
+         "E": "$x = 3$"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 4,
+       "type": "MQ",
+       "question": "The ancient Greek philosopher Aristotle measured the distance between two points as $|x - 2| + |x + 1|$. If the distance is 5, what is $x$?",
+       "options": {
+         "A": "-3",
+         "B": "-2",
+         "C": "-1",
+         "D": "0",
+         "E": "1"
+       },
+       "answer": "D"
+     },
+     {
+       "id": 5,
+       "type": "MQ",
+       "question": "The graph of $y = |x| + 2$ has a minimum value at",
+       "options": {
+         "A": "(0, 0)",
+         "B": "(0, 2)",
+         "C": "(1, 1)",
+         "D": "(2, 3)",
+         "E": "(3, 4)"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 6,
+       "type": "MQ",
+       "question": "The ancient Chinese mathematician Liu Hui graphed the function $y = |x - 2| - 1$. What is the direction of opening?",
+       "options": {
+         "A": "Up",
+         "B": "Down",
+         "C": "Left",
+         "D": "Right",
+         "E": "None"
+       },
+       "answer": "A"
+     },
+     {
+       "id": 7,
+       "type": "MQ",
+       "question": "The ancient Babylonian astronomer Kidinnu measured the angle of the sun as $|x - 30|$ degrees. If the angle is 10 degrees, what is $x$?",
+       "options": {
+         "A": "20",
+         "B": "25",
+         "C": "30",
+         "D": "35",
+         "E": "40"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 8,
+       "type": "MQ",
+       "question": "The graph of $y = -|x + 1|$ has a maximum value at",
+       "options": {
+         "A": "(-1, 0)",
+         "B": "(-1, 1)",
+         "C": "(0, 0)",
+         "D": "(0, 1)",
+         "E": "(1, 1)"
+       },
+       "answer": "B"
+     },
+     {
+       "id": 9,
+       "type": "FRQ",
+       "question": "Graph the function $y = |x - 2| + 1$ and identify the vertex, axis of symmetry, and direction of opening. Show your work and explain your reasoning.",
+       "required_space_lines": 5
+     },
+     {
+       "id": 10,
+       "type": "FRQ",
+       "question": "The ancient Mayan calendar measured time as $|x - 5| + |x + 2|$. If the time is 10, what is $x$? Show your work and explain your reasoning.",
+       "required_space_lines": 5
+     }
+   ],
+   "teacher_rules": [
+     "Tip 1: Encourage students to use graph paper to visualize the functions.",
+     "Tip 2: Remind students to check their work and explain their reasoning.",
+     "Tip 3: Suggest that students use different colors to highlight important features of the graphs."
+   ],
+   "footer": "Chef's Tips"
+}

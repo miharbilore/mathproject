@@ -1,0 +1,129 @@
+{
+  "unit": "\u1F4D6 Unit 8: Quadratics",
+   "topic": "Systems of Linear and Quadratic Equations",
+   "test_type": "Challenge (Habanero)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "Solve the system: $x + y = 4$, $x^2 + y^2 = 16$. What is the value of $x$?",
+           "options": {
+               "A": "0",
+               "B": "2",
+               "C": "4",
+               "D": "6",
+               "E": "8"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "A recipe for making cookies requires $2x$ cups of flour and $x + 3$ cups of sugar. If the total amount of flour and sugar is $14$ cups, what is the value of $x$?",
+           "options": {
+               "A": "1",
+               "B": "2",
+               "C": "3",
+               "D": "4",
+               "E": "5"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "A building has a height of $x$ meters. A stone is thrown from the top of the building with an initial velocity of $20 \\cdot x$ m/s. What is the time it takes for the stone to reach the ground if $x = 10$?",
+           "options": {
+               "A": "1",
+               "B": "2",
+               "C": "3",
+               "D": "4",
+               "E": "5"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "A construction company is building a rectangular foundation with a length of $x + 5$ meters and a width of $x - 2$ meters. If the area of the foundation is $48$ square meters, what is the value of $x$?",
+           "options": {
+               "A": "6",
+               "B": "7",
+               "C": "8",
+               "D": "9",
+               "E": "10"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "Solve the system: $y = 2x - 3$, $y = x^2 - 4$. What is the $y$-coordinate of the intersection point?",
+           "options": {
+               "A": "-5",
+               "B": "-3",
+               "C": "-1",
+               "D": "1",
+               "E": "3"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "A baker is making a cake that requires $x$ cups of flour and $2x + 1$ cups of sugar. If the total amount of flour and sugar is $21$ cups, what is the value of $x$?",
+           "options": {
+               "A": "4",
+       "B": "5",
+       "C": "6",
+       "D": "7",
+       "E": "8"
+   },
+   "answer": "B"
+},
+{
+   "id": 7,
+   "type": "MQ",
+   "question": "A architect designs a bridge with a length of $x + 10$ meters and a height of $x - 5$ meters. If the area of the bridge is $60$ square meters, what is the value of $x$?",
+   "options": {
+       "A": "8",
+       "B": "10",
+       "C": "12",
+       "D": "14",
+       "E": "16"
+   },
+   "answer": "B"
+},
+{
+   "id": 8,
+   "type": "MQ",
+   "question": "Solve the system: $x^2 + y^2 = 25$, $y = x - 2$. What is the value of $y$?",
+   "options": {
+       "A": "-5",
+       "B": "-3",
+       "C": "-1",
+       "D": "1",
+       "E": "3"
+   },
+   "answer": "D"
+},
+{
+   "id": 9,
+   "type": "FRQ",
+   "question": "A contractor is building a house with a rectangular foundation. The length of the foundation is $x + 2$ meters and the width is $x - 1$ meter. If the area of the foundation is $50$ square meters, find the value of $x$ and the dimensions of the foundation.",
+   "required_space_lines": 5
+},
+{
+   "id": 10,
+   "type": "FRQ",
+   "question": "A chef is making a recipe that requires $x$ cups of flour and $3x + 2$ cups of sugar. If the total amount of flour and sugar is $30$ cups, find the value of $x$ and the total amount of each ingredient.",
+   "required_space_lines": 5
+}
+],
+"teacher_rules": [
+   "Review the basics of linear and quadratic equations before starting the test",
+   "Emphasize the importance of reading the questions carefully and understanding the context",
+   "Encourage students to use graphs and tables to visualize the systems of equations"
+],
+"footer_title": "Chef's Tips"
+}

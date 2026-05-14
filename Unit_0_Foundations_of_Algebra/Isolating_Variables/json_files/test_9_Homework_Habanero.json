@@ -1,0 +1,129 @@
+{
+  "unit": "Unit 0: Foundations of Algebra",
+   "topic": "Isolating Variables",
+   "test_type": "Homework (Habanero)",
+   "questions": [
+      {
+         "id": 1,
+         "type": "MQ",
+         "question": "Solve for $x$: $2x + 5 = 11$",
+         "options": {
+            "A": "$x = 2$",
+            "B": "$x = 3$",
+            "C": "$x = 4$",
+            "D": "$x = 5$",
+            "E": "$x = 6$"
+         },
+         "answer": "B"
+      },
+      {
+         "id": 2,
+         "type": "MQ",
+         "question": "Rearrange to isolate $y$: $y - 3 = 2x + 1$",
+         "options": {
+            "A": "$y = 2x + 4$",
+            "B": "$y = 2x - 4$",
+            "C": "$y = x + 4$",
+            "D": "$y = x - 4$",
+            "E": "$y = 3x + 4$"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 3,
+         "type": "MQ",
+         "question": "Solve for $z$: $z/4 = 9 - 3x$",
+         "options": {
+            "A": "$z = 36 - 12x$",
+            "B": "$z = 36 + 12x$",
+            "C": "$z = 9 - 3x$",
+            "D": "$z = 4(9 - 3x)$",
+            "E": "$z = 12x - 36$"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 4,
+         "type": "MQ",
+         "question": "A patient's dosage of medicine is given by $D = 2t + 5$, where $t$ is time in hours. Solve for $t$",
+         "options": {
+            "A": "$t = (D - 5)/2$",
+            "B": "$t = (D + 5)/2$",
+            "C": "$t = 2D - 5$",
+            "D": "$t = 2D + 5$",
+            "E": "$t = D/2 - 5$"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 5,
+         "type": "MQ",
+         "question": "Isolate $x$ in $x/2 + 2 = 7$",
+         "options": {
+            "A": "$x = 10$",
+            "B": "$x = 12$",
+            "C": "$x = 14$",
+            "D": "$x = 16$",
+            "E": "$x = 18$"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 6,
+         "type": "MQ",
+         "question": "Rearrange to solve for $r$: $A = pi r^2$",
+         "options": {
+            "A": "$r = sqrt{A}/pi$",
+            "B": "$r = sqrt{A/pi}$",
+            "C": "$r = A/pi$",
+            "D": "$r = Api$",
+            "E": "$r = pi/A$"
+         },
+         "answer": "B"
+      },
+      {
+         "id": 7,
+         "type": "MQ",
+         "question": "Solve for $p$ in $2p + 8 = 3p - 4$",
+         "options": {
+            "A": "$p = 12$",
+            "B": "$p = 10$",
+            "C": "$p = 8$",
+            "D": "$p = 6$",
+            "E": "$p = 4$"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 8,
+         "type": "MQ",
+         "question": "The growth rate of a cell is given by $N = 2t + N_0$, where $N_0$ is the initial number of cells. Solve for $t$",
+         "options": {
+            "A": "$t = (N - N_0)/2$",
+            "B": "$t = (N + N_0)/2$",
+            "C": "$t = N/2 - N_0$",
+            "D": "$t = 2N - N_0$",
+            "E": "$t = N - 2N_0$"
+         },
+         "answer": "A"
+      },
+      {
+         "id": 9,
+         "type": "FRQ",
+         "question": "A new medicine is being tested, and its effectiveness is modeled by $E = 3d + 2$, where $d$ is the dosage. Solve for $d$ and explain your steps",
+         "required_space_lines": 5
+      },
+      {
+         "id": 10,
+         "type": "FRQ",
+         "question": "The equation $pV = nRT$ relates the pressure $p$ of a gas to its volume $V$, number of moles $n$, gas constant $R$, and temperature $T$. Rearrange to solve for $V$ and give an example",
+         "required_space_lines": 5
+      }
+   ],
+   "teacher_rules": [
+      "Read each question carefully",
+      "Use the correct formula and units",
+      "Show all work and explain your reasoning"
+   ],
+   "footer_title": "Chef's Tips"
+}

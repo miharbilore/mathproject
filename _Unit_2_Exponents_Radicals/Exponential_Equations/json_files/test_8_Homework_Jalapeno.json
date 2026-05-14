@@ -1,0 +1,129 @@
+{
+  "unit": "# Unit 2: Exponents & Radicals",
+   "topic": "Exponential Equations",
+   "test_type": "Homework (Jalapeno)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "Solve for $x$: $2^x = 16$",
+           "options": {
+               "A": "$x = 2$",
+               "B": "$x = 3$",
+               "C": "$x = 4$",
+               "D": "$x = 5$",
+               "E": "$x = 6$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "The ancient Egyptians used exponential equations to calculate the area of the Great Pyramid. If $3^x = 81$, then $x$ is",
+           "options": {
+               "A": "$2$",
+               "B": "$3$",
+               "C": "$4$",
+               "D": "$5$",
+               "E": "$6$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "Solve for $y$: $5^y = 125$",
+           "options": {
+               "A": "$y = 1$",
+               "B": "$y = 2$",
+               "C": "$y = 3$",
+               "D": "$y = 4$",
+               "E": "$y = 5$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "The ancient Greek mathematician Euclid used the concept of exponents to calculate the volume of a sphere. If $2^x = 32$, then $x$ is",
+           "options": {
+       "A": "$3$",
+       "B": "$4$",
+       "C": "$5$",
+       "D": "$6$",
+       "E": "$7$"
+   },
+           "answer": "B"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "Solve for $z$: $4^z = 256$",
+           "options": {
+       "A": "$3$",
+       "B": "$4$",
+       "C": "$5$",
+       "D": "$6$",
+       "E": "$7$"
+   },
+           "answer": "B"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "In ancient Babylon, mathematicians used exponential equations to calculate the area of triangles. If $6^x = 216$, then $x$ is",
+           "options": {
+       "A": "$2$",
+       "B": "$3$",
+       "C": "$4$",
+       "D": "$5$",
+       "E": "$6$"
+   },
+           "answer": "B"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "The ancient Chinese mathematician Liu Hui used the concept of exponents to calculate the volume of a cylinder. If $8^y = 512$, then $y$ is",
+           "options": {
+       "A": "$2$",
+       "B": "$3$",
+       "C": "$4$",
+       "D": "$5$",
+       "E": "$6$"
+   },
+           "answer": "B"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "Solve for $w$: $9^w = 729$",
+           "options": {
+       "A": "$2$",
+       "B": "$3$",
+       "C": "$4$",
+       "D": "$5$",
+       "E": "$6$"
+   },
+           "answer": "B"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "Solve for $x$: $2^x + 5 = 21$",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "The ancient Mayans used exponential equations to calculate the number of days in a year. If $3^x = 243$, then $x$ is $\\boxed{______}$",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Check for errors in calculation",
+       "Ensure students show their work",
+       "Provide feedback on problem-solving strategies"
+   ],
+   "footer": "Chef's Tips"
+}

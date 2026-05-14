@@ -1,0 +1,129 @@
+{
+  "unit": "Unit 0: Foundations of Algebra",
+   "topic": "Variables and Expressions / Order of Operations",
+   "test_type": "Foundation (Jalapeno)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "What is the value of $2 \\cdot 3 + 12 \\div 4$?",
+           "options": {
+               "A": "8",
+               "B": "10",
+               "C": "12",
+               "D": "14",
+               "E": "16"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "Translate the verbal phrase '5 more than 3 times a number' into an algebraic expression.",
+           "options": {
+               "A": "$3x + 5$",
+               "B": "$3x - 5$",
+               "C": "$5x + 3$",
+               "D": "$5x - 3$",
+               "E": "$x + 15$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "Simplify the expression $2x + 5 + 3x - 2$.",
+           "options": {
+               "A": "$5x + 3$",
+               "B": "$5x - 3$",
+               "C": "$2x + 3$",
+               "D": "$2x - 3$",
+               "E": "$x + 7$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "Evaluate the expression $x^2 + 4x - 5$ when $x = 2$.",
+           "options": {
+               "A": "3",
+               "B": "5",
+               "C": "7",
+               "D": "9",
+               "E": "11"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "What is the value of $(8 - 3) \\cdot (2 + 1)$?",
+           "options": {
+               "A": "10",
+               "B": "12",
+               "C": "15",
+               "D": "18",
+       "E": "20"
+   },
+           "answer": "C"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "A space probe travels $3x + 2$ meters in $x$ seconds. If $x = 4$, how many meters will it travel?",
+           "options": {
+               "A": "10",
+               "B": "12",
+               "C": "14",
+               "D": "16",
+               "E": "18"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "The temperature of a planet is $-2x + 10$ degrees Celsius. If $x = 3$, what is the temperature?",
+           "options": {
+               "A": "2",
+       "B": "4",
+       "C": "6",
+       "D": "4",
+       "E": "6"
+   },
+           "answer": "C"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "What is the value of $12 \\div (3 + 1)$?",
+           "options": {
+               "A": "2",
+               "B": "3",
+               "C": "4",
+               "D": "5",
+       "E": "6"
+   },
+           "answer": "B"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "Simplify the expression $4(2x - 3) + 2(x + 1)$ and evaluate it when $x = 5$.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "Translate the verbal phrase '11 less than 2 times the sum of a number and 5' into an algebraic expression and evaluate it when the number is 4.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Read each question carefully before answering.",
+       "Use the correct order of operations when evaluating expressions.",
+       "Check your work to ensure accuracy."
+   ],
+   "footer": "Chef's Tips"
+}

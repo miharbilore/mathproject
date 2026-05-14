@@ -1,0 +1,128 @@
+{
+  "unit": "\u1f4d6 Unit 2: Exponents & Radicals",
+   "topic": "Exponents",
+   "test_type": "Homework (Habanero)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "Simplify $2^3 \\cdot 2^4$.",
+           "options": {
+               "A": "$2^5$",
+               "B": "$2^6$",
+               "C": "$2^7$",
+               "D": "$2^8$",
+               "E": "$2^{12}$"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "A certain medication's dosage is $2^{n-1}$ milligrams. If $n=5$, what is the dosage?",
+           "options": {
+               "A": "8 mg",
+               "B": "16 mg",
+               "C": "32 mg",
+               "D": "64 mg",
+               "E": "128 mg"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "Simplify $\frac{4^3}{4^2}$.",
+           "options": {
+               "A": "$4^1$",
+               "B": "$4^5$",
+               "C": "$4^{1/2}$",
+               "D": "$2^2$",
+               "E": "$2^4$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "A cell culture grows at a rate of $3^n$ cells per hour. If there are 27 cells after 3 hours, what is $n$?",
+           "options": {
+               "A": "1",
+               "B": "2",
+               "C": "3",
+               "D": "4",
+               "E": "5"
+           },
+           "answer": "C"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "Simplify $(2^2)^3$.",
+           "options": {
+               "A": "$2^5$",
+               "B": "$2^6$",
+               "C": "$2^8$",
+               "D": "$2^{12}$",
+               "E": "$2^{20}$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "The number of bacteria in a sample is $5^{n+1}$. If there are 625 bacteria, what is $n$?",
+           "options": {
+               "A": "3",
+               "B": "4",
+               "C": "5",
+               "D": "6",
+               "E": "7"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "Simplify $\frac{2^6}{2^4}$.",
+           "options": {
+               "A": "$2^2$",
+               "B": "$2^4$",
+               "C": "$2^8$",
+               "D": "$2^{10}$",
+               "E": "$2^{12}$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "The probability of a certain disease occurring is $2^{-n}$. If the probability is $\frac{1}{8}$, what is $n$?",
+           "options": {
+               "A": "2",
+               "B": "3",
+               "C": "4",
+               "D": "5",
+               "E": "6"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "A hospital is using a new medication that has a dosage of $3^{n-2}$ milligrams. If the initial dosage is 9 milligrams, what is the value of $n$? Show your work and explain your reasoning.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "The growth rate of a cell culture is modeled by the equation $P = 2^{t+1}$, where $P$ is the number of cells and $t$ is the time in hours. If there are 16 cells after 2 hours, does the model accurately predict the growth rate? Use mathematical evidence to support your answer.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Chef's Tips",
+       "Provide clear and concise explanations",
+       "Encourage students to show their work and explain their reasoning"
+   ]
+}

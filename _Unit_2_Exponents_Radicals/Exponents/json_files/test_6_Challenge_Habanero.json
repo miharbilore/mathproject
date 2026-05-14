@@ -1,0 +1,124 @@
+{
+  "unit": "\u1F4D6 Unit 2: Exponents & Radicals",
+   "topic": "Exponents",
+   "test_type": "Challenge (Habanero)",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "A gamer's score is $2^x$ points. If the score doubles, what is the new score in terms of $x$?",
+           "options": {
+               "A": "$2^{x+1}$",
+               "B": "$2^{x-1}$",
+               "C": "$2x$",
+               "D": "$2^x + 2$",
+               "E": "$2^{2x}$"
+           },
+           "answer": "A"
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "A coding error in a game causes data usage to increase by a factor of $3^2$. If the original data usage was $x$ MB, what is the new data usage?",
+           "options": {
+               "A": "$3x$",
+               "B": "$9x$",
+               "C": "$x^3$",
+               "D": "$3^x$",
+               "E": "$x^2$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "The number of players in an online game is $5^x$. If $15$ new players join, what is the new number of players in terms of $x$?",
+           "options": {
+               "A": "$5^{x+1}$",
+               "B": "$5^x + 15$",
+               "C": "$5^{x-1}$",
+               "D": "$5x + 15$",
+               "E": "$15^x$"
+           },
+           "answer": "B"
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "A gaming platform's user base grows by a factor of $2^3$ each year. If the current user base is $x$, what will it be in $2$ years?",
+           "options": {
+       "A": "$2^3x$",
+       "B": "$2^6x$",
+       "C": "$8x$",
+       "D": "$x^2$",
+       "E": "$2x$"
+   },
+   "answer": "B"
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "The cost of in-game items is $3^x$ dollars. If the cost increases by a factor of $3$, what is the new cost in terms of $x$?",
+           "options": {
+       "A": "$3^{x+1}$",
+       "B": "$3^{x-1}$",
+       "C": "$3x$",
+       "D": "$3^x + 3$",
+       "E": "$9^x$"
+   },
+   "answer": "A"
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "The score of a game is calculated by the formula $2^x cdot 3^y$. If $x = 2$ and $y = 3$, what is the score?",
+           "options": {
+       "A": "$72$",
+       "B": "$108$",
+       "C": "$144$",
+       "D": "$216$",
+       "E": "$288$"
+   },
+   "answer": "D"
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "The number of levels in a game is $x^2$ and the number of points required to pass each level is $2^x$. What is the total number of points required to pass all levels?",
+           "options": {
+       "A": "$2^{x^2}$",
+       "B": "$x^2 cdot 2^x$",
+       "C": "$x cdot 2^{x^2}$",
+       "D": "$2x$",
+       "E": "$x^2 + 2^x$"
+   },
+   "answer": "B"
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "The time taken to complete a level in a game is $3^x$ minutes. If the time taken is doubled, what is the new time in terms of $x$?",
+           "options": {
+       "A": "$2 cdot 3^x$",
+       "B": "$3^{x+1}$",
+       "C": "$3^{2x}$",
+       "D": "$3^x + 2$",
+       "E": "$6^x$"
+   },
+   "answer": "B"
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "A tech company's data storage capacity is $2^{10}$ GB. If the capacity is increased by a factor of $2^3$, what is the new capacity in GB? Show your work and explain your reasoning.",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "A game developer wants to create a scoreboard that displays the top $5$ players with the highest scores. If the scores are calculated by the formula $x^2 cdot 2^y$, where $x$ is the number of levels completed and $y$ is the number of points earned, what is the score of the player who completed $3$ levels and earned $12$ points? Show your work and explain your reasoning.",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": ["Read the questions carefully", "Use the formula sheet provided", "Show all work and explain reasoning"]
+}

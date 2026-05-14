@@ -1,0 +1,129 @@
+{
+  "unit": "\u1f4d6 Unit 9: Data Statistical Analysis",
+   "topic": "Stem and Leaf Plots",
+   "test_type": "Quiz (Habanero)",
+   "questions": [
+       { 
+           "id": 1, 
+           "type": "MQ", 
+           "question": "What is the primary purpose of a stem-and-leaf plot in analyzing temperature changes?", 
+           "options": { 
+               "A": "To display the mean temperature", 
+               "B": "To show the distribution of temperatures", 
+               "C": "To compare temperatures between cities", 
+               "D": "To predict future temperature changes", 
+               "E": "To calculate the standard deviation"
+           }, 
+           "answer": "B" 
+       },
+       { 
+           "id": 2, 
+           "type": "MQ", 
+           "question": "A stem-and-leaf plot shows the daily rainfall in a city. If the stem is $20$ and the leaves are $5, 7, 2$, what are the actual rainfall values?", 
+           "options": { 
+               "A": "$25, 27, 22$", 
+               "B": "$205, 207, 202$", 
+               "C": "$20.5, 20.7, 20.2$", 
+               "D": "$2.05, 2.07, 2.02$", 
+               "E": "$2005, 2007, 2002$"
+           }, 
+           "answer": "B" 
+       },
+       { 
+           "id": 3, 
+           "type": "MQ", 
+           "question": "Which of the following distributions is best represented by a stem-and-leaf plot?", 
+           "options": { 
+               "A": "Normal distribution", 
+               "B": "Skewed distribution", 
+               "C": "Bimodal distribution", 
+               "D": "Uniform distribution", 
+               "E": "Exponential distribution"
+           }, 
+           "answer": "B" 
+       },
+       { 
+           "id": 4, 
+           "type": "MQ", 
+           "question": "The stem-and-leaf plot below shows the temperature changes in a region. What is the median temperature change? $\\begin{array}{r|l} 1 & 2, 5, 8 \\ 2 & 1, 4, 7 end{array}$", 
+           "options": { 
+               "A": "$15^{circ}$", 
+               "B": "$18^{circ}$", 
+               "C": "$22^{circ}$", 
+               "D": "$25^{circ}$", 
+               "E": "$28^{circ}$"
+           }, 
+           "answer": "B" 
+       },
+       { 
+           "id": 5, 
+           "type": "MQ", 
+           "question": "What is the advantage of using a stem-and-leaf plot over a histogram?", 
+           "options": { 
+               "A": "It is easier to read", 
+               "B": "It shows more detail", 
+               "C": "It is better for large datasets", 
+               "D": "It is more difficult to create", 
+               "E": "It is only used for temperature changes"
+           }, 
+           "answer": "B" 
+       },
+       { 
+           "id": 6, 
+           "type": "MQ", 
+           "question": "A researcher collected data on the amount of $CO_2$ in the atmosphere. The stem-and-leaf plot shows the following data: $\\begin{array}{r|l} 3 & 4, 9, 1 \\ 4 & 2, 6, 8 end{array}$. What is the range of $CO_2$ levels?", 
+           "options": { 
+               "A": "$30-49$", 
+               "B": "$34-49$", 
+               "C": "$31-48$", 
+               "D": "$39-42$", 
+               "E": "$14-18$"
+           }, 
+           "answer": "B" 
+       },
+       { 
+           "id": 7, 
+           "type": "MQ", 
+           "question": "The stem-and-leaf plot shows the pH levels of different ecosystems. Which ecosystem has the highest pH level? $\\begin{array}{r|l} 6 & 2, 5, 8 \\ 7 & 1, 4, 7 end{array}$", 
+           "options": { 
+               "A": "Ecosystem with pH $6.2$", 
+               "B": "Ecosystem with pH $6.5$", 
+               "C": "Ecosystem with pH $6.8$", 
+               "D": "Ecosystem with pH $7.1$", 
+               "E": "Ecosystem with pH $7.7$"
+           }, 
+           "answer": "E" 
+       },
+       { 
+           "id": 8, 
+           "type": "MQ", 
+           "question": "Which of the following is a limitation of using a stem-and-leaf plot?", 
+           "options": { 
+               "A": "It can only be used for small datasets", 
+               "B": "It can only be used for large datasets", 
+               "C": "It does not show the distribution of the data", 
+               "D": "It is difficult to compare multiple datasets", 
+               "E": "It is only used for temperature changes"
+           }, 
+           "answer": "D" 
+       },
+       { 
+           "id": 9, 
+           "type": "FRQ", 
+           "question": "Create a stem-and-leaf plot to display the following rainfall data: $23, 27, 19, 31, 22, 28, 25$. What can you infer about the distribution of rainfall from the plot?", 
+           "required_space_lines": 5
+       },
+       { 
+           "id": 10, 
+           "type": "FRQ", 
+           "question": "The stem-and-leaf plot shows the temperature changes in a region over a month. $\\begin{array}{r|l} 1 & 2, 5, 8 \\ 2 & 1, 4, 7 end{array}$. Calculate the mean and median temperature changes. What can you infer about the distribution of temperature changes?", 
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Tip 1: Remind students to check their work carefully",
+       "Tip 2: Encourage students to use the stem-and-leaf plot to identify patterns and trends",
+       "Tip 3: Suggest that students use a calculator to check their calculations"
+   ],
+   "footer_title": "Chef's Tips"
+}

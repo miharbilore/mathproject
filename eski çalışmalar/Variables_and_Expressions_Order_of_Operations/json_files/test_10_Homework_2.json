@@ -1,0 +1,150 @@
+{
+  "test_id": 10,
+   "test_type": "Homework 2",
+   "topic": "Variables and Expressions / Order of Operations",
+   "questions": [
+       {
+           "id": 1,
+           "type": "MQ",
+           "question": "What is the variable in the expression $2x + 3$?",
+           "options": {
+               "A": "2",
+               "B": "3",
+               "C": "x",
+               "D": "2x",
+               "E": "None of the above"
+           },
+           "answer": "C",
+           "spicy_level": "",
+           "required_space_lines": 0
+       },
+       {
+           "id": 2,
+           "type": "MQ",
+           "question": "Identify the coefficient in the term $4y$",
+           "options": {
+               "A": "y",
+               "B": "4",
+               "C": "4y",
+               "D": "None of the above",
+               "E": "0"
+           },
+           "answer": "B",
+           "spicy_level": "",
+           "required_space_lines": 0
+       },
+       {
+           "id": 3,
+           "type": "MQ",
+           "question": "What is the constant term in the expression $x + 2$?",
+           "options": {
+               "A": "x",
+               "B": "2",
+               "C": "x + 2",
+               "D": "None of the above",
+               "E": "0"
+           },
+           "answer": "B",
+           "spicy_level": "",
+           "required_space_lines": 0
+       },
+       {
+           "id": 4,
+           "type": "MQ",
+           "question": "Identify the operator in $5 - 2$",
+           "options": {
+               "A": "5",
+               "B": "2",
+               "C": "-",
+               "D": "None of the above",
+               "E": "+"
+           },
+           "answer": "C",
+           "spicy_level": "",
+           "required_space_lines": 0
+       },
+       {
+           "id": 5,
+           "type": "MQ",
+           "question": "What is the term $3x$ an example of?",
+           "options": {
+               "A": "Constant",
+               "B": "Variable",
+               "C": "Coefficient times a variable",
+               "D": "Expression",
+               "E": "Equation"
+           },
+           "answer": "C",
+           "spicy_level": "",
+           "required_space_lines": 0
+       },
+       {
+           "id": 6,
+           "type": "MQ",
+           "question": "In the expression $2x + 5$, what operation is performed first?",
+           "options": {
+               "A": "Addition",
+               "B": "Multiplication",
+               "C": "Subtraction",
+               "D": "Division",
+       "E": "None of the above"
+       },
+           "answer": "B",
+           "spicy_level": "",
+           "required_space_lines": 0
+       },
+       {
+           "id": 7,
+           "type": "MQ",
+           "question": "What does the expression $2(x + 3)$ mean?",
+           "options": {
+               "A": "2 times x plus 3",
+               "B": "2 times the sum of x and 3",
+               "C": "x plus 3 times 2",
+               "D": "x plus 2 times 3",
+       "E": "2x + 6"
+       },
+           "answer": "B",
+           "spicy_level": "",
+           "required_space_lines": 0
+       },
+       {
+           "id": 8,
+           "type": "MQ",
+           "question": "Identify the expression $x - 2$ as an example of?",
+           "options": {
+               "A": "A single term",
+               "B": "A constant",
+               "C": "A single-variable expression",
+               "D": "A multi-variable expression",
+       "E": "An equation"
+       },
+           "answer": "C",
+           "spicy_level": "",
+           "required_space_lines": 0
+       },
+       {
+           "id": 9,
+           "type": "FRQ",
+           "question": "Explain, using examples, the difference between a variable and a constant in an algebraic expression. Provide a simple expression that includes both.",
+           "options": {},
+           "answer": "Model Solution: In an algebraic expression, a variable is a letter that represents a value that can change, such as x in $2x + 3$. A constant, on the other hand, is a number that does not change, such as 3 in the same expression. An example of an expression that includes both is $x + 4$, where x is the variable and 4 is the constant.",
+           "spicy_level": "",
+           "required_space_lines": 5
+       },
+       {
+           "id": 10,
+           "type": "FRQ",
+           "question": "Draw a simple diagram to illustrate the concept of the order of operations. Use the expression $3 \times 2 + 12 div 4$ as an example and explain each step.",
+           "options": {},
+           "answer": "Model Solution: The order of operations is Parentheses, Exponents, Multiplication and Division (from left to right), Addition and Subtraction (from left to right). This can be remembered by the acronym PEMDAS. Using the expression $3 \times 2 + 12 div 4$, first perform the multiplication and division from left to right: $6 + 3$. Then, perform the addition: $9$. A diagram illustrating this process would show each operation in sequence, with arrows representing the order in which they are performed.",
+           "spicy_level": "",
+           "required_space_lines": 5
+       }
+   ],
+   "teacher_rules": [
+       "Focus on defining key terms such as 'variable', 'constant', and 'coefficient' to ensure students have a solid foundation.",
+       "Use simple expressions to illustrate the order of operations, emphasizing the sequence of steps to follow.",
+       "Encourage students to use diagrams or visual aids to help them understand and explain complex concepts in a simple manner."
+   ]
+}

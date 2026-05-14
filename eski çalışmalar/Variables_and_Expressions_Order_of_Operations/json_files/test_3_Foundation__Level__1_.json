@@ -1,0 +1,100 @@
+{
+  "test_id": 3,
+   "test_type": "Foundation (Level -1)",
+   "topic": "Variables and Expressions / Order of Operations",
+   "questions": [
+     {
+       "id": 1,
+       "type": "MQ",
+       "question": "What is the variable in the expression $2x$?",
+       "options": { "A": "2", "B": "$x$", "C": "2$x$", "D": "None", "E": "Expression" },
+       "answer": "B",
+       "spicy_level": "🌶️",
+       "required_space_lines": 0
+     },
+     {
+       "id": 2,
+       "type": "MQ",
+       "question": "Identify the constant in the expression $4 + 3x$",
+       "options": { "A": "3", "B": "4", "C": "$3x$", "D": "None", "E": "Expression" },
+       "answer": "B",
+       "spicy_level": "🌶️",
+       "required_space_lines": 0
+     },
+     {
+       "id": 3,
+       "type": "MQ",
+       "question": "What is the coefficient of $x$ in the expression $5x$?",
+       "options": { "A": "1", "B": "5", "C": "$x$", "D": "None", "E": "Expression" },
+       "answer": "B",
+       "spicy_level": "🌶️",
+       "required_space_lines": 0
+     },
+     {
+       "id": 4,
+       "type": "MQ",
+       "question": "Which of the following is an example of a variable: $x$, $2$, or $3y$?",
+       "options": { "A": "2", "B": "$x$", "C": "$3y$", "D": "$x$ or $3y$", "E": "None" },
+       "answer": "D",
+       "spicy_level": "🌶️",
+       "required_space_lines": 0
+     },
+     {
+       "id": 5,
+       "type": "MQ",
+       "question": "Identify the operator in the expression $7 - 2$",
+       "options": { "A": "7", "B": "2", "C": "-", "D": "None", "E": "Expression" },
+       "answer": "C",
+       "spicy_level": "🌶️",
+       "required_space_lines": 0
+     },
+     {
+       "id": 6,
+       "type": "MQ",
+       "question": "What does the term $2x$ represent in the expression $2x + 5$?",
+       "options": { "A": "Constant", "B": "Variable", "C": "Coefficient", "D": "Expression", "E": "None" },
+       "answer": "B",
+       "spicy_level": "🌶️",
+       "required_space_lines": 0
+     },
+     {
+       "id": 7,
+       "type": "MQ",
+       "question": "Is $3y$ a variable or an expression?",
+       "options": { "A": "Variable", "B": "Expression", "C": "Constant", "D": "Coefficient", "E": "None" },
+       "answer": "B",
+       "spicy_level": "🌶️",
+       "required_space_lines": 0
+     },
+     {
+       "id": 8,
+       "type": "MQ",
+       "question": "What is the term for a number that is multiplied by a variable, such as $4$ in $4x$?",
+       "options": { "A": "Constant", "B": "Coefficient", "C": "Variable", "D": "Expression", "E": "None" },
+       "answer": "B",
+       "spicy_level": "🌶️",
+       "required_space_lines": 0
+     },
+     {
+       "id": 9,
+       "type": "FRQ",
+       "question": "Draw a diagram to illustrate the difference between a constant and a variable in an algebraic expression. Provide a brief explanation.",
+       "answer": "Model Solution: A diagram with two separate sections, one labeled 'Constant' and the other 'Variable'. The 'Constant' section should contain a numerical value (e.g., 5), while the 'Variable' section should contain a letter or symbol (e.g., $x$). The explanation should describe how constants have fixed values, whereas variables can take on different values.",
+       "spicy_level": "🌶️",
+       "required_space_lines": 5
+     },
+     {
+       "id": 10,
+       "type": "FRQ",
+       "question": "Explain, using examples, how the order of operations is used to simplify expressions. Be sure to include at least two expressions and the step-by-step simplification process for each.",
+       "answer": "Model Solution: Provide two examples of expressions, such as $3 + 2 \times 4$ and $10 - 3 + 2$. For each expression, write out the step-by-step simplification process, following the order of operations (PEMDAS/BODMAS). Include a brief explanation of why the order of operations is necessary for simplifying expressions.",
+       "spicy_level": "🌶️",
+       "required_space_lines": 10
+     }
+   ],
+   "teacher_rules": [
+     "Emphasize the distinction between variables, constants, and expressions to help students understand the fundamental concepts of algebra.",
+     "Use visual aids, such as diagrams and graphs, to illustrate the relationships between variables, constants, and expressions.",
+     "Provide students with numerous examples and opportunities for practice to reinforce their understanding of the order of operations and how to simplify expressions."
+   ]
+}

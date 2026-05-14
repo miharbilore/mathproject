@@ -1,0 +1,129 @@
+{
+  "unit":"📘 Unit 7: Factoring",
+   "topic":"Finding Common Factors",
+   "test_type":"Homework (Jalapeno)",
+   "questions":[
+      {
+         "id":1,
+         "type":"MQ",
+         "question":"The ancient Egyptians built the Great Pyramid using $2x \\cdot 3y$ stones. If they wanted to factor out the greatest common factor, what would it be?",
+         "options":{
+            "A":"$2$",
+            "B":"$3$",
+            "C":"$6$",
+            "D":"$x$",
+            "E":"$y$"
+         },
+         "answer":"C"
+      },
+      {
+         "id":2,
+         "type":"MQ",
+         "question":"The ancient Greek city of Babylon had $12x + 16$ olive trees. What is the greatest common factor of this expression?",
+         "options":{
+            "A":"$2$",
+            "B":"$4$",
+            "C":"$8$",
+            "D":"$12$",
+            "E":"$16$"
+         },
+         "answer":"B"
+      },
+      {
+         "id":3,
+         "type":"MQ",
+         "question":"The Mayan civilization used $9x^2 + 27x$ to calculate the area of their temples. What is the factored form of this expression?",
+         "options":{
+            "A":"$3x(3x + 9)$",
+            "B":"$9x(x + 3)$",
+            "C":"$3(3x^2 + 9x)$",
+            "D":"$9(x^2 + 3x)$",
+            "E":"$3x(3x - 9)$"
+         },
+         "answer":"B"
+      },
+      {
+         "id":4,
+         "type":"MQ",
+         "question":"The ancient Chinese used $24x - 30$ to measure the length of the Great Wall. What is the greatest common factor of this expression?",
+         "options":{
+            "A":"$2$",
+            "B":"$6$",
+            "C":"$12$",
+            "D":"$24$",
+            "E":"$30$"
+         },
+         "answer":"B"
+      },
+      {
+         "id":5,
+         "type":"MQ",
+         "question":"The Inca Empire used $15x + 25$ to calculate the amount of gold they had. What is the greatest common factor of this expression?",
+         "options":{
+            "A":"$5$",
+            "B":"$10$",
+            "C":"$15$",
+            "D":"$20$",
+            "E":"$25$"
+         },
+         "answer":"A"
+      },
+      {
+         "id":6,
+         "type":"MQ",
+         "question":"The ancient Indians used $8x^2 - 24x$ to calculate the area of their crops. What is the factored form of this expression?",
+         "options":{
+            "A":"$8x(x - 3)$",
+            "B":"$8(x^2 - 3x)$",
+            "C":"$8x(x + 3)$",
+            "D":"$8(x^2 + 3x)$",
+            "E":"$8x(3x - 1)$"
+         },
+         "answer":"A"
+      },
+      {
+         "id":7,
+         "type":"MQ",
+         "question":"The ancient Egyptians used $6x + 18$ to measure the length of their pyramids. What is the greatest common factor of this expression?",
+         "options":{
+            "A":"$2$",
+            "B":"$3$",
+            "C":"$6$",
+            "D":"$12$",
+            "E":"$18$"
+         },
+         "answer":"C"
+      },
+      {
+         "id":8,
+         "type":"MQ",
+         "question":"The ancient Greeks used $20x - 12$ to calculate the amount of olive oil they produced. What is the greatest common factor of this expression?",
+         "options":{
+            "A":"$2$",
+            "B":"$4$",
+            "C":"$8$",
+            "D":"$12$",
+            "E":"$20$"
+         },
+         "answer":"B"
+      },
+      {
+         "id":9,
+         "type":"FRQ",
+         "question":"The ancient Mesopotamians used $12x^2 + 36x$ to calculate the area of their cities. Factor out the greatest common factor and simplify the expression. Show your work.",
+         "required_space_lines":5
+      },
+      {
+         "id":10,
+         "type":"FRQ",
+         "question":"The ancient Aztecs used $15x + 30$ to calculate the amount of food they had. Factor out the greatest common factor and simplify the expression. Explain your reasoning.",
+         "required_space_lines":5
+      }
+   ],
+   "teacher_rules":[
+      "Tip 1: Make sure students show their work for the free response questions.",
+      "Tip 2: Encourage students to use different methods to factor out the greatest common factor.",
+      "Tip 3: Remind students to check their answers for accuracy."
+   ],
+   "footer_title":"Chef's Tips"
+}
