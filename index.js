@@ -16,6 +16,7 @@ const {
   validateTestPayload,
   validateQuestionUniqueness,
   writeJsonAtomic,
+  getInvalidFilePath,
   validateExistingTestFile,
   collectExistingQuestionHashes,
   collectGaps
@@ -113,7 +114,7 @@ async function generateTest(unit, subtopic, testIndex, existingHashes = new Set(
       console.log(`⏩ Skipping existing: ${fileName}`);
       return false;
     }
-    const invalidPath = `${filePath}.invalid-${Date.now()}`;
+    const invalidPath = getInvalidFilePath(filePath);
     fs.renameSync(filePath, invalidPath);
     console.warn(`⚠️ Invalid JSON found. Moved aside: ${path.basename(invalidPath)}`);
   }
