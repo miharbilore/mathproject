@@ -1,5 +1,5 @@
 const fs = require("fs");
-const { exec } = require("child_process");
+const { execFile } = require("child_process");
 const path = require("path");
 require("dotenv").config();
 
@@ -110,7 +110,7 @@ walk(".", (jsonDir) => {
     
     fs.writeFileSync(texPath, tex);
 
-    exec(`"${PDFLATEX_PATH}" -interaction=nonstopmode "${baseName}.tex"`, { cwd: pdfDir }, (err) => {
+    execFile(PDFLATEX_PATH, ["-interaction=nonstopmode", `${baseName}.tex`], { cwd: pdfDir }, (err) => {
       if (err) {
         console.error(`❌ Error generating PDF for ${baseName}`);
       } else {
