@@ -3,87 +3,38 @@ const fs = require("fs");
 const path = require("path");
 require("dotenv").config();
 
-// --- Configuration ---
-const delay = (ms) => new Promise(resolve => setTimeout(resolve, ms));
+const {
+  delay,
+  parseCurriculum,
+  getTestMeta,
+  sanitizeFolderName,
+  getJsonDir,
+  getTestFilePath,
+  ensureDir,
+  loadApiKeys,
+  ApiKeyPool,
+  validateTestPayload,
+  collectGaps
+} = require("./lib/shared");
 
-const apiKeys = [
-  process.env.GROQ_API_KEY,
-  process.env.GROQ_API_KEY_1,
-  process.env.GROQ_API_KEY_2,
-  process.env.GROQ_API_KEY_3,
-  process.env.OPENROUTER_API_KEY
-].filter(key => !!key);
+const apiKeys = loadApiKeys({
+  baseNames: ["GROQ_API_KEY", "OPENROUTER_API_KEY"],
+  listNames: ["GROQ_API_KEYS", "OPENROUTER_API_KEYS"]
+});
+const keyPool = new ApiKeyPool(apiKeys, { cooldownMs: 60000, label: "Groq/OpenRouter" });
 
-let currentKeyIndex = 0;
-
-function getGroqClient() {
-  const apiKey = apiKeys[currentKeyIndex];
-  
-  // Eğer anahtar OpenRouter ise farklı bir kapıdan (baseURL) bağlan
+function getGroqClient(apiKey) {
   if (apiKey.startsWith("sk-or-v1-")) {
     return new Groq({
-      apiKey: apiKey,
+      apiKey,
       baseURL: "https://openrouter.ai/api/v1",
       defaultHeaders: {
-        "HTTP-Referer": "http://localhost:3000", // OpenRouter için gerekli
+        "HTTP-Referer": "http://localhost:3000",
         "X-Title": "Math Project Matbaa"
       }
     });
   }
-  
-  // Standart Groq anahtarı ise normal devam et
-  return new Groq({ apiKey: apiKey });
-}
-
-const sanitizeFolderName = (name) => {
-  return name.replace(/[^a-z0-9]/gi, '_').replace(/_+/g, '_');
-};
-
-// --- CURRICULUM PARSER ---
-function parseCurriculum() {
-  const content = fs.readFileSync("topics and subtopics.txt", "utf-8");
-  const lines = content.split("\n").map(l => l.trim()).filter(l => l.length > 0);
-  
-  const curriculum = [];
-  let currentUnit = null;
-  let currentSubtopic = null;
-
-  for (const line of lines) {
-    if (line.toLowerCase().includes("unit") && line.includes(":")) {
-      currentUnit = { name: line, subtopics: [] };
-      curriculum.push(currentUnit);
-    } else if (line.startsWith("Students will be able to")) {
-      if (currentSubtopic) currentSubtopic.objectives.push(line);
-    } else {
-      currentSubtopic = { name: line, objectives: [] };
-      if (currentUnit) currentUnit.subtopics.push(currentSubtopic);
-    }
-  }
-  return curriculum;
-}
-
-// --- LEVEL MAPPING ---
-function getTestMeta(index) {
-  let spice, type;
-  if (index <= 3) {
-    spice = "Jalapeno"; // Yellow Pepper
-    type = "Foundation";
-  } else if (index <= 6) {
-    spice = "Habanero"; // Orange Pepper
-    type = "Challenge";
-  } else if (index === 7) {
-    spice = "Carolina Reaper"; // Red Pepper
-    type = "Advanced";
-  } else if (index <= 10) {
-    // Homework: 8(F), 9(C), 10(A)
-    type = "Homework";
-    spice = (index === 8) ? "Jalapeno" : (index === 9 ? "Habanero" : "Carolina Reaper");
-  } else {
-    // Quiz: 11(C), 12(A)
-    type = "Quiz";
-    spice = (index === 11) ? "Habanero" : "Carolina Reaper";
-  }
-  return { spice, type };
+  return new Groq({ apiKey });
 }
 
 // --- GENERATION LOGIC ---
@@ -146,27 +97,29 @@ async function generateTest(unit, subtopic, testIndex) {
 
   const unitFolder = sanitizeFolderName(unit.name);
   const subtopicFolder = sanitizeFolderName(subtopic.name);
-  const baseDir = path.join(unitFolder, subtopicFolder);
-  const jsonDir = path.join(baseDir, "json_files");
+  const jsonDir = getJsonDir(unit.name, subtopic.name);
+  ensureDir(jsonDir);
 
-  if (!fs.existsSync(jsonDir)) fs.mkdirSync(jsonDir, { recursive: true });
+  const filePath = getTestFilePath(unit.name, subtopic.name, testIndex);
+  const fileName = path.basename(filePath);
 
-  const fileName = `test_${testIndex}_${meta.type}_${meta.spice}.json`;
-  const filePath = path.join(jsonDir, fileName);
-
-  // Skip if already exists
   if (fs.existsSync(filePath)) {
     console.log(`⏩ Skipping existing: ${fileName}`);
-    return;
+    return false;
   }
 
-  let attempts = apiKeys.length * 3;
+  let attempts = Math.max(3, keyPool.size() * 2);
   while (attempts > 0) {
+    const keyInfo = await keyPool.acquire();
+    if (!keyInfo) {
+      console.error("❌ No Groq/OpenRouter API keys configured.");
+      return false;
+    }
+    const { key: apiKey, index } = keyInfo;
+    const isOR = apiKey.startsWith("sk-or-v1-");
     try {
-      console.log(`🚀 [Key ${currentKeyIndex + 1}] Producing: ${unitFolder} -> ${subtopicFolder} -> ${fileName}`);
-      const apiKey = apiKeys[currentKeyIndex];
-      const isOR = apiKey.startsWith("sk-or-v1-");
-      const groq = getGroqClient();
+      console.log(`🚀 Producing: ${unitFolder} -> ${subtopicFolder} -> ${fileName}`);
+      const groq = getGroqClient(apiKey);
       const completion = await groq.chat.completions.create({
         messages: [{ role: "user", content: prompt }],
         model: isOR ? "meta-llama/llama-3.3-70b-instruct" : "llama-3.3-70b-versatile",
@@ -174,41 +127,74 @@ async function generateTest(unit, subtopic, testIndex) {
         temperature: 1
       });
 
-      fs.writeFileSync(filePath, completion.choices[0].message.content);
+      const content = completion.choices[0].message.content;
+      const parsed = JSON.parse(content);
+      const validation = validateTestPayload(parsed);
+      if (!validation.ok) {
+        throw new Error(`Validation failed: ${validation.errors.join("; ")}`);
+      }
+
+      fs.writeFileSync(filePath, JSON.stringify(parsed, null, 2));
       console.log(`✅ Success! 10s delay...`);
       await delay(10000);
-      return;
+      return true;
     } catch (error) {
-      if (error.status === 429) {
-        console.warn(`⚠️ Quota hit on Key ${currentKeyIndex + 1}. Rotating...`);
-        currentKeyIndex = (currentKeyIndex + 1) % apiKeys.length;
+      const status = error.status || error.statusCode;
+      const isRateLimit = status === 429 || /quota|rate/i.test(error.message);
+      if (isRateLimit) {
+        console.warn(`⚠️ Quota hit. Cooling key and rotating...`);
+        keyPool.markRateLimited(index, 90000);
         attempts--;
-        await delay(5000);
-      } else {
-        console.error("❌ Fatal Error:", error.message);
-        break;
+        continue;
       }
+      console.error("❌ Error:", error.message);
+      attempts--;
+      await delay(3000);
     }
   }
+  return false;
 }
 
 // --- MAIN RUNNER ---
 async function run() {
+  if (keyPool.size() === 0) {
+    console.error("❌ No Groq/OpenRouter API keys found.");
+    process.exit(1);
+  }
+
   console.log("🚀 Starting Full Production for All Units...");
   const curriculum = parseCurriculum();
-  
-  for (const unit of curriculum) {
-    console.log(`\n📂 Processing UNIT: ${unit.name}`);
-    for (const subtopic of unit.subtopics) {
-      console.log(`\n🔹 Subtopic: ${subtopic.name}`);
-      for (let i = 1; i <= 12; i++) {
-        await generateTest(unit, subtopic, i);
+
+  let pass = 1;
+  let progress = true;
+  while (progress) {
+    progress = false;
+    console.log(`\n🔁 Generation pass ${pass}...`);
+    for (const unit of curriculum) {
+      console.log(`\n📂 Processing UNIT: ${unit.name}`);
+      for (const subtopic of unit.subtopics) {
+        console.log(`\n🔹 Subtopic: ${subtopic.name}`);
+        for (let i = 1; i <= 12; i++) {
+          const generated = await generateTest(unit, subtopic, i);
+          if (generated) progress = true;
+        }
       }
     }
+
+    const gaps = collectGaps(curriculum);
+    if (gaps.length === 0) {
+      console.log("\n✅ ALL UNITS PRODUCTION COMPLETE!");
+      return;
+    }
+    if (!progress) {
+      console.warn("\n⚠️ No new tests generated in this pass. Remaining gaps:");
+      gaps.forEach(gap => {
+        console.warn(`- ${gap.unit} -> ${gap.subtopic} (missing: ${gap.missing.join(", ")})`);
+      });
+      return;
+    }
+    pass++;
   }
-  
-  console.log("\n✅ ALL UNITS PRODUCTION COMPLETE!");
 }
 
 run();
-

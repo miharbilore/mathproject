@@ -25,10 +25,14 @@ GROQ_API_KEY=...
 GROQ_API_KEY_1=...
 GROQ_API_KEY_2=...
 GROQ_API_KEY_3=...
+GROQ_API_KEYS=keyA,keyB
 OPENROUTER_API_KEY=...
+OPENROUTER_API_KEYS=keyA,keyB
 GEMINI_API_KEY=...
+GEMINI_API_KEYS=keyA,keyB
 PDFLATEX_PATH=pdflatex
 ```
+Not: `*_KEYS` alanları virgül ile çoklu anahtar eklemek içindir. İsterseniz `*_KEY_1`, `*_KEY_2` şeklinde de çoğaltabilirsiniz.
 
 ## Kullanım
 - **Groq/OpenRouter ile tüm testleri üret:**  
@@ -52,6 +56,11 @@ PDFLATEX_PATH=pdflatex
 Unit_*/<Subtopic>/json_files/*.json
 Unit_*/<Subtopic>/pdf_files/*.pdf
 ```
+
+## Kalite ve Kota Yönetimi
+- Üretilen JSON’lar şema ve içerik kurallarına göre doğrulanır; hatalı JSON üretimi otomatik tekrar denenir.
+- API anahtarları için otomatik rotasyon yapılır; kota dolarsa anahtar soğumaya alınır ve diğer anahtarlar denenir.
+- Üretim döngüsü, tüm konular tamamlanana kadar tekrar eder; ilerleme sağlanamazsa kalan eksikler raporlanır.
 
 ## Aynı İşi Yapan / Benzer Dosyalar
 - `index.js` ve `fill_math_gaps.js`: Aynı müfredat okuma, seviye eşleme ve test üretim akışını iki farklı LLM sağlayıcısıyla yapıyor. Ortak modüle taşınabilir.
