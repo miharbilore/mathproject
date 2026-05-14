@@ -5,7 +5,8 @@ const {
   parseCurriculum,
   getTestFilePath,
   getJsonDir,
-  validateExistingTestFile
+  validateExistingTestFile,
+  TESTS_PER_SUBTOPIC
 } = require("./lib/shared");
 
 function getPdfPath(unitName, subtopicName, index, baseDir = ".") {
@@ -24,7 +25,7 @@ function run() {
   let expectedJson = 0;
   curriculum.forEach(unit => {
     unit.subtopics.forEach(subtopic => {
-      for (let i = 1; i <= 12; i++) {
+      for (let i = 1; i <= TESTS_PER_SUBTOPIC; i++) {
         expectedJson += 1;
         const jsonPath = getTestFilePath(unit.name, subtopic.name, i);
         const validation = validateExistingTestFile(jsonPath);

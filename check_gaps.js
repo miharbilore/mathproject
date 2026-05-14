@@ -1,5 +1,6 @@
 const fs = require('fs');
 const path = require('path');
+const { TESTS_PER_SUBTOPIC } = require("./lib/shared");
 
 function checkGaps() {
   // Unit klasörlerini hem 'Unit_' hem de '_unit_' (büyük/küçük harf duyarsız) olarak tara
@@ -21,7 +22,7 @@ function checkGaps() {
         count = files.length;
       }
       
-      if (count < 12) {
+      if (count < TESTS_PER_SUBTOPIC) {
         gaps.push({ unit: unitDir, subtopic: sub, count: count });
       } else {
         completed.push({ unit: unitDir, subtopic: sub, count: count });
@@ -43,10 +44,9 @@ function checkGaps() {
   if (gaps.length > 0) {
     console.log('\n--- ❌ GAPS (Pending 12 tests) ---');
     gaps.forEach(g => {
-      console.log(`[${g.count}/12] ${g.unit} -> ${g.subtopic}`);
-    });
-  }
+    console.log(`[${g.count}/${TESTS_PER_SUBTOPIC}] ${g.unit} -> ${g.subtopic}`);
+  });
+}
 }
 
 checkGaps();
-

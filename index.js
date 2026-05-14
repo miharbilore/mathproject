@@ -5,6 +5,7 @@ require("dotenv").config();
 
 const {
   delay,
+  TESTS_PER_SUBTOPIC,
   parseCurriculum,
   getTestMeta,
   sanitizeFolderName,
@@ -196,7 +197,7 @@ async function run() {
       for (const subtopic of unit.subtopics) {
         console.log(`\n🔹 Subtopic: ${subtopic.name}`);
         const existingHashes = collectExistingQuestionHashes(unit.name, subtopic.name);
-        for (let i = 1; i <= 12; i++) {
+        for (let i = 1; i <= TESTS_PER_SUBTOPIC; i++) {
           const generated = await generateTest(unit, subtopic, i, existingHashes);
           if (generated) progress = true;
         }
